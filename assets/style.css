@@ -181,14 +181,12 @@ p {
 figure {
   margin: 2rem 0;
   padding: 0;
-  text-align: center;
 }
 
 figure img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 0 auto;
   border-radius: 2px;
 }
 
@@ -198,7 +196,6 @@ figcaption {
   margin-top: 0.6rem;
   font-style: italic;
   line-height: 1.5;
-  text-align: left;
 }
 
 /* Glossable terms */
