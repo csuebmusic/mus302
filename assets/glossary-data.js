@@ -131,6 +131,112 @@ var GLOSSARY = {
   "dylan-blowing-in-the-wind": {
     label: "\u201cBlowin\u2019 in the Wind\u201d",
     definition: "A 1962 song by Bob Dylan that became one of the most iconic protest songs of the civil rights and anti-war movements. Sam Cooke heard the song in 1963 and was both moved by it and reportedly ashamed that a white singer had written a more direct song about American racism than Cooke himself had. The encounter helped spur Cooke to write \u201cA Change Is Gonna Come.\u201d"
+  },
+
+  /* ============================
+     Vocal and ensemble vocabulary
+     ============================ */
+
+  "baptist": {
+    label: "Baptist",
+    definition: "A major Protestant Christian denomination, with deep roots in African American religious life since the 18th century. Black Baptist churches were central institutions of community organizing and music-making, and produced many of the singers who would shape gospel, soul, and R&B."
+  },
+
+  "tenor": {
+    label: "Tenor voice",
+    definition: "The highest of the standard adult male vocal ranges. A tenor can sing roughly an octave above middle C and remain comfortable. In gospel and soul, tenors often carry the lead melody because their range cuts through an ensemble."
+  },
+
+  "falsetto": {
+    label: "Falsetto",
+    definition: "A vocal technique where a singer produces notes above their normal range using a different mode of vocal cord vibration, creating a lighter, often airy sound. Common in gospel, soul, R&B, and rock. Think of the high notes in a Prince or Marvin Gaye song."
+  },
+
+  "hard-gospel": {
+    label: "Hard gospel",
+    definition: "A style of postwar African American gospel singing characterized by extreme emotional intensity, vocal grit, shouting, and improvisation. It contrasted with the smoother, more harmony-focused jubilee tradition. Hard gospel directly fed into the development of soul music."
+  },
+
+  "jubilee": {
+    label: "Jubilee tradition",
+    definition: "An earlier style of African American gospel singing that emphasized smooth four-part vocal harmony and tightly arranged spirituals. Groups like the Fisk Jubilee Singers helped popularize this style in the late 19th and early 20th centuries. It contrasts with the more emotionally raw \u201chard gospel\u201d that came later."
+  },
+
+  "gospel-circuit": {
+    label: "Gospel circuit",
+    definition: "The network of churches, auditoriums, and theaters where Black gospel groups toured in the mid-20th century, especially through the South and Midwest. A vibrant ecosystem with its own audiences, traveling rules, and economic logic, separate from the mainstream pop touring world."
+  },
+
+  /* ============================
+     Record labels and industry
+     ============================ */
+
+  "specialty-records": {
+    label: "Specialty Records",
+    definition: "An independent Los Angeles record label founded in 1946 by Art Rupe. Specialty was a major force in postwar Black popular music, with a roster that included Little Richard, the Soul Stirrers, and Sam Cooke. The label\u2019s gospel and R&B catalog shaped early rock and roll."
+  },
+
+  "keen-records": {
+    label: "Keen Records",
+    definition: "A small Los Angeles label that signed Sam Cooke in 1957 after he left Specialty. Keen released \u201cYou Send Me\u201d and several other early Cooke pop hits before Cooke moved to RCA Victor in 1960."
+  },
+
+  "pseudonym": {
+    label: "Pseudonym",
+    definition: "A false name used by an artist to release work without attaching their real name to it. Cooke used \u201cDale Cook\u201d for his first secular single because gospel audiences considered crossover to pop a betrayal. Pseudonyms have a long history in popular music, especially when artists work across genres."
+  },
+
+  "top-forty": {
+    label: "Top forty",
+    definition: "Refers to the forty highest-ranking songs on Billboard\u2019s Hot 100 chart in a given week. \u201cHaving a top-forty hit\u201d is a standard measure of mainstream commercial success in the post-1958 era."
+  },
+
+  "segregated-venues": {
+    label: "Segregated venues",
+    definition: "Concert halls, clubs, and auditoriums in the United States that physically separated Black and white audiences, either through ropes down the middle of a room or through entirely separate performances. Segregation in venues was legally mandated in much of the South into the 1960s and culturally enforced elsewhere."
+  },
+
+  "pop-chart": {
+    label: "Billboard pop chart",
+    definition: "Billboard magazine\u2019s ranking of the best-selling singles in the mainstream popular music market. From 1958 onward this has been the Billboard Hot 100. The pop chart was traditionally dominated by white-oriented popular music, while the R&B chart tracked Black popular music separately."
+  },
+
+  /* ============================
+     Civil rights movement
+     ============================ */
+
+  "civil-rights-movement": {
+    label: "Civil rights movement",
+    definition: "The mass political movement led primarily by African Americans, from roughly 1954 to 1968, that sought to dismantle legal segregation, secure voting rights, and end racial discrimination in the United States. Major events included the Montgomery Bus Boycott, the March on Washington, the Selma marches, and the passage of the Civil Rights Act (1964) and Voting Rights Act (1965)."
+  },
+
+  "kkk": {
+    label: "Ku Klux Klan",
+    definition: "A series of white supremacist terrorist organizations in the United States, founded after the Civil War in the 1860s and revived in multiple waves since. The Klan used violence, intimidation, and murder to enforce white supremacy. The 1963 16th Street Baptist Church bombing in Birmingham was one of many Klan attacks during the civil rights era."
+  },
+
+  "protest-song": {
+    label: "Protest song",
+    definition: "A song that addresses social or political injustice and calls for change. Protest songs span many genres: folk (Pete Seeger, Bob Dylan), gospel (\u201cWe Shall Overcome\u201d), soul (\u201cA Change Is Gonna Come\u201d), reggae (Bob Marley), hip hop (Public Enemy, Kendrick Lamar), and many others."
+  },
+
+  "sncc": {
+    label: "Student Nonviolent Coordinating Committee (SNCC)",
+    definition: "A major civil rights organization founded in 1960 by young Black activists, focused on direct action and grassroots organizing in the South. SNCC organized sit-ins, voter registration drives, and Freedom Rides. The Freedom Singers, a SNCC-affiliated quartet, popularized many of the freedom songs of the movement."
+  },
+
+  /* ============================
+     Recording, instrumentation, and reception
+     ============================ */
+
+  "rhythm-section": {
+    label: "Rhythm section",
+    definition: "The instruments in a band that establish the song\u2019s rhythm and harmonic foundation: typically drums, bass, and a chord-playing instrument like piano, guitar, or organ. The rhythm section is what the rest of the band plays over."
+  },
+
+  "national-recording-registry": {
+    label: "National Recording Registry",
+    definition: "A list maintained by the United States Library of Congress of recordings deemed \u201cculturally, historically, or aesthetically significant.\u201d Each year the Librarian of Congress adds new recordings. \u201cA Change Is Gonna Come\u201d was added in 2006."
   }
 
 };
