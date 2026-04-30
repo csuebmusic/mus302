@@ -423,6 +423,16 @@ var GLOSSARY = {
     definition: "Following the 1898 U.S. annexation of the Philippines, hundreds of thousands of Filipinos came to the United States, primarily to the West Coast and Hawai\u2018i. Most were young men working in agriculture, canneries, or domestic service. Anti-miscegenation laws and racially exclusionary social practices meant many could not bring or start families easily. The community was a foundational part of mid-century California life, especially in cities like Stockton, San Francisco, and Los Angeles."
   },
 
+  "tagalog": {
+    label: "Tagalog",
+    definition: "One of the major languages of the Philippines, and the basis for Filipino, the country\u2019s national language. Tagalog is spoken by tens of millions of people in the Philippines and throughout the Filipino diaspora. Many words in Filipino American daily life and food culture are Tagalog in origin."
+  },
+
+  "ampalaya": {
+    label: "Ampalaya",
+    definition: "The Tagalog word for bitter melon (also called bitter gourd), a green ridged vegetable that is a staple of Filipino cooking and traditional medicine. Sugar Pie DeSanto's birth name, Umpeylia, was derived from this word, in honor of her Filipino grandmother."
+  },
+
   /* ============================
      San Francisco history
      ============================ */
