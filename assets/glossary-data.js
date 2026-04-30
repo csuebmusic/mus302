@@ -402,6 +402,112 @@ var GLOSSARY = {
   "improvisation": {
     label: "Improvisation",
     definition: "Music made up in the moment by the performer, rather than following a written-out score. Salsa\u2019s montuno sections are heavily improvised: the sonero invents new lines on the spot in dialogue with the band and audience. Improvisation is central to jazz, blues, salsa, hip hop freestyle, and many other traditions."
+  },
+
+  /* ============================
+     Filipino American history
+     ============================ */
+
+  "philippine-annexation": {
+    label: "U.S. annexation of the Philippines (1898)",
+    definition: "After the Spanish-American War, the United States acquired the Philippines from Spain in 1898 and held the islands as a colonial territory until 1946. The annexation made Filipinos eligible for entry to the United States as \u201cAmerican nationals\u201d (a unique status that allowed entry without immigration restrictions but did not confer citizenship), which shaped the major Filipino migration to the West Coast in the early 20th century."
+  },
+
+  "american-national": {
+    label: "American national",
+    definition: "A specific legal status that applied to people from U.S. territories like the Philippines from 1898 to 1934. American nationals could enter the United States without going through immigration restrictions, but they were not citizens and could not vote. Most Filipino men who came to California in this era arrived under this status, often working as agricultural laborers, sailors, or service workers. The status ended with the 1934 Tydings-McDuffie Act."
+  },
+
+  "filipino-migration": {
+    label: "Filipino migration to the U.S.",
+    definition: "Following the 1898 U.S. annexation of the Philippines, hundreds of thousands of Filipinos came to the United States, primarily to the West Coast and Hawai\u2018i. Most were young men working in agriculture, canneries, or domestic service. Anti-miscegenation laws and racially exclusionary social practices meant many could not bring or start families easily. The community was a foundational part of mid-century California life, especially in cities like Stockton, San Francisco, and Los Angeles."
+  },
+
+  /* ============================
+     San Francisco history
+     ============================ */
+
+  "fillmore-district": {
+    label: "Fillmore District",
+    definition: "A multiethnic neighborhood in central San Francisco, just west of downtown. From the 1940s through the 1960s, the Fillmore was San Francisco\u2019s primary Black cultural center and one of the most important West Coast jazz and R&B scenes. It earned the nickname \u201cHarlem of the West\u201d. The neighborhood was largely destroyed by city redevelopment policies in the 1960s and 1970s, displacing thousands of Black residents."
+  },
+
+  "harlem-of-the-west": {
+    label: "Harlem of the West",
+    definition: "The popular nickname for San Francisco\u2019s Fillmore District at its mid-20th-century peak, when the neighborhood\u2019s two dozen jazz clubs and Black-owned businesses drew comparisons to Harlem in New York. Billie Holiday, Charlie Parker, Dizzy Gillespie, John Coltrane, and many others played the Fillmore. The neighborhood\u2019s decline reflected both the broader story of postwar American urban renewal and the specific politics of Black displacement in San Francisco."
+  },
+
+  "executive-order-9066": {
+    label: "Executive Order 9066",
+    definition: "The order signed by President Franklin Roosevelt on February 19, 1942, authorizing the forced removal and incarceration of approximately 120,000 people of Japanese descent (most of them U.S. citizens) from the West Coast during World War II. The Japanese American residents of San Francisco\u2019s Fillmore District were forcibly relocated. Their homes and businesses were quickly occupied by African Americans arriving for defense industry work, transforming the neighborhood\u2019s demographic composition."
+  },
+
+  "urban-renewal": {
+    label: "Urban renewal",
+    definition: "The post-World War II federal and municipal policy of demolishing and rebuilding city neighborhoods, often labeled as \u201cslum clearance.\u201d In practice, urban renewal disproportionately targeted Black neighborhoods, displacing residents and destroying community institutions. James Baldwin called it \u201cNegro removal.\u201d The Fillmore District was largely destroyed by urban renewal beginning in the 1960s."
+  },
+
+  "shipyards": {
+    label: "West Coast shipyards",
+    definition: "During World War II, U.S. shipyards on the West Coast (especially in the Bay Area, Los Angeles, and Portland) employed hundreds of thousands of workers building Liberty Ships and other vessels for the war effort. The labor demand drew massive Black migration from the South, transforming cities like Oakland, Richmond, and San Francisco. This wartime migration is sometimes called the second Great Migration."
+  },
+
+  /* ============================
+     Chess Records and the R&B industry
+     ============================ */
+
+  "chess-records": {
+    label: "Chess Records",
+    definition: "An independent Chicago record label founded in 1950 by Polish-Jewish immigrant brothers Leonard and Phil Chess. Chess was the most important Black music label of the postwar era, with a roster including Muddy Waters, Howlin\u2019 Wolf, Chuck Berry, Bo Diddley, Etta James, Little Walter, Buddy Guy, and Sugar Pie DeSanto. The label\u2019s blues, R&B, and rock and roll catalog shaped global popular music."
+  },
+
+  "checker-records": {
+    label: "Checker Records",
+    definition: "A subsidiary of Chess Records, founded in 1952. Many of Chess\u2019s biggest hits came out on the Checker imprint, including singles by Bo Diddley, Little Walter, and Sugar Pie DeSanto. \u201cI Don\u2019t Wanna Fuss\u201d was released on Checker."
+  },
+
+  "answer-song": {
+    label: "Answer song",
+    definition: "A song that responds to or comments on another popular song, often from a different perspective (frequently the perspective of the gendered other in the original). DeSanto\u2019s \u201cSlip-In Mules (No High Heel Sneakers)\u201d was an answer to Tommy Tucker\u2019s 1964 hit \u201cHi-Heel Sneakers.\u201d The answer song tradition was a notable feature of mid-20th-century R&B."
+  },
+
+  "northern-soul": {
+    label: "Northern Soul",
+    definition: "A British working-class subculture that emerged in the late 1960s in the cities of northern England, centered on collecting and dancing to obscure American R&B and soul records of the early-to-mid 1960s. Northern Soul DJs prized records that had not been mainstream U.S. hits, like Sugar Pie DeSanto\u2019s. The scene revived the careers of many under-recognized American artists."
+  },
+
+  "ready-steady-go": {
+    label: "Ready Steady Go!",
+    definition: "A British music television show that ran from 1963 to 1966, broadcasting live performances by major British and American pop and R&B artists. The show was central to the British Invasion era and to Britain\u2019s discovery of American R&B. Sugar Pie DeSanto performed \u201cI Don\u2019t Wanna Fuss\u201d on the show in 1964."
+  },
+
+  "american-folk-blues-festival": {
+    label: "American Folk Blues Festival",
+    definition: "A series of touring concerts that brought American blues and R&B musicians to European audiences from 1962 through the 1970s, organized by German promoters Horst Lippmann and Fritz Rau. The tours were instrumental in establishing serious European audiences for American Black music. DeSanto toured with the festival in 1964, alongside Howlin\u2019 Wolf, Sonny Boy Williamson, and Lightnin\u2019 Hopkins."
+  },
+
+  "staff-songwriter": {
+    label: "Staff songwriter",
+    definition: "A songwriter employed by a publishing company or record label to write songs for other artists on the company\u2019s roster, typically working in shared writer rooms (the most famous example being Motown\u2019s Holland-Dozier-Holland team). DeSanto became a staff songwriter at Chess in the mid-1960s, writing songs for Fontella Bass, Billy Stewart, Minnie Riperton, and others, an unusual role for a woman in that era."
+  },
+
+  "novelty-act": {
+    label: "Novelty act",
+    definition: "A music industry category for performers whose appeal was treated as based on something unusual or eye-catching about their presentation rather than the seriousness of their music. The label was often used to dismiss women, performers of mixed racial heritage, or artists with theatrical stage presences. \u201cNovelty\u201d framing kept many artists out of the institutional recognition (Hall of Fame inductions, prestige reissues) that their actual musical contributions warranted."
+  },
+
+  /* ============================
+     R&B and soul vocabulary
+     ============================ */
+
+  "house-band": {
+    label: "House band",
+    definition: "A group of session musicians employed by a record label or studio to play on most of the label\u2019s recordings. Famous house bands include the Funk Brothers (Motown), Booker T. and the M.G.s (Stax), the Wrecking Crew (Los Angeles), and the Chess house band that played behind Sugar Pie DeSanto, Etta James, and Muddy Waters."
+  },
+
+  "session-musician": {
+    label: "Session musician",
+    definition: "A professional musician hired to play on a specific recording session, typically working across many different artists\u2019 records. Session musicians are usually not credited on the album cover but are essential to the actual sound of the record. Maurice White, who later co-founded Earth, Wind &amp; Fire, was a Chess session drummer."
   }
 
 };
