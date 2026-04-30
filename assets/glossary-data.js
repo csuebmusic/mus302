@@ -683,6 +683,40 @@ var GLOSSARY = {
   "chess-house-band": {
     label: "Chess house band",
     definition: "The studio musicians employed by Chess Records in Chicago in the 1960s to play on most of the label\u2019s recordings. The band included future Earth, Wind &amp; Fire members Maurice White (drums), Louis Satterfield (trombone), Charles Handy (trumpet), and Don Myrick (alto saxophone), all jazz musicians who originally played as the Jazzmen and the Pharaohs in Chicago. Their jazz training shaped the harmonic sophistication of even the simplest Chess R&amp;B records."
+  },
+
+  /* ============================
+     Country and folk form vocabulary
+     ============================ */
+
+  "simple-verse-form": {
+    label: "Simple verse form",
+    definition: "A song structure with only one repeating musical idea: a single verse, repeated multiple times with different lyrics each time. Also called strophic form. There is no chorus, no bridge, no contrasting section. The form is common in folk ballads, hymns, and country music, and was the dominant popular song form before verse-chorus structures took over in the mid-20th century. Hank Williams\u2019s \u201cI\u2019m So Lonesome I Could Cry\u201d is in simple verse form."
+  },
+
+  "strophic-form": {
+    label: "Strophic form",
+    definition: "Another name for simple verse form: a song with one repeating musical idea (called a \u201cstrophe\u201d) used for each verse with different lyrics. The term comes from the Greek \u201cstrophe,\u201d meaning a turn or stanza. Most folk ballads, most hymns, and many older popular songs use strophic form."
+  },
+
+  "instrumental-verse": {
+    label: "Instrumental verse",
+    definition: "A repetition of the song\u2019s verse structure played by an instrument instead of being sung. In country music, the instrumental verse is often played by the steel guitar or the fiddle, paraphrasing the melody the singer would otherwise have sung. In \u201cI\u2019m So Lonesome I Could Cry,\u201d two of the verses are played as instrumentals on guitar."
+  },
+
+  "yodeling": {
+    label: "Yodeling",
+    definition: "A vocal technique of rapidly switching between chest voice (the lower, fuller register most people speak in) and head voice or falsetto (the lighter, higher register), producing a distinctive break in the sound. Originally a feature of Alpine folk music in central Europe, yodeling came to American popular music through Jimmie Rodgers in the 1920s and became a defining technique of country music. Hank Williams\u2019s catch on words like \u201ccry\u201d uses a brief, partial yodel."
+  },
+
+  "i-iv-v": {
+    label: "I-IV-V progression",
+    definition: "The most common chord progression in Western popular music, using the chords built on the first (tonic), fourth (subdominant), and fifth (dominant) notes of the scale. In the key of E major, the I-IV-V chords are E, A, and B. Most blues, much country, much folk, and much early rock and roll use the I-IV-V as the harmonic foundation. \u201cI\u2019m So Lonesome I Could Cry\u201d uses just these three chords."
+  },
+
+  "waltz": {
+    label: "Waltz",
+    definition: "A dance and musical form in 3/4 meter, with three beats per measure and a strong emphasis on beat one (ONE-two-three, ONE-two-three). The waltz originated in 18th-century European folk music and became the dominant ballroom dance of the 19th century. In country music, the slow waltz tempo is associated with sentimental ballads. Hank Williams\u2019s \u201cI\u2019m So Lonesome I Could Cry\u201d is a slow waltz."
   }
 ,
 
