@@ -404,6 +404,16 @@ var GLOSSARY = {
     definition: "Music made up in the moment by the performer, rather than following a written-out score. Salsa\u2019s montuno sections are heavily improvised: the sonero invents new lines on the spot in dialogue with the band and audience. Improvisation is central to jazz, blues, salsa, hip hop freestyle, and many other traditions."
   },
 
+  "aretha-franklin": {
+    label: "Aretha Franklin (1942\u20132018)",
+    definition: "American singer, pianist, and songwriter widely regarded as the greatest soul singer of her generation. Born in Memphis and raised in Detroit, she came up through her father\u2019s church and recorded gospel as a teenager before crossing over to secular music. Her late-1960s run on Atlantic Records (\u201cRespect,\u201d \u201cChain of Fools,\u201d \u201c(You Make Me Feel Like) A Natural Woman\u201d) defined a vocal style that brought gospel intensity into pop and R&B, and she became a central artistic voice of the civil rights and Black feminist movements."
+  },
+
+  "bob-dylan": {
+    label: "Bob Dylan (b. 1941)",
+    definition: "American singer-songwriter who became central to the early-1960s folk revival and to the political music of the civil rights and antiwar movements. \u201cBlowin\u2019 in the Wind\u201d (1963) and \u201cThe Times They Are a-Changin\u2019\u201d (1964) became anthems of the era. Dylan later moved through folk-rock, country, gospel, and other styles. Sam Cooke heard \u201cBlowin\u2019 in the Wind\u201d in 1963 and was both moved by it and ashamed that he, as a Black artist, had not yet written something so direct about American racism. Cooke began performing the song in his own sets and started writing what would become \u201cA Change Is Gonna Come.\u201d"
+  },
+
   /* ============================
      Filipino American history
      ============================ */

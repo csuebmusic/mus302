@@ -265,6 +265,33 @@ figcaption {
   margin-bottom: 0;
 }
 
+/* Worked example (used in the methodology reading) */
+.worked-example {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  background-color: #f4f0ea;
+  border-left: 3px solid var(--color-accent);
+  border-radius: 0 4px 4px 0;
+}
+
+.worked-example p:last-child {
+  margin-bottom: 0;
+}
+
+.worked-example .label {
+  font-weight: 600;
+  color: var(--color-accent);
+  letter-spacing: 0.02em;
+}
+
+/* Inline diagrams (SVG figures) */
+figure svg.diagram {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
 /* Sources list at end */
 .sources {
   margin-top: 4rem;
