@@ -815,6 +815,187 @@ var GLOSSARY = {
   "session-musician": {
     label: "Session musician",
     definition: "A professional musician hired to play on a specific recording session, typically working across many different artists\u2019 records. Session musicians are usually not credited on the album cover but are essential to the actual sound of the record. Maurice White, who later co-founded Earth, Wind &amp; Fire, was a Chess session drummer."
+  },
+
+  /* ============================
+     Framing reading: history and concepts
+     ============================ */
+
+  "middle-passage": {
+    label: "Middle Passage",
+    definition: "The forced sea voyage that brought enslaved Africans to the Americas as part of the transatlantic slave trade, from the sixteenth through the nineteenth centuries. The crossing took roughly six to eight weeks, and the death rate was catastrophic. The Middle Passage is the founding violence behind the African presence in the Americas, including the African American foundational musical traditions this course studies."
+  },
+
+  "redlining": {
+    label: "Redlining",
+    definition: "The 20th-century U.S. practice in which banks, insurance companies, and the federal government refused mortgages and other financial services to Black neighborhoods, marking them on maps in red as too risky to lend to. Redlining created and entrenched residential segregation in American cities and is one of the major reasons for the Black-white wealth gap that persists today. It also concentrated Black musical communities in particular neighborhoods, which shaped where the music came from."
+  },
+
+  "scots-irish": {
+    label: "Scots-Irish",
+    definition: "Protestants from the Scottish Lowlands and Northern Ireland who migrated to North America beginning in the eighteenth century and largely settled in the Appalachian Mountains. They brought with them a tradition of unaccompanied ballad singing and fiddle playing that, in dialogue with Black musical practice in the same region, became one of the roots of country music."
+  },
+
+  "aids-crisis": {
+    label: "AIDS crisis",
+    definition: "The emergence of HIV/AIDS as an epidemic in the United States starting in 1981, which devastated communities of gay men, IV drug users, and people of color through the 1980s and 1990s. Federal inaction and social stigma made the crisis worse. The disease killed many of the artists and audiences who had built the disco era and the early 1980s dance music scene, including Sylvester, Patrick Cowley, and many others."
+  },
+
+  "intersectionality": {
+    label: "Intersectionality",
+    definition: "A framework, named by legal scholar Kimberl\u00e9 Crenshaw in 1989, for thinking about how multiple social identities (race, gender, class, sexuality, immigration status, ability, and others) overlap and combine in any one person\u2019s life. The point of the framework is that you cannot understand a Black woman\u2019s experience by looking at race and gender separately; they are interlocking. Intersectionality is now standard vocabulary across the humanities and social sciences."
+  },
+
+  /* ============================
+     Framing reading: genres
+     ============================ */
+
+  "blues": {
+    label: "Blues",
+    definition: "An African American musical tradition that emerged in the late nineteenth and early twentieth century in the rural South, with roots in West African musical practice, work songs, and spirituals. The blues uses specific harmonic structures (most famously the 12-bar blues) and a vocal style built around bent notes, slides, and improvised lyrics about everyday life and hardship. The blues is foundational to nearly all American popular music that came after it: jazz, R&B, rock and roll, country, soul, and hip hop all draw on blues vocabulary."
+  },
+
+  "country-music": {
+    label: "Country music",
+    definition: "An American popular music tradition rooted largely in the Scots-Irish ballad tradition of the Appalachian Mountains, in dialogue with Black musical practice in the same region. Country music as a commercial genre emerged in the 1920s with figures like the Carter Family and Jimmie Rodgers, became central to the Nashville recording industry by the 1950s, and continues to evolve through subgenres including honky-tonk, bluegrass, outlaw country, and contemporary country pop."
+  },
+
+  "hip-hop": {
+    label: "Hip hop",
+    definition: "A musical and cultural movement that emerged in the 1970s in the South Bronx of New York, created primarily by Black, Puerto Rican, and Caribbean American young people. Hip hop centers four traditional elements: DJing, MCing (rapping), graffiti, and breakdancing. As a musical form, it is built on rhythm, sampling, and spoken-word vocal performance, and it has become the dominant popular music of the twenty-first century globally."
+  },
+
+  "punk": {
+    label: "Punk",
+    definition: "A musical and cultural movement that emerged in the mid-1970s in New York and London, characterized by short, fast, aggressive songs and a do-it-yourself ethos opposed to mainstream commercial music. Often associated with white working-class scenes, punk had Black originators (the band Death formed in Detroit in 1971; Pure Hell in Philadelphia around the same time) whose work was largely written out of the standard punk history."
+  },
+
+  "doo-wop": {
+    label: "Doo-wop",
+    definition: "A vocal harmony style that emerged in African American and Italian American urban neighborhoods in the late 1940s and 1950s, often sung by groups on street corners with no instruments. The name comes from nonsense syllables (\u201cdoo wop, doo wop\u201d) used as backing vocals. Doo-wop was a major source of early rock and roll and shaped the sound of pop singing across the 1950s and 1960s."
+  },
+
+  "mambo": {
+    label: "Mambo",
+    definition: "A Cuban dance music style that developed in the 1940s, combining Cuban son and danz\u00f3n with the harmonic and arranging vocabulary of American big-band jazz. The mambo era of postwar New York, centered on the Palladium Ballroom, brought together Cuban, Puerto Rican, and African American musicians and audiences and laid the groundwork for what would later become salsa."
+  },
+
+  "boogaloo": {
+    label: "Latin boogaloo",
+    definition: "A short-lived but influential New York musical style of the mid-to-late 1960s, made primarily by young Puerto Rican and African American musicians, that combined Latin rhythms with R&B, soul, and English-language vocals. Joe Bataan and Pete Rodriguez are central figures. Boogaloo was a self-consciously bicultural music: it sounded like the actual neighborhoods that made it."
+  },
+
+  "latin-soul": {
+    label: "Latin soul",
+    definition: "An umbrella term for music made in 1960s New York that combined Latin rhythms with African American soul and R&B vocal styles, sung primarily in English. Latin soul overlaps with boogaloo and is closely associated with figures like Joe Bataan, who recorded for Fania Records and was hailed as the \u201cKing of Latin Soul.\u201d"
+  },
+
+  "tejano": {
+    label: "Tejano music",
+    definition: "Mexican American music developed along the Texas-Mexico border, with roots reaching back to the nineteenth century and a commercial peak in the 1980s and 1990s. Tejano combines accordion-based traditions (conjunto), polka, country, pop, and regional Mexican styles. Selena Quintanilla brought Tejano to mainstream American pop audiences before her death in 1995."
+  },
+
+  "reggaeton": {
+    label: "Reggaeton",
+    definition: "A Spanish-language popular music style that developed in Panama and Puerto Rico in the 1990s, drawing on Jamaican dancehall, hip hop, and Latin musical traditions. Reggaeton is built on a specific drum pattern called \u201cdembow,\u201d adapted from a Jamaican dancehall riddim of the same name. By the 2010s, reggaeton had become globally dominant, with artists like Daddy Yankee, Bad Bunny, and Karol G."
+  },
+
+  "latin-trap": {
+    label: "Latin trap",
+    definition: "A contemporary Spanish-language popular music style that emerged in the 2010s, applying the production aesthetic of Atlanta trap (heavy 808 bass, hi-hat rolls, dark synths) to Latin American themes and Spanish lyrics. Closely connected to reggaeton, with major figures including Bad Bunny, Anuel AA, and Ozuna. Latin trap is one of the most-streamed genres globally in the 2020s."
+  },
+
+  "dancehall": {
+    label: "Dancehall",
+    definition: "A Jamaican popular music style that emerged in the late 1970s and 1980s, growing out of reggae but with sparser, more drum-and-bass-driven production and a vocal style closer to rapping than singing. Dancehall is one of the direct sources of reggaeton, and its rhythms and vocal techniques have shaped hip hop and global pop."
+  },
+
+  "k-pop": {
+    label: "K-pop",
+    definition: "A category of South Korean popular music that became globally influential in the 2010s. K-pop typically combines highly produced pop, hip hop, and electronic dance vocabulary with elaborate choreography, strong visual identities, and tightly managed group structures (often called \u201cidol groups\u201d). Major figures include BTS, BLACKPINK, and many others. K-pop\u2019s relationship to Asian American identity is complicated: it is not made by Asian Americans, but Asian American audiences have been central to its U.S. success."
+  },
+
+  "turntablism": {
+    label: "Turntablism",
+    definition: "The art of using two or more turntables and a mixer as a musical instrument, manipulating records through scratching, beat juggling, and other techniques. Turntablism grew out of hip hop DJing in the 1970s and developed into its own performance tradition in the 1980s and 1990s, with Filipino American DJs in the San Francisco Bay Area, including the Invisibl Skratch Piklz, becoming central to the form globally."
+  },
+
+  /* ============================
+     Framing reading: institutions and projects
+     ============================ */
+
+  "brill-building": {
+    label: "Brill Building",
+    definition: "An office building at 1619 Broadway in midtown Manhattan that became a center of professional songwriting in the late 1950s and early 1960s. \u201cBrill Building\u201d is shorthand for a system in which staff songwriters, many of them Jewish American (Carole King, Gerry Goffin, Burt Bacharach, Jerry Leiber and Mike Stoller, others), wrote songs to be recorded by other artists. Many hits of the era for the Drifters, the Ronettes, Aretha Franklin, and others came out of this system."
+  },
+
+  "eighty-eight-rising": {
+    label: "88rising",
+    definition: "An American media and music company founded in 2015 by Sean Miyashiro, focused on platforming Asian and Asian American artists in the global music market. 88rising operates as a record label, management company, and festival producer (Head in the Clouds), and has been central to a wave of Asian and Asian American artists reaching global audiences in the late 2010s and 2020s, including Rich Brian, NIKI, and Joji."
+  },
+
+  "invisibl-skratch-piklz": {
+    label: "Invisibl Skratch Piklz",
+    definition: "A San Francisco-based DJ crew formed in the early 1990s, made up of mostly Filipino American DJs including Q-Bert, Mix Master Mike, and DJ Apollo. The Piklz were foundational to the development of turntablism as an art form, and to Bay Area hip hop more broadly. Their technique-driven approach to DJing influenced a global generation of turntablists."
+  },
+
+  "halluci-nation": {
+    label: "The Halluci Nation",
+    definition: "An Indigenous electronic music group based in Ottawa, Canada, formed in 2007 as A Tribe Called Red and renamed The Halluci Nation in 2021. Currently a duo (Bear Witness and 2oolman), the group combines powwow drumming, vocals, and dance music genres including dubstep and hip hop, while engaging directly with Indigenous activism and the Idle No More movement."
+  },
+
+  "cowboy-carter": {
+    label: "Cowboy Carter",
+    definition: "Beyonc\u00e9\u2019s 2024 country album, which engages directly with the systematic erasure of Black contributions from country music. The album includes collaborations with Black country artists across generations (Linda Martell, Willie Jones, Tanner Adell, Brittney Spencer, Tiera Kennedy, Reyna Roberts) alongside Willie Nelson and Dolly Parton, and was both a commercial success and a public reckoning with country music\u2019s racial history."
+  },
+
+  /* ============================
+     Framing reading: artists
+     ============================ */
+
+  "joe-bataan": {
+    label: "Joe Bataan (b. 1942)",
+    definition: "Singer, pianist, and bandleader of Filipino and African American heritage, raised in Spanish Harlem and central to the Latin boogaloo and Latin soul scenes of 1960s and 1970s New York. Hailed as the \u201cKing of Latin Soul,\u201d Bataan recorded for Fania Records and later coined the term \u201csalsoul\u201d for his fusion of salsa, soul, and funk."
+  },
+
+  "deford-bailey": {
+    label: "DeFord Bailey (1899\u20131982)",
+    definition: "African American harmonica player who was one of the original stars of the Grand Ole Opry, joining the radio show in 1927. Bailey was the first Black performer on the Opry and one of its most popular early artists. He was abruptly fired in 1941, an act widely understood as racially motivated, and his contributions to country music were largely written out of the standard history until recent reckoning."
+  },
+
+  "charley-pride": {
+    label: "Charley Pride (1934\u20132020)",
+    definition: "African American country singer who became one of country music\u2019s biggest stars of the late 1960s and 1970s, with twenty-nine number-one country hits. Pride\u2019s success in a genre that was overwhelmingly marketed as white was a significant break in the industry\u2019s racial framing, though it did not lead to broad change. He was inducted into the Country Music Hall of Fame in 2000."
+  },
+
+  "rhiannon-giddens": {
+    label: "Rhiannon Giddens (b. 1977)",
+    definition: "African American banjoist, fiddler, and singer who has been central to the contemporary reckoning with country and folk music\u2019s Black roots. A founding member of the Carolina Chocolate Drops, she has won a MacArthur Fellowship, two Grammys, and a Pulitzer Prize for music. Her scholarship and performance practice have helped restore figures like Black banjo players who were systematically erased from the genre\u2019s standard history."
+  },
+
+  "jim-pepper": {
+    label: "Jim Pepper (1941\u20131992)",
+    definition: "American jazz saxophonist of Kaw and Muscogee heritage, born in Salem, Oregon. A pioneer of jazz-rock fusion in the late 1960s, Pepper combined elements of Native American music with jazz throughout his career. His 1969 recording \u201cWitchi Tai To,\u201d adapted from a peyote song he had learned from his grandfather, reached the Billboard Hot 100 and remains one of the most recorded compositions to draw on Native American musical traditions."
+  },
+
+  "frank-ocean": {
+    label: "Frank Ocean (b. 1987)",
+    definition: "American singer-songwriter and producer, originally part of the hip hop collective Odd Future, whose albums Channel Orange (2012) and Blonde (2016) have been widely influential in contemporary R&B and pop. In 2012, Ocean publicly disclosed that his first love had been a man, a moment widely seen as a watershed for openness about queer identity in hip hop and R&B."
+  },
+
+  "mitski": {
+    label: "Mitski (b. 1990)",
+    definition: "American singer-songwriter, born in Japan to a Japanese mother and an American father, whose work in indie rock and art-pop became widely influential in the late 2010s and 2020s. Albums including Puberty 2 (2016), Be the Cowboy (2018), and The Land Is Inhospitable and So Are We (2023) have shaped contemporary indie rock. Mitski has expressed ambivalence about labels like \u201cAsian American\u201d and describes herself as \u201chalf Japanese, half American but not fully either.\u201d"
+  },
+
+  "h-e-r": {
+    label: "H.E.R. (b. 1997)",
+    definition: "Stage name of Gabriella Sarmiento Wilson, an American R&B singer-songwriter and multi-instrumentalist of Filipino and African American heritage, raised in Vallejo, California. She has won five Grammy Awards and an Academy Award (for \u201cFight for You,\u201d from the 2021 film Judas and the Black Messiah). Her 2020 song \u201cI Can\u2019t Breathe\u201d was a direct response to police violence against Black Americans and won the Grammy for Song of the Year."
+  },
+
+  "selena": {
+    label: "Selena Quintanilla (1971\u20131995)",
+    definition: "Mexican American singer who became the most popular Tejano artist of the early 1990s and a major crossover figure in Latin music. Born and raised in Texas, she fronted Selena y Los Dinos and built an audience that crossed Tejano, regional Mexican, and English-language pop. She was murdered by the president of her fan club in 1995, just before the release of her first English-language album. Her cultural footprint has only grown in the decades since."
   }
 
 };
