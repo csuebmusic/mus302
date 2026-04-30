@@ -644,6 +644,45 @@ var GLOSSARY = {
   "three-two-clave": {
     label: "3-2 son clave",
     definition: "The most common form of son clave: a two-bar pattern with three accented beats in the first bar and two accented beats in the second bar. The asymmetry creates rhythmic tension and release. The same pattern is the basis of Bo Diddley\u2019s rock-and-roll beat. Most classic salsa is in either 3-2 or 2-3 son clave."
+  },
+
+  /* ============================
+     Blues and R&B form vocabulary
+     ============================ */
+
+  "twelve-bar-blues": {
+    label: "12-bar blues",
+    definition: "One of the most influential musical forms in American history. Each \u201cverse\u201d is twelve measures (units of four beats each) long, organized into three four-measure phrases. The chords follow a specific pattern based on the I, IV, and V chords of the home key. The whole 12-bar pattern then repeats throughout the song. Once you can hear it, you can hear it in thousands of songs: most blues, much early rock and roll, much country, much jazz, much R&amp;B."
+  },
+
+  "measure": {
+    label: "Measure (or bar)",
+    definition: "The basic unit of time in written music: a group of beats that recurs throughout a song. In 4/4 time, each measure has four beats. \u201cBar\u201d and \u201cmeasure\u201d mean the same thing and are often used interchangeably. Most popular songs are organized in groups of 4, 8, 12, or 16 measures."
+  },
+
+  "tonic": {
+    label: "Tonic (the I chord)",
+    definition: "The home chord of a song's key: the chord built on the first note of the scale. The tonic is where the song feels most resolved and at rest. In the key of C major, the tonic is C. In the key of E minor, the tonic is E minor. Songs typically begin and end on the tonic."
+  },
+
+  "subdominant": {
+    label: "Subdominant (the IV chord)",
+    definition: "The chord built on the fourth note of the scale, four scale steps above the tonic. In the key of C, the IV chord is F. In a 12-bar blues, the move from the tonic (I) to the subdominant (IV) in measure 5 is the first major harmonic shift, and the listener feels it as the song moving away from home before returning."
+  },
+
+  "dominant": {
+    label: "Dominant (the V chord)",
+    definition: "The chord built on the fifth note of the scale, five scale steps above the tonic. In the key of C, the V chord is G. The dominant has the strongest pull back to the tonic of any chord in the key, so it is often used at the end of phrases to set up the return home. In a 12-bar blues, the V chord typically appears in measure 9 and creates the climax of the 12-bar cycle."
+  },
+
+  "horn-stabs": {
+    label: "Horn stabs",
+    definition: "Short, punchy figures played by the horn section in R&amp;B, soul, and funk arrangements, typically inserted between vocal phrases. The horns \u201cstab\u201d in for one or two beats, then drop out, leaving the singer foregrounded. Horn stabs were a defining feature of the Chess Records sound in the 1960s and of Stax, Motown, and other R&amp;B production styles."
+  },
+
+  "chess-house-band": {
+    label: "Chess house band",
+    definition: "The studio musicians employed by Chess Records in Chicago in the 1960s to play on most of the label\u2019s recordings. The band included future Earth, Wind &amp; Fire members Maurice White (drums), Louis Satterfield (trombone), Charles Handy (trumpet), and Don Myrick (alto saxophone), all jazz musicians who originally played as the Jazzmen and the Pharaohs in Chicago. Their jazz training shaped the harmonic sophistication of even the simplest Chess R&amp;B records."
   }
 ,
 
