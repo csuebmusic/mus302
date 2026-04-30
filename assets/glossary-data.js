@@ -434,6 +434,100 @@ var GLOSSARY = {
   },
 
   /* ============================
+     Country music vocabulary
+     ============================ */
+
+  "country-music": {
+    label: "Country music",
+    definition: "An American popular music genre rooted in the folk traditions of the rural South, particularly Anglo-Celtic ballads brought by Scotch-Irish immigrants and African American blues. The genre took commercial form in the 1920s, was originally marketed by record labels as \u201chillbilly\u201d music, and was rebranded as \u201ccountry and western\u201d in the late 1940s. Hank Williams is widely considered country music\u2019s first superstar."
+  },
+
+  "hillbilly": {
+    label: "Hillbilly music",
+    definition: "An older marketing term used by record labels from the 1920s through the 1940s for the rural Southern white music that would later be rebranded as country music. The term is now generally considered derogatory, but it was used neutrally and even proudly within the industry of the time. Hank Williams was sometimes called the \u201cHillbilly Shakespeare.\u201d"
+  },
+
+  "anglo-celtic": {
+    label: "Anglo-Celtic ballad tradition",
+    definition: "The folk song tradition brought to the American South by Scotch-Irish, English, and Welsh immigrants beginning in the 18th century. These ballads, often telling stories about love, loss, and death using vivid natural imagery, settled deepest in Appalachia and the rural South, where they shaped the songwriting style that would become country music. The lyrical structure of \u201cI\u2019m So Lonesome I Could Cry\u201d draws from this tradition."
+  },
+
+  "steel-guitar": {
+    label: "Steel guitar",
+    definition: "A guitar played horizontally, with the strings raised above the body, played with a metal slide that lets the player smoothly glide between pitches. Two main types: lap steel (held in the lap) and pedal steel (mounted on a stand, with foot pedals to change tunings). The crying, sliding quality of the steel guitar is one of the most recognizable sounds in country music. Jerry Byrd played the steel guitar part on \u201cI\u2019m So Lonesome I Could Cry.\u201d"
+  },
+
+  "fiddle": {
+    label: "Fiddle",
+    definition: "A violin played in folk, country, bluegrass, or Celtic styles, often with a more rhythmic and percussive technique than classical violin playing. The fiddle is a defining instrument of country music. Tommy Jackson played the fiddle part on \u201cI\u2019m So Lonesome I Could Cry.\u201d"
+  },
+
+  "grand-ole-opry": {
+    label: "Grand Ole Opry",
+    definition: "A weekly country music radio program broadcast from Nashville since 1925, the longest-running broadcast in American history. The Opry became country music\u2019s most important institution and a star-making venue. Membership in the Opry was treated as the highest honor in country music. Hank Williams joined in 1949 after the success of \u201cLovesick Blues,\u201d and was fired in August 1952 for habitual drunkenness."
+  },
+
+  "drifting-cowboys": {
+    label: "The Drifting Cowboys",
+    definition: "Hank Williams\u2019s touring band, formed in 1938 and continuing in various lineups throughout his career. The most famous edition (1949 onward) included Bob McNett, Hillous Butrum, Jerry Rivers, and Don Helms. The Drifting Cowboys did not, however, play on \u201cI\u2019m So Lonesome I Could Cry,\u201d which was recorded with a different group of session musicians in Cincinnati."
+  },
+
+  "luke-the-drifter": {
+    label: "Luke the Drifter",
+    definition: "A pseudonym Hank Williams used for a series of recordings of recitations and moralistic spoken-word songs, often with religious themes. Williams\u2019s label MGM thought these would not appeal to honky-tonk audiences and so released them under the alter ego. \u201cI\u2019m So Lonesome I Could Cry\u201d was originally written as a Luke the Drifter spoken-word piece before friends convinced Williams to sing it instead."
+  },
+
+  "honky-tonk": {
+    label: "Honky-tonk",
+    definition: "A style of country music developed in the 1940s and 1950s for small Southern bars (also called honky-tonks), characterized by uptempo dance rhythms, prominent steel guitar and fiddle, and lyrics about drinking, heartbreak, and working-class life. Williams was a master of the form, even as \u201cI\u2019m So Lonesome I Could Cry\u201d slows the honky-tonk tradition down to a near-stop."
+  },
+
+  "rufus-payne": {
+    label: "Rufus \u201cTee Tot\u201d Payne",
+    definition: "An African American street musician (1884\u20131939) who taught Hank Williams blues, guitar, and singing during Williams\u2019s childhood in Alabama. Born on the Payne Plantation in Sandy Ridge, Lowndes County, Alabama, raised in New Orleans, returned to Alabama in 1915. Met Williams in Georgiana around 1933. Williams\u2019s mother fed Payne in exchange for the lessons. They sat under the front porch of the Williams house, out of sight, to avoid social trouble across the color line. Williams said in 1951 that Payne gave him \u201call the music training I ever had.\u201d"
+  },
+
+  "spina-bifida": {
+    label: "Spina bifida occulta",
+    definition: "A congenital spinal condition in which one or more vertebrae fail to fully close around the spinal cord during fetal development. The \u201cocculta\u201d (hidden) form is often mild and asymptomatic, but it caused Hank Williams chronic back pain throughout his life. The pain led to dependence on alcohol and morphine, which contributed to his death at 29."
+  },
+
+  "mgm-records": {
+    label: "MGM Records",
+    definition: "An American record label, founded in 1946 as a subsidiary of the film studio Metro-Goldwyn-Mayer. Hank Williams signed with MGM in 1947 and recorded all of his major hits for the label, including \u201cI\u2019m So Lonesome I Could Cry.\u201d"
+  },
+
+  "acuff-rose": {
+    label: "Acuff-Rose",
+    definition: "A Nashville music publishing company founded in 1942 by Roy Acuff and Fred Rose. Acuff-Rose published Hank Williams\u2019s songs and largely shaped his career; Fred Rose was Williams\u2019s producer and effective business manager. The company\u2019s catalog became one of the most valuable in country music."
+  },
+
+  "jukebox": {
+    label: "Jukebox",
+    definition: "A coin-operated automatic record player, typically installed in bars, diners, and roadhouses, where customers could pay to play specific songs. Jukeboxes were a major commercial venue for popular music in the 1940s and 1950s. \u201cI\u2019m So Lonesome I Could Cry\u201d was relegated to the B-side of \u201cMy Bucket\u2019s Got a Hole in It\u201d in part because uptempo songs were preferred for jukebox play."
+  },
+
+  "race-records": {
+    label: "Race records",
+    definition: "A music industry marketing category from roughly 1920 to 1949, denoting recordings made by African American artists for African American audiences. Distinct from \u201chillbilly\u201d records (rural white music). The categories were rigid commercially even as the actual musical traditions overlapped considerably across racial lines. The term was replaced in 1949 by \u201crhythm and blues.\u201d"
+  },
+
+  "country-music-hall-of-fame": {
+    label: "Country Music Hall of Fame",
+    definition: "An institution in Nashville, Tennessee, that honors country music\u2019s most significant artists, songwriters, executives, and other contributors. Inductees are elected annually by a panel of country music professionals. Hank Williams was one of three artists in the inaugural class of 1961, alongside Jimmie Rodgers and Fred Rose."
+  },
+
+  "pulitzer-prize-music": {
+    label: "Pulitzer Prize Special Citation (Williams)",
+    definition: "In 2010, the Pulitzer Board awarded Hank Williams a Special Citation for his \u201ccraftsmanship as a songwriter who expressed universal feelings with poignant simplicity and played a pivotal role in transforming country music into a major musical and cultural force in American life.\u201d One of the very few times the Pulitzer has recognized a country songwriter."
+  },
+
+  "appalachia": {
+    label: "Appalachia",
+    definition: "A cultural region of the eastern United States, comprising parts of the Appalachian mountain range from western New York to northern Georgia and Alabama. Appalachia developed a distinctive folk culture rooted in Scotch-Irish, English, and African American traditions, and its music (ballads, fiddle tunes, mountain banjo styles) was a foundational element of country music."
+  },
+
+  /* ============================
      San Francisco history
      ============================ */
 
