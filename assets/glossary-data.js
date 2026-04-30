@@ -614,6 +614,36 @@ var GLOSSARY = {
   "melody": {
     label: "Melody",
     definition: "The main musical line of a song, typically the part the singer sings or the most prominent instrumental phrase. Melody is what most people remember and hum to themselves after a song is over."
+  },
+
+  "cuerpo": {
+    label: "Cuerpo",
+    definition: "Spanish for \u201cbody.\u201d The first section of a typical salsa song, where the lead singer presents the song\u2019s main lyrics over a moderately energetic groove. The cuerpo presents the song. After the cuerpo, the song moves into the montuno section, which is where the band stretches out."
+  },
+
+  "cascara": {
+    label: "C\u00e1scara",
+    definition: "A salsa percussion pattern played on the metal shells of the timbales (with sticks), used during the calmer cuerpo section of a song. When the song moves into the louder, more energetic montuno section, the timbales player typically switches from c\u00e1scara to playing the mambo bell."
+  },
+
+  "mambo-bell": {
+    label: "Mambo bell",
+    definition: "A large cowbell played by the timbales player during the louder, more energetic sections of a salsa song (typically the montuno section). The switch from c\u00e1scara on the drum shells to the mambo bell signals to dancers and the rest of the band that the song has shifted gears."
+  },
+
+  "mambo-section": {
+    label: "Mambo (instrumental section)",
+    definition: "Within a salsa song, an instrumental break in which the horn section (trumpets, trombones, saxophones) takes the lead with a written-out figure or solo, while the singer pauses. The mambo punctuates the montuno and gives the band a chance to stretch out. (Note: the same word \u201cmambo\u201d also refers to a separate Cuban dance music genre, named after this kind of section.)"
+  },
+
+  "son-cubano": {
+    label: "Son cubano",
+    definition: "The Cuban musical form that emerged in the late 19th and early 20th centuries from the fusion of Spanish guitar and song traditions with Afro-Cuban percussion. Son is the foundational genre underneath salsa, and the basic structure of most salsa songs (cuerpo followed by montuno) comes directly from son. Sometimes called just \u201cson.\u201d"
+  },
+
+  "three-two-clave": {
+    label: "3-2 son clave",
+    definition: "The most common form of son clave: a two-bar pattern with three accented beats in the first bar and two accented beats in the second bar. The asymmetry creates rhythmic tension and release. The same pattern is the basis of Bo Diddley\u2019s rock-and-roll beat. Most classic salsa is in either 3-2 or 2-3 son clave."
   }
 ,
 
