@@ -528,6 +528,96 @@ var GLOSSARY = {
   },
 
   /* ============================
+     Music theory and analysis
+     ============================ */
+
+  "meter": {
+    label: "Meter",
+    definition: "The way a song's beats are grouped. A meter has a recurring number of beats per measure, with one beat (usually the first) feeling stronger than the others. The most common meter in popular music is 4/4 (four beats per measure). Waltzes are in 3/4 (three beats per measure). 12/8 is a slower, rocking meter common in soul ballads."
+  },
+
+  "twelve-eight": {
+    label: "12/8 meter",
+    definition: "A meter with four main beats per measure, where each main beat divides into three smaller pulses (so twelve total small pulses per measure). The result is a slow, swinging, rocking feel underneath the main pulse, like a heartbeat with a triplet pattern inside it. Slow gospel, doo-wop, and slow soul ballads are often in 12/8. \u201cA Change Is Gonna Come\u201d is in 12/8."
+  },
+
+  "four-four": {
+    label: "4/4 meter",
+    definition: "The most common meter in popular music: four beats per measure, with the strongest emphasis on beat one and a lighter emphasis on beat three. So common it is sometimes called \u201ccommon time.\u201d Most rock, pop, hip hop, and country songs are in 4/4."
+  },
+
+  "three-four": {
+    label: "3/4 meter",
+    definition: "A meter with three beats per measure, with the strongest emphasis on beat one. The waltz feel: ONE-two-three, ONE-two-three. Less common in popular music than 4/4, and when it appears it can feel old-fashioned, formal, or hesitant. Hank Williams\u2019s \u201cI\u2019m So Lonesome I Could Cry\u201d is in 3/4."
+  },
+
+  "tempo": {
+    label: "Tempo",
+    definition: "The speed of a song, measured in beats per minute (BPM). A slow ballad might be 60 BPM; a dance track might be 120 BPM or higher. Tempo is one of the first things that creates a song's emotional feel, before any lyric or harmony does its work."
+  },
+
+  "bpm": {
+    label: "BPM (beats per minute)",
+    definition: "The unit for measuring a song's tempo. 60 BPM is one beat per second, the speed of a resting heartbeat. 120 BPM is two beats per second, the speed of brisk walking. Most uptempo dance music sits between 110 and 140 BPM."
+  },
+
+  "key": {
+    label: "Key",
+    definition: "The tonal center of a song: the note (and the scale built on that note) that the music returns to and feels resolved on. Songs in the key of C major treat C as home; songs in B-flat major treat B-flat as home. Key is one of the most basic ways music creates a sense of stability and motion."
+  },
+
+  "major-key": {
+    label: "Major key",
+    definition: "A key based on the major scale, generally felt as bright, stable, or affirming. Most American popular songs are in major keys. \u201cA Change Is Gonna Come\u201d is in B-flat major."
+  },
+
+  "minor-key": {
+    label: "Minor key",
+    definition: "A key based on a minor scale, generally felt as darker, sadder, or more uncertain than a major key. Songs sometimes shift briefly into a minor key for moments of doubt or grief, even if the song overall is in a major key. The bridge of \u201cA Change Is Gonna Come\u201d shifts to G minor."
+  },
+
+  "melisma": {
+    label: "Melisma",
+    definition: "The vocal technique of singing a single syllable across multiple notes. Common in gospel, soul, R&amp;B, and Arabic music. Sam Cooke\u2019s signature \u201cwhoa-whoa-whoa\u201d on the word \u201cknow\u201d in \u201cA Change Is Gonna Come\u201d is melisma. The term comes from the Greek for \u201csong\u201d and has been used for centuries to describe the technique in many musical traditions, sacred and secular."
+  },
+
+  "vocal-grain": {
+    label: "Vocal grain",
+    definition: "The roughness or texture in a singer\u2019s voice, beyond the pitch and the words. Some grain is natural to the voice; some can be controlled. Gospel and soul singers cultivate vocal grain as an expressive resource. The catch in Sam Cooke\u2019s voice on certain syllables is grain. So is the rasp in Howlin\u2019 Wolf or Janis Joplin."
+  },
+
+  "back-phrasing": {
+    label: "Back-phrasing",
+    definition: "The vocal technique of singing slightly behind the underlying beat, then catching up. Used to create a sense of relaxation, exhaustion, hesitation, or emphasis. Frank Sinatra was famous for back-phrasing. Sam Cooke uses it throughout \u201cA Change Is Gonna Come\u201d to make the verses sound tired before the chorus catches up with conviction."
+  },
+
+  "bridge": {
+    label: "Bridge",
+    definition: "A contrasting middle section in a song, typically used once, between repetitions of the verse and chorus. The bridge often shifts to a different harmonic area, a different melody, and a different emotional register, before the song returns to familiar material. The bridge of \u201cA Change Is Gonna Come\u201d (\u201cThen I go to my brother\u201d) shifts the song from B-flat major to G minor for the only time."
+  },
+
+  "verse-chorus": {
+    label: "Verse-chorus form",
+    definition: "A common popular song structure in which alternating verses (with new lyrics each time) and a chorus (with the same lyrics each time) build the shape of the song. The chorus is usually the most memorable part and the part listeners will sing along to. Most pop, rock, R&amp;B, and country songs use some version of verse-chorus form."
+  },
+
+  "arpeggio": {
+    label: "Arpeggio",
+    definition: "The notes of a chord played one at a time, in sequence, rather than all together. The word comes from the Italian \u201carpa\u201d (harp), because harpists naturally play chords as arpeggios. The strings in the bridge of \u201cA Change Is Gonna Come\u201d play a sustained G minor arpeggio: the three notes of the chord laid out in time."
+  },
+
+  "harmony": {
+    label: "Harmony",
+    definition: "The chords of a song and the way they relate to each other. Harmony is what creates a sense of forward motion in music: a chord that sounds unresolved pulls toward a chord that sounds resolved. Most popular music harmony moves between three or four core chords in a key, with occasional excursions to other chords for emotional emphasis."
+  },
+
+  "melody": {
+    label: "Melody",
+    definition: "The main musical line of a song, typically the part the singer sings or the most prominent instrumental phrase. Melody is what most people remember and hum to themselves after a song is over."
+  }
+,
+
+  /* ============================
      San Francisco history
      ============================ */
 
