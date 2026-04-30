@@ -237,6 +237,171 @@ var GLOSSARY = {
   "national-recording-registry": {
     label: "National Recording Registry",
     definition: "A list maintained by the United States Library of Congress of recordings deemed \u201cculturally, historically, or aesthetically significant.\u201d Each year the Librarian of Congress adds new recordings. \u201cA Change Is Gonna Come\u201d was added in 2006."
+  },
+
+  /* ============================
+     Cuban and Latin musical forms
+     ============================ */
+
+  "son": {
+    label: "Son (cubano)",
+    definition: "A Cuban musical form that emerged in the late 19th century in the eastern part of the island, fusing Spanish guitar and song traditions with West African rhythmic patterns. Son is the foundational genre underneath salsa, mambo, and most modern Cuban dance music. The basic son ensemble has bongos, claves, maracas, guitar, and a singer."
+  },
+
+  "guaracha": {
+    label: "Guaracha",
+    definition: "An uptempo Cuban song form, often satirical or humorous in its lyrics, developed in Havana during the 19th century and revived by mid-20th-century groups like La Sonora Matancera. Celia Cruz was famous for her guarachas and was nicknamed \u201cLa Guarachera de Cuba\u201d (the guaracha singer of Cuba)."
+  },
+
+  "rumba": {
+    label: "Rumba",
+    definition: "A family of Afro-Cuban dance and music styles rooted in African religious and secular traditions, performed primarily on percussion (congas, claves) with vocals. Originated among working-class Afro-Cubans in port cities like Havana and Matanzas. Distinct from the ballroom \u201crumba\u201d marketed to American audiences in the early 20th century."
+  },
+
+  "bolero": {
+    label: "Bolero",
+    definition: "A slow, romantic Latin American song form, typically about love or heartbreak, that developed in late 19th-century Cuba and spread throughout Spanish-speaking Latin America. Different from the Spanish bolero. Many of Celia Cruz\u2019s most beloved recordings with Sonora Matancera were boleros."
+  },
+
+  "afro-cuban": {
+    label: "Afro-Cuban",
+    definition: "Refers to Cuban culture, music, religion, and identity rooted in the African heritage brought to Cuba through the trans-Atlantic slave trade. Afro-Cuban musical forms (rumba, son, guaracha, mambo, the bat\u00e1 drum traditions) blend Yoruba, Bantu, and other West and Central African elements with Spanish-derived ones. Celia Cruz was a Black Afro-Cuban singer."
+  },
+
+  "santeria": {
+    label: "Santer\u00eda",
+    definition: "An Afro-Cuban religion that developed when enslaved Yoruba people in Cuba syncretized their traditional religion with Roman Catholicism. Santer\u00eda has its own pantheon of orishas (deities), distinctive ceremonial music played on bat\u00e1 drums, and ritual dance. It deeply shaped Cuban music. Celia Cruz, before her solo career, recorded with the Santer\u00eda-influenced Coro Yoruba y Tambores Bat\u00e1."
+  },
+
+  "bata": {
+    label: "Bat\u00e1 drums",
+    definition: "A set of three two-headed hourglass-shaped drums originally from the Yoruba people of West Africa, central to Santer\u00eda religious ceremonies in Cuba. Bat\u00e1 patterns and timbres permeate Cuban popular music."
+  },
+
+  "salsa": {
+    label: "Salsa",
+    definition: "A pan-Latin popular music genre that emerged in 1960s and 1970s New York from the blending of Cuban son, guaracha, and mambo with Puerto Rican styles, jazz harmony, and the urban experience of Caribbean migrants. Often associated with Fania Records. The name \u201csalsa\u201d (literally \u201csauce\u201d) was a marketing term that stuck."
+  },
+
+  "clave": {
+    label: "Clave",
+    definition: "A two-bar rhythmic pattern that organizes most Afro-Cuban and salsa music. Two basic forms exist: 3-2 clave (three accents in the first bar, two in the second) and 2-3 clave (the reverse). Once you hear the clave, you hear it everywhere in Latin music. The pattern is often played on two wooden sticks called \u201cclaves.\u201d"
+  },
+
+  "montuno": {
+    label: "Montuno",
+    definition: "Two related meanings in Cuban and salsa music. (1) The improvisational call-and-response section of a son or salsa performance, where the lead singer trades phrases with the chorus. (2) A syncopated repeating piano figure that anchors the harmonic and rhythmic feel of the band. Both are essential."
+  },
+
+  "tumbao": {
+    label: "Tumbao",
+    definition: "The basic syncopated rhythmic pattern played on the conga drum (or by the bass) in Afro-Cuban and salsa music. The tumbao is what makes Latin music feel like Latin music, and it is what the rest of the band locks into."
+  },
+
+  "sonero": {
+    label: "Sonero",
+    definition: "The lead singer in a salsa or son ensemble, especially one skilled at improvising lyrics in the call-and-response montuno section. Becoming a great sonero requires not just a strong voice but a sharp wit and a deep memory of the genre\u2019s vocabulary. Cruz was considered one of the great soneras (the feminine form)."
+  },
+
+  "coro": {
+    label: "Coro",
+    definition: "Spanish for \u201cchorus.\u201d In salsa, the coro is the chorus that sings the repeating refrain in the montuno section, in call-and-response with the sonero. Often the coro is sung by the band members themselves rather than a separate vocal group."
+  },
+
+  "azucar": {
+    label: "\u00a1Az\u00facar!",
+    definition: "Spanish for \u201csugar.\u201d Celia Cruz\u2019s signature shout, which she would deliver at climactic moments in performance. The phrase began as a comment about a sweet rum drink at a Miami restaurant and became inseparable from her stage persona."
+  },
+
+  /* ============================
+     Cuban history and exile
+     ============================ */
+
+  "cuban-revolution": {
+    label: "Cuban Revolution",
+    definition: "The armed revolution led by Fidel Castro that overthrew Cuban dictator Fulgencio Batista on January 1, 1959. The revolution moved Cuba into a Soviet-aligned socialist state, nationalized industries, restructured land ownership, and dramatically changed Cuban cultural and economic life. Roughly half a million Cubans, including most of Celia Cruz\u2019s musical world, eventually went into exile."
+  },
+
+  "exile": {
+    label: "Exile",
+    definition: "The condition of being barred from returning to one\u2019s home country, often for political reasons. Following the Cuban Revolution, hundreds of thousands of Cubans went into political exile, primarily in the United States. Celia Cruz lived the rest of her life in exile after 1960, formally barred from returning by Castro\u2019s government even when her mother was dying."
+  },
+
+  "fulgencio-batista": {
+    label: "Fulgencio Batista",
+    definition: "Cuban military leader and dictator who controlled Cuba from 1933 to 1944 and again from 1952 until his overthrow by Fidel Castro\u2019s revolutionary forces on January 1, 1959. His government was widely considered corrupt and repressive."
+  },
+
+  "cuban-cabarets": {
+    label: "Havana cabarets",
+    definition: "The high-profile Havana nightclubs (Tropicana, Sans Souci, Topeka, Bamboo) that flourished in the 1940s and 1950s. They drew international tourists and showcased Cuba\u2019s top musicians. The clubs were closed by the Castro government after the Revolution as symbols of capitalist decadence, ending the careers many performers had built."
+  },
+
+  /* ============================
+     Salsa institutions
+     ============================ */
+
+  "sonora-matancera": {
+    label: "La Sonora Matancera",
+    definition: "One of the most important Cuban orchestras of the 20th century, founded in 1924 in the city of Matanzas. Celia Cruz fronted the group from 1950 to 1965, recording 188 songs. After her debut at age 24, she became the band\u2019s first Afro-Cuban lead singer and the face of its golden era."
+  },
+
+  "fania-records": {
+    label: "Fania Records",
+    definition: "The independent New York record label, founded in 1964 by Dominican-born flutist Johnny Pacheco and Italian-American lawyer Jerry Masucci, that became the engine of the salsa boom of the late 1960s and 1970s. Fania\u2019s roster included Cruz, H\u00e9ctor Lavoe, Willie Col\u00f3n, R\u00faben Blades, Ray Barretto, and many others."
+  },
+
+  "fania-all-stars": {
+    label: "Fania All-Stars",
+    definition: "A rotating supergroup formed in 1968 from the artists on the Fania Records roster. They recorded primarily live, capturing the energy of New York salsa concerts. Their landmark performances at the Cheetah Club (1971), Yankee Stadium (1973), and Zaire 74 (1974) are foundational documents of salsa\u2019s commercial peak."
+  },
+
+  "tico-records": {
+    label: "Tico Records",
+    definition: "A New York record label specializing in mambo and Latin music. Celia Cruz signed with Tico in 1965 after leaving Sonora Matancera. Fania Records bought Tico in 1974, which is how Cruz came to be associated with Fania."
+  },
+
+  /* ============================
+     Zaire 74 context
+     ============================ */
+
+  "zaire-74": {
+    label: "Zaire 74",
+    definition: "A three-day music festival held September 22\u201324, 1974 at the Stade du 20 Mai in Kinshasa, Zaire (now the Democratic Republic of the Congo). Conceived by South African trumpeter Hugh Masekela and American producer Stewart Levine, it brought together African American, Latin, and African artists. Held in conjunction with the Muhammad Ali / George Foreman heavyweight title fight (the \u201cRumble in the Jungle\u201d). Eighty thousand people attended."
+  },
+
+  "rumble-jungle": {
+    label: "Rumble in the Jungle",
+    definition: "The October 30, 1974 heavyweight boxing championship fight in Kinshasa, Zaire, in which Muhammad Ali defeated George Foreman by knockout. Promoted by Don King, the fight drew a global television audience and made Kinshasa briefly the center of the world\u2019s sporting and cultural attention."
+  },
+
+  "mobutu": {
+    label: "Mobutu Sese Seko",
+    definition: "President (and effectively dictator) of Zaire from 1965 to 1997. His government was authoritarian, kleptocratic, and propped up by Cold War US support. Mobutu funded Zaire 74 and the Ali-Foreman fight as part of a campaign to promote his ideology of \u201cAfrican authenticity\u201d and to project Zaire as a modern African nation on the world stage."
+  },
+
+  "diaspora": {
+    label: "Diaspora",
+    definition: "The dispersal of a population from its original homeland, whether by force, choice, or both. The African diaspora refers to the global spread of people of African descent, particularly through the trans-Atlantic slave trade. Music historians often describe styles like salsa, samba, jazz, and hip hop as products of the African diaspora because they fuse African musical traditions with the conditions of new geographies."
+  },
+
+  "pan-africanism": {
+    label: "Pan-Africanism",
+    definition: "A political and cultural movement that emphasizes solidarity among people of African descent globally. Pan-Africanist thought has informed liberation movements, cultural festivals, and music criticism since the 19th century. Zaire 74 was framed in part as a Pan-Africanist gesture: a reunion of African and African-diasporic music."
+  },
+
+  /* ============================
+     Methodology terms (cross-track)
+     ============================ */
+
+  "call-and-response": {
+    label: "Call and response",
+    definition: "A musical structure where a leader (\u201ccall\u201d) and a group (\u201cresponse\u201d) alternate. Found across African and African-diasporic music: in work songs, gospel, blues, jazz, salsa, hip hop, and many other forms. In salsa, the sonero calls and the coro responds. In gospel, the preacher or lead singer calls and the choir or congregation responds."
+  },
+
+  "improvisation": {
+    label: "Improvisation",
+    definition: "Music made up in the moment by the performer, rather than following a written-out score. Salsa\u2019s montuno sections are heavily improvised: the sonero invents new lines on the spot in dialogue with the band and audience. Improvisation is central to jazz, blues, salsa, hip hop freestyle, and many other traditions."
   }
 
 };
