@@ -1,0 +1,268 @@
+/* MUS 302 listening guides - shared styles */
+
+:root {
+  --color-text: #1a1a1a;
+  --color-text-soft: #555;
+  --color-bg: #fdfdfb;
+  --color-accent: #6b3a1f;
+  --color-accent-soft: #f0e6dd;
+  --color-border: #d4c8b8;
+  --color-link: #1a4f7a;
+  --color-glossable: #6b3a1f;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-display: Georgia, "Times New Roman", serif;
+  --max-width: 720px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 17px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  line-height: 1.65;
+}
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 3rem 1.5rem 6rem;
+}
+
+/* Course header */
+.course-header {
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.course-header .course-id {
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-text-soft);
+  margin: 0 0 0.4rem;
+}
+
+.course-header .module-id {
+  font-size: 0.85rem;
+  color: var(--color-text-soft);
+  margin: 0;
+}
+
+/* Track title */
+h1.track-title {
+  font-family: var(--font-display);
+  font-size: 2.2rem;
+  font-weight: normal;
+  line-height: 1.25;
+  margin: 0 0 0.5rem;
+  color: var(--color-text);
+}
+
+h1.track-title .track-number {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-text-soft);
+  margin-bottom: 0.5rem;
+}
+
+/* Section headings */
+h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin: 3rem 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+h3 {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  font-weight: 600;
+  font-style: italic;
+  color: var(--color-accent);
+  margin: 2rem 0 0.75rem;
+}
+
+/* Body paragraphs */
+p {
+  margin: 0 0 1.1rem;
+}
+
+/* Embedded video */
+.video-embed {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  margin: 1.5rem 0 2rem;
+  background-color: #000;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Photos */
+figure {
+  margin: 2rem 0;
+  padding: 0;
+}
+
+figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 2px;
+}
+
+figcaption {
+  font-size: 0.88rem;
+  color: var(--color-text-soft);
+  margin-top: 0.6rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+/* Glossable terms */
+.glossable {
+  border-bottom: 1px dotted var(--color-glossable);
+  cursor: pointer;
+  color: inherit;
+  background: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font: inherit;
+  padding: 0;
+  display: inline;
+  text-align: left;
+}
+
+.glossable:hover,
+.glossable:focus {
+  color: var(--color-accent);
+  border-bottom-color: var(--color-accent);
+  outline: none;
+  background-color: var(--color-accent-soft);
+}
+
+.glossable[aria-expanded="true"] {
+  background-color: var(--color-accent-soft);
+  color: var(--color-accent);
+}
+
+/* Glossary definition popup */
+.gloss-definition {
+  display: block;
+  margin: 0.6rem 0 1.1rem;
+  padding: 0.9rem 1.1rem;
+  background-color: var(--color-accent-soft);
+  border-left: 3px solid var(--color-accent);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  border-radius: 0 4px 4px 0;
+}
+
+.gloss-definition .gloss-term {
+  font-weight: 600;
+  color: var(--color-accent);
+}
+
+.gloss-definition .gloss-text {
+  color: var(--color-text);
+}
+
+/* Reflective question */
+.reflective-question {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  background-color: #f4f0ea;
+  border-radius: 4px;
+  font-style: italic;
+}
+
+.reflective-question h3 {
+  margin-top: 0;
+  font-style: normal;
+}
+
+.reflective-question p:last-child {
+  margin-bottom: 0;
+}
+
+/* Sources list at end */
+.sources {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+  font-size: 0.92rem;
+  color: var(--color-text-soft);
+}
+
+.sources h2 {
+  font-size: 1.15rem;
+  border: none;
+  margin-bottom: 0.75rem;
+}
+
+.sources p {
+  margin-bottom: 0.7rem;
+}
+
+/* Navigation between tracks */
+.track-nav {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.95rem;
+}
+
+.track-nav a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.track-nav a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  html {
+    font-size: 16px;
+  }
+
+  main {
+    padding: 2rem 1.25rem 4rem;
+  }
+
+  h1.track-title {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+}
