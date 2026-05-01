@@ -6,8 +6,10 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that landed the Module 2 framing
-reading and locked Module 2 anchor track selection.
+Last updated: end of the session that completed Module 1 gloss
+cleanup across all six pages. Module 2 framing reading is the
+most recent new student-facing material; Modules 3-6 still
+unstarted.
 
 ## Term and dates
 
@@ -47,7 +49,13 @@ reviewed.
   with the five anchor tracks placed at their nodes.
 - Cross-links to Module 1's Cooke listening guide at two
   substantive prose mentions.
-- New glossary entries added: `spirituals`, `west-african-music`.
+- New glossary entries added: 22 terms in the Module 2 section
+  of `assets/glossary-data.js`, including spirituals,
+  west-african-music, field-hollers, ring-shouts, reconstruction,
+  bent-notes, juke-joints, funk, motown, mississippi-delta,
+  chicago-blues, thomas-dorsey, pentecostal, sacred-music,
+  vocal-runs, testifying, cipher, mc, sampling, backbeat,
+  downbeat, black-power. The shared glossary is now 197 terms.
 
 **Final project module.** Fully built.
 - `final-project/index.html`: student-facing landing page with
@@ -118,29 +126,63 @@ the course. Most natural fits are Module 5's Brill Building
 section (she covered Goffin/King) or as a deep cut in Module 6.
 To be decided when those modules get built.
 
-**Glossary housekeeping.** Two pre-existing duplicate keys in
-`assets/glossary-data.js`: `blues` (lines 34 and 853) and
-`country-music` (lines 450 and 858). The later definitions are
-the more thorough ones; the JavaScript object literal will use
-whichever is parsed last, which happens to be the better one,
-so this is not currently breaking anything. The earlier
-`country-music` entry at line 450 carries Hank-Williams-specific
-content that the later more-general entry does not; cleanup
-should preserve any track-specific content from the earlier
-entries before deleting them. Not urgent. Worth doing as part
-of one of the upcoming modules.
+**Glossary housekeeping.** Several known cleanups, none blocking
+new module work:
 
-The gloss-audit script (`scripts/check-glossings.js`, added in
-the same session that built the Module 2 framing reading)
-surfaced cleanup opportunities on already-shipped Module 1
-pages: double-buttoned vocabulary on `track2-cruz.html`
-(guaracha, improvisation, call-and-response, montuno, clave,
-tumbao, coro, sonero, azucar) and `track4-williams.html`
-(anglo-celtic, rufus-payne, steel-guitar, fiddle); a few missed
-glosses on `cultural-roots.html`, `how-to-listen.html`, and
-`module1/index.html`. These are intentional or low-priority and
-not blocking new work; new pages should pass the audit cleanly
-before they ship.
+1. *Pre-existing duplicate keys.* `blues` (lines 34 and 853) and
+   `country-music` (lines 450 and 858). The later definitions are
+   the more thorough ones; the JavaScript object literal will use
+   whichever is parsed last, which happens to be the better one,
+   so this is not currently breaking anything. The earlier
+   `country-music` entry at line 450 carries Hank-Williams-specific
+   content that the later more-general entry does not; cleanup
+   should preserve any track-specific content from the earlier
+   entries before deleting them.
+
+2. *`son` and `son-cubano` duplicate.* Two glossary entries for
+   the same Cuban musical form. `track2-cruz.html` line 52 buttons
+   `son` (in the parenthetical Cuban-musical-forms enumeration);
+   line 74 buttons `son-cubano` ("the Cuban son and guaracha
+   traditions"). Both point to similar definitions. Should
+   consolidate to one entry.
+
+3. *`shipyards` entry too narrow.* The label is "West Coast
+   shipyards" and the definition is framed around wartime Black
+   migration to Oakland, Richmond, San Francisco, LA, and
+   Portland. But `track4-williams.html` line 64 mentions "shipyards
+   in Mobile, Alabama, and Portland, Oregon" - Mobile is Gulf
+   Coast, not West Coast, so the gloss would mislead in this
+   context. Either rename and broaden the entry to cover wartime
+   shipyard migration generally, or accept the mismatch and skip
+   the gloss in the Williams track. I left it unbuttoned for now;
+   the audit script flags it as a known intentional skip.
+
+4. *`jazz` is missing.* Real gap: jazz is referenced multiple
+   times across Module 1 readings (cultural-roots, the framing
+   prose in track1-cooke, the comparison passages in tracks 2-4,
+   the listening-prompts on track2-cruz) and never glossed
+   because there is no entry. Add as part of the next module's
+   glossary work.
+
+5. *`son` false-positive in audits.* The audit script will
+   continue to flag "son of a minister" (track1-cooke line 44)
+   and "son of a logger" (track4-williams line 44) as missed
+   glosses for the Cuban `son` key. Both are false positives
+   (the prose word is "son" the noun, not the genre). Living
+   with this for now since `son` is a real glossable term in
+   Cruz's track. If it gets noisy, a per-file skip annotation
+   could be added to the script.
+
+**Module 1 gloss audit cleanup is complete.** All six Module 1
+pages were re-audited and cleaned: doubles removed where the term
+was first-glossed in the context section, missed glosses added at
+first prose mention. The `module1/index.html` landing page is now
+explicitly out of scope for the audit (landing pages are
+navigational summaries; the README "Where glossings do not go"
+section formalizes this rule). Final repo-wide audit shows 0
+errors, 5 warnings, all known intentional (the four items in the
+list above plus "diaspora" defined in extended prose on
+`cultural-roots.html`).
 
 **Syllabus revisions, if any.** Not flagged yet.
 
