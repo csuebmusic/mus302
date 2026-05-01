@@ -48,6 +48,160 @@
   <p>Music moving was the recording industry: records pressed in one city sold in another, played on radio in a third, danced to in a fourth. The industry that built this distribution network was not neutral. It was segregated. From the 1920s through the 1940s, records by Black artists were marketed under the "race records" category, sold mostly through Black-owned stores and on Black radio stations, and largely ignored by the white-coded mainstream charts. In 1949, the Billboard journalist Jerry Wexler suggested replacing "race records" with "rhythm and blues," and the chart took the new name. The renaming was a small thing on its surface and a large thing underneath: it acknowledged that the music was made for and by Black communities, and at the same time it positioned that music to be heard, bought, and eventually appropriated by a much wider audience. The categories the industry used to sell the music shaped what counted as which kind of music, who got paid for it, and whose names ended up on the Hall of Fame plaques fifty years later.</p>
 
   <figure>
+    <svg class="diagram" viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-routes-title fig-routes-desc">
+      <title id="fig-routes-title">Two panels showing the Great Migration and the cities of the Black recording industry, roughly 1910 to 1970</title>
+      <desc id="fig-routes-desc">A two-panel schematic of the United States, with the same loose geographic layout in each panel: South at the bottom, North at the top, East on the right, West on the left. The left panel shows the Great Migration as three colored arrow streams. One stream runs from the Southeast (Carolinas and Georgia) up to New York and Philadelphia. A second stream runs from Mississippi, Alabama, Tennessee, and Arkansas up to Chicago and Detroit. A third stream runs from Texas and Louisiana west to Los Angeles and Oakland. Three of the module's anchor artists are tagged at their family origin regions: Bessie Smith from Tennessee, Sister Rosetta Tharpe from Arkansas, James Brown from Georgia. The right panel shows where the major Black music record labels were located: Columbia and Atlantic in New York; Chess and Vee-Jay in Chicago; Motown in Detroit; King in Cincinnati; Sun and Stax in Memphis; Specialty in Los Angeles. The recording locations of the three anchor tracks within the 1910 to 1970 window are highlighted: Smith's "St. Louis Blues" recorded in New York for Columbia in 1925; Tharpe's "Strange Things Happening Every Day" recorded in New York for Decca in 1944; James Brown's "Say It Loud" recorded in Los Angeles for King in 1968. The two panels share an axis: people moved up to where the labels were, and the music moved through the labels back out to the world.</desc>
+
+      <!-- ========== TITLES ========== -->
+      <text x="180" y="22" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="14" fill="#1f2933">Where people moved (1910–1970)</text>
+      <text x="540" y="22" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="14" fill="#1f2933">Where the labels were</text>
+      <text x="180" y="38" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#5b6770" font-style="italic">three streams of the Great Migration</text>
+      <text x="540" y="38" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#5b6770" font-style="italic">major Black-music labels, 1920s–1960s</text>
+
+      <!-- ========== PANEL DIVIDER ========== -->
+      <line x1="360" y1="60" x2="360" y2="430" stroke="#5b6770" stroke-width="0.5" stroke-dasharray="2,3"/>
+
+      <!-- ========== LEFT PANEL: MIGRATION ========== -->
+      <!-- Panel frame -->
+      <rect x="20" y="50" width="320" height="380" fill="none" stroke="#5b6770" stroke-width="0.5"/>
+
+      <!-- South region soft shading (where people came from) -->
+      <rect x="40" y="280" width="280" height="120" fill="#e6e9ee" opacity="0.55"/>
+      <text x="180" y="395" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770" font-style="italic">the rural South</text>
+
+      <!-- Arrow definitions -->
+      <defs>
+        <marker id="arrow-east" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+          <path d="M0,0 L0,6 L7,3 z" fill="#36546f"/>
+        </marker>
+        <marker id="arrow-mid" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+          <path d="M0,0 L0,6 L7,3 z" fill="#7a4a3a"/>
+        </marker>
+        <marker id="arrow-west" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+          <path d="M0,0 L0,6 L7,3 z" fill="#5b6770"/>
+        </marker>
+      </defs>
+
+      <!-- Stream 1: Southeast -> NY/Philadelphia (curving up the East Coast) -->
+      <path d="M 280 320 Q 295 230 285 130" fill="none" stroke="#36546f" stroke-width="2.5" marker-end="url(#arrow-east)"/>
+      <text x="305" y="220" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#36546f">Carolinas,</text>
+      <text x="305" y="232" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#36546f">Georgia,</text>
+      <text x="305" y="244" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#36546f">Florida</text>
+      <text x="305" y="256" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#36546f">→ NY, Phila.</text>
+
+      <!-- Stream 2: Mississippi/Alabama/TN/AR -> Chicago/Detroit (straight up the middle) -->
+      <path d="M 175 305 Q 170 220 195 130" fill="none" stroke="#7a4a3a" stroke-width="2.5" marker-end="url(#arrow-mid)"/>
+      <!-- Middle-stream source/destination label, positioned in the lower-left
+           empty area where it is geographically sensible (south to north) and
+           does not crowd the LA cluster -->
+      <text x="40" y="345" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#7a4a3a">Miss., Ala.,</text>
+      <text x="40" y="357" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#7a4a3a">Tenn., Ark.</text>
+      <text x="40" y="369" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#7a4a3a">→ Chicago,</text>
+      <text x="40" y="381" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#7a4a3a">Detroit</text>
+
+      <!-- Stream 3: Texas/Louisiana -> California (curving up the West) -->
+      <path d="M 110 320 Q 70 250 75 195" fill="none" stroke="#5b6770" stroke-width="2.5" marker-end="url(#arrow-west)"/>
+      <!-- West-coast-stream source/destination label, near the LA destination -->
+      <text x="40" y="220" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Tex., La.</text>
+      <text x="40" y="232" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">→ LA,</text>
+      <text x="40" y="244" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Oakland</text>
+
+      <!-- Destination cities (left panel) -->
+      <circle cx="285" cy="120" r="4" fill="#1f2933"/>
+      <text x="285" y="108" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#1f2933">New York</text>
+      <circle cx="195" cy="120" r="4" fill="#1f2933"/>
+      <text x="195" y="108" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#1f2933">Chicago</text>
+      <circle cx="220" cy="100" r="3" fill="#1f2933"/>
+      <text x="220" y="92" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Detroit</text>
+      <circle cx="75" cy="190" r="4" fill="#1f2933"/>
+      <text x="75" y="178" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#1f2933">LA</text>
+
+      <!-- Anchor track origin tags (left panel): where the artists were born/raised.
+           Distinct visual treatment (open ring + filled center) and a different
+           color (#1f2933) so they read as artist markers rather than as part
+           of the migration arrows. -->
+      <!-- Bessie Smith: Chattanooga, TN (eastern Tennessee, middle stream region) -->
+      <circle cx="215" cy="290" r="4" fill="#fff" stroke="#1f2933" stroke-width="1.5"/>
+      <circle cx="215" cy="290" r="1.5" fill="#1f2933"/>
+      <text x="215" y="280" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#1f2933" font-weight="bold">Smith</text>
+      <text x="215" y="305" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="8" fill="#1f2933">Chattanooga</text>
+      <!-- Tharpe: Cotton Plant, AR -->
+      <circle cx="135" cy="285" r="4" fill="#fff" stroke="#1f2933" stroke-width="1.5"/>
+      <circle cx="135" cy="285" r="1.5" fill="#1f2933"/>
+      <text x="135" y="275" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#1f2933" font-weight="bold">Tharpe</text>
+      <text x="135" y="300" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="8" fill="#1f2933">Cotton Plant</text>
+      <!-- James Brown: Augusta, GA (southeastern stream region) -->
+      <circle cx="255" cy="335" r="4" fill="#fff" stroke="#1f2933" stroke-width="1.5"/>
+      <circle cx="255" cy="335" r="1.5" fill="#1f2933"/>
+      <text x="255" y="350" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#1f2933" font-weight="bold">Brown</text>
+      <text x="255" y="362" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="8" fill="#1f2933">Augusta</text>
+
+      <!-- ========== RIGHT PANEL: INDUSTRY ========== -->
+      <!-- Panel frame -->
+      <rect x="380" y="50" width="320" height="380" fill="none" stroke="#5b6770" stroke-width="0.5"/>
+
+      <!-- Northern label cluster: New York -->
+      <circle cx="630" cy="120" r="5" fill="#1f2933"/>
+      <text x="630" y="108" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#1f2933">New York</text>
+      <text x="645" y="125" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Columbia</text>
+      <text x="645" y="137" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Decca</text>
+      <text x="645" y="149" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Atlantic</text>
+      <text x="645" y="161" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Black Swan</text>
+
+      <!-- Detroit -->
+      <circle cx="555" cy="95" r="5" fill="#1f2933"/>
+      <text x="555" y="87" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#1f2933">Detroit</text>
+      <text x="555" y="76" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Motown</text>
+
+      <!-- Chicago -->
+      <circle cx="555" cy="125" r="5" fill="#1f2933"/>
+      <text x="540" y="120" text-anchor="end" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#1f2933">Chicago</text>
+      <text x="540" y="135" text-anchor="end" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Chess</text>
+      <text x="540" y="147" text-anchor="end" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Vee-Jay</text>
+      <text x="540" y="159" text-anchor="end" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Okeh</text>
+
+      <!-- Cincinnati -->
+      <circle cx="555" cy="180" r="4.5" fill="#1f2933"/>
+      <text x="555" y="172" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#1f2933">Cincinnati</text>
+      <text x="585" y="185" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">King</text>
+
+      <!-- Memphis -->
+      <circle cx="525" cy="240" r="4.5" fill="#1f2933"/>
+      <text x="525" y="232" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#1f2933">Memphis</text>
+      <text x="555" y="245" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Stax</text>
+      <text x="555" y="257" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Sun</text>
+
+      <!-- LA -->
+      <circle cx="435" cy="190" r="4.5" fill="#1f2933"/>
+      <text x="435" y="182" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#1f2933">Los Angeles</text>
+      <text x="465" y="195" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Specialty</text>
+      <text x="465" y="207" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770">Imperial</text>
+
+      <!-- Anchor track recording markers (right panel) -->
+      <!-- Smith 1925: NYC/Columbia -->
+      <circle cx="630" cy="120" r="9" fill="none" stroke="#7a4a3a" stroke-width="1.5"/>
+      <text x="630" y="180" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#7a4a3a">Smith 1925</text>
+      <text x="630" y="191" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="8" fill="#7a4a3a">(Columbia, NY)</text>
+
+      <!-- Tharpe 1944: NYC/Decca -->
+      <circle cx="630" cy="120" r="13" fill="none" stroke="#7a4a3a" stroke-width="1" stroke-dasharray="2,2"/>
+      <text x="630" y="208" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#7a4a3a">Tharpe 1944</text>
+      <text x="630" y="219" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="8" fill="#7a4a3a">(Decca, NY)</text>
+
+      <!-- Brown 1968: LA session, King label -->
+      <circle cx="435" cy="190" r="9" fill="none" stroke="#36546f" stroke-width="1.5"/>
+      <text x="435" y="240" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#36546f">Brown 1968</text>
+      <text x="435" y="251" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="8" fill="#36546f">(King label,</text>
+      <text x="435" y="262" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="8" fill="#36546f">LA session)</text>
+
+      <!-- ========== LEGEND ========== -->
+      <text x="180" y="460" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770" font-style="italic">filled dot = destination city · open dot = anchor artist origin</text>
+      <text x="540" y="460" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="9" fill="#5b6770" font-style="italic">filled dot = recording city · ring = anchor track recording</text>
+    </svg>
+    <figcaption>Figure 1. Two views of the same system, between roughly 1910 and 1970. On the left, the three streams of the Great Migration carried Black Southerners, and the music they made and remade, to a small set of Northern, Midwestern, and Western cities. On the right, the recording industry that turned that music into commerce was concentrated in those same cities, with a few Southern outposts (Memphis especially) where Black music was recorded for Black audiences without leaving the South. Three of the five anchor tracks fall within this window and are marked: Bessie Smith with Louis Armstrong recorded "St. Louis Blues" in New York for Columbia in 1925; Sister Rosetta Tharpe recorded "Strange Things Happening Every Day" in New York for Decca in 1944; James Brown recorded "Say It Loud" at Vox Studios in Los Angeles in 1968 for the Cincinnati-based King label. "The Message" (1982) and "Formation" (2016) extend the lineage past the migration era; their recording geographies belong to a different chapter the course will pick up later.</figcaption>
+  </figure>
+
+  <figure>
     <svg class="diagram" viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-lineage-title fig-lineage-desc">
       <title id="fig-lineage-title">Lineage of Black popular music genres traced through the twentieth century</title>
       <desc id="fig-lineage-desc">A horizontal flow diagram with time running left to right from the 1900s to the 2020s. On the left, three sources merge: spirituals, work songs, and the rural blues. These flow forward through recorded blues and gospel in the 1920s and 1930s, into rhythm and blues in the 1940s, into soul in the 1960s, and from soul into both funk in the late 1960s and contemporary R&amp;B and pop. Funk feeds into hip hop in the early 1980s, which continues to the present and feeds back into contemporary R&amp;B. The five anchor tracks of the module are placed along the timeline at the relevant nodes: Bessie Smith 1925 at recorded blues, Tharpe 1944 at gospel into rhythm and blues, James Brown 1968 at funk, "The Message" 1982 at hip hop, and Beyoncé 2016 at contemporary R&amp;B and pop.</desc>
@@ -115,7 +269,7 @@
 
       <line x1="670" y1="280" x2="690" y2="160" stroke="#36546f" stroke-width="1.2" stroke-dasharray="4,3"/>
     </svg>
-    <figcaption>Figure 1. A lineage of Black popular music genres in the twentieth century, with the five anchor tracks of this module placed along the timeline. Solid lines show how each genre fed into the next; the dashed line marks the way hip hop, from the 1980s onward, has continually shaped contemporary R&amp;B and pop. The diagram is a simplification: in reality every genre on the chart talks back to every other one, sampling, borrowing, and reviving older sounds. But the rough flow from spirituals and the rural blues forward through gospel, R&amp;B, soul, funk, and hip hop is real, and seeing it laid out makes the rest of this module easier to follow.</figcaption>
+    <figcaption>Figure 2. A lineage of Black popular music genres in the twentieth century, with the five anchor tracks of this module placed along the timeline. Solid lines show how each genre fed into the next; the dashed line marks the way hip hop, from the 1980s onward, has continually shaped contemporary R&amp;B and pop. The diagram is a simplification: in reality every genre on the chart talks back to every other one, sampling, borrowing, and reviving older sounds. But the rough flow from spirituals and the rural blues forward through gospel, R&amp;B, soul, funk, and hip hop is real, and seeing it laid out makes the rest of this module easier to follow.</figcaption>
   </figure>
 
   <h2>From sacred to secular, and back</h2>
