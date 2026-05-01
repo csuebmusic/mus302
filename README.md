@@ -26,6 +26,7 @@ source of truth even when the delivery happens elsewhere.
 mus302/
   syllabus.html             Live syllabus
   syllabus.md               Markdown source for Canvas paste
+  STATUS.md                 Running summary of what is built and what is pending
 
   assets/
     style.css               Shared stylesheet for all pages
@@ -69,9 +70,16 @@ synthesizes across the four traditions and adds Indigenous
 popular music and queer liberation as cross-cutting threads.
 
 A research project runs in parallel with the modules across
-the term. Students research a genre and an artist of personal
-significance and present as a PowerPoint deck with recorded
-video commentary.
+the term and is worth 40 percent of the course grade. Students
+research a genre and a single artist or group of personal
+significance and present as a slide deck (18 to 20 slides,
+including title slide and sources slide, with up to three slides
+carrying embedded audio or video media) plus recorded video
+commentary. The project is scaffolded into five graded
+checkpoints across the term: proposal (June 14), annotated
+bibliography (June 28), full draft (July 12), peer review of
+two classmates' drafts (July 26), and final submission (July 31).
+The project module's materials live in `final-project/`.
 
 The hard-date schedule lives in the syllabus. The summer 2026
 term runs May 26 to July 31.
@@ -140,6 +148,19 @@ Two-size type hierarchy: page title at 1.4em bold uppercase,
 everything else at 0.9em. Column at 820px max-width. All defined
 in `assets/style.css` through CSS variables; new pages inherit
 the look automatically by linking the shared stylesheet.
+
+**Canvas markdown sources.** Markdown files in module folders
+(quizzes, discussions, project assignment descriptions) follow
+a consistent two-part structure. The top half is written for
+reading and editing: structured headings, rubric, outcomes
+addressed, internal notes for the instructor. A horizontal
+rule separates that from a "PASTE INTO CANVAS BELOW THIS LINE"
+block formatted in plain prose, ready to copy directly into
+the Canvas assignment description, quiz description, or
+discussion prompt field. The two halves carry the same
+substantive content; the paste block strips structural
+markdown that would not render correctly in Canvas. When
+revising, edit both halves; do not let them drift.
 
 **HTML and Canvas-paste source.** Pages a student needs as a
 durable reference (readings, listening guides, syllabus, module
@@ -219,6 +240,43 @@ listening guide pattern need to keep this structure: close
 `</main>` first, then place the nav with its `.track-nav-inner`
 wrapper outside. The styling and column-width constraint are
 handled in CSS.
+
+**Final project specs.** The deck is 18 to 20 slides total,
+including title slide and sources slide, with up to three of
+those slides allowed to carry embedded audio or video media of
+the artist (the remaining 15 to 17 are substantive content
+slides). The video commentary has a minimum length determined
+by what it takes to walk through the deck at a reasonable pace,
+with no maximum, and explicit language asking students to be
+mindful that the instructor watches all 60 of them across the
+two course sections. Slide design organization is suggested
+(introduction of genre, introduction of artist, musical
+analysis, argument, legacy, sources) but not prescribed.
+
+**Final project rubric weights (point totals across five
+checkpoints).** Proposal 20, annotated bibliography 25, draft 50,
+peer review 20, final 100, totaling 215 raw points which scale
+to 40 percent of the course grade. The final's 100-point rubric
+breaks down: argument and analysis 35, genre and cultural context
+20, source integration 15, personal significance 10, slide deck
+quality 10, video commentary 10. Each checkpoint rubric names
+the SLOs it addresses; full mapping is in `final-project/05-final.md`.
+
+**Final project peer review structure.** Six structured questions
+each reviewer answers per assigned draft, plus a required actionable
+suggestion as the sixth question. Two reviews per student.
+Designed to keep "looks good!" feedback at bay while staying short
+enough that two reviews per student is sustainable for 60-student
+course sections. Canvas's built-in peer review tool handles
+random assignment after the draft deadline.
+
+**Personal significance framing in the project.** Open by design.
+Four angles are named in the landing page (music students grew
+up with, music they discovered that changed them, music their
+community made, music outside their tradition they have come to
+care about). Disclosure is up to the student; significance is
+a stance behind the choice, not required content of the project
+itself. Do not narrow this if revising the project page.
 
 
 
