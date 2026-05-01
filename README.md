@@ -43,12 +43,21 @@ mus302/
     track4-williams.html    Listening guide: Hank Williams
     discussion.md           Markdown source for the Module 1 discussion (Canvas)
     quiz.md                 Markdown source for the Module 1 checkpoint quiz (Canvas)
+
+  final-project/
+    index.html                       Final-project landing page (linked from Canvas)
+    01-proposal.md                   Markdown source for the Proposal assignment (Canvas)
+    02-annotated-bibliography.md     Markdown source for the Annotated Bibliography (Canvas)
+    03-draft.md                      Markdown source for the Full Draft assignment (Canvas)
+    04-peer-review.md                Markdown source for the Peer Review assignment (Canvas)
+    05-final.md                      Markdown source for the Final Submission (Canvas)
 ```
 
 Modules 2 through 6 will follow the same pattern as `module1/`,
 each with their own `index.html` and a set of listening guide
 pages, plus markdown source files for discussion prompts and
-quizzes that live in Canvas.
+quizzes that live in Canvas. The `final-project/` folder runs
+in parallel with the modules across the term.
 
 ## Course architecture
 
