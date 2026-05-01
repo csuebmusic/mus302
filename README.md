@@ -114,6 +114,18 @@ in `assets/glossary-data.js` are written for non-majors with no
 musical background and run one to three sentences. The glossary
 is a shared file that grows as new pages are added.
 
+**Where glossings do not go.** Each glossable term is buttoned only
+on the first substantive prose mention in a given page. Subsequent
+mentions stay unbuttoned, even when they recur many times. Glossings
+also stay out of: page headings, figure captions, navigation footer
+text, song titles, album titles, film titles, and book titles
+(typeset in `<em>` or in quotation marks). Landing pages
+(`module*/index.html`, `syllabus.html`) are navigational summaries
+and carry no glossings; students hit the gloss when they reach the
+reading or listening guide where the term lives. The audit script
+`scripts/check-glossings.js` treats these as out-of-scope when
+flagging missed glosses.
+
 **Sources sections.** Student-facing bibliographic entries with
 brief descriptive parentheticals. No instructor-facing notes
 (verification flags, pedagogical justifications, things to revisit)
