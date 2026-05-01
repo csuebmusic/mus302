@@ -996,6 +996,20 @@ var GLOSSARY = {
   "selena": {
     label: "Selena Quintanilla (1971\u20131995)",
     definition: "Mexican American singer who became the most popular Tejano artist of the early 1990s and a major crossover figure in Latin music. Born and raised in Texas, she fronted Selena y Los Dinos and built an audience that crossed Tejano, regional Mexican, and English-language pop. She was murdered by the president of her fan club in 1995, just before the release of her first English-language album. Her cultural footprint has only grown in the decades since."
+  },
+
+  /* ============================
+     Module 2: Roots and routes of Black popular music
+     ============================ */
+
+  "spirituals": {
+    label: "Spirituals",
+    definition: "Religious songs created by enslaved African Americans, drawing on West African musical practice, Christian hymn texts, and the conditions of life under slavery. Spirituals were sung in worship, in fields, and in coded communication, and they used call-and-response, layered rhythm, and bent vocal notes that would later shape the blues, gospel, and almost every American popular form to follow. Songs like \u201cGo Down, Moses,\u201d \u201cWade in the Water,\u201d and \u201cSwing Low, Sweet Chariot\u201d are spirituals."
+  },
+
+  "west-african-music": {
+    label: "West African musical practice",
+    definition: "A broad set of musical traditions from the regions of West Africa from which most enslaved people were trafficked to the Americas. These traditions emphasize layered, polyrhythmic percussion, call-and-response between a leader and a group, the use of voice as a percussive instrument, the close relationship between singing and speaking, and music as something a community makes together rather than something a few professionals perform for an audience. Almost every formal feature of Black popular music in the United States, from the blues forward, has roots in these practices."
   }
 
 };
