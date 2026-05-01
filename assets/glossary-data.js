@@ -31,11 +31,6 @@ var GLOSSARY = {
     definition: "A category of Black American popular music that emerged in the 1940s. The label has shifted over time. In the 1940s and 50s it described a wide range of Black popular music. From the 1960s onward it became more closely associated with smoother, vocal-driven styles. Today \u201cR&B\u201d typically means contemporary Black pop with a focus on singing."
   },
 
-  "blues": {
-    label: "Blues",
-    definition: "An African American musical form that emerged from work songs, spirituals, and field hollers in the late nineteenth and early twentieth centuries, mostly in the rural South. Built around twelve-bar chord patterns and bent, expressive notes, the blues became the foundation for jazz, R&B, rock and roll, and country music."
-  },
-
   "soul-stirrers": {
     label: "The Soul Stirrers",
     definition: "One of the most important African American gospel groups of the postwar era, founded in Texas in 1926. Known for innovations like adding a second lead singer and pushing gospel toward greater emotional intensity. Sam Cooke was their lead singer from 1950 to 1957."
@@ -244,8 +239,8 @@ var GLOSSARY = {
      ============================ */
 
   "son": {
-    label: "Son (cubano)",
-    definition: "A Cuban musical form that emerged in the late 19th century in the eastern part of the island, fusing Spanish guitar and song traditions with West African rhythmic patterns. Son is the foundational genre underneath salsa, mambo, and most modern Cuban dance music. The basic son ensemble has bongos, claves, maracas, guitar, and a singer."
+    label: "Son cubano",
+    definition: "A Cuban musical form that emerged in the late 19th century in the eastern part of the island, fusing Spanish guitar and song traditions with West African rhythmic patterns. Son is the foundational genre underneath salsa, mambo, and most modern Cuban dance music; the basic structure of most salsa songs (cuerpo followed by montuno) comes directly from son. The basic son ensemble has bongos, claves, maracas, guitar, and a singer."
   },
 
   "guaracha": {
@@ -447,11 +442,6 @@ var GLOSSARY = {
      Country music vocabulary
      ============================ */
 
-  "country-music": {
-    label: "Country music",
-    definition: "An American popular music genre rooted in the folk traditions of the rural South, particularly Anglo-Celtic ballads brought by Scotch-Irish immigrants and African American blues. The genre took commercial form in the 1920s, was originally marketed by record labels as \u201chillbilly\u201d music, and was rebranded as \u201ccountry and western\u201d in the late 1940s. Hank Williams is widely considered country music\u2019s first superstar."
-  },
-
   "hillbilly": {
     label: "Hillbilly music",
     definition: "An older marketing term used by record labels from the 1920s through the 1940s for the rural Southern white music that would later be rebranded as country music. The term is now generally considered derogatory, but it was used neutrally and even proudly within the industry of the time. Hank Williams was sometimes called the \u201cHillbilly Shakespeare.\u201d"
@@ -646,11 +636,6 @@ var GLOSSARY = {
     definition: "Within a salsa song, an instrumental break in which the horn section (trumpets, trombones, saxophones) takes the lead with a written-out figure or solo, while the singer pauses. The mambo punctuates the montuno and gives the band a chance to stretch out. (Note: the same word \u201cmambo\u201d also refers to a separate Cuban dance music genre, named after this kind of section.)"
   },
 
-  "son-cubano": {
-    label: "Son cubano",
-    definition: "The Cuban musical form that emerged in the late 19th and early 20th centuries from the fusion of Spanish guitar and song traditions with Afro-Cuban percussion. Son is the foundational genre underneath salsa, and the basic structure of most salsa songs (cuerpo followed by montuno) comes directly from son. Sometimes called just \u201cson.\u201d"
-  },
-
   "three-two-clave": {
     label: "3-2 son clave",
     definition: "The most common form of son clave: a two-bar pattern with three accented beats in the first bar and two accented beats in the second bar. The asymmetry creates rhythmic tension and release. The same pattern is the basis of Bo Diddley\u2019s rock-and-roll beat. Most classic salsa is in either 3-2 or 2-3 son clave."
@@ -755,8 +740,8 @@ var GLOSSARY = {
   },
 
   "shipyards": {
-    label: "West Coast shipyards",
-    definition: "During World War II, U.S. shipyards on the West Coast (especially in the Bay Area, Los Angeles, and Portland) employed hundreds of thousands of workers building Liberty Ships and other vessels for the war effort. The labor demand drew massive Black migration from the South, transforming cities like Oakland, Richmond, and San Francisco. This wartime migration is sometimes called the second Great Migration."
+    label: "Wartime shipyards",
+    definition: "During World War II, U.S. shipyards employed millions of workers building Liberty Ships, destroyers, and other vessels for the war effort. The largest concentration was on the West Coast (the Bay Area, Los Angeles, Portland, Seattle), but Gulf Coast yards in Mobile, Alabama and elsewhere also expanded dramatically. The labor demand drew massive Black migration out of the rural South to these wartime industrial cities, reshaping the demographics of places like Oakland, Richmond, San Francisco, Mobile, and Portland. This wartime migration is sometimes called the second Great Migration."
   },
 
   /* ============================
@@ -855,9 +840,14 @@ var GLOSSARY = {
     definition: "An African American musical tradition that emerged in the late nineteenth and early twentieth century in the rural South, with roots in West African musical practice, work songs, and spirituals. The blues uses specific harmonic structures (most famously the 12-bar blues) and a vocal style built around bent notes, slides, and improvised lyrics about everyday life and hardship. The blues is foundational to nearly all American popular music that came after it: jazz, R&B, rock and roll, country, soul, and hip hop all draw on blues vocabulary."
   },
 
+  "jazz": {
+    label: "Jazz",
+    definition: "An African American musical tradition that emerged in New Orleans in the late 19th and early 20th centuries from the blending of blues, ragtime, brass-band marches, spirituals and hymns, and the layered rhythmic practices of Afro-Caribbean music. Jazz is built around improvisation: musicians take turns playing solos that respond to and develop a song\u2019s underlying chord progression. As both a popular and an art music, jazz dominated American popular culture from the 1920s through the 1940s and remains a foundational influence on R&amp;B, soul, hip hop, and Latin popular music."
+  },
+
   "country-music": {
     label: "Country music",
-    definition: "An American popular music tradition rooted largely in the Scots-Irish ballad tradition of the Appalachian Mountains, in dialogue with Black musical practice in the same region. Country music as a commercial genre emerged in the 1920s with figures like the Carter Family and Jimmie Rodgers, became central to the Nashville recording industry by the 1950s, and continues to evolve through subgenres including honky-tonk, bluegrass, outlaw country, and contemporary country pop."
+    definition: "An American popular music tradition rooted largely in the Scots-Irish ballad tradition of the Appalachian Mountains, in dialogue with Black musical practice in the same region. Country music took commercial form in the 1920s with figures like the Carter Family and Jimmie Rodgers, was originally marketed as \u201chillbilly\u201d music and rebranded as \u201ccountry and western\u201d in the late 1940s, and became centered on the Nashville recording industry by the 1950s. Hank Williams is widely considered country music\u2019s first superstar. The genre continues to evolve through subgenres including honky-tonk, bluegrass, outlaw country, and contemporary country pop."
   },
 
   "hip-hop": {

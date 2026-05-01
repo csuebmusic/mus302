@@ -149,64 +149,79 @@ photos already in the course:
    KQED, Getty, and similar (already noted in the README photo
    convention). Same flag-before-launch rule.
 
-**Glossary housekeeping.** Several known cleanups, none blocking
-new module work:
+**Glossary housekeeping.** Items 1 through 5 from the previous
+list have been resolved in this session. Two known intentional
+skips remain.
 
-1. *Pre-existing duplicate keys.* `blues` (lines 34 and 853) and
-   `country-music` (lines 450 and 858). The later definitions are
-   the more thorough ones; the JavaScript object literal will use
-   whichever is parsed last, which happens to be the better one,
-   so this is not currently breaking anything. The earlier
-   `country-music` entry at line 450 carries Hank-Williams-specific
-   content that the later more-general entry does not; cleanup
-   should preserve any track-specific content from the earlier
-   entries before deleting them.
+Resolved:
 
-2. *`son` and `son-cubano` duplicate.* Two glossary entries for
-   the same Cuban musical form. `track2-cruz.html` line 52 buttons
-   `son` (in the parenthetical Cuban-musical-forms enumeration);
-   line 74 buttons `son-cubano` ("the Cuban son and guaracha
-   traditions"). Both point to similar definitions. Should
-   consolidate to one entry.
+1. *Duplicate `blues` and `country-music` keys.* The earlier
+   entries (in the Module 1 vocabulary clusters) have been
+   deleted. The canonical entries now live in the Module 2
+   "Framing reading: genres" cluster. The `country-music`
+   definition was merged to preserve the Hank-Williams-superstar
+   fact and the hillbilly-to-country-and-western rebranding
+   detail from the older entry, while keeping the broader
+   Scots-Irish / Black-music dialogue framing of the newer one.
 
-3. *`shipyards` entry too narrow.* The label is "West Coast
-   shipyards" and the definition is framed around wartime Black
-   migration to Oakland, Richmond, San Francisco, LA, and
-   Portland. But `track4-williams.html` line 64 mentions "shipyards
-   in Mobile, Alabama, and Portland, Oregon" - Mobile is Gulf
-   Coast, not West Coast, so the gloss would mislead in this
-   context. Either rename and broaden the entry to cover wartime
-   shipyard migration generally, or accept the mismatch and skip
-   the gloss in the Williams track. I left it unbuttoned for now;
-   the audit script flags it as a known intentional skip.
+2. *`son` and `son-cubano` duplicate.* Consolidated into a single
+   `son` entry with label "Son cubano" (no parens), combining
+   the cuerpo-and-montuno structural detail from the old
+   `son-cubano` entry with the basic-ensemble detail from the
+   old `son` entry. The button at `track2-cruz.html` line 74
+   was unwrapped (it was the second gloss on the same page,
+   violating the per-page first-mention rule); the first-mention
+   button at line 52 keeps its `data-term="son"`. The label
+   change to "Son cubano" also resolves item 5 below.
 
-4. *`jazz` is missing.* Real gap: jazz is referenced multiple
-   times across Module 1 readings (cultural-roots, the framing
-   prose in track1-cooke, the comparison passages in tracks 2-4,
-   the listening-prompts on track2-cruz) and never glossed
-   because there is no entry. Add as part of the next module's
-   glossary work.
+3. *`shipyards` entry broadened.* Label changed from "West Coast
+   shipyards" to "Wartime shipyards"; definition broadened to
+   cover both West Coast yards (Bay Area, LA, Portland, Seattle)
+   and Gulf Coast yards (Mobile, AL). The Williams-track
+   reference to "shipyards in Mobile, Alabama, and Portland,
+   Oregon" is now glossed, pointing to the broadened entry.
+   The track3-desanto and module2/roots-and-routes button text
+   "West Coast shipyards" still works correctly because the
+   button text is just the visible label and the gloss popup
+   uses the data-term key.
 
-5. *`son` false-positive in audits.* The audit script will
-   continue to flag "son of a minister" (track1-cooke line 44)
-   and "son of a logger" (track4-williams line 44) as missed
-   glosses for the Cuban `son` key. Both are false positives
-   (the prose word is "son" the noun, not the genre). Living
-   with this for now since `son` is a real glossable term in
-   Cruz's track. If it gets noisy, a per-file skip annotation
-   could be added to the script.
+4. *`jazz` entry added.* New entry in the Module 2 genres
+   cluster, between blues and country-music. Three sentences:
+   New Orleans origins from blues/ragtime/brass-band/spirituals/
+   Afro-Caribbean rhythm, improvisation as the central feature,
+   1920s-1940s dominance and ongoing influence on R&B, soul,
+   hip hop, and Latin music. First-mention buttons added to
+   `module1/cultural-roots.html` (genre-list paragraph),
+   `module1/track2-cruz.html` ("jazz harmony"),
+   `module1/track3-desanto.html` ("jazz and R&B clubs"), and
+   `module1/track4-williams.html` (Tee Tot Payne biography).
 
-6. *`house-band` in Module 2 labels-list table.* The Stax row in
-   `module2/roots-and-routes.html` mentions "racially integrated
-   house band (Booker T. & the M.G.'s)" without a gloss button.
-   The gloss is intentionally omitted: a dotted-underline button
-   inside the narrow monospace table cell rendered awkwardly,
-   and the term is contextually clear once the named example
-   follows. The audit will continue to flag this as a missed
-   gloss; it's a known intentional skip. The `house-band` term
-   remains glossed in Module 1 (track3-desanto and track4-williams,
-   in regular prose where the visual issue does not arise) and
-   should be glossed in any future Stax-track listening guide.
+5. *`son` audit false-positive.* Resolved as a side effect of
+   item 2: the label change from "Son (cubano)" to "Son cubano"
+   means the audit script's `searchPhrasesFor` no longer
+   produces the bare phrase "son" as a search term. The
+   "son of a minister" and "son of a logger" prose mentions
+   no longer trigger missed-gloss warnings.
+
+Remaining known intentional skips (audit warnings to live with):
+
+6. *`house-band` in Module 2 labels-list table.* The Stax row
+   in `module2/roots-and-routes.html` mentions "racially
+   integrated house band (Booker T. & the M.G.'s)" without a
+   gloss button. The gloss is intentionally omitted: a
+   dotted-underline button inside the narrow monospace table
+   cell rendered awkwardly, and the term is contextually clear
+   once the named example follows. The `house-band` term
+   remains glossed in Module 1 (track3-desanto and
+   track4-williams, in regular prose where the visual issue
+   does not arise) and should be glossed in any future
+   Stax-track listening guide.
+
+7. *`diaspora` in `module1/cultural-roots.html`.* The term is
+   defined in extended prose at first mention rather than
+   glossed inline ("Diaspora is the word we use for a community
+   that has spread out from a homeland..."). Deliberate
+   pedagogical choice. The audit flags it; intentional skip.
 
 **Module 1 gloss audit cleanup is complete.** All six Module 1
 pages were re-audited and cleaned: doubles removed where the term
