@@ -126,6 +126,18 @@ reading or listening guide where the term lives. The audit script
 `scripts/check-glossings.js` treats these as out-of-scope when
 flagging missed glosses.
 
+Multi-word gloss buttons can also render awkwardly inside narrow
+monospace table cells: the dotted underline running across the
+inter-word space looks visually broken at narrow column widths.
+When a term appears in a reference table this way, the cleanest
+fix is usually to drop the button in that specific cell and add
+a parenthetical naming a concrete example instead (as done for
+"house band" → "house band (Booker T. & the M.G.'s)" in the
+Module 2 labels-list table). The term should still be glossed in
+regular prose elsewhere on the page or in a related listening
+guide. Log the skip in STATUS so the audit warning does not get
+re-fixed later.
+
 **Sources sections.** Student-facing bibliographic entries with
 brief descriptive parentheticals. No instructor-facing notes
 (verification flags, pedagogical justifications, things to revisit)
