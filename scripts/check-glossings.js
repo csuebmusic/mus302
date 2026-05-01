@@ -64,7 +64,14 @@ function loadGlossary() {
 
 // ---------------------------------------------------------------------------
 // Strip non-prose regions from an HTML page so we don't false-match on
-// labels appearing inside SVG figures, sources, scripts, etc.
+// labels appearing inside SVG figures, sources, scripts, navigation, etc.
+//
+// What counts as "prose" for this audit: body text in paragraphs and lists.
+// What does not: headings (labels, not sentences), figure captions
+// (visual-aid text we agreed not to gloss), navigation footers (link text),
+// the sources section (bibliographic), button content (already glossed),
+// SVG (visual labels), script tags, the page head, and quoted text (because
+// it's usually a song or album title where we don't gloss).
 
 function extractProse(html) {
   let prose = html;
@@ -73,6 +80,18 @@ function extractProse(html) {
   prose = prose.replace(/<svg[\s\S]*?<\/svg>/gi, '');
   prose = prose.replace(/<button[\s\S]*?<\/button>/gi, '');
   prose = prose.replace(/<section class=["']sources["'][\s\S]*?<\/section>/gi, '');
+  // Strip headings: glossings belong in body prose, not in section labels.
+  prose = prose.replace(/<h[1-6][^>]*>[\s\S]*?<\/h[1-6]>/gi, '');
+  // Strip figure captions: the rule is no glossings inside captions, since
+  // captions accompany visual figures and link/button styling clutters them.
+  prose = prose.replace(/<figcaption[^>]*>[\s\S]*?<\/figcaption>/gi, '');
+  // Strip navigation footers: link text, not prose.
+  prose = prose.replace(/<nav[\s\S]*?<\/nav>/gi, '');
+  // Strip italicized text: in this codebase <em> is used for titles of
+  // songs, albums, films, and books, where the convention is no glossings.
+  // Trade-off: occasionally strips a real emphasis use, but the loss is
+  // small because emphasized terms inside prose are usually buttoned anyway.
+  prose = prose.replace(/<em[^>]*>[\s\S]*?<\/em>/gi, ' ');
   // Strip remaining HTML tags so we don't match against attribute values.
   prose = prose.replace(/<[^>]+>/g, ' ');
   // Decode the few HTML entities we actually use in this codebase.
@@ -82,6 +101,12 @@ function extractProse(html) {
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'");
+  // Strip text inside double quotes (straight or curly): this is almost
+  // always a song, album, or film title in this codebase, where the
+  // convention is no gloss buttons. Trade-off: occasionally strips a quoted
+  // term that should be glossed, but those are rare and usually already
+  // buttoned earlier in the page.
+  prose = prose.replace(/[\u201C"][^\u201D"]*[\u201D"]/g, ' ');
   return prose;
 }
 
@@ -149,6 +174,18 @@ function auditFile(filePath, glossary) {
   }
 
   // --- 2. Missed gloss candidates
+  // Skip this check on landing pages and the syllabus. Landing pages are
+  // navigational summaries; students hit each term on the page where it
+  // belongs (the relevant reading or listening guide). The syllabus is
+  // a one-page course overview that lists genres without analyzing them.
+  // The errors and double-button warnings above still run for these pages.
+  const fileName = path.basename(filePath);
+  const isLanding =
+    fileName === 'index.html' || fileName === 'syllabus.html';
+  if (isLanding) {
+    return issues;
+  }
+
   const prose = extractProse(html);
   const missed = [];
   for (const [key, entry] of Object.entries(glossary)) {
