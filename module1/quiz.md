@@ -2,7 +2,25 @@
 
 A short quiz covering the methodology reading, the cultural roots framing, and the four anchor tracks. Twelve questions, multiple choice, low-stakes. Students may retake the quiz as many times as they want; highest score counts.
 
-The structured version below is for reading. The "PASTE INTO CANVAS" block further down has each question in plain text, ready to paste one at a time when building the Canvas quiz. The answer key with rationales is at the very bottom for instructor reference and should not be pasted into Canvas.
+The structured version below is for reading. The "PASTE INTO CANVAS" block further down has each question in plain text, ready to paste one at a time when building the Canvas quiz. The answer key is at the very bottom for instructor reference and should not be pasted into Canvas.
+
+## Quiz introduction (paste into the Canvas quiz description box)
+
+Welcome to the Module 1 Checkpoint Quiz. This quiz is short and low-stakes. It is here to make sure the methodology reading, the cultural roots framing, and the four anchor tracks have landed before you move on to the rest of the course.
+
+A few things to know before you start:
+
+There are 12 multiple-choice questions. Plan for about 15 to 20 minutes, though you can take as long as you need. There is no time limit.
+
+You can retake this quiz as many times as you want. Your highest score is the one that counts. If you miss a question, go back to the relevant reading or listening guide, then come back and try again. The point is for you to actually learn this material, not to be punished for not knowing it on the first try.
+
+The questions cover three things: the four listening concepts from the methodology reading (timbre, texture, form, gesture), the cultural roots and traditions framing, and specific facts and contexts from the four anchor tracks (Cooke, Cruz, DeSanto, Williams). Most questions ask you to apply a concept to one of the tracks rather than just recall a definition.
+
+You should complete the readings and the listening guide before taking this quiz. The quiz is the last thing you do in Module 1, after the discussion post.
+
+If something on the quiz seems unclear or you think a question is wrong, email me. I would rather hear about it than have you stuck.
+
+Good luck.
 
 ## Questions (structured for reading)
 
@@ -232,26 +250,15 @@ d. None of the four traditions; her work sits outside the course's framing.
 
 # Answer key (instructor reference; do not paste into Canvas)
 
-Question 1: (d). A vocal sound and an orchestral arrangement are both timbre choices: they describe the quality of the sound itself. (a) is a release decision, (b) is a gesture, (c) is a formal choice.
-
-Question 2: (a). The opening of Cooke is the canonical thin-texture example used in the methodology reading's Figure 1. The Cruz opening is the dense-texture example. The DeSanto opening uses the full Chess house band, which is a denser texture though not as dense as the Fania ensemble.
-
-Question 3: (a). Form is structural (how a song is organized in time, including section types like verse and chorus). Gesture is a specific musical moment that carries weight (the voice cracking, the shout, the held note).
-
-Question 4: (a). The framing reading defined displacement as "when migration is not chosen. People are forced to move." Migration is movement; displacement is forced movement. The other distractors are not the distinction the reading drew.
-
-Question 5: (a). The framing reading argued that traditions (which are upstream of genres) make the communities and the dialogues between them visible. Genres are downstream. The other options describe other valid lenses but not what the cultural-traditions framing specifically makes visible.
-
-Question 6: (a). The framing reading explicitly named these two as the threads picked up in Module 6: Indigenous popular music (mentioning Jim Pepper, Robbie Robertson, the Halluci Nation as examples) and queer liberation (mentioning the disco era, the AIDS crisis, contemporary artists like Frank Ocean).
-
-Question 7: (a). The Cooke listening guide established this. The Louisiana motel incident is a documented historical fact and a key piece of context for the song.
-
-Question 8: (a). The Cruz listening guide established the Pan-Latin nature of the Fania All-Stars. (b) is wrong because Fania was a Pan-Latin label, not a Cuban exile band. (c) and (d) are wrong because Fania was a recording label and the All-Stars toured and recorded extensively.
-
-Question 9: (a). From the DeSanto listening guide: Filipino and African American, raised in San Francisco, signed to Chess Records in Chicago in the early 1960s.
-
-Question 10: (a). From the Williams listening guide: Tee Tot was Rufus Payne, a Black street musician who taught Williams blues phrasing and guitar techniques during Williams's youth in Alabama. Williams himself acknowledged the influence; later country music history often did not.
-
-Question 11: (a). Cooke's track is the African American foundational traditions example among the four. The other tracks represent the other three traditions: Cruz for Latin diasporic, DeSanto for Asian American (in dialogue with Black R&B), Williams for European American working-class.
-
-Question 12: (a). DeSanto, as Filipino and African American, sits at the intersection of Asian American traditions and African American R&B. The framing reading and the listening guide both name her work as part of the Asian American thread of the course (alongside Joe Bataan, the Invisibl Skratch Piklz, and others), with the African American R&B context that her career also belongs to.
+- **Q1: d.** A vocal sound and an orchestral arrangement are both timbre choices; they describe the quality of the sound itself. (a) is a release decision, (b) is a gesture, (c) is a formal choice.
+- **Q2: a.** The Cooke opening is the canonical thin-texture example used in the methodology reading's Figure 1. The Cruz opening is the dense-texture example. The DeSanto opening uses the full Chess house band, which is a denser texture though not as dense as the Fania ensemble.
+- **Q3: a.** Form is structural (how a song is organized in time, including section types like verse and chorus). Gesture is a specific musical moment that carries weight (the voice cracking, the shout, the held note).
+- **Q4: a.** The framing reading defined displacement as migration that is not chosen. Migration is movement; displacement is forced movement. The other distractors are not the distinction the reading drew.
+- **Q5: a.** The framing reading argued that traditions (which are upstream of genres) make the communities and the dialogues between them visible. Genres are downstream. The other options describe other valid lenses but not what the cultural-traditions framing specifically makes visible.
+- **Q6: a.** The framing reading explicitly named these two as the threads picked up in Module 6: Indigenous popular music (Jim Pepper, Robbie Robertson, the Halluci Nation as examples) and queer liberation (the disco era, the AIDS crisis, contemporary artists like Frank Ocean).
+- **Q7: a.** The Cooke listening guide established this. The Louisiana motel incident is a documented historical fact and a key piece of context for the song.
+- **Q8: a.** The Cruz listening guide established the Pan-Latin nature of the Fania All-Stars. (b) is wrong because Fania was a Pan-Latin label, not a Cuban exile band. (c) and (d) are wrong because Fania was a recording label and the All-Stars toured and recorded extensively.
+- **Q9: a.** From the DeSanto listening guide: Filipino and African American, raised in San Francisco, signed to Chess Records in Chicago in the early 1960s.
+- **Q10: a.** From the Williams listening guide: Tee Tot was Rufus Payne, a Black street musician who taught Williams blues phrasing and guitar techniques during Williams's youth in Alabama. Williams himself acknowledged the influence; later country music history often did not.
+- **Q11: a.** Cooke's track is the African American foundational traditions example among the four. The other tracks represent the other three traditions: Cruz for Latin diasporic, DeSanto for Asian American (in dialogue with Black R&B), Williams for European American working-class.
+- **Q12: a.** DeSanto, as Filipino and African American, sits at the intersection of Asian American traditions and African American R&B. The framing reading and the listening guide both name her work as part of the Asian American thread of the course (alongside Joe Bataan, the Invisibl Skratch Piklz, and others), with the African American R&B context that her career also belongs to.
