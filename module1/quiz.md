@@ -136,151 +136,151 @@ d. None of the four traditions; her work sits outside the course's framing.
 
 # PASTE INTO CANVAS BELOW THIS LINE
 
-Each question is below in plain text, ready to copy one at a time. Question stem, then four answer choices labeled a through d, each on its own line. The correct answer for each is in the answer key at the very bottom of this file (do not paste the answer key into Canvas).
+Each question is below in plain text, ready to copy one at a time. Question stem, then four answer choices, each on its own line, unlabeled (so you can paste each one straight into Canvas's answer fields without having to delete the letter prefix). The correct answer for each is in the answer key at the very bottom of this file (do not paste the answer key into Canvas).
 
 QUESTION 1
 
 In the methodology reading, the term "timbre" was defined as the quality or color of a sound. Which of the following is best described as a timbre choice?
 
-a. Sam Cooke's decision to release "A Change Is Gonna Come" as a single in 1964.
+Sam Cooke's decision to release "A Change Is Gonna Come" as a single in 1964.
 
-b. The way Sugar Pie DeSanto sometimes shouts a line rather than singing it.
+The way Sugar Pie DeSanto sometimes shouts a line rather than singing it.
 
-c. The fact that Hank Williams's song has three verses and no chorus.
+The fact that Hank Williams's song has three verses and no chorus.
 
-d. The use of a smoky, gospel-trained vocal sound on a song with orchestral strings.
+The use of a smoky, gospel-trained vocal sound on a song with orchestral strings.
 
 QUESTION 2
 
 Which of these openings is the clearest example of a thin texture, in the sense the methodology reading uses the term?
 
-a. The opening of Sam Cooke's "A Change Is Gonna Come," with strings underneath and lead vocal above.
+The opening of Sam Cooke's "A Change Is Gonna Come," with strings underneath and lead vocal above.
 
-b. The opening of Fania All-Stars with Cruz's "Quimbara," with multiple percussion instruments, horns, piano, bass, and chorus all entering close together.
+The opening of Fania All-Stars with Cruz's "Quimbara," with multiple percussion instruments, horns, piano, bass, and chorus all entering close together.
 
-c. The opening of Sugar Pie DeSanto's "I Don't Wanna Fuss," with the full Chess house band already playing.
+The opening of Sugar Pie DeSanto's "I Don't Wanna Fuss," with the full Chess house band already playing.
 
-d. None of the above; all four anchor tracks open with dense textures.
+None of the above; all four anchor tracks open with dense textures.
 
 QUESTION 3
 
 The methodology reading distinguishes "form" from "gesture." Which pair below correctly identifies one of each?
 
-a. Form: the verse-chorus-bridge structure of a song. Gesture: the moment a singer's voice cracks on a particular line.
+Form: the verse-chorus-bridge structure of a song. Gesture: the moment a singer's voice cracks on a particular line.
 
-b. Form: the moment a singer's voice cracks. Gesture: the verse-chorus-bridge structure.
+Form: the moment a singer's voice cracks. Gesture: the verse-chorus-bridge structure.
 
-c. Both examples are gestures. Form is something else entirely.
+Both examples are gestures. Form is something else entirely.
 
-d. Both examples are forms. Gesture is something else entirely.
+Both examples are forms. Gesture is something else entirely.
 
 QUESTION 4
 
 The framing reading distinguished migration from displacement. The difference between them is best described as:
 
-a. Migration is voluntary movement; displacement is when people are forced to move.
+Migration is voluntary movement; displacement is when people are forced to move.
 
-b. Migration involves crossing national borders; displacement happens within a single country.
+Migration involves crossing national borders; displacement happens within a single country.
 
-c. Migration is a modern phenomenon; displacement is historical.
+Migration is a modern phenomenon; displacement is historical.
 
-d. There is no meaningful difference; the words mean the same thing.
+There is no meaningful difference; the words mean the same thing.
 
 QUESTION 5
 
 The framing reading argued that organizing the course around cultural traditions (rather than genres or decades) lets us see something specific. What does this framing make most visible?
 
-a. The communities that made the music and the dialogues between those communities.
+The communities that made the music and the dialogues between those communities.
 
-b. The chronological order in which different styles emerged.
+The chronological order in which different styles emerged.
 
-c. Which artists were most commercially successful in their era.
+Which artists were most commercially successful in their era.
 
-d. The technical innovations in recording and production that shaped each era.
+The technical innovations in recording and production that shaped each era.
 
 QUESTION 6
 
 Two important threads run across multiple modules and get focused attention in Module 6 (the synthesis module) rather than in their own dedicated modules. These threads are:
 
-a. Indigenous popular music and queer liberation.
+Indigenous popular music and queer liberation.
 
-b. Country music and folk music.
+Country music and folk music.
 
-c. Hip hop and electronic dance music.
+Hip hop and electronic dance music.
 
-d. Jazz and blues.
+Jazz and blues.
 
 QUESTION 7
 
 Sam Cooke wrote "A Change Is Gonna Come" partly in response to:
 
-a. A specific incident in 1963 in which Cooke and his bandmates were turned away from a whites-only motel in Louisiana.
+A specific incident in 1963 in which Cooke and his bandmates were turned away from a whites-only motel in Louisiana.
 
-b. The assassination of John F. Kennedy.
+The assassination of John F. Kennedy.
 
-c. Hearing Aretha Franklin sing for the first time.
+Hearing Aretha Franklin sing for the first time.
 
-d. A request from Martin Luther King Jr. for a civil rights anthem.
+A request from Martin Luther King Jr. for a civil rights anthem.
 
 QUESTION 8
 
 The Fania All-Stars, the ensemble that recorded "Quimbara" with Celia Cruz live in Zaire in 1974, were:
 
-a. A Pan-Latin ensemble made up of Cuban, Puerto Rican, Dominican, Panamanian, and other Latin American musicians signed to Fania Records.
+A Pan-Latin ensemble made up of Cuban, Puerto Rican, Dominican, Panamanian, and other Latin American musicians signed to Fania Records.
 
-b. A Cuban band that left Cuba together after the 1959 revolution.
+A Cuban band that left Cuba together after the 1959 revolution.
 
-c. The house band at a single nightclub in New York City.
+The house band at a single nightclub in New York City.
 
-d. A studio orchestra assembled only for that one Zaire 74 performance.
+A studio orchestra assembled only for that one Zaire 74 performance.
 
 QUESTION 9
 
 Sugar Pie DeSanto sits at an intersection of several identities and musical traditions. Which combination most accurately describes her?
 
-a. Filipino and African American, raised in San Francisco, recorded for Chess Records in Chicago.
+Filipino and African American, raised in San Francisco, recorded for Chess Records in Chicago.
 
-b. Cuban and African American, raised in Miami, recorded for Atlantic Records.
+Cuban and African American, raised in Miami, recorded for Atlantic Records.
 
-c. Mexican American, raised in Texas, recorded for Sun Records.
+Mexican American, raised in Texas, recorded for Sun Records.
 
-d. African American, raised in Chicago, recorded for Motown.
+African American, raised in Chicago, recorded for Motown.
 
 QUESTION 10
 
 In the Hank Williams listening guide, you encountered a Black street musician in Alabama named Rufus Payne, called "Tee Tot," who:
 
-a. Taught Williams blues phrasing and guitar techniques during Williams's youth.
+Taught Williams blues phrasing and guitar techniques during Williams's youth.
 
-b. Wrote "I'm So Lonesome I Could Cry" and sold the song to Williams.
+Wrote "I'm So Lonesome I Could Cry" and sold the song to Williams.
 
-c. Played in Williams's touring band throughout the 1940s.
+Played in Williams's touring band throughout the 1940s.
 
-d. Recorded the original version of the song before Williams.
+Recorded the original version of the song before Williams.
 
 QUESTION 11
 
 Of the four Module 1 anchor tracks, which one most directly represents the African American foundational traditions thread of the course?
 
-a. Sam Cooke, "A Change Is Gonna Come."
+Sam Cooke, "A Change Is Gonna Come."
 
-b. Hank Williams, "I'm So Lonesome I Could Cry."
+Hank Williams, "I'm So Lonesome I Could Cry."
 
-c. Fania All-Stars with Cruz, "Quimbara."
+Fania All-Stars with Cruz, "Quimbara."
 
-d. All four tracks represent that thread equally.
+All four tracks represent that thread equally.
 
 QUESTION 12
 
 The four Module 1 anchor tracks together preview the course's four cultural traditions. Which tradition is represented by Sugar Pie DeSanto's "I Don't Wanna Fuss"?
 
-a. Asian American traditions, in dialogue with African American R&B.
+Asian American traditions, in dialogue with African American R&B.
 
-b. European American immigrant and working-class traditions.
+European American immigrant and working-class traditions.
 
-c. Latin diasporic traditions.
+Latin diasporic traditions.
 
-d. None of the four traditions; her work sits outside the course's framing.
+None of the four traditions; her work sits outside the course's framing.
 
 ---
 
