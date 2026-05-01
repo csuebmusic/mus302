@@ -41,6 +41,8 @@ mus302/
     track2-cruz.html        Listening guide: Fania All-Stars with Celia Cruz
     track3-desanto.html     Listening guide: Sugar Pie DeSanto
     track4-williams.html    Listening guide: Hank Williams
+    discussion.md           Markdown source for the Module 1 discussion (Canvas)
+    quiz.md                 Markdown source for the Module 1 checkpoint quiz (Canvas)
 ```
 
 Modules 2 through 6 will follow the same pattern as `module1/`,
@@ -94,11 +96,25 @@ is a shared file that grows as new pages are added.
 
 **Sources sections.** Student-facing bibliographic entries with
 brief descriptive parentheticals. No instructor-facing notes
-(verification flags, pedagogical justifications, things to revisit).
-Those stay in the Word planning docs and never enter the live HTML.
+(verification flags, pedagogical justifications, things to revisit)
+in the live HTML; those live in commit messages or in dedicated
+planning markdown when needed.
 
-**Direct quotes.** Under fifteen words each, one quote per source
-maximum, paraphrase as default. Scholars and journalists named in
+**Internal sourcing (for the assistant).** Every factual claim in
+student-facing course content needs to be grounded in at least one
+source. That includes dates, biographical facts, musical analyses,
+historical context, and attributed statements. No claims from
+training-data memory alone, even confident-feeling ones. Search
+before writing rather than after; if a claim cannot be sourced,
+drop it or flag it for verification before publishing.
+
+**Direct quotes.** Free. Use quotation when a real voice serves the
+writing better than paraphrase, paraphrase when paraphrase is clearer
+or more efficient. Multiple quotes from a single source are fine when
+each does distinct work. No hard length ceiling, though extended block
+quotes should still be used sparingly. The internal sourcing rule
+still applies: every quote needs a real, verifiable source attached.
+Scholars and journalists named in
 prose ("Mark Burford has argued...", "biographer Peter Guralnick"),
 full bibliographic info in the Sources section.
 
@@ -125,14 +141,12 @@ of truth either way.
 
 ## Working with this repo
 
-The Word documents in the project (welcome, methodology reading,
-framing reading, content notice template, syllabus) are planning
-artifacts, not source material that gets ported verbatim. They
-hold initial drafts plus instructor-facing notes, verification
-flags, and pedagogical commentary. The HTML pages are written
-fresh from the Word drafts with student-facing language only.
-When the Word planning docs and the live HTML diverge, the live
-HTML is authoritative.
+The repo holds everything: HTML for student-facing pages, Markdown
+source for Canvas-delivered content (quizzes, discussions), shared
+assets, and planning notes when they exist. When student-facing
+content needs revision, edit the HTML directly. When Canvas content
+needs revision, edit the Markdown file and copy from its paste block
+into Canvas.
 
 The glossary file is shared across every page. When you add new
 glossings on a new page, append the new term definitions to
@@ -165,10 +179,8 @@ Kendrick Lamar's "Alright" and Bad Bunny's "El Apag\u00f3n" as
 Module 1 anchor tracks (six total). Those two were moved to Module
 6 (synthesis), where they fit the contemporary cross-tradition
 framing better. Module 1 now has four anchor tracks: Cooke, Cruz,
-DeSanto, Williams. The Word planning docs in the project may still
-reference the older six-track structure; the live HTML is
-authoritative. The same applies to the Module 1 content notice,
-which was rewritten to cover only the four current tracks.
+DeSanto, Williams. The Module 1 content notice was rewritten to
+cover only the four current tracks.
 
 **Glossings: aggressive but not exhaustive.** The convention is to
 gloss specialized terms a non-majors student might not know that
