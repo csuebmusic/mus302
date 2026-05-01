@@ -52,6 +52,9 @@ mus302/
     03-draft.md                      Markdown source for the Full Draft assignment (Canvas)
     04-peer-review.md                Markdown source for the Peer Review assignment (Canvas)
     05-final.md                      Markdown source for the Final Submission (Canvas)
+
+  scripts/
+    check-glossings.js               Audit script for gloss-button coverage (run before commit)
 ```
 
 Modules 2 through 6 will follow the same pattern as `module1/`,
@@ -182,6 +185,19 @@ The glossary file is shared across every page. When you add new
 glossings on a new page, append the new term definitions to
 `assets/glossary-data.js`. Sections in the glossary are organized
 roughly by the page or theme that introduced the term.
+
+Before committing changes to a glossable HTML page or to the
+glossary file, run `node scripts/check-glossings.js` to audit
+gloss-button coverage. The script flags three things: buttons
+that reference a `data-term` not in the glossary (a hard error,
+the page is broken); the same `data-term` used more than once
+on a page (a warning, since the convention is "first substantive
+mention only"); and glossary labels that appear in the prose but
+are not buttoned anywhere on the page (a warning, in case the
+gloss got missed). Pass a single file or directory to limit the
+audit. Some warnings on already-shipped Module 1 pages are
+intentional or low-priority cleanup; what matters is that new
+pages come back clean before they ship.
 
 GitHub Pages rebuilds within a minute or two of a push to `main`.
 Live changes appear at https://csuebmusic.github.io/mus302/ shortly
