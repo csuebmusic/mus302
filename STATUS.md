@@ -130,6 +130,18 @@ should preserve any track-specific content from the earlier
 entries before deleting them. Not urgent. Worth doing as part
 of one of the upcoming modules.
 
+The gloss-audit script (`scripts/check-glossings.js`, added in
+the same session that built the Module 2 framing reading)
+surfaced cleanup opportunities on already-shipped Module 1
+pages: double-buttoned vocabulary on `track2-cruz.html`
+(guaracha, improvisation, call-and-response, montuno, clave,
+tumbao, coro, sonero, azucar) and `track4-williams.html`
+(anglo-celtic, rufus-payne, steel-guitar, fiddle); a few missed
+glosses on `cultural-roots.html`, `how-to-listen.html`, and
+`module1/index.html`. These are intentional or low-priority and
+not blocking new work; new pages should pass the audit cleanly
+before they ship.
+
 **Syllabus revisions, if any.** Not flagged yet.
 
 ## Decisions made and locked
