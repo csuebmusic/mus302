@@ -1110,6 +1110,26 @@ var GLOSSARY = {
   "black-power": {
     label: "Black Power",
     definition: "A political and cultural movement that emerged in the mid-1960s as a challenge to the integrationist mainstream of the civil rights movement, calling instead for Black self-determination, racial pride, economic and political autonomy, and a reckoning with anti-Black violence. Stokely Carmichael popularized the phrase in 1966; the Black Panther Party, founded that same year, became its most visible organization. The Black Power moment shaped the music, fashion, hairstyles, and visual aesthetics of late-1960s and early-1970s Black popular culture, including James Brown\u2019s \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud.\u201d"
+  },
+
+  "black-panthers": {
+    label: "Black Panther Party",
+    definition: "A revolutionary Black political organization founded in Oakland, California in 1966 by Huey P. Newton and Bobby Seale. The Panthers organized armed community self-defense against police violence, ran free breakfast programs and health clinics, and became the most visible face of the Black Power movement. The party\u2019s visual aesthetic (black leather jackets, black berets, raised fists) became globally recognizable. Beyonc\u00e9\u2019s 2016 Super Bowl halftime performance of \u201cFormation\u201d featured a backing troupe in black leather and berets, an explicit visual citation of the Panthers."
+  },
+
+  "beyonce": {
+    label: "Beyonc\u00e9",
+    definition: "Beyonc\u00e9 Knowles-Carter (born 1981 in Houston, Texas), American singer, songwriter, performer, and producer. After early success with the group Destiny\u2019s Child in the late 1990s and early 2000s, she became one of the defining solo artists of her generation, particularly with the visual albums Beyonc\u00e9 (2013) and Lemonade (2016). Her work draws explicitly on Black Southern, gospel, R&amp;B, hip hop, and Afro-diasporic traditions, and increasingly engages Black political themes (\u201cFormation,\u201d the Lemonade film, the country album Cowboy Carter) directly. She is one of Module 2\u2019s anchor artists."
+  },
+
+  "grandmaster-flash": {
+    label: "Grandmaster Flash and the Furious Five",
+    definition: "A pioneering hip hop group from the South Bronx, New York, active from the late 1970s. Grandmaster Flash (Joseph Saddler, born 1958 in Barbados, raised in the Bronx) is one of hip hop\u2019s foundational DJs, credited with developing techniques like the quick mix and the backspin that turned the turntables into an instrument. The Furious Five were the group\u2019s MCs: Melle Mel, Cowboy, Kid Creole, Mr. Ness/Scorpio, and Rahiem. Their 1982 record \u201cThe Message,\u201d the fourth anchor track of this module, is widely cited as the moment hip hop turned from party music to social commentary."
+  },
+
+  "whitney-houston": {
+    label: "Whitney Houston",
+    definition: "American singer (1963\u20132012), born in Newark, New Jersey, into a family of singers (her mother Cissy Houston was a leading gospel and session vocalist; her cousin Dionne Warwick and her godmother Aretha Franklin were both major recording artists). Houston was trained in church before she was trained anywhere else, and her vocal technique drew on the gospel runs and melisma of the Black Protestant tradition. She became one of the best-selling artists of all time, with a string of pop and R&amp;B hits in the late 1980s and 1990s. Her career is a clear example of gospel-trained vocal craft moving into mainstream secular pop."
   }
 
 };

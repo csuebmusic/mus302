@@ -196,6 +196,27 @@ new module work:
    Cruz's track. If it gets noisy, a per-file skip annotation
    could be added to the script.
 
+6. *`house-band` in Module 2 labels-list table.* The Stax row in
+   `module2/roots-and-routes.html` mentions "racially integrated
+   house band (Booker T. & the M.G.'s)" without a gloss button.
+   The gloss is intentionally omitted: a dotted-underline button
+   inside the narrow monospace table cell rendered awkwardly,
+   and the term is contextually clear once the named example
+   follows. The audit will continue to flag this as a missed
+   gloss; it's a known intentional skip. The `house-band` term
+   remains glossed in Module 1 (track3-desanto and track4-williams,
+   in regular prose where the visual issue does not arise) and
+   should be glossed in any future Stax-track listening guide.
+
+7. *`beyonce` first-mention skip in Module 2.* Beyoncé is glossed
+   at first substantive mention in `module1/cultural-roots.html`
+   (in the Cowboy Carter sentence). The reading mentions her again
+   in `module2/roots-and-routes.html` (sacred-secular section, end
+   of "What's coming" section, figure-3 figcaption) but, per the
+   first-mention rule, those subsequent mentions are not glossed.
+   The audit will flag the sacred-secular mention as a missed
+   gloss; it's a known intentional skip.
+
 **Module 1 gloss audit cleanup is complete.** All six Module 1
 pages were re-audited and cleaned: doubles removed where the term
 was first-glossed in the context section, missed glosses added at
