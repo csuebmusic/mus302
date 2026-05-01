@@ -6,10 +6,11 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that completed Module 1 gloss
-cleanup across all six pages. Module 2 framing reading is the
-most recent new student-facing material; Modules 3-6 still
-unstarted.
+Last updated: end of the session that resolved Module 1 image
+rights / Module 2 framing-reading editorial pass / glossary
+housekeeping items 1 through 5. Module 2 framing reading,
+landing page, and Bessie Smith stub all live; the four other
+listening guides, discussion, and quiz still pending.
 
 ## Term and dates
 
@@ -41,21 +42,44 @@ reviewed.
   guide at the first substantive prose mention.
 
 **Module 2: African American foundational traditions.** Partial.
+- `module2/index.html`: landing page following the Module 1 pattern.
+  Lists the framing reading and five listening guides in
+  chronological order, plus the discussion and quiz. Includes a
+  brief note that Module 2 is arranged chronologically (different
+  from Module 1's cross-cultural arrangement), the combined
+  Modules 2-5 deadline (July 19), content advisory, and instructor
+  contact info.
 - `module2/roots-and-routes.html`: the framing reading.
   Five sections (what foundational means, roots in spirituals
   and the blues, routes via Great Migration and recording
   industry, sacred-secular crossover, modes of political work).
-  Embedded SVG lineage diagram from spirituals through hip hop
-  with the five anchor tracks placed at their nodes.
-- Cross-links to Module 1's Cooke listening guide at two
-  substantive prose mentions.
-- New glossary entries added: 22 terms in the Module 2 section
-  of `assets/glossary-data.js`, including spirituals,
-  west-african-music, field-hollers, ring-shouts, reconstruction,
-  bent-notes, juke-joints, funk, motown, mississippi-delta,
-  chicago-blues, thomas-dorsey, pentecostal, sacred-music,
-  vocal-runs, testifying, cipher, mc, sampling, backbeat,
-  downbeat, black-power. The shared glossary is now 197 terms.
+  Three figures: a Great Migration map (Blair Tinker / Antiracist
+  Curriculum Project, sourced from Clarissa Uprooted, attributed
+  in the figcaption and flagged for image-rights verification
+  before launch), a curated 12-row labels list (Black Swan, Okeh,
+  Columbia, Decca, Atlantic, Vee-Jay, Chess, Motown, King, Stax,
+  Sun, Specialty), and a lineage SVG diagram from spirituals
+  through hip hop with the five anchor tracks placed at their
+  nodes. Cross-links to Module 1's Cooke listening guide at two
+  substantive prose mentions. Per-track paragraphs in the closing
+  "What's coming" section make the chronological structure
+  scannable.
+- `module2/track1-bessie-smith.html`: stub. Resolves the broken
+  nav-footer link from the framing reading. Will be replaced with
+  the full listening guide in the next session.
+- New glossary entries added across recent sessions covering
+  Module 2 vocabulary: spirituals, west-african-music,
+  field-hollers, ring-shouts, reconstruction, bent-notes,
+  juke-joints, funk, motown, mississippi-delta, chicago-blues,
+  thomas-dorsey, pentecostal, sacred-music, vocal-runs,
+  testifying, cipher, mc, sampling, backbeat, downbeat,
+  black-power, black-panthers, beyonce, whitney-houston,
+  grandmaster-flash, jazz. Glossary now at 201 entries (the
+  housekeeping pass dropped duplicate blues and country-music
+  entries and merged son/son-cubano into one, then added jazz;
+  earlier in the session beyonce, whitney-houston,
+  grandmaster-flash, and black-panthers had been added for the
+  framing-reading editorial pass).
 
 **Final project module.** Fully built.
 - `final-project/index.html`: student-facing landing page with
@@ -70,17 +94,18 @@ reviewed.
 
 ## What is pending
 
-**Module 2 (rest of it).** The framing reading is done; the
-landing page, five listening guides, discussion, and quiz are
-not yet drafted.
-- `module2/index.html`: landing page following the Module 1
-  pattern. Should list the framing reading, the five listening
-  guides in chronological order, the discussion, and the quiz.
+**Module 2 (rest of it).** The framing reading and landing page
+are done; the five listening guides, discussion, and quiz are
+not yet drafted. `module2/track1-bessie-smith.html` exists as
+a stub to resolve the broken nav-footer link from the framing
+reading; replace with the full listening guide.
+
 - Listening guides for the five anchor tracks, in chronological
   order:
   Track 1: Bessie Smith with Louis Armstrong, "St. Louis Blues"
     (1925). Recorded blues anchor; predates the formal 1940s
-    start of the course but anchors the lineage.
+    start of the course but anchors the lineage. Currently a
+    stub; full guide is the next deliverable.
   Track 2: Sister Rosetta Tharpe, "Strange Things Happening
     Every Day" (1944). Gospel-to-rock pivot; Black queer woman
     written back into rock origin.
@@ -223,16 +248,14 @@ Remaining known intentional skips (audit warnings to live with):
    that has spread out from a homeland..."). Deliberate
    pedagogical choice. The audit flags it; intentional skip.
 
-**Module 1 gloss audit cleanup is complete.** All six Module 1
-pages were re-audited and cleaned: doubles removed where the term
-was first-glossed in the context section, missed glosses added at
-first prose mention. The `module1/index.html` landing page is now
-explicitly out of scope for the audit (landing pages are
-navigational summaries; the README "Where glossings do not go"
-section formalizes this rule). Final repo-wide audit shows 0
-errors, 5 warnings, all known intentional (the four items in the
-list above plus "diaspora" defined in extended prose on
-`cultural-roots.html`).
+**Repo-wide audit state.** 12 files, 0 errors, 2 warnings. Both
+warnings are documented as intentional skips above (items 6 and
+7 in the glossary housekeeping list: Stax house-band rendering
+and diaspora extended-prose definition). The `module1/index.html`
+and `module2/index.html` landing pages are explicitly out of
+scope for missed-gloss flagging because landing pages are
+navigational summaries; this is formalized in the README's
+"Where glossings do not go" section.
 
 **Syllabus revisions, if any.** Not flagged yet.
 
