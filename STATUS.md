@@ -126,6 +126,29 @@ the course. Most natural fits are Module 5's Brill Building
 section (she covered Goffin/King) or as a deep cut in Module 6.
 To be decided when those modules get built.
 
+**Image rights to verify before launch.** Two items, same
+defensible-educational-use category as the KQED/Getty editorial
+photos already in the course:
+
+1. *Module 2 Great Migration map* (`assets/images/great-migration-map.jpg`,
+   used in `module2/roots-and-routes.html` Figure 1). Map by Blair
+   Tinker for the Pathstone Antiracist Curriculum Project, sourced
+   from Clarissa Uprooted (Teen Empowerment, Rochester NY,
+   clarissauprooted.org). The Antiracist Curriculum Project / RIT /
+   University of Rochester ecosystem describes the materials as
+   freely available for educator use ("we don't want to gate keep
+   any of this information," per co-executive director Kesha James,
+   WXXI 2023). Source site has a generic All Rights Reserved
+   notice. Used with full attribution. Before the course goes
+   live, contact the Antiracist Curriculum Project (likely through
+   info@arcjustice.org or the Clarissa Uprooted team via
+   ClarissaUprooted@teenempowerment.org) for explicit
+   permission, or swap for a public-domain alternative.
+
+2. *Module 1 hero photos.* Editorial-use copyrighted photos from
+   KQED, Getty, and similar (already noted in the README photo
+   convention). Same flag-before-launch rule.
+
 **Glossary housekeeping.** Several known cleanups, none blocking
 new module work:
 
