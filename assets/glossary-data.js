@@ -1010,6 +1010,106 @@ var GLOSSARY = {
   "west-african-music": {
     label: "West African musical practice",
     definition: "A broad set of musical traditions from the regions of West Africa from which most enslaved people were trafficked to the Americas. These traditions emphasize layered, polyrhythmic percussion, call-and-response between a leader and a group, the use of voice as a percussive instrument, the close relationship between singing and speaking, and music as something a community makes together rather than something a few professionals perform for an audience. Almost every formal feature of Black popular music in the United States, from the blues forward, has roots in these practices."
+  },
+
+  "field-hollers": {
+    label: "Field hollers",
+    definition: "Solo, unaccompanied calls sung by enslaved and later sharecropping African Americans while working in the fields. A holler typically used long, sustained notes, slides between pitches, and a half-sung half-shouted vocal quality, sometimes to communicate across a distance and sometimes simply to make the work bearable. Field hollers are one of the direct musical sources of the blues."
+  },
+
+  "ring-shouts": {
+    label: "Ring shouts",
+    definition: "A counterclockwise circle dance combined with call-and-response singing, hand-clapping, and foot-stamping, practiced by enslaved African Americans and their descendants in religious settings. The ring shout fused West African circle-dance and ancestor-honoring traditions with Christian worship, and it is one of the earliest forms in which African musical practice was preserved and developed in North America. Many features of later Black popular music (the centrality of rhythm, the leader-group exchange, the ecstatic vocal performance) have roots here."
+  },
+
+  "reconstruction": {
+    label: "Reconstruction",
+    definition: "The period after the U.S. Civil War, roughly 1865 to 1877, when the federal government attempted to rebuild the defeated Southern states and integrate formerly enslaved Black Americans into civic and political life. Black Southerners briefly held office, voted in large numbers, and built schools and churches. Reconstruction ended with the federal withdrawal of troops in 1877, after which Southern white governments imposed Jim Crow laws and the systematic disenfranchisement and racial terror that followed. The blues took shape in the conditions Reconstruction failed to prevent."
+  },
+
+  "bent-notes": {
+    label: "Bent notes",
+    definition: "A vocal or instrumental technique in which a pitch is slid into, away from, or between the standard notes of the Western scale, producing the characteristic in-between pitches of the blues, gospel, and most Black popular music that came after them. On a guitar, you bend a note by pushing the string sideways while it sounds; with the voice, you slide the pitch with the muscles of the throat. Bent notes carry feeling that the fixed pitches of the piano cannot."
+  },
+
+  "juke-joints": {
+    label: "Juke joints",
+    definition: "Informal Black-run music venues, common in the rural South from roughly the 1920s onward, where Black audiences gathered to drink, dance, and hear live blues. Often roadhouses, converted homes, or rough wooden buildings on the outskirts of towns or plantations, juke joints existed outside the white-policed mainstream entertainment industry, and they were where most early blues musicians actually played. The recorded blues that reached white audiences through the race-records market was always a more polished version of what was happening in the joints."
+  },
+
+  "funk": {
+    label: "Funk",
+    definition: "A style of Black popular music that took shape in the mid-to-late 1960s, primarily through James Brown\u2019s shift from the backbeat-emphasis of soul to a heavy emphasis on the downbeat (\u201cthe One\u201d). Funk treats every instrument, including horns and voice, as a percussion instrument, and it builds songs out of repeating, interlocking rhythmic patterns rather than chord progressions. Funk is the rhythmic foundation of most hip hop and a great deal of contemporary R&B and pop."
+  },
+
+  "motown": {
+    label: "Motown Records",
+    definition: "A Detroit-based record label founded by Berry Gordy in 1959 that became the most commercially successful Black-owned company of the 1960s and the dominant producer of Black popular music in that decade. Motown\u2019s artists included the Supremes, the Temptations, Marvin Gaye, Stevie Wonder, the Jackson 5, and Smokey Robinson. The label\u2019s sound (polished, song-driven, built around a tight in-house rhythm section) shaped what mainstream pop sounded like for a generation."
+  },
+
+  "mississippi-delta": {
+    label: "Mississippi Delta",
+    definition: "The flat, fertile region of northwest Mississippi between the Mississippi and Yazoo rivers, where cotton plantations relied on enslaved and later sharecropping Black labor for over a century. The Delta is the historical home of country blues: musicians like Robert Johnson, Charley Patton, and Son House developed the form there in the 1920s and 1930s. As Delta musicians moved north during the Great Migration, the Delta blues fed directly into the electric Chicago blues of the 1940s and 1950s."
+  },
+
+  "chicago-blues": {
+    label: "Chicago blues",
+    definition: "An electrified, ensemble-driven version of the blues that took shape in Chicago in the 1940s and 1950s as Mississippi musicians who had moved north during the Great Migration adapted the country blues to the louder, faster, urban environment. The classic Chicago blues lineup features electric guitar, amplified harmonica, electric bass, drums, and sometimes piano. Muddy Waters, Howlin\u2019 Wolf, Little Walter, and Willie Dixon are central figures; Chess Records was the central label."
+  },
+
+  "thomas-dorsey": {
+    label: "Thomas A. Dorsey (1899\u20131993)",
+    definition: "An African American songwriter and bandleader called \u201cthe Father of Gospel Music.\u201d Dorsey began his career in the 1920s as a successful blues pianist and composer (sometimes recording under the name \u201cGeorgia Tom\u201d), then turned to sacred music in the late 1920s and brought blues feeling, bent notes, and rhythmic drive into the church. His hymns, including \u201cTake My Hand, Precious Lord\u201d and \u201cPeace in the Valley,\u201d became foundational to the gospel repertoire and to the soul music that followed."
+  },
+
+  "pentecostal": {
+    label: "Pentecostal",
+    definition: "A branch of Protestant Christianity that emphasizes direct experience of the Holy Spirit through ecstatic worship, including speaking in tongues, healing, and energetic music-making with full congregational participation. Pentecostal churches emerged in the early twentieth century, with the Church of God in Christ (founded 1897) becoming the largest historically Black Pentecostal denomination. The musical practices nurtured in Pentecostal worship\u2014loud, rhythmic, instrumentally rich, vocally extravagant\u2014shaped much of twentieth-century Black popular music. Sister Rosetta Tharpe was raised in this tradition."
+  },
+
+  "sacred-music": {
+    label: "Sacred and secular music",
+    definition: "Sacred music is music made for religious worship and reflection (in the Black American context, this means spirituals, gospel, and church hymns). Secular music is music made for everyday life outside of worship (love songs, dance music, pop, blues lyrics about work and heartbreak). The distinction matters because Black popular music in the twentieth century is constantly moving between the two: gospel singers crossing over to secular careers, secular artists going back to the church for vocal training, gospel form showing up in pop hits. The sacred and the secular are technically separate categories, but in practice they have always shaped each other."
+  },
+
+  "vocal-runs": {
+    label: "Vocal runs",
+    definition: "A sequence of rapidly sung pitches over a single syllable, common in gospel, soul, R&B, and contemporary pop. A run differs from melisma in that it is usually quicker, more virtuosic, and often improvised on the spot rather than written into the melody. Singers like Aretha Franklin, Whitney Houston, Mariah Carey, and Beyonc\u00e9 are known for highly developed runs that they typically learned in church before they ever recorded."
+  },
+
+  "testifying": {
+    label: "Testifying",
+    definition: "In the Black Protestant church tradition, the practice of speaking or singing publicly about one\u2019s personal experience of God, faith, or struggle, often in an emotionally direct, exhortative voice that moves between speech and song. The testifying voice (preacher, gospel singer, soul singer, MC) carries a specific authority: the speaker bears witness to something true. Testifying as a vocal mode shows up across Black popular music, from the way James Brown delivers a vocal to the way a hip hop verse claims first-person authority."
+  },
+
+  "cipher": {
+    label: "Cipher",
+    definition: "In hip hop, a circular gathering of rappers (or breakdancers, or other hip hop practitioners) who take turns performing for and to one another. The cipher is part competition, part collaboration, and part communal celebration. Structurally it is a call-and-response form: each MC\u2019s verse responds to what came before and sets up what comes next. The cipher\u2019s circular shape echoes the ring shout and other West African and African American communal forms."
+  },
+
+  "mc": {
+    label: "MC",
+    definition: "Short for \u201cmaster of ceremonies.\u201d In hip hop, an MC is a rapper: a vocalist who delivers rhymed lyrics over a beat, often with rhythmic and rhetorical complexity. The role grew out of the early hip hop party DJs of the 1970s, who had MCs hyping the crowd; over time the MC\u2019s role expanded from short call-outs to full lyrical performance, and the term came to mean what \u201crapper\u201d means today, with a slight emphasis on craft and lineage. Grandmaster Flash and the Furious Five were one of the first groups to make the MC the center of the recording, not just the live show."
+  },
+
+  "sampling": {
+    label: "Sampling",
+    definition: "The practice of taking a segment of an existing recording (a drum break, a horn line, a vocal phrase, a whole loop) and using it as a building block in a new piece of music. Sampling is fundamental to hip hop and to a great deal of electronic dance music; it is also legally and ethically complicated, because it involves using someone else\u2019s recording, often without paying the original artist. Hip hop producers from the 1970s on built a deep practice of sampling Black recorded music, treating earlier records as a usable archive rather than as finished, untouchable works."
+  },
+
+  "backbeat": {
+    label: "Backbeat",
+    definition: "An accent placed on the second and fourth beats of a four-beat measure (the \u201cback\u201d half of each pair of beats). The backbeat is the rhythmic foundation of most rock, R&B, and soul; it is what you clap along to at a concert. Compare with the downbeat (the first beat of a measure), which funk and a great deal of contemporary Black popular music emphasize instead."
+  },
+
+  "downbeat": {
+    label: "Downbeat",
+    definition: "The first beat of a musical measure, often the strongest and most emphasized beat. Funk\u2019s defining innovation, associated with James Brown and famously cued with the command \u201con the one,\u201d was to shift the heaviest emphasis from the backbeat (beats two and four) to the downbeat (beat one), reorganizing how the music feels and freeing the other beats for syncopation."
+  },
+
+  "black-power": {
+    label: "Black Power",
+    definition: "A political and cultural movement that emerged in the mid-1960s as a challenge to the integrationist mainstream of the civil rights movement, calling instead for Black self-determination, racial pride, economic and political autonomy, and a reckoning with anti-Black violence. Stokely Carmichael popularized the phrase in 1966; the Black Panther Party, founded that same year, became its most visible organization. The Black Power moment shaped the music, fashion, hairstyles, and visual aesthetics of late-1960s and early-1970s Black popular culture, including James Brown\u2019s \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud.\u201d"
   }
 
 };
