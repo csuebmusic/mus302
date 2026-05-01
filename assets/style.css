@@ -346,16 +346,20 @@ figure svg.diagram {
   color: var(--color-text-soft);
 }
 
-/* Project stages and grade breakdown lists (used in syllabus) */
+/* Project stages, grading, SLO, and materials lists (used in syllabus) */
 .project-stages,
-.grade-breakdown {
+.grade-breakdown,
+.slo-list,
+.materials-list {
   list-style: none;
   padding: 0;
   margin: 1rem 0 1.5rem;
 }
 
 .project-stages > li,
-.grade-breakdown > li {
+.grade-breakdown > li,
+.slo-list > li,
+.materials-list > li {
   margin: 0 0 0.6rem;
   padding-left: 1.5em;
   position: relative;
@@ -363,7 +367,9 @@ figure svg.diagram {
 }
 
 .project-stages > li::before,
-.grade-breakdown > li::before {
+.grade-breakdown > li::before,
+.slo-list > li::before,
+.materials-list > li::before {
   content: "·";
   position: absolute;
   left: 0.4em;

@@ -56,19 +56,39 @@ The research project runs in parallel with the modules across the whole term. Yo
 
 ## Student Learning Outcomes
 
-Upon successful completion of this course, you will be able to express informed opinions and judgments about a variety of styles of popular music; communicate critical thoughts, opinions, and judgments about the creative work of different artists and bands from the 1950s forward; make connections between cultural influences, social and political movements, relevant events, and popular music of the same period; quickly recall factual knowledge about artists, bands, and the contributing factors to their artistry from the 1940s forward; identify and discuss forms and influences of diverse cultures in American popular music; and research and present a genre and a single artist or group of personal significance.
+Upon successful completion of this course, you will be able to:
+
+- Express informed opinions and judgments about a variety of styles of popular music.
+- Communicate critical thoughts, opinions, and judgments about the creative work of different artists and bands from the 1950s forward.
+- Make connections between cultural influences, social and political movements, relevant events, and popular music of the same period.
+- Quickly recall factual knowledge about artists, bands, and the contributing factors to their artistry from the 1940s forward.
+- Identify and discuss forms and influences of diverse cultures in American popular music.
+- Research and present a genre and a single artist or group of personal significance.
 
 ### GE-UD-3 Learning Outcomes
 
-This course fulfills GE-UD-3 by supporting your ability to apply principles, methodologies, and thought processes of the arts and humanities; analyze cultural production as expression of, or reflection upon, what it means to be human; and demonstrate how arts and humanities perspectives are used by informed, engaged, and reflective citizens to benefit local and global communities.
+This course fulfills GE-UD-3 by supporting your ability to:
+
+- Apply principles, methodologies, and thought processes of the arts and humanities.
+- Analyze cultural production as expression of, or reflection upon, what it means to be human.
+- Demonstrate how arts and humanities perspectives are used by informed, engaged, and reflective citizens to benefit local and global communities.
 
 ### Diversity Overlay Learning Outcomes
 
-This course fulfills the Diversity overlay by supporting your ability to describe the histories, experiences, or views of one or more cultural groups; analyze the overlap or intersection of social identities (culture, gender, class, sexuality, religion, disability, immigration status, age); and examine the impact of your own identity on experiences with or views of other cultural groups.
+This course fulfills the Diversity overlay by supporting your ability to:
+
+- Describe the histories, experiences, or views of one or more cultural groups.
+- Analyze the overlap or intersection of social identities (culture, gender, class, sexuality, religion, disability, immigration status, age).
+- Examine the impact of your own identity on experiences with or views of other cultural groups.
 
 ## Required Course Materials
 
-There is no required textbook for this course. All readings, listening, and viewing materials will be provided through Canvas and through the public course website. You will need reliable internet access for streaming audio and video; a streaming service that lets you access full recordings (Spotify, Apple Music, YouTube Music, or similar; free tiers will work for most listening but may include ads, and the library also offers free access to several streaming services for students); slide deck software for the final project (PowerPoint, Google Slides, Keynote, or similar; PowerPoint is available free through CSU East Bay's Microsoft 365 license); and a way to record your screen with audio for the final project (free options include Zoom, where you record a meeting with yourself, Loom, or the built-in screen recorder on Mac and Windows; detailed instructions will be provided in the project module).
+There is no required textbook for this course. All readings, listening, and viewing materials will be provided through Canvas and through the public course website. You will need:
+
+- Reliable internet access for streaming audio and video.
+- A streaming service that lets you access full recordings (Spotify, Apple Music, YouTube Music, or similar). Free tiers will work for most listening but may include ads. The library also offers free access to several streaming services for students.
+- Slide deck software for the final project (PowerPoint, Google Slides, Keynote, or similar). PowerPoint is available free through CSU East Bay's Microsoft 365 license.
+- A way to record your screen with audio for the final project. Free options include Zoom (record a meeting with yourself), Loom, or the built-in screen recorder on Mac and Windows. Detailed instructions will be provided in the project module.
 
 ## Course Requirements and Assignments
 
