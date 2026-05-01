@@ -325,6 +325,91 @@ figure svg.diagram {
   color: var(--color-text-soft);
 }
 
+/* Syllabus metadata block (units, breadth, etc.) */
+.syllabus-meta {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.4em 1.2em;
+  margin: 1.5rem 0 2.5rem;
+  padding: 1rem 1.25rem;
+  background-color: var(--color-accent-soft);
+  border-radius: 2px;
+}
+
+.syllabus-meta dt {
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.syllabus-meta dd {
+  margin: 0;
+  color: var(--color-text-soft);
+}
+
+/* Project stages and grade breakdown lists (used in syllabus) */
+.project-stages,
+.grade-breakdown {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 1.5rem;
+}
+
+.project-stages > li,
+.grade-breakdown > li {
+  margin: 0 0 0.6rem;
+  padding-left: 1.5em;
+  position: relative;
+  color: var(--color-text-soft);
+}
+
+.project-stages > li::before,
+.grade-breakdown > li::before {
+  content: "·";
+  position: absolute;
+  left: 0.4em;
+  color: var(--color-text);
+  font-weight: 700;
+}
+
+.project-stages strong,
+.grade-breakdown strong {
+  color: var(--color-text);
+  font-weight: 700;
+}
+
+/* Schedule table (used in syllabus) */
+.schedule {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2rem;
+}
+
+.schedule th,
+.schedule td {
+  text-align: left;
+  padding: 0.6rem 1rem 0.6rem 0;
+  vertical-align: top;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.schedule th {
+  color: var(--color-text);
+  font-weight: 700;
+  border-bottom: 2px solid var(--color-text);
+}
+
+.schedule td {
+  color: var(--color-text-soft);
+}
+
+.schedule td:first-child {
+  white-space: nowrap;
+  color: var(--color-text);
+  font-weight: 700;
+  width: max-content;
+  padding-right: 2rem;
+}
+
 /* Sources list at end */
 .sources {
   margin-top: 4rem;
