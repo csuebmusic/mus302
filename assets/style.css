@@ -14,7 +14,8 @@
   --color-accent-soft: #e2e6eb;
   --color-border: #c5cdd6;
   --color-link: #36546f;
-  --color-glossable: #36546f;
+  --color-glossable: #7a4a3a;
+  --color-glossable-soft: #ede4dc;
   --font-mono: "Courier Prime", "Courier New", Courier, monospace;
   --max-width: 820px;
 }
@@ -58,6 +59,32 @@ main {
 .course-header .module-id {
   color: var(--color-text);
   margin: 0;
+}
+
+/* Reading tips orientation box - shown on pages with glossary terms */
+.reading-tips {
+  margin: 0 0 2rem;
+  padding: 0.9rem 1.1rem;
+  background-color: var(--color-glossable-soft);
+  border-left: 3px solid var(--color-glossable);
+  border-radius: 0 2px 2px 0;
+  color: var(--color-text-soft);
+  line-height: 1.6;
+}
+
+.reading-tips p {
+  margin: 0;
+}
+
+.reading-tips .tips-label {
+  font-weight: 700;
+  color: var(--color-glossable);
+  margin-right: 0.4em;
+}
+
+.reading-tips .glossable-example {
+  color: var(--color-glossable);
+  border-bottom: 1px dotted var(--color-glossable);
 }
 
 /* Page title - the only larger, bolder element on the page */
@@ -195,7 +222,7 @@ figcaption {
 .glossable {
   border-bottom: 1px dotted var(--color-glossable);
   cursor: pointer;
-  color: inherit;
+  color: var(--color-glossable);
   background: transparent;
   border-top: none;
   border-left: none;
@@ -208,15 +235,15 @@ figcaption {
 
 .glossable:hover,
 .glossable:focus {
-  color: var(--color-accent);
-  border-bottom-color: var(--color-accent);
+  color: var(--color-glossable);
+  border-bottom-color: var(--color-glossable);
   outline: none;
-  background-color: var(--color-accent-soft);
+  background-color: var(--color-glossable-soft);
 }
 
 .glossable[aria-expanded="true"] {
-  background-color: var(--color-accent-soft);
-  color: var(--color-accent);
+  background-color: var(--color-glossable-soft);
+  color: var(--color-glossable);
 }
 
 /* Glossary definition popup */
@@ -224,8 +251,8 @@ figcaption {
   display: block;
   margin: 0.6rem 0 1.1rem;
   padding: 0.9rem 1.1rem;
-  background-color: var(--color-accent-soft);
-  border-left: 3px solid var(--color-accent);
+  background-color: var(--color-glossable-soft);
+  border-left: 3px solid var(--color-glossable);
   line-height: 1.7;
   border-radius: 0 2px 2px 0;
   color: var(--color-text-soft);
@@ -233,7 +260,7 @@ figcaption {
 
 .gloss-definition .gloss-term {
   font-weight: 700;
-  color: var(--color-text);
+  color: var(--color-glossable);
 }
 
 .gloss-definition .gloss-text {
@@ -434,22 +461,34 @@ figure svg.diagram {
 }
 
 /* Navigation between tracks */
+/* Footer navigation - edge-to-edge dark band at the bottom of each page.
+ * The .track-nav element is a sibling of <main>, not a child, so it can
+ * span the full viewport. The .track-nav-inner wrapper holds it to the
+ * column width so the link text doesn't sprawl on wide screens. */
 .track-nav {
   margin-top: 4rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--color-border);
+  background-color: var(--color-text);
+  color: var(--color-bg);
+  padding: 2rem 1.5rem;
+}
+
+.track-nav-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
+  gap: 1rem;
 }
 
 .track-nav a {
-  color: var(--color-link);
+  color: var(--color-bg);
   text-decoration: underline;
   text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
 }
 
 .track-nav a:hover {
-  background-color: var(--color-accent-soft);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 /* Responsive adjustments */
