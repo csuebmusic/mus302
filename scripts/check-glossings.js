@@ -117,12 +117,11 @@ function extractProse(html) {
 function searchPhrasesFor(key, label) {
   const phrases = new Set();
   const cleanLabel = label.replace(/\([^)]*\)/g, '').trim();
-  if (cleanLabel.length >= 4) phrases.add(cleanLabel);
+  // Allow short labels like "R&B" and "MC". Skip single characters because
+  // they false-match too aggressively.
+  if (cleanLabel.length >= 2) phrases.add(cleanLabel);
   const keyAsPhrase = key.replace(/-/g, ' ').trim();
   if (keyAsPhrase.length >= 4) phrases.add(keyAsPhrase);
-  // Also try the key as a hyphenated form, in case prose hyphenates it.
-  // (Word boundaries already match across hyphens in our regex below, but
-  // this is explicit.)
   return [...phrases];
 }
 
@@ -188,17 +187,64 @@ function auditFile(filePath, glossary) {
 
   const prose = extractProse(html);
   const missed = [];
-  for (const [key, entry] of Object.entries(glossary)) {
+  // Track which prose character ranges have been claimed by a missed match.
+  // This prevents reporting "mambo-section" when "mambo" already matched the
+  // same span (the prose says "mambo," not "mambo-section"). We try shorter
+  // labels first so the more specific glossary key wins by position.
+  const claimedRanges = [];
+  const overlaps = (start, end) =>
+    claimedRanges.some(([s, e]) => start < e && end > s);
+
+  // Build a list of label phrases for already-buttoned keys, so we can skip
+  // glossary keys whose label is a longer phrase containing one of them.
+  // (E.g., if "mambo" is buttoned, don't flag "Mambo (instrumental section)"
+  // matching the bare word "mambo" elsewhere.)
+  const buttonedPhrases = [];
+  for (const t of buttonSet) {
+    if (!glossary[t]) continue;
+    const phrases = searchPhrasesFor(t, glossary[t].label);
+    for (const p of phrases) buttonedPhrases.push(p.toLowerCase());
+  }
+  const labelContainsButtonedPhrase = (label) => {
+    const l = label.toLowerCase();
+    return buttonedPhrases.some(
+      (p) =>
+        // Equal label after parenthetical stripping (e.g., mambo-section
+        // and mambo both have clean label "mambo")
+        l === p ||
+        // Label contains the phrase as a sub-token
+        l.includes(' ' + p) ||
+        l.includes(p + ' ') ||
+        (l.startsWith(p) && l !== p) ||
+        (l.endsWith(p) && l !== p)
+    );
+  };
+
+  const sortedEntries = Object.entries(glossary).sort((a, b) => {
+    const la = (a[1].label || '').length;
+    const lb = (b[1].label || '').length;
+    return la - lb;
+  });
+
+  for (const [key, entry] of sortedEntries) {
     if (buttonSet.has(key)) continue; // already buttoned somewhere
     if (SKIPLIST.has(key)) continue;
+    // If the label contains an already-buttoned key's label as a sub-phrase,
+    // this entry would re-flag a span where the simpler buttoned term lives.
+    const cleanLabel = (entry.label || '').replace(/\([^)]*\)/g, '').trim();
+    if (labelContainsButtonedPhrase(cleanLabel)) continue;
 
     const phrases = searchPhrasesFor(key, entry.label);
     for (const phrase of phrases) {
       const re = phraseRegex(phrase);
       const m = prose.match(re);
       if (m) {
-        // Snippet for the report
         const idx = prose.search(re);
+        const matchStart = idx + (m[1] ? m[1].length : 0);
+        const matchEnd = matchStart + (m[2] ? m[2].length : m[0].length);
+        if (overlaps(matchStart, matchEnd)) break; // already reported by a
+                                                   // shorter label
+        claimedRanges.push([matchStart, matchEnd]);
         const start = Math.max(0, idx - 40);
         const snippet = prose
           .slice(start, idx + m[0].length + 60)
