@@ -1244,6 +1244,70 @@ var GLOSSARY = {
   "big-mama-thornton": {
     label: "Big Mama Thornton",
     definition: "American blues singer (1926\u20131984), born Willie Mae Thornton in Montgomery, Alabama, who came up through the same Southern touring circuits Bessie Smith had worked a generation earlier. In the 1940s she was sometimes billed as \u201cBessie Smith\u2019s Younger Sister.\u201d Her 1952 recording of \u201cHound Dog\u201d (written by Jerry Leiber and Mike Stoller) was a major R&B hit; Elvis Presley\u2019s 1956 cover, modeled on her version, was a much bigger pop hit and largely erased her from the song\u2019s public history. Her 1968 \u201cBall and Chain\u201d was covered to fame by Janis Joplin. Thornton\u2019s career is one of the clearest examples of how the lineage from Bessie Smith forward into rock and roll runs through Black women singers who rarely got the credit."
+  },
+
+  /* ============================
+     Module 2 Track 2: Sister Rosetta Tharpe and "Strange Things Happening Every Day"
+     ============================ */
+
+  "cogic": {
+    label: "COGIC (Church of God in Christ)",
+    definition: "The largest historically Black Pentecostal denomination in the United States, founded in 1897 in Lexington, Mississippi by Bishop Charles Harrison Mason. COGIC worship is musical, ecstatic, and physical: singing, dancing, clapping, speaking in tongues, instruments of every kind welcome in the sanctuary. Unusually for American Christian denominations of the early twentieth century, COGIC allowed women to teach and lead, which is part of the context that made it possible for Sister Rosetta Tharpe and her mother Katie Bell Nubin to be working musical evangelists. The musical practices nurtured in COGIC services, including the rhythmic drive, the call-and-response between leader and congregation, and the use of guitars and other amplified instruments in worship, shaped a great deal of twentieth-century Black popular music."
+  },
+
+  "decca": {
+    label: "Decca Records",
+    definition: "A major American record label, the U.S. branch (founded 1934) of the British company of the same name. Decca was one of the \u201cbig four\u201d American labels through the mid-twentieth century, alongside Columbia, RCA Victor, and Capitol. Decca signed Sister Rosetta Tharpe in 1938 and released the first commercial gospel records in U.S. major-label history. Decca\u2019s settlement with the American Federation of Musicians in September 1943, more than a year before its competitors, is part of why Tharpe was positioned to record actively during the wartime years."
+  },
+
+  "from-spirituals-to-swing": {
+    label: "From Spirituals to Swing",
+    definition: "A pair of landmark concerts produced by the music critic and producer John Hammond at Carnegie Hall on December 23, 1938 and December 24, 1939. The shows presented Black sacred and secular music side by side: gospel singers, blues musicians, boogie-woogie pianists, swing bands. Sister Rosetta Tharpe was one of the gospel performers in 1938; the Count Basie Orchestra, Big Bill Broonzy, the Golden Gate Quartet, and the boogie-woogie pianists Albert Ammons, Pete Johnson, and Meade Lux Lewis also appeared. The concerts were among the first major New York events to present Black musical traditions to a racially mixed concert audience as serious art rather than as exotica."
+  },
+
+  "cotton-club": {
+    label: "Cotton Club",
+    definition: "A whites-only nightclub in Harlem (1923\u20131940) that featured Black performers for white audiences. Despite its segregated admission policy, the Cotton Club was one of the most important venues in 1920s and 1930s American popular music: Duke Ellington, Cab Calloway, Lena Horne, the Nicholas Brothers, and Sister Rosetta Tharpe all worked there. The club represents one of the central paradoxes of the era: Black musicians were performing some of the most innovative music in America in rooms that would not let Black audiences in to hear it."
+  },
+
+  "electric-guitar": {
+    label: "Electric guitar",
+    definition: "A guitar with magnetic pickups that convert string vibrations into an electrical signal, which is then amplified through a separate amplifier and loudspeaker. Commercial electric guitars became available in the early 1930s (Rickenbacker\u2019s \u201cFrying Pan\u201d in 1932; the Gibson ES-150 in 1936), and Sister Rosetta Tharpe was one of the first popular recording artists to make the instrument central to her sound. The electric guitar transformed popular music: it could compete in volume with horn sections and drum kits, it could be expressively bent and sustained in ways an acoustic guitar could not, and the slightly distorted tone of an overdriven amplifier became one of the most recognizable sounds of twentieth-century popular music."
+  },
+
+  "gayle-wald": {
+    label: "Gayle Wald",
+    definition: "American scholar of African American music and popular culture, professor of English and American Studies at George Washington University, and author of <em>Shout, Sister, Shout!: The Untold Story of Rock-and-Roll Trailblazer Sister Rosetta Tharpe</em> (Beacon, 2007; revised 2023), the standard biography of Tharpe. Wald is also the author of <em>It\u2019s Been Beautiful: Soul! and Black Power Television</em> (Duke, 2015) and the editor of several scholarly collections on Black music. Most contemporary writing about Tharpe, including the framing in this listening guide, rests on Wald\u2019s research."
+  },
+
+  "afm-strike": {
+    label: "AFM recording ban",
+    definition: "A long musicians\u2019-union strike against the major U.S. record labels that ran from August 1942 through November 1944, called by James Petrillo, the president of the American Federation of Musicians, over royalty payments from radio play and jukebox use. For most of the strike, instrumentalists who were union members could not record commercially in the United States. Decca settled with the union in September 1943; the other major labels held out longer (Columbia and RCA Victor settled in November 1944). The settlement timeline is part of why Sister Rosetta Tharpe and a small number of other Decca artists were able to record more freely in 1944 than artists at competing labels could."
+  },
+
+  "v-discs": {
+    label: "V-Discs",
+    definition: "12-inch unbreakable vinyl records (rather than the standard breakable shellac of the era) pressed by the U.S. military between 1943 and 1949 for distribution to American troops overseas during and just after World War II. V-Discs were exempt from the AFM recording ban because the union agreed the records served the war effort. Sister Rosetta Tharpe and the Dixie Hummingbirds were the only Black gospel acts authorized to record V-Discs; the program is one of the small but real ways American popular music carried into the global theater of the war."
+  },
+
+  "sammy-price": {
+    label: "Sammy Price",
+    definition: "American boogie-woogie and blues pianist (1908\u20131992), born in Honey Grove, Texas, and Decca Records\u2019 house pianist for boogie-woogie and gospel sessions through the 1940s and into the 1950s. Price led the Sam Price Trio that backed Sister Rosetta Tharpe on \u201cStrange Things Happening Every Day\u201d and on most of her Decca sides through 1951. He was also a producer, a club owner, and one of the most prolific session pianists of the postwar era; he can be heard behind everyone from Tharpe to Mezz Mezzrow to Jelly Roll Morton."
+  },
+
+  "boogie-woogie": {
+    label: "Boogie-woogie",
+    definition: "A blues-based piano style that emerged in African American communities in the 1920s and became a national popular style in the late 1930s and 1940s. The defining feature is a fast, repeating left-hand bass pattern (typically eight beats to the bar, often called \u201ceight to the bar\u201d) that drives the rhythm while the right hand plays bluesy melodic figures and improvised solos on top. Boogie-woogie pianists like Albert Ammons, Pete Johnson, Meade Lux Lewis, and Sammy Price worked in juke joints, rent parties, and clubs through the 1930s before the From Spirituals to Swing concerts brought the style to Carnegie Hall. The boogie-woogie left-hand pattern is the rhythmic engine of \u201cStrange Things Happening Every Day,\u201d and its insistent forward motion is one of the things that made the recording sound so much like what would later be called rock and roll."
+  },
+
+  "marie-knight": {
+    label: "Marie Knight",
+    definition: "American gospel and rhythm-and-blues singer (1925\u20132009), born Marie Roach in Sanford, Florida, and raised in Newark, New Jersey. Sister Rosetta Tharpe heard Knight perform at a Mahalia Jackson concert in 1946, recognized her talent, and invited her to tour. The two of them recorded a series of gospel hits together in the late 1940s, including \u201cUp Above My Head\u201d (1947) and \u201cBeams of Heaven\u201d (1947), and toured the gospel circuit as one of the genre\u2019s biggest live draws. According to Tharpe\u2019s biographer Gayle Wald, Tharpe and Knight were rumored to have been romantically involved; their partnership and its suppression in the mainstream record of both artists\u2019 careers is part of the queer history of American popular music that scholars have begun to recover. After their breakup in 1950 and a 1951 fire that killed Knight\u2019s mother and two children, Knight\u2019s career took a different shape, but she continued to record into the 2000s."
+  },
+
+  "overdrive": {
+    label: "Overdrive (guitar amplifier)",
+    definition: "The warm, slightly broken-up, harmonically rich sound that an electric guitar amplifier produces when its tubes are pushed past the volume they were designed to handle cleanly. At low volumes a tube amplifier reproduces the guitar\u2019s clean signal; as the volume increases, the tubes saturate, the waveform clips, and the resulting sound has a grainy, singing quality with extra harmonics that the clean signal does not have. Overdrive is a softer, more musical-sounding form of distortion than the harder fuzz and distortion sounds of later rock; it is what Sister Rosetta Tharpe is producing on \u201cStrange Things Happening Every Day\u201d and what most blues, country, and early rock guitarists would seek for the next several decades. The discovery that an amplifier sounds better when slightly broken than when perfectly clean is one of the central aesthetic facts of twentieth-century electric-guitar music."
   }
 
 };

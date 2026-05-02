@@ -7,11 +7,11 @@ has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
 Last updated: end of the session that drafted the full
-listening guide for Module 2 Track 1 (Bessie Smith with
-Louis Armstrong, "St. Louis Blues," 1925), replacing the
-stub. Module 2 framing reading, landing page, and Bessie
-Smith guide all live; the four other listening guides,
-discussion, and quiz still pending.
+listening guide for Module 2 Track 2 (Sister Rosetta Tharpe,
+"Strange Things Happening Every Day," 1944). Module 2 framing
+reading, landing page, and Tracks 1 and 2 are now live; the
+three remaining listening guides, discussion, and quiz still
+pending.
 
 ## Term and dates
 
@@ -81,19 +81,58 @@ reviewed.
   uses the T-Bone Walker "you can't dress up the blues"
   quote against the framing reading's argument about Handy
   and the recorded blues.
+- `module2/track2-tharpe.html`: full listening guide for
+  Sister Rosetta Tharpe, "Strange Things Happening Every
+  Day" (Decca, New York, September 22, 1944). Four-part
+  context (Tharpe before the song: Cotton Plant, Cotton
+  Club, going electric / the song as a sermon answering her
+  COGIC critics / the recording session with the Sam Price
+  Trio / reception, the long erasure, the 2018 Hall of Fame
+  induction) and four "Things to listen for" prompts
+  (timbre of the electric guitar, texture of small-group
+  recording, three-chord verse-chorus form, the guitar
+  break as rock-and-roll prefiguration). Hero photo is a
+  mid-1960s European concert image from Inés showing
+  Tharpe with her white Gibson SG Custom; flagged in the
+  same defensible-educational-use category as the other
+  editorial Getty photos. Cross-links: forward and backward
+  to the Bessie Smith track for the cornet/electric-guitar
+  timbre comparison and the three-voice/four-piece texture
+  comparison; back to Cooke and Cruz for the small-group-
+  vs-orchestral arrangement contrast. Reflective question
+  picks up the framing reading's "Tharpe walked onstage
+  with an electric guitar" point and pushes students to
+  argue from a specific moment in the recording about what
+  political work it does. Page is 109 lines, slightly under
+  the Module 1 envelope (111-117) but within range.
+- New glossary entries added for Track 2 vocabulary: cogic,
+  decca, electric-guitar, boogie-woogie, marie-knight,
+  sammy-price, cotton-club, from-spirituals-to-swing,
+  gayle-wald, overdrive, afm-strike, v-discs. Glossary now
+  at 237 entries. The new electric-guitar entry caused
+  missed-gloss warnings on module1/track4-williams.html
+  (Williams session personnel paragraph) and on
+  module2/roots-and-routes.html (Tharpe paragraph), both
+  resolved with first-mention buttons. The new decca entry
+  added a documented intentional skip on the framing
+  reading's labels-list table (same pattern as the existing
+  house-band, w-c-handy table-cell skips). Per the cross-
+  linking convention, the framing reading's prose mention
+  of Tharpe at first substantive prose mention is now
+  linked to the new track2-tharpe.html page (parallel to
+  the existing Bessie Smith link).
 - New glossary entries added for Track 1 vocabulary:
   empress-of-the-blues, classic-blues, vaudeville, toba,
   columbia-records, w-c-handy, habanera, spanish-tinge,
   tango, acoustic-recording, cornet, harmonium, contralto,
   obbligato, aab, ragtime, billie-holiday, big-mama-thornton.
-  Glossary now at 219 entries. The new w-c-handy entry
-  introduces a documented intentional skip in the Module 2
-  framing reading's labels-list table cell (same narrow-
-  monospace-cell rendering issue as the existing house-band
-  skip). The new billie-holiday entry caused a missed-gloss
-  warning on module1/track3-desanto.html (Holiday named in
-  the Fillmore-clubs paragraph), now resolved with a gloss
-  button at first mention.
+  The new w-c-handy entry introduced a documented intentional
+  skip in the Module 2 framing reading's labels-list table
+  cell (same narrow-monospace-cell rendering issue as the
+  existing house-band skip). The new billie-holiday entry
+  caused a missed-gloss warning on module1/track3-desanto.html
+  (Holiday named in the Fillmore-clubs paragraph), resolved
+  with a gloss button at first mention.
 - New glossary entries added across recent sessions covering
   Module 2 vocabulary: spirituals, west-african-music,
   field-hollers, ring-shouts, reconstruction, bent-notes,
@@ -124,14 +163,11 @@ reviewed.
 ## What is pending
 
 **Module 2 (rest of it).** The framing reading, landing page,
-and Track 1 listening guide are done; the four remaining
-listening guides, discussion, and quiz are not yet drafted.
+and Tracks 1 and 2 are done; the three remaining listening
+guides, discussion, and quiz are not yet drafted.
 
-- Listening guides for the four remaining anchor tracks, in
+- Listening guides for the three remaining anchor tracks, in
   chronological order:
-  Track 2: Sister Rosetta Tharpe, "Strange Things Happening
-    Every Day" (1944). Gospel-to-rock pivot; Black queer woman
-    written back into rock origin.
   Track 3: James Brown, "Say It Loud — I'm Black and I'm Proud"
     (1968). Soul-to-funk turn at the Black Power moment.
   Track 4: Grandmaster Flash and the Furious Five, "The Message"
@@ -253,20 +289,21 @@ Resolved:
 
 Remaining known intentional skips (audit warnings to live with):
 
-6. *`house-band` and `w-c-handy` in Module 2 labels-list table.*
-   Two cells in `module2/roots-and-routes.html`'s record-labels
+6. *`house-band`, `w-c-handy`, and `decca` in Module 2 labels-list table.*
+   Three cells in `module2/roots-and-routes.html`'s record-labels
    reference table contain glossable terms whose buttons are
    intentionally omitted. The Stax row mentions "racially
    integrated house band (Booker T. & the M.G.'s)"; the Black
    Swan row mentions "founded by W.C. Handy's business partner
-   Harry Pace." Both terms are glossed in regular prose
-   elsewhere on the site (house-band on the Module 1 DeSanto
-   and Williams guides; w-c-handy in the Module 2 Track 1
-   Bessie Smith guide). Inside the narrow monospace table cell
-   the dotted-underline gloss button rendered awkwardly across
-   the inter-word space, so the cells use a parenthetical
-   naming a concrete example instead. Same skip pattern as the
-   original Stax house-band item.
+   Harry Pace"; the Decca row's leftmost cell reads "Decca (New
+   York)" as a header-style label. All three terms are glossed
+   in regular prose elsewhere on the site (house-band on the
+   Module 1 DeSanto and Williams guides; w-c-handy in the
+   Module 2 Track 1 Bessie Smith guide; decca in the Module 2
+   Track 2 Tharpe guide). Inside the narrow monospace table
+   cells the dotted-underline gloss button rendered awkwardly
+   across the inter-word space, so the cells stay unbuttoned.
+   Same skip pattern as the original Stax house-band item.
 
 7. *`diaspora` in `module1/cultural-roots.html`.* The term is
    defined in extended prose at first mention rather than
@@ -274,16 +311,17 @@ Remaining known intentional skips (audit warnings to live with):
    that has spread out from a homeland..."). Deliberate
    pedagogical choice. The audit flags it; intentional skip.
 
-**Repo-wide audit state.** 12 files, 0 errors, 3 warnings.
-All three are documented as intentional skips above. Item 6
-covers two of them (the Stax row's `house-band` and the Black
-Swan row's `w-c-handy`, both in the framing-reading labels-list
-table where multi-word gloss buttons render awkwardly inside
-narrow monospace cells). Item 7 covers the third (the diaspora
-extended-prose definition in `module1/cultural-roots.html`).
-The `module1/index.html` and `module2/index.html` landing pages
-are explicitly out of scope for missed-gloss flagging because
-landing pages are navigational summaries; this is formalized in
+**Repo-wide audit state.** 13 files, 0 errors, 5 warnings.
+All five are documented as intentional skips above. Item 6
+covers four of them (the Stax row's `house-band`, the Black
+Swan row's `w-c-handy`, both Decca-row mentions of `decca`,
+all in the framing-reading labels-list table where multi-word
+gloss buttons render awkwardly inside narrow monospace cells).
+Item 7 covers the fifth (the diaspora extended-prose definition
+in `module1/cultural-roots.html`). The `module1/index.html` and
+`module2/index.html` landing pages are explicitly out of scope
+for missed-gloss flagging because landing pages are
+navigational summaries; this is formalized in
 the README's "Where glossings do not go" section.
 
 **Syllabus revisions, if any.** Not flagged yet.
