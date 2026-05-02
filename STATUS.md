@@ -6,17 +6,12 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that ran cleanup on the
-methodology reading and the glossary system. Three new meter
-diagrams (4/4, 12/8, 3/4) live in the methodology reading. Six
-new glossary entries (carmen, louis-armstrong, dynamics, beat,
-offbeat, dixie-hummingbirds, muddy-waters) added since Track 2
-shipped, with first-mention buttons added retroactively across
-the relevant pages. Wikipedia citation policy on the final
-project updated to allow citation. A swept fix corrected several
-misplaced first-mention buttons. Module 2 framing reading,
-landing page, and Tracks 1 and 2 are live; Tracks 3-5,
-discussion, and quiz still pending. Glossary count: 242.
+Last updated: end of the session that drafted the full
+listening guide for Module 2 Track 3 (James Brown, "Say It
+Loud — I'm Black and I'm Proud," 1968). Module 2 framing
+reading, landing page, and Tracks 1, 2, and 3 are live; Tracks
+4 (Grandmaster Flash) and 5 (Beyoncé), discussion, and quiz
+still pending. Glossary count: 251.
 
 ## Term and dates
 
@@ -209,13 +204,11 @@ reviewed.
 ## What is pending
 
 **Module 2 (rest of it).** The framing reading, landing page,
-and Tracks 1 and 2 are done; the three remaining listening
+and Tracks 1, 2, and 3 are done; the two remaining listening
 guides, discussion, and quiz are not yet drafted.
 
-- Listening guides for the three remaining anchor tracks, in
+- Listening guides for the two remaining anchor tracks, in
   chronological order:
-  Track 3: James Brown, "Say It Loud — I'm Black and I'm Proud"
-    (1968). Soul-to-funk turn at the Black Power moment.
   Track 4: Grandmaster Flash and the Furious Five, "The Message"
     (1982). Hip hop's pivot from party to social commentary in
     the deindustrializing city.

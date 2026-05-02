@@ -1340,6 +1340,55 @@ var GLOSSARY = {
   "overdrive": {
     label: "Overdrive (guitar amplifier)",
     definition: "The warm, slightly broken-up, harmonically rich sound that an electric guitar amplifier produces when its tubes are pushed past the volume they were designed to handle cleanly. At low volumes a tube amplifier reproduces the guitar\u2019s clean signal; as the volume increases, the tubes saturate, the waveform clips, and the resulting sound has a grainy, singing quality with extra harmonics that the clean signal does not have. Overdrive is a softer, more musical-sounding form of distortion than the harder fuzz and distortion sounds of later rock; it is what Sister Rosetta Tharpe is producing on \u201cStrange Things Happening Every Day\u201d and what most blues, country, and early rock guitarists would seek for the next several decades. The discovery that an amplifier sounds better when slightly broken than when perfectly clean is one of the central aesthetic facts of twentieth-century electric-guitar music."
+  },
+
+  /* ============================
+     Module 2 Track 3: James Brown and "Say It Loud — I'm Black and I'm Proud"
+     ============================ */
+
+  "boston-garden": {
+    label: "Boston Garden",
+    definition: "An indoor arena in Boston, Massachusetts, the home of the Boston Celtics and Boston Bruins from 1928 until it was demolished in 1995. The venue hosted James Brown\u2019s concert on April 5, 1968, the night after the assassination of Martin Luther King Jr. Mayor Kevin White and Brown\u2019s management arranged for the show to be broadcast live on Boston public-television station WGBH so that grieving Black Bostonians who might otherwise have attended in person would have a reason to stay home. The broadcast is widely credited with helping Boston avoid the wave of urban uprisings that hit dozens of other American cities in the days following King\u2019s assassination."
+  },
+
+  "al-sharpton": {
+    label: "Al Sharpton",
+    definition: "American Baptist minister, civil rights activist, and television host (born 1954). Sharpton met James Brown as a teenager in 1969 and became a close friend and protege; he often credited Brown with shaping his public style and his political commitments. Sharpton has been a prominent figure in late-twentieth and early-twenty-first century African American civil rights activism, founding the National Action Network in 1991 and running for several elected offices including U.S. President in 2004. He delivered eulogies at James Brown\u2019s funeral in 2006 and remains a major source for biographical detail about Brown\u2019s political and personal life in his later years."
+  },
+
+  "stokely-carmichael": {
+    label: "Stokely Carmichael",
+    definition: "American Trinidadian-born civil rights activist (1941\u20131998, later known as Kwame Ture). Carmichael came up through the Student Nonviolent Coordinating Committee (SNCC) and rose to national prominence in 1966 when, during a march in Mississippi, he popularized the slogan \u201cBlack Power\u201d as a counterpoint to Martin Luther King Jr.\u2019s nonviolent integrationism. Black Power as Carmichael articulated it called for political and economic self-determination for Black communities, separate institutional development, and pride in African heritage. He briefly served as honorary prime minister of the Black Panther Party in 1968, then moved to Guinea in 1969 and worked the rest of his life in pan-African politics."
+  },
+
+  "clyde-stubblefield": {
+    label: "Clyde Stubblefield",
+    definition: "American drummer (1943\u20132017), known as \u201cthe Funky Drummer\u201d after a James Brown song of the same name (1969) that became one of the most-sampled drum recordings in popular music. Stubblefield was born in Chattanooga, Tennessee, joined James Brown\u2019s band in 1965, and shared drumming duties with John \u201cJabo\u201d Starks for the next five years. His drum break on \u201cFunky Drummer\u201d has been sampled more than a thousand times in hip hop, including on Public Enemy\u2019s \u201cFight the Power\u201d and LL Cool J\u2019s \u201cMama Said Knock You Out.\u201d He played on \u201cCold Sweat,\u201d \u201cI Got the Feelin\u2019,\u201d \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud,\u201d \u201cMother Popcorn,\u201d and dozens of other Brown classics. Drummer David Garibaldi has credited Stubblefield with inventing the vocabulary of funk drumming."
+  },
+
+  "fred-wesley": {
+    label: "Fred Wesley",
+    definition: "American trombonist, arranger, and bandleader (born 1943), one of the central figures in James Brown\u2019s bands and in funk music more broadly. Wesley joined Brown\u2019s touring band in 1968 (his first session was \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud\u201d) and served as Brown\u2019s musical director through much of the 1970s. He led the J.B.\u2019s, the band Brown reorganized in 1970 around Wesley, the Collins brothers, and the drummers Stubblefield and Starks. Wesley later worked with Parliament-Funkadelic, Count Basie, and many others. His arrangements shape the horn parts on virtually every Brown recording from 1968 to 1975."
+  },
+
+  "charles-bobbitt": {
+    label: "Charles Bobbitt",
+    definition: "James Brown\u2019s longtime personal manager and road manager from the late 1960s until Brown\u2019s death in 2006. Bobbitt was the manager who, in early August 1968, drove a school bus into Watts and Compton to recruit the children\u2019s chorus that sings the call-and-response on \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud.\u201d He told the story at Brown\u2019s funeral in December 2006: \u201cI got an old school bus and we rode around Watts and got 30 children, brought them down to the studio, recorded \u2018Say It Loud.\u2019 I gave them ten dollars each and a James Brown album. That\u2019s how the song that you love so well was played.\u201d"
+  },
+
+  "hubert-humphrey": {
+    label: "Hubert Humphrey",
+    definition: "American politician (1911\u20131978), Vice President of the United States under Lyndon B. Johnson from 1965 to 1969. Humphrey was the Democratic Party\u2019s candidate for president in 1968 and lost narrowly to Richard Nixon in an election shaped by the Vietnam War, the assassinations of Martin Luther King Jr. and Robert F. Kennedy, and widespread urban unrest. James Brown publicly endorsed Humphrey, recorded a campaign song for him, and worked to mobilize Black voters on his behalf. After Humphrey\u2019s loss, Brown switched political allegiances and supported Richard Nixon."
+  },
+
+  "rhythm-guitar": {
+    label: "Rhythm guitar",
+    definition: "A guitar part that supports a song\u2019s rhythm and harmony rather than playing a melody or solo. The rhythm guitarist typically strums chords or plays a short repeating pattern, locking into the bass and drums to define the groove. In funk, the rhythm guitar is often played percussively with muted strings (\u201cchicken scratch\u201d), treating the guitar almost as another drum rather than as a chord-providing instrument. Jimmy Nolen\u2019s rhythm guitar work for James Brown is the foundational example of funk rhythm guitar."
+  },
+
+  "vamp": {
+    label: "Vamp",
+    definition: "A short repeating musical pattern that loops continuously while other elements (lead vocal, solos, improvisation) happen on top. A vamp typically lasts one or two measures and stays on the same chord or moves between two closely-related chords. Vamps are the structural backbone of funk, much hip hop, and a great deal of dance music: instead of moving through a chord progression, the song stays parked on a single repeating pattern and lets the energy come from variation in what is layered on top. \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud\u201d is built on a single vamp for its entire three-minute runtime."
   }
 
 };
