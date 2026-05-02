@@ -6,11 +6,17 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that added a tempo / beat /
-meter / rhythm reference section with two new SVG diagrams (4/4
-and 12/8) to the methodology reading. Module 2 framing reading,
-landing page, and Tracks 1 and 2 are live; the three remaining
-listening guides, discussion, and quiz still pending.
+Last updated: end of the session that ran cleanup on the
+methodology reading and the glossary system. Three new meter
+diagrams (4/4, 12/8, 3/4) live in the methodology reading. Six
+new glossary entries (carmen, louis-armstrong, dynamics, beat,
+offbeat, dixie-hummingbirds, muddy-waters) added since Track 2
+shipped, with first-mention buttons added retroactively across
+the relevant pages. Wikipedia citation policy on the final
+project updated to allow citation. A swept fix corrected several
+misplaced first-mention buttons. Module 2 framing reading,
+landing page, and Tracks 1 and 2 are live; Tracks 3-5,
+discussion, and quiz still pending. Glossary count: 242.
 
 ## Term and dates
 
@@ -23,12 +29,14 @@ weeks plus finals. Hard-date schedule is in `syllabus.html`.
 reviewed.
 - `module1/index.html`: landing page with module overview,
   deadlines, content notice, and instructor contact.
-- `module1/how-to-listen.html`: the methodology reading
-  (tempo/beat/meter/rhythm reference section with two SVG
-  diagrams; the four analytical frames timbre/texture/form/
-  gesture; description-pattern-claim-evidence). Seven SVG
-  figures embedded inline (figures 1-2: 4/4 and 12/8 meter
-  diagrams; figures 3-7: texture and form diagrams).
+- `module1/how-to-listen.html`: the methodology reading. Opens
+  with the rhythmic-grid reference section (tempo, beat, meter,
+  rhythm) with three SVG meter diagrams (4/4, 12/8, 3/4) using
+  the same "main beats and ampersand subdivisions" labeling
+  logic across all three. Then the four analytical frames
+  (timbre, texture, form, gesture). Then description-pattern-
+  claim-evidence. Eight SVG figures embedded inline (figures
+  1-3: meter diagrams; figures 4-8: texture and form diagrams).
 - `module1/cultural-roots.html`: the framing reading (cultural
   traditions, migration/displacement/diaspora, four traditions
   preview, Module 6 threads, intersections, listener position).
@@ -107,22 +115,58 @@ reviewed.
   argue from a specific moment in the recording about what
   political work it does. Page is 109 lines, slightly under
   the Module 1 envelope (111-117) but within range.
+- After Track 2 shipped, a series of cleanup passes ran on the
+  methodology reading and the glossary. The methodology reading
+  gained a tempo/beat/meter/rhythm reference section between the
+  "how to actually listen" section and the four analytical
+  frames, with three new SVG meter diagrams (4/4, 12/8, 3/4) all
+  using the same "main beats numbered, ampersand subdivisions"
+  labeling logic so students can read the three meters as
+  variations on the same shape. Six new glossary entries were
+  added through that work and through subsequent prose passes:
+  carmen, louis-armstrong, dynamics, beat, offbeat,
+  dixie-hummingbirds, muddy-waters. First-mention buttons added
+  retroactively across the relevant pages.
+- A glossary-data encoding bug was caught and fixed: 12 entries
+  carried HTML-entity-encoded ampersands ("R&amp;B", "Earth,
+  Wind &amp; Fire") that rendered as the literal entity string
+  in gloss popups because glossary.js injects the strings via
+  textContent. Replaced all "&amp;" with plain "&" and added
+  a header comment to glossary-data.js flagging the gotcha.
+- Final-project Wikipedia citation policy updated. The original
+  "Wikipedia is fine for orienting yourself but does not count
+  as a source" rule (in final-project/index.html, 01-proposal.md,
+  and 02-annotated-bibliography.md) is gone; Wikipedia and
+  similar well-cited reference articles now count as cited
+  sources, with a soft nudge for students to follow Wikipedia
+  citations down to a primary source. AI-generated text and
+  unverifiable internet posts are still excluded.
+- A swept fix for misplaced first-mention gloss buttons: the
+  audit script's once-buttoned-anywhere logic clears any term
+  that has any button on a page, which means cases where the
+  button is later than the actual first prose mention don't
+  fire. A one-off Python scan caught five real misplacements
+  (blues, gospel, salsa on the methodology reading; tango on
+  Bessie Smith; beat on Cooke; afro-cuban on Cruz). Each
+  button moved to first prose mention; redundant later
+  buttons dropped.
 - New glossary entries added for Track 2 vocabulary: cogic,
   decca, electric-guitar, boogie-woogie, marie-knight,
   sammy-price, cotton-club, from-spirituals-to-swing,
   gayle-wald, overdrive, afm-strike, v-discs. Glossary now
-  at 237 entries. The new electric-guitar entry caused
-  missed-gloss warnings on module1/track4-williams.html
-  (Williams session personnel paragraph) and on
-  module2/roots-and-routes.html (Tharpe paragraph), both
-  resolved with first-mention buttons. The new decca entry
-  added a documented intentional skip on the framing
+  at 242 entries (after the post-Track-2 additions named above).
+  The electric-guitar entry caused missed-gloss warnings on
+  module1/track4-williams.html (Williams session personnel
+  paragraph), module1/track3-desanto.html (Chess house band
+  paragraph), and module2/roots-and-routes.html (Tharpe
+  paragraph), all resolved with first-mention buttons. The decca
+  entry added a documented intentional skip on the framing
   reading's labels-list table (same pattern as the existing
-  house-band, w-c-handy table-cell skips). Per the cross-
-  linking convention, the framing reading's prose mention
-  of Tharpe at first substantive prose mention is now
-  linked to the new track2-tharpe.html page (parallel to
-  the existing Bessie Smith link).
+  house-band, w-c-handy table-cell skips). Per the cross-linking
+  convention, the framing reading's prose mention of Tharpe at
+  first substantive prose mention is now linked to the new
+  track2-tharpe.html page (parallel to the existing Bessie Smith
+  link).
 - New glossary entries added for Track 1 vocabulary:
   empress-of-the-blues, classic-blues, vaudeville, toba,
   columbia-records, w-c-handy, habanera, spanish-tinge,
