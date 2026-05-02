@@ -1131,6 +1131,11 @@ var GLOSSARY = {
     definition: "The press nickname for Bessie Smith from roughly the mid-1920s on, used as a billing on her concert posters and Columbia record labels. The title positioned her above the older \u201cMother of the Blues\u201d (Ma Rainey) in the popular imagination, a kind of generational handing-off, and reflected her status as the highest-paid Black entertainer in the United States in that decade."
   },
 
+  "ma-rainey": {
+    label: "Ma Rainey",
+    definition: "Gertrude \u201cMa\u201d Rainey (born Gertrude Pridgett, 1886\u20131939), African American blues singer billed as the \u201cMother of the Blues.\u201d She came up through Southern minstrel and tent-show vaudeville in the 1900s and 1910s with her husband, William \u201cPa\u201d Rainey, and by the 1920s was one of the genre-defining classic blues artists, recording about a hundred sides for Paramount Records between 1923 and 1928, including \u201cSee See Rider Blues\u201d and \u201cMa Rainey\u2019s Black Bottom.\u201d She and Bessie Smith toured briefly together in 1912 and remained connected for the rest of Smith\u2019s life. Rainey was openly bisexual at a moment when that was both rare and dangerous, and she sang about it; her 1928 \u201cProve It on Me Blues\u201d is often cited as one of the earliest openly queer recordings in American popular music."
+  },
+
   "classic-blues": {
     label: "Classic blues",
     definition: "A music-industry and music-history term for the recorded blues of the 1920s, dominated by African American women singers like Bessie Smith, Ma Rainey, Ethel Waters, Ida Cox, Alberta Hunter, and Mamie Smith. Classic blues recordings were generally backed by small jazz bands or solo pianists, performed in vaudeville-influenced staged settings, and aimed at the race-records market. The label distinguishes this body of recordings from the country blues that came later on record (rural, mostly male, accompanied by acoustic guitar) and from the urban Chicago blues that followed in the 1940s."
