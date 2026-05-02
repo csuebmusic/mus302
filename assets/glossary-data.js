@@ -1181,6 +1181,11 @@ var GLOSSARY = {
     definition: "Jelly Roll Morton\u2019s phrase for the Latin (specifically Cuban habanera) rhythmic flavor that runs through New Orleans jazz, ragtime, and early American popular music. Morton, the New Orleans pianist who claimed to have invented jazz, told the folklorist Alan Lomax in his 1938 Library of Congress interviews that you could not really play jazz without putting in what he called the \u201cSpanish tinge.\u201d The phrase has stuck as shorthand for the Caribbean and Latin American influences that shaped American popular music from the very beginning."
   },
 
+  "carmen": {
+    label: "Carmen (Bizet)",
+    definition: "A French opera by Georges Bizet, first performed in Paris in 1875, set in Spain and centered on a Romani woman named Carmen who works in a Seville cigarette factory and refuses to be controlled. The opera\u2019s most famous number is the \u201cHabanera\u201d aria, also known by its first line \u201cL\u2019amour est un oiseau rebelle\u201d (\u201cLove is a rebellious bird\u201d), which Bizet built on the Cuban habanera rhythm by way of a song called \u201cEl Arreglito\u201d by the Spanish composer Sebasti\u00e1n Yradier. The aria made the habanera rhythm internationally recognizable, and that rhythm is the same one that traveled to New Orleans, fed early jazz, and shows up in the bridge of \u201cSt. Louis Blues.\u201d Carmen is one of the most performed operas in the standard repertoire."
+  },
+
   "tango": {
     label: "Tango",
     definition: "A partner dance and music form that emerged in the working-class neighborhoods of Buenos Aires and Montevideo in the late nineteenth century, drawing on Cuban habanera rhythm, European waltz and polka, and Afro-Argentine candombe. By the early 1910s tango had become an international dance craze in Paris and New York, where it was perceived as exotic and erotic. The 1914 craze is what W.C. Handy was responding to when he wrote the tango bridge into \u201cSt. Louis Blues.\u201d"
