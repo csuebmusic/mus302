@@ -318,6 +318,50 @@ care about). Disclosure is up to the student; significance is
 a stance behind the choice, not required content of the project
 itself. Do not narrow this if revising the project page.
 
+**Methodology reading structure.** The reading opens with a
+"how to actually listen" section, then a tempo/beat/meter/rhythm
+reference section with three SVG meter diagrams (4/4, 12/8, 3/4)
+that all use the same "main beats numbered, ampersand
+subdivisions" labeling logic, then the four analytical frames
+(timbre, texture, form, gesture), then description-pattern-claim-
+evidence. The rhythmic-grid section is reference vocabulary, not
+a fifth analytical frame; the transition into the four frames
+explicitly names that distinction ("on top of that grid, there
+are four main things I want you to learn how to pay attention
+to: timbre, texture, form, and gesture"). The three meter
+diagrams are figs 1-3; the older texture and form diagrams are
+figs 4-8. Eight figures total, all balanced, all using the same
+courier-monospace and palette colors.
+
+**Audit script blind spot: misplaced first-mention buttons.**
+`scripts/check-glossings.js` clears any glossable term once it
+sees any button for that term on a page, so a button placed at
+a later mention than the actual first prose mention will pass
+audit silently. To catch these, run a one-off Python scan that
+loads every glossary label, finds the first prose mention on
+each page (skipping headings, em-tagged titles, table cells,
+SVG, figcaptions, nav, sources), and compares to the first
+button position. Real misses found across the build so far:
+blues, gospel, salsa on the methodology reading; tango on the
+Bessie Smith track; beat on Cooke; afro-cuban on Cruz. Most
+audit hits from this scan are false positives (proper nouns
+that share words with technical terms, song titles, compound-
+vs-bare distinctions, different senses of the same word) and
+should be eyeballed before fixing. Folding this check into
+the regular audit script is a nice-to-have but not blocking.
+
+**Wikipedia is allowed as a citable source on the final project.**
+The original final-project pages had a rule that "Wikipedia is
+fine for orienting yourself but does not count as a source." That
+rule was removed mid-build. Well-cited Wikipedia articles and
+similar reference works now count as sources, with a soft nudge
+asking students to follow at least one Wikipedia footnote down
+to a primary source when they cite the article. AI-generated text
+and unverifiable internet posts are still excluded. Do not "fix"
+this back to the old rule. The change applies in
+`final-project/index.html`, `01-proposal.md`, and
+`02-annotated-bibliography.md`.
+
 
 
 Course materials © Inés Thiebaut. All rights reserved.

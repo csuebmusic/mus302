@@ -8,10 +8,11 @@ and what is still open.
 
 Last updated: end of the session that drafted the full
 listening guide for Module 2 Track 3 (James Brown, "Say It
-Loud — I'm Black and I'm Proud," 1968). Module 2 framing
-reading, landing page, and Tracks 1, 2, and 3 are live; Tracks
-4 (Grandmaster Flash) and 5 (Beyoncé), discussion, and quiz
-still pending. Glossary count: 251.
+Loud — I'm Black and I'm Proud," 1968) and added a Pee Wee
+Ellis glossary entry. Module 2 framing reading, landing page,
+and Tracks 1, 2, and 3 are live; Tracks 4 (Grandmaster Flash)
+and 5 (Beyoncé), discussion, and quiz still pending. Glossary
+count: 252.
 
 ## Term and dates
 
@@ -110,6 +111,59 @@ reviewed.
   argue from a specific moment in the recording about what
   political work it does. Page is 109 lines, slightly under
   the Module 1 envelope (111-117) but within range.
+- `module2/track3-brown.html`: full listening guide for
+  James Brown, "Say It Loud — I'm Black and I'm Proud"
+  (King single, recorded August 7, 1968 at Vox Studios,
+  Van Nuys CA). Four-part context (Brown before the song:
+  Augusta, the Famous Flames, the soul-to-funk turn / the
+  political moment: King assassination, Boston Garden
+  April 5, the lyrics on a hotel napkin / the recording:
+  the Vox session, the touring band with Stubblefield Nolen
+  Parker Ellis and Wesley's first session, the school-bus
+  children's chorus from Watts and Compton / reception, the
+  cost, and the hip hop afterlife: chart performance, Chuck
+  D's testimonial, Brown's loss of crossover audience, the
+  political contradictions including the Nixon inauguration
+  performance, the sampling lineage from Eric B and Rakim
+  forward) and four "Things to listen for" prompts (timbre
+  of Brown's gravelly voice contrasted with the five voices
+  already heard / texture of small-number-of-elements funk
+  / form as single-vamp loop instead of verse-chorus, with
+  the explicit argument that this is the form hip hop will
+  take / politics in two registers, with the form-as-politics
+  argument that the Sanctified leader-and-community
+  structure was moved into a Los Angeles studio with thirty
+  Black kids from Watts and Compton given thirty equal
+  voices). Hero photo is a 1970s/80s editorial Getty image
+  of Brown mid-leap with cape and jumpsuit; same defensible-
+  educational-use category as the other hero photos and
+  flagged the same way. Cross-links: forward to Track 4
+  Grandmaster Flash for the Brown-to-hip-hop conceptual
+  handoff; backward to all five voices in the listening
+  guide for the timbre comparison; backward to Tharpe for
+  the gospel-quartet stagecraft inheritance via the Dixie
+  Hummingbirds' Ira Tucker. Reflective question asks
+  students to argue from a specific moment in the call-and-
+  response between Brown and the children about what the
+  recording is doing politically, and to hold that against
+  Brown performing the song five months later at Richard
+  Nixon's inauguration. Page is 104 lines, slightly under
+  the envelope but in range.
+- New glossary entries added for Track 3 vocabulary:
+  boston-garden, al-sharpton, stokely-carmichael,
+  clyde-stubblefield, fred-wesley, charles-bobbitt,
+  hubert-humphrey, rhythm-guitar, vamp, plus pee-wee-ellis
+  added in a follow-on pass after the Track 3 ship to give
+  Brown's bandleader, arranger, and "Say It Loud" co-writer
+  his own glossary popup rather than just a name in the
+  personnel sentence. Glossary count is now 252. The new
+  rhythm-guitar entry caused a missed-gloss warning on
+  module1/track4-williams.html (the Williams session
+  personnel paragraph names Louis Innis on rhythm guitar),
+  resolved with a first-mention button. Per the cross-
+  linking convention, module2/roots-and-routes.html's first
+  prose mention of "Say It Loud" in the political-modes
+  paragraph is now linked to track3-brown.html.
 - After Track 2 shipped, a series of cleanup passes ran on the
   methodology reading and the glossary. The methodology reading
   gained a tempo/beat/meter/rhythm reference section between the
@@ -372,7 +426,7 @@ Remaining known intentional skips (audit warnings to live with):
    are word-boundary-different forms the audit correctly does not
    flag. Intentional skip.
 
-**Repo-wide audit state.** 13 files, 0 errors, 6 warnings.
+**Repo-wide audit state.** 14 files, 0 errors, 6 warnings.
 All six are documented as intentional skips above. Item 6
 covers four of them (the Stax row's `house-band`, the Black
 Swan row's `w-c-handy`, the Decca row's `decca`, and the Chess
