@@ -289,21 +289,26 @@ Resolved:
 
 Remaining known intentional skips (audit warnings to live with):
 
-6. *`house-band`, `w-c-handy`, and `decca` in Module 2 labels-list table.*
-   Three cells in `module2/roots-and-routes.html`'s record-labels
-   reference table contain glossable terms whose buttons are
+6. *`house-band`, `w-c-handy`, `decca`, and `muddy-waters` in
+   Module 2 labels-list table.* Four cells in
+   `module2/roots-and-routes.html`'s record-labels reference
+   table contain glossable terms whose buttons are
    intentionally omitted. The Stax row mentions "racially
    integrated house band (Booker T. & the M.G.'s)"; the Black
    Swan row mentions "founded by W.C. Handy's business partner
    Harry Pace"; the Decca row's leftmost cell reads "Decca (New
-   York)" as a header-style label. All three terms are glossed
-   in regular prose elsewhere on the site (house-band on the
+   York)" as a header-style label; the Chess row's artist-list
+   cell reads "Muddy Waters, Howlin' Wolf, Chuck Berry, Etta
+   James, Sugar Pie DeSanto." All four terms are glossed in
+   regular prose elsewhere on the site (house-band on the
    Module 1 DeSanto and Williams guides; w-c-handy in the
    Module 2 Track 1 Bessie Smith guide; decca in the Module 2
-   Track 2 Tharpe guide). Inside the narrow monospace table
-   cells the dotted-underline gloss button rendered awkwardly
-   across the inter-word space, so the cells stay unbuttoned.
-   Same skip pattern as the original Stax house-band item.
+   Track 2 Tharpe guide; muddy-waters in the Module 1 DeSanto
+   guide and the Module 2 Track 2 Tharpe guide). Inside the
+   narrow monospace table cells the dotted-underline gloss
+   button rendered awkwardly across the inter-word space, so
+   the cells stay unbuttoned. Same skip pattern as the
+   original Stax house-band item.
 
 7. *`diaspora` in `module1/cultural-roots.html`.* The term is
    defined in extended prose at first mention rather than
@@ -328,19 +333,20 @@ Remaining known intentional skips (audit warnings to live with):
    are word-boundary-different forms the audit correctly does not
    flag. Intentional skip.
 
-**Repo-wide audit state.** 13 files, 0 errors, 5 warnings.
-All five are documented as intentional skips above. Item 6
+**Repo-wide audit state.** 13 files, 0 errors, 6 warnings.
+All six are documented as intentional skips above. Item 6
 covers four of them (the Stax row's `house-band`, the Black
-Swan row's `w-c-handy`, both Decca-row mentions of `decca`,
-all in the framing-reading labels-list table where multi-word
-gloss buttons render awkwardly inside narrow monospace cells).
-Item 7 covers one (the diaspora extended-prose definition in
-`module1/cultural-roots.html`). Item 8 covers one (the bare
-`rhythm` inside the compound `rhythm section` on the Tharpe
-Track 2 page). The `module1/index.html` and `module2/index.html`
-landing pages are explicitly out of scope for missed-gloss
-flagging because landing pages are navigational summaries; this
-is formalized in the README's "Where glossings do not go" section.
+Swan row's `w-c-handy`, the Decca row's `decca`, and the Chess
+row's `muddy-waters`, all in the framing-reading labels-list
+table where multi-word gloss buttons render awkwardly inside
+narrow monospace cells). Item 7 covers one (the diaspora
+extended-prose definition in `module1/cultural-roots.html`).
+Item 8 covers one (the bare `rhythm` inside the compound
+`rhythm section` on the Tharpe Track 2 page). The
+`module1/index.html` and `module2/index.html` landing pages
+are explicitly out of scope for missed-gloss flagging because
+landing pages are navigational summaries; this is formalized
+in the README's "Where glossings do not go" section.
 
 **Syllabus revisions, if any.** Not flagged yet.
 
