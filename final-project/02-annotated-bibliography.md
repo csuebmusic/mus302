@@ -10,7 +10,7 @@ An annotated bibliography of five to seven sources. Each source: full citation i
 
 ## Rubric (out of 25 points)
 
-Ten points for source quality. The bibliography should include a mix of source types (books or scholarly articles, journalism, primary documents like interviews or liner notes, archival or museum sources), and each source should be relevant to the project. Wikipedia is not a source. AI-generated content is not a source.
+Ten points for source quality. The bibliography should include a mix of source types (books or scholarly articles, journalism, primary documents like interviews or liner notes, archival or museum sources, well-cited reference articles), and each source should be relevant to the project. AI-generated content is not a source.
 
 Ten points for annotation quality. Each annotation should describe what kind of source it is (book, journal article, news piece, etc.) and how the student expects to use it. "Background on the genre" is not enough; the annotation should be specific about what the student hopes to learn from this source or what argument it might support.
 
@@ -40,9 +40,11 @@ An annotation of one to three sentences. The annotation should do two things: na
 
 What counts as a source
 
-Books, scholarly articles, peer-reviewed journals, in-depth journalism (NPR, The New Yorker, Rolling Stone profiles, equivalents in other languages), documentaries, podcasts that engage seriously with their material, liner notes, museum websites, archival materials. Album reviews from a real publication count. Interviews count. Academic dissertations count.
+Books, scholarly articles, peer-reviewed journals, in-depth journalism (NPR, The New Yorker, Rolling Stone profiles, equivalents in other languages), documentaries, podcasts that engage seriously with their material, liner notes, museum websites, archival materials. Album reviews from a real publication count. Interviews count. Academic dissertations count. Well-cited reference articles (Wikipedia, Britannica, and similar) count, with the caveat below.
 
-What does not count: Wikipedia, AI-generated text, undocumented blog posts, fan wiki entries, summaries that do not link back to a verifiable source. These can be useful for orienting yourself early in research; they cannot be cited as sources.
+What does not count: AI-generated text, undocumented blog posts, fan wiki entries, summaries that do not link back to a verifiable source. These can be useful for orienting yourself early in research; they cannot be cited as sources.
+
+A note on Wikipedia. Wikipedia is acceptable as a cited source when the article you are using has substantive footnotes that lead to primary or scholarly material. When you cite a Wikipedia article, you are also expected to follow at least one of its footnotes down to a primary source and include that primary source in your bibliography too. This is good research practice generally, and it is how the Module 1 and Module 2 listening guides on this site were built.
 
 Variety helps
 

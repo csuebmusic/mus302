@@ -14,7 +14,7 @@ Five points for clearly naming a genre and a specific artist or group within tha
 
 Five points for explaining personal significance: why this topic, what draws the student to it, what they hope to find in researching it. The disclosure does not have to be deeply personal; the explanation does have to be substantive.
 
-Five points for two to three preliminary sources, with a sentence or two on each describing what kind of source it is. Books, scholarly articles, journalism, documentaries, liner notes, museum or archive websites all count. Wikipedia is fine for orienting; it does not count as a source.
+Five points for two to three preliminary sources, with a sentence or two on each describing what kind of source it is. Books, scholarly articles, journalism, documentaries, liner notes, museum or archive websites, and well-cited reference articles (Wikipedia, Britannica, and similar) all count. AI-generated text does not count as a source.
 
 Five points for written quality: clear prose, paragraphs not bullet lists, free of obvious errors.
 
@@ -40,7 +40,7 @@ Names your genre and a specific artist or group within that genre. Be specific. 
 
 Explains why this topic matters to you. The project asks for personal significance, which can mean many things: music you grew up with, music you discovered that changed you, music your community made, music outside your tradition that you have come to care about. The project page describes these angles in more detail. The explanation does not have to be deeply personal, but it does have to be substantive: why this artist, why now, what draws you to the work.
 
-Lists two or three preliminary sources you have already found, with a sentence or two on each describing what kind of source it is and how you expect to use it. Books, scholarly articles, journalism, documentaries, liner notes, podcasts, museum or archive websites all count. Wikipedia is fine for orienting yourself; it does not count as a source. AI-generated content does not count as a source.
+Lists two or three preliminary sources you have already found, with a sentence or two on each describing what kind of source it is and how you expect to use it. Books, scholarly articles, journalism, documentaries, liner notes, podcasts, museum or archive websites, and well-cited reference articles (Wikipedia, Britannica, and similar) all count. AI-generated content does not count as a source.
 
 Length: 300 to 500 words is the target. Proposals significantly shorter than 300 words usually do not give me enough to give useful feedback on. Proposals significantly longer than 500 words usually have not yet narrowed down their topic enough.
 
