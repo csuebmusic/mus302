@@ -311,18 +311,36 @@ Remaining known intentional skips (audit warnings to live with):
    that has spread out from a homeland..."). Deliberate
    pedagogical choice. The audit flags it; intentional skip.
 
+8. *bare `rhythm` inside "rhythm section" on
+   `module2/track2-tharpe.html`.* The Tharpe Track 2 page glosses
+   the compound term `rhythm-section` at first mention in the
+   recording paragraph, then refers to "a rhythm section in the
+   modern sense" two paragraphs later in the texture prompt. The
+   audit's once-buttoned-anywhere-on-page logic clears the
+   compound `rhythm-section` matches, but the bare `rhythm` label
+   then matches the same span. Adding a separate `rhythm` button
+   inside the words "rhythm section" would visually double-gloss
+   a compound term that is already adequately glossed. The bare
+   `rhythm` term is glossed on five other pages where it appears
+   in standalone use; on the Tharpe page it only appears inside
+   compounds (`rhythm-section`, `rhythm and blues`, `rhythmic`,
+   `rhythmically`), all of which are either separately glossed or
+   are word-boundary-different forms the audit correctly does not
+   flag. Intentional skip.
+
 **Repo-wide audit state.** 13 files, 0 errors, 5 warnings.
 All five are documented as intentional skips above. Item 6
 covers four of them (the Stax row's `house-band`, the Black
 Swan row's `w-c-handy`, both Decca-row mentions of `decca`,
 all in the framing-reading labels-list table where multi-word
 gloss buttons render awkwardly inside narrow monospace cells).
-Item 7 covers the fifth (the diaspora extended-prose definition
-in `module1/cultural-roots.html`). The `module1/index.html` and
-`module2/index.html` landing pages are explicitly out of scope
-for missed-gloss flagging because landing pages are
-navigational summaries; this is formalized in
-the README's "Where glossings do not go" section.
+Item 7 covers one (the diaspora extended-prose definition in
+`module1/cultural-roots.html`). Item 8 covers one (the bare
+`rhythm` inside the compound `rhythm section` on the Tharpe
+Track 2 page). The `module1/index.html` and `module2/index.html`
+landing pages are explicitly out of scope for missed-gloss
+flagging because landing pages are navigational summaries; this
+is formalized in the README's "Where glossings do not go" section.
 
 **Syllabus revisions, if any.** Not flagged yet.
 
