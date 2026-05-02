@@ -680,6 +680,11 @@ var GLOSSARY = {
     definition: "The chord built on the fifth note of the scale, five scale steps above the tonic. In the key of C, the V chord is G. The dominant has the strongest pull back to the tonic of any chord in the key, so it is often used at the end of phrases to set up the return home. In a 12-bar blues, the V chord typically appears in measure 9 and creates the climax of the 12-bar cycle."
   },
 
+  "horn": {
+    label: "Horn (jazz/blues/R&amp;B usage)",
+    definition: "In jazz, blues, R&amp;B, soul, and related styles, \u201chorn\u201d is a catch-all term for any wind or brass instrument played by blowing: trumpet, cornet, trombone, tuba, saxophone, clarinet, flute, and so on. A \u201chorn player\u201d in this sense is anyone who plays one of those instruments, and the \u201chorn section\u201d of a band is the group of those players collectively. This is different from the everyday word \u201chorn,\u201d which sometimes refers specifically to the French horn (the curled brass orchestral instrument heard in classical music and film scores). When a jazz writer calls Louis Armstrong the most rhythmically inventive horn player in American music, they mean he was playing the cornet (and later the trumpet), not the French horn."
+  },
+
   "horn-stabs": {
     label: "Horn stabs",
     definition: "Short, punchy figures played by the horn section in R&amp;B, soul, and funk arrangements, typically inserted between vocal phrases. The horns \u201cstab\u201d in for one or two beats, then drop out, leaving the singer foregrounded. Horn stabs were a defining feature of the Chess Records sound in the 1960s and of Stax, Motown, and other R&amp;B production styles."
