@@ -536,6 +536,11 @@ var GLOSSARY = {
      Music theory and analysis
      ============================ */
 
+  "rhythm": {
+    label: "Rhythm",
+    definition: "The pattern of long and short sounds in time, organized around a steady underlying pulse. Rhythm is the most basic dimension of music: any time you tap your foot, clap, or nod your head along with a song, you are responding to its rhythm. A song's rhythm is shaped by its meter (how the beats are grouped), its tempo (how fast the beats go by), and the specific patterns of stresses and silences the musicians play on top of that grid. Different musical traditions emphasize rhythm differently: West African and Afro-diasporic musics treat rhythm as the central organizing element, often with several different rhythmic patterns layered at once, while a Western European art-music tradition like the classical waltz tends to keep one steady pattern running throughout. American popular music's distinctiveness owes much to the rhythmic complexity it inherited from West Africa through the blues, gospel, jazz, R&amp;B, funk, hip hop, salsa, and other traditions."
+  },
+
   "meter": {
     label: "Meter",
     definition: "The way a song's beats are grouped. A meter has a recurring number of beats per measure, with one beat (usually the first) feeling stronger than the others. The most common meter in popular music is 4/4 (four beats per measure). Waltzes are in 3/4 (three beats per measure). 12/8 is a slower, rocking meter common in soul ballads."
