@@ -8,6 +8,13 @@
  * without explanation. Imagine the student has just clicked on the term
  * mid-paragraph and wants to keep reading; the definition should answer
  * "what is this?" quickly and let them get back to the prose.
+ *
+ * Character encoding: these strings are JavaScript string literals, not
+ * HTML. Use plain & (not &amp;), plain < and > (not &lt; / &gt;), and
+ * plain quotes. The glossary loader injects these via .textContent,
+ * which treats whatever it gets as literal characters. If you write
+ * "R&amp;B" the popup will display the literal five characters
+ * "R&amp;B" rather than "R&B."
  */
 
 var GLOSSARY = {
@@ -538,7 +545,7 @@ var GLOSSARY = {
 
   "rhythm": {
     label: "Rhythm",
-    definition: "The pattern of long and short sounds in time, organized around a steady underlying pulse. Rhythm is the most basic dimension of music: any time you tap your foot, clap, or nod your head along with a song, you are responding to its rhythm. A song's rhythm is shaped by its meter (how the beats are grouped), its tempo (how fast the beats go by), and the specific patterns of stresses and silences the musicians play on top of that grid. Different musical traditions emphasize rhythm differently: West African and Afro-diasporic musics treat rhythm as the central organizing element, often with several different rhythmic patterns layered at once, while a Western European art-music tradition like the classical waltz tends to keep one steady pattern running throughout. American popular music's distinctiveness owes much to the rhythmic complexity it inherited from West Africa through the blues, gospel, jazz, R&amp;B, funk, hip hop, salsa, and other traditions."
+    definition: "The pattern of long and short sounds in time, organized around a steady underlying pulse. Rhythm is the most basic dimension of music: any time you tap your foot, clap, or nod your head along with a song, you are responding to its rhythm. A song's rhythm is shaped by its meter (how the beats are grouped), its tempo (how fast the beats go by), and the specific patterns of stresses and silences the musicians play on top of that grid. Different musical traditions emphasize rhythm differently: West African and Afro-diasporic musics treat rhythm as the central organizing element, often with several different rhythmic patterns layered at once, while a Western European art-music tradition like the classical waltz tends to keep one steady pattern running throughout. American popular music's distinctiveness owes much to the rhythmic complexity it inherited from West Africa through the blues, gospel, jazz, R&B, funk, hip hop, salsa, and other traditions."
   },
 
   "dynamics": {
@@ -553,7 +560,7 @@ var GLOSSARY = {
 
   "offbeat": {
     label: "Offbeat",
-    definition: "In musical usage, the offbeats are the weak parts of the measure: in 4/4 meter, the offbeats are beats 2 and 4 (where the snare drum usually hits in rock and R&amp;B), or the small \u201cand\u201d pulses between the main beats (\u201cone-AND-two-AND\u201d). The everyday English meaning of \u201coffbeat\u201d (unusual, quirky, unexpected) is a metaphorical extension of the musical meaning, but in music the term is technical: it specifies which moments in a measure a player is hitting. Landing accents on the offbeats rather than the downbeats is one of the central techniques of African American popular music, distinguishing styles from blues and jazz to funk and reggae from the on-the-beat emphasis of marches and most European folk traditions."
+    definition: "In musical usage, the offbeats are the weak parts of the measure: in 4/4 meter, the offbeats are beats 2 and 4 (where the snare drum usually hits in rock and R&B), or the small \u201cand\u201d pulses between the main beats (\u201cone-AND-two-AND\u201d). The everyday English meaning of \u201coffbeat\u201d (unusual, quirky, unexpected) is a metaphorical extension of the musical meaning, but in music the term is technical: it specifies which moments in a measure a player is hitting. Landing accents on the offbeats rather than the downbeats is one of the central techniques of African American popular music, distinguishing styles from blues and jazz to funk and reggae from the on-the-beat emphasis of marches and most European folk traditions."
   },
 
   "meter": {
@@ -603,7 +610,7 @@ var GLOSSARY = {
 
   "melisma": {
     label: "Melisma",
-    definition: "The vocal technique of singing a single syllable across multiple notes. Common in gospel, soul, R&amp;B, and Arabic music. Sam Cooke\u2019s signature \u201cwhoa-whoa-whoa\u201d on the word \u201cknow\u201d in \u201cA Change Is Gonna Come\u201d is melisma. The term comes from the Greek for \u201csong\u201d and has been used for centuries to describe the technique in many musical traditions, sacred and secular."
+    definition: "The vocal technique of singing a single syllable across multiple notes. Common in gospel, soul, R&B, and Arabic music. Sam Cooke\u2019s signature \u201cwhoa-whoa-whoa\u201d on the word \u201cknow\u201d in \u201cA Change Is Gonna Come\u201d is melisma. The term comes from the Greek for \u201csong\u201d and has been used for centuries to describe the technique in many musical traditions, sacred and secular."
   },
 
   "vocal-grain": {
@@ -623,7 +630,7 @@ var GLOSSARY = {
 
   "verse-chorus": {
     label: "Verse-chorus form",
-    definition: "A common popular song structure in which alternating verses (with new lyrics each time) and a chorus (with the same lyrics each time) build the shape of the song. The chorus is usually the most memorable part and the part listeners will sing along to. Most pop, rock, R&amp;B, and country songs use some version of verse-chorus form."
+    definition: "A common popular song structure in which alternating verses (with new lyrics each time) and a chorus (with the same lyrics each time) build the shape of the song. The chorus is usually the most memorable part and the part listeners will sing along to. Most pop, rock, R&B, and country songs use some version of verse-chorus form."
   },
 
   "arpeggio": {
@@ -672,7 +679,7 @@ var GLOSSARY = {
 
   "twelve-bar-blues": {
     label: "12-bar blues",
-    definition: "One of the most influential musical forms in American history. Each \u201cverse\u201d is twelve measures (units of four beats each) long, organized into three four-measure phrases. The chords follow a specific pattern based on the I, IV, and V chords of the home key. The whole 12-bar pattern then repeats throughout the song. Once you can hear it, you can hear it in thousands of songs: most blues, much early rock and roll, much country, much jazz, much R&amp;B."
+    definition: "One of the most influential musical forms in American history. Each \u201cverse\u201d is twelve measures (units of four beats each) long, organized into three four-measure phrases. The chords follow a specific pattern based on the I, IV, and V chords of the home key. The whole 12-bar pattern then repeats throughout the song. Once you can hear it, you can hear it in thousands of songs: most blues, much early rock and roll, much country, much jazz, much R&B."
   },
 
   "measure": {
@@ -696,18 +703,18 @@ var GLOSSARY = {
   },
 
   "horn": {
-    label: "Horn (jazz/blues/R&amp;B usage)",
-    definition: "In jazz, blues, R&amp;B, soul, and related styles, \u201chorn\u201d is a catch-all term for any wind or brass instrument played by blowing: trumpet, cornet, trombone, tuba, saxophone, clarinet, flute, and so on. A \u201chorn player\u201d in this sense is anyone who plays one of those instruments, and the \u201chorn section\u201d of a band is the group of those players collectively. This is different from the everyday word \u201chorn,\u201d which sometimes refers specifically to the French horn (the curled brass orchestral instrument heard in classical music and film scores). When a jazz writer calls Louis Armstrong the most rhythmically inventive horn player in American music, they mean he was playing the cornet (and later the trumpet), not the French horn."
+    label: "Horn (jazz/blues/R&B usage)",
+    definition: "In jazz, blues, R&B, soul, and related styles, \u201chorn\u201d is a catch-all term for any wind or brass instrument played by blowing: trumpet, cornet, trombone, tuba, saxophone, clarinet, flute, and so on. A \u201chorn player\u201d in this sense is anyone who plays one of those instruments, and the \u201chorn section\u201d of a band is the group of those players collectively. This is different from the everyday word \u201chorn,\u201d which sometimes refers specifically to the French horn (the curled brass orchestral instrument heard in classical music and film scores). When a jazz writer calls Louis Armstrong the most rhythmically inventive horn player in American music, they mean he was playing the cornet (and later the trumpet), not the French horn."
   },
 
   "horn-stabs": {
     label: "Horn stabs",
-    definition: "Short, punchy figures played by the horn section in R&amp;B, soul, and funk arrangements, typically inserted between vocal phrases. The horns \u201cstab\u201d in for one or two beats, then drop out, leaving the singer foregrounded. Horn stabs were a defining feature of the Chess Records sound in the 1960s and of Stax, Motown, and other R&amp;B production styles."
+    definition: "Short, punchy figures played by the horn section in R&B, soul, and funk arrangements, typically inserted between vocal phrases. The horns \u201cstab\u201d in for one or two beats, then drop out, leaving the singer foregrounded. Horn stabs were a defining feature of the Chess Records sound in the 1960s and of Stax, Motown, and other R&B production styles."
   },
 
   "chess-house-band": {
     label: "Chess house band",
-    definition: "The studio musicians employed by Chess Records in Chicago in the 1960s to play on most of the label\u2019s recordings. The band included future Earth, Wind &amp; Fire members Maurice White (drums), Louis Satterfield (trombone), Charles Handy (trumpet), and Don Myrick (alto saxophone), all jazz musicians who originally played as the Jazzmen and the Pharaohs in Chicago. Their jazz training shaped the harmonic sophistication of even the simplest Chess R&amp;B records."
+    definition: "The studio musicians employed by Chess Records in Chicago in the 1960s to play on most of the label\u2019s recordings. The band included future Earth, Wind & Fire members Maurice White (drums), Louis Satterfield (trombone), Charles Handy (trumpet), and Don Myrick (alto saxophone), all jazz musicians who originally played as the Jazzmen and the Pharaohs in Chicago. Their jazz training shaped the harmonic sophistication of even the simplest Chess R&B records."
   },
 
   /* ============================
@@ -829,7 +836,7 @@ var GLOSSARY = {
 
   "session-musician": {
     label: "Session musician",
-    definition: "A professional musician hired to play on a specific recording session, typically working across many different artists\u2019 records. Session musicians are usually not credited on the album cover but are essential to the actual sound of the record. Maurice White, who later co-founded Earth, Wind &amp; Fire, was a Chess session drummer."
+    definition: "A professional musician hired to play on a specific recording session, typically working across many different artists\u2019 records. Session musicians are usually not credited on the album cover but are essential to the actual sound of the record. Maurice White, who later co-founded Earth, Wind & Fire, was a Chess session drummer."
   },
 
   /* ============================
@@ -872,7 +879,7 @@ var GLOSSARY = {
 
   "jazz": {
     label: "Jazz",
-    definition: "An African American musical tradition that emerged in New Orleans in the late 19th and early 20th centuries from the blending of blues, ragtime, brass-band marches, spirituals and hymns, and the layered rhythmic practices of Afro-Caribbean music. Jazz is built around improvisation: musicians take turns playing solos that respond to and develop a song\u2019s underlying chord progression. As both a popular and an art music, jazz dominated American popular culture from the 1920s through the 1940s and remains a foundational influence on R&amp;B, soul, hip hop, and Latin popular music."
+    definition: "An African American musical tradition that emerged in New Orleans in the late 19th and early 20th centuries from the blending of blues, ragtime, brass-band marches, spirituals and hymns, and the layered rhythmic practices of Afro-Caribbean music. Jazz is built around improvisation: musicians take turns playing solos that respond to and develop a song\u2019s underlying chord progression. As both a popular and an art music, jazz dominated American popular culture from the 1920s through the 1940s and remains a foundational influence on R&B, soul, hip hop, and Latin popular music."
   },
 
   "country-music": {
@@ -1144,7 +1151,7 @@ var GLOSSARY = {
 
   "beyonce": {
     label: "Beyonc\u00e9",
-    definition: "Beyonc\u00e9 Knowles-Carter (born 1981 in Houston, Texas), American singer, songwriter, performer, and producer. After early success with the group Destiny\u2019s Child in the late 1990s and early 2000s, she became one of the defining solo artists of her generation, particularly with the visual albums Beyonc\u00e9 (2013) and Lemonade (2016). Her work draws explicitly on Black Southern, gospel, R&amp;B, hip hop, and Afro-diasporic traditions, and increasingly engages Black political themes (\u201cFormation,\u201d the Lemonade film, the country album Cowboy Carter) directly. She is one of Module 2\u2019s anchor artists."
+    definition: "Beyonc\u00e9 Knowles-Carter (born 1981 in Houston, Texas), American singer, songwriter, performer, and producer. After early success with the group Destiny\u2019s Child in the late 1990s and early 2000s, she became one of the defining solo artists of her generation, particularly with the visual albums Beyonc\u00e9 (2013) and Lemonade (2016). Her work draws explicitly on Black Southern, gospel, R&B, hip hop, and Afro-diasporic traditions, and increasingly engages Black political themes (\u201cFormation,\u201d the Lemonade film, the country album Cowboy Carter) directly. She is one of Module 2\u2019s anchor artists."
   },
 
   "grandmaster-flash": {
@@ -1154,7 +1161,7 @@ var GLOSSARY = {
 
   "whitney-houston": {
     label: "Whitney Houston",
-    definition: "American singer (1963\u20132012), born in Newark, New Jersey, into a family of singers (her mother Cissy Houston was a leading gospel and session vocalist; her cousin Dionne Warwick and her godmother Aretha Franklin were both major recording artists). Houston was trained in church before she was trained anywhere else, and her vocal technique drew on the gospel runs and melisma of the Black Protestant tradition. She became one of the best-selling artists of all time, with a string of pop and R&amp;B hits in the late 1980s and 1990s. Her career is a clear example of gospel-trained vocal craft moving into mainstream secular pop."
+    definition: "American singer (1963\u20132012), born in Newark, New Jersey, into a family of singers (her mother Cissy Houston was a leading gospel and session vocalist; her cousin Dionne Warwick and her godmother Aretha Franklin were both major recording artists). Houston was trained in church before she was trained anywhere else, and her vocal technique drew on the gospel runs and melisma of the Black Protestant tradition. She became one of the best-selling artists of all time, with a string of pop and R&B hits in the late 1980s and 1990s. Her career is a clear example of gospel-trained vocal craft moving into mainstream secular pop."
   },
 
   /* ============================
