@@ -546,6 +546,16 @@ var GLOSSARY = {
     definition: "In music, dynamics are the loud and soft levels of a sound, and the choices musicians make about how loudly or softly to play at any given moment. The everyday English meaning of \u201cdynamic\u201d (lively, energetic, full of change) overlaps with the musical meaning but is not the same: in music, dynamics are specifically about volume. A song with strong dynamic contrast might whisper one verse and shout the next; a song with flat dynamics stays at roughly the same volume throughout. Singers shape dynamics by leaning closer to or further from the microphone, by holding a note back or pushing it forward, by adding breath or taking it out; instrumentalists shape dynamics by hitting a drum harder, plucking a guitar string with more weight, or pulling a bow more firmly across a string. Dynamic choices are one of the most powerful expressive tools a performer has, and one that recording technology can amplify (a small dynamic shift at the microphone becomes a larger one in the listener\u2019s ear)."
   },
 
+  "beat": {
+    label: "Beat",
+    definition: "The basic unit of time in a piece of music: the steady pulse you tap your foot to or count along with. A song\u2019s beats run at a particular tempo (how fast they go by) and group into a particular meter (how many beats are in each measure). In 4/4 meter, the most common in popular music, beats group in fours: ONE-two-three-four, ONE-two-three-four. In 3/4 meter (a waltz), they group in threes. The beats themselves can be subdivided: each big beat in 12/8 splits into three smaller pulses, and each big beat in 4/4 often splits into two or four. Listening for the beat is the entry point into almost every other rhythmic feature of a recording."
+  },
+
+  "offbeat": {
+    label: "Offbeat",
+    definition: "In musical usage, the offbeats are the weak parts of the measure: in 4/4 meter, the offbeats are beats 2 and 4 (where the snare drum usually hits in rock and R&amp;B), or the small \u201cand\u201d pulses between the main beats (\u201cone-AND-two-AND\u201d). The everyday English meaning of \u201coffbeat\u201d (unusual, quirky, unexpected) is a metaphorical extension of the musical meaning, but in music the term is technical: it specifies which moments in a measure a player is hitting. Landing accents on the offbeats rather than the downbeats is one of the central techniques of African American popular music, distinguishing styles from blues and jazz to funk and reggae from the on-the-beat emphasis of marches and most European folk traditions."
+  },
+
   "meter": {
     label: "Meter",
     definition: "The way a song's beats are grouped. A meter has a recurring number of beats per measure, with one beat (usually the first) feeling stronger than the others. The most common meter in popular music is 4/4 (four beats per measure). Waltzes are in 3/4 (three beats per measure). 12/8 is a slower, rocking meter common in soul ballads."
