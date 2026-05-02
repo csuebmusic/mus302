@@ -1394,6 +1394,110 @@ var GLOSSARY = {
   "vamp": {
     label: "Vamp",
     definition: "A short repeating musical pattern that loops continuously while other elements (lead vocal, solos, improvisation) happen on top. A vamp typically lasts one or two measures and stays on the same chord or moves between two closely-related chords. Vamps are the structural backbone of funk, much hip hop, and a great deal of dance music: instead of moving through a chord progression, the song stays parked on a single repeating pattern and lets the energy come from variation in what is layered on top. \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud\u201d is built on a single vamp for its entire three-minute runtime."
+  },
+
+  /* ============================
+     Module 2 Track 4: Grandmaster Flash and the Furious Five and "The Message"
+     ============================ */
+
+  "south-bronx": {
+    label: "South Bronx",
+    definition: "The southern portion of the Bronx, the northernmost borough of New York City, generally considered to be the area south of the Cross-Bronx Expressway. The neighborhood was a predominantly white working-class area through the 1940s; in the 1950s and 1960s, white flight, redlining, and the construction of the Cross-Bronx Expressway transformed it into a predominantly Black and Puerto Rican neighborhood. Through the 1970s and into the 1980s the South Bronx became a national symbol of urban poverty and disinvestment, with widespread building abandonment and arson. It is also the place where hip hop was born, in 1973."
+  },
+
+  "robert-moses": {
+    label: "Robert Moses",
+    definition: "American urban planner (1888\u20131981), often called New York City\u2019s \u201cmaster builder.\u201d Moses held a series of unelected positions of enormous power from the 1930s through the 1960s, including parks commissioner, construction coordinator, and chair of the Triborough Bridge and Tunnel Authority. He oversaw the construction of hundreds of parks, playgrounds, bridges, public housing projects, and highways across the New York metropolitan area. He also displaced hundreds of thousands of residents in the process, disproportionately working-class people of color, and his planning decisions are widely regarded as having reshaped the city\u2019s racial geography. Robert Caro\u2019s 1974 biography <em>The Power Broker</em> is the standard account of Moses\u2019s career and is one of the most influential works of urban history ever written."
+  },
+
+  "cross-bronx-expressway": {
+    label: "Cross-Bronx Expressway",
+    definition: "A seven-mile stretch of Interstate 95 cut through the Bronx between 1948 and 1972, designed by Robert Moses to connect New Jersey to Long Island. Moses\u2019s route required the demolition of a five-mile-wide swath through working-class Bronx neighborhoods, displacing tens of thousands of residents and dividing the borough physically and socially. The expressway is widely regarded as the single most destructive piece of mid-twentieth-century urban planning in the United States, and the conditions it produced in the South Bronx (mass displacement, building abandonment, the loss of the borough\u2019s social fabric) are central to the story of how hip hop emerged from the area in the 1970s."
+  },
+
+  "white-flight": {
+    label: "White flight",
+    definition: "The mid-twentieth-century migration of white residents out of American cities and into newly built suburbs, often in response to the arrival of Black and other nonwhite residents in their neighborhoods. White flight was driven by racism, by federally subsidized highway construction and home loans that favored suburban development, and by redlining policies that drove down the perceived value of integrating neighborhoods. In the South Bronx, white flight transformed a borough that was two-thirds non-Hispanic white in 1950 into one that was two-thirds Black and Puerto Rican by 1960. The phenomenon hollowed out the urban tax base and accelerated the disinvestment that turned neighborhoods like the South Bronx into nationally visible symbols of urban decline."
+  },
+
+  "deindustrialization": {
+    label: "Deindustrialization",
+    definition: "The decline and disappearance of manufacturing employment in American cities, especially from the 1960s through the 1980s. As factories closed, automated, or relocated overseas, neighborhoods built around those jobs (typically working-class and racially mixed, with significant Black, Latino, and immigrant populations) lost their economic foundation. Deindustrialization is one of the structural conditions out of which several musics in this course emerged, including hip hop in the South Bronx, punk in the Detroit and English Midlands, and rust-belt rock more broadly."
+  },
+
+  "kool-herc": {
+    label: "DJ Kool Herc",
+    definition: "Jamaican-born American DJ (born Clive Campbell, 1955), widely credited as the founding figure of hip hop. On August 11, 1973, Herc threw a back-to-school party in the recreation room of his apartment building at 1520 Sedgwick Avenue in the Bronx, where he used two turntables and two copies of the same record to extend the rhythmic break of a song so the dancers could keep moving. That technique, the breakbeat or merry-go-round, is the technical foundation hip hop is built on. Herc had grown up in Kingston, Jamaica, around the Jamaican sound-system tradition of toasting (talking rhythmically over instrumentals), which he carried into his Bronx parties along with the powerful sound systems Jamaican DJs used. He is generally treated as the first of hip hop\u2019s three foundational DJs, alongside Afrika Bambaataa and Grandmaster Flash."
+  },
+
+  "afrika-bambaataa": {
+    label: "Afrika Bambaataa",
+    definition: "American DJ, producer, and community organizer (born Lance Taylor, 1957), one of the foundational figures of hip hop. Bambaataa grew up in the Bronx River Houses in the South Bronx and rose through the Black Spades street gang in the early 1970s before turning to DJing. In 1973 or 1974 he founded the Universal Zulu Nation, a community of DJs, MCs, b-boys and b-girls, and graffiti writers committed to redirecting Bronx street energy from gang conflict into hip hop culture. He is generally credited with codifying the four elements of hip hop (DJing, MCing, breakdancing, graffiti) and with the cultural-organizing side of the movement, alongside Kool Herc\u2019s DJ techniques and Grandmaster Flash\u2019s turntable engineering. His 1982 record \u201cPlanet Rock,\u201d built on a Roland TR-808 drum machine and a sample of Kraftwerk\u2019s \u201cTrans-Europe Express,\u201d helped define electro and was a major influence on dance music for the next two decades. Sexual abuse allegations against Bambaataa, dating from the 1980s and surfacing in the 2010s, have complicated his legacy; the Universal Zulu Nation removed him from leadership in 2016."
+  },
+
+  "block-party": {
+    label: "Block party / park jam",
+    definition: "An outdoor neighborhood gathering where music is played for a community on a closed-off street or in a public park. Block parties have a long history in Black American urban life and trace back through Caribbean and West African traditions of outdoor communal celebration. In the 1970s South Bronx, block parties and park jams were the venue where hip hop took shape: a DJ would set up turntables in a playground or on a sidewalk, often hot-wiring power from a streetlight, and the neighborhood\u2019s teenagers would dance, rap, and watch each other\u2019s moves. Many of hip hop\u2019s formal innovations, including the breakbeat, the cipher, and the role of the MC as crowd-warmer, were worked out at these gatherings before any of it reached a recording studio."
+  },
+
+  "breakbeat": {
+    label: "Breakbeat",
+    definition: "A short percussion-only section of a recording, originally a passage in a funk or soul track where the rest of the band drops out and only the drums (sometimes with bass and percussion) keep playing. Hip hop DJs in the 1970s discovered that these breaks were the parts dancers responded to most strongly, and they used two turntables with two copies of the same record to loop the break indefinitely, switching back and forth from one record to the other. That technique, generally credited to DJ Kool Herc and refined by Grandmaster Flash, is the technical foundation hip hop is built on. The same word, breakbeat, is also used for the longer category of recordings featuring those drum patterns and for related genres of electronic dance music that grew out of them."
+  },
+
+  "sugar-hill-records": {
+    label: "Sugar Hill Records",
+    definition: "American independent record label, founded in 1979 in Englewood, New Jersey, by Sylvia and Joe Robinson. The label was named after the Sugar Hill neighborhood in Harlem and was hip hop\u2019s first major commercial label. Its 1979 release \u201cRapper\u2019s Delight\u201d by the Sugarhill Gang was the first commercially successful hip hop record, and its 1982 release of Grandmaster Flash and the Furious Five\u2019s \u201cThe Message\u201d established hip hop as a vehicle for serious social commentary. Sugar Hill\u2019s in-house band (Doug Wimbish on bass, Skip McDonald on guitar, Keith LeBlanc on drums) played on most of the label\u2019s releases. The label folded in 1985 after a series of legal and financial troubles."
+  },
+
+  "sylvia-robinson": {
+    label: "Sylvia Robinson",
+    definition: "American singer, producer, and label executive (1935\u20132011), often called the \u201cMother of Hip-Hop.\u201d Robinson\u2019s career began in the 1950s as Little Sylvia and as half of the duo Mickey & Sylvia, whose 1956 hit \u201cLove Is Strange\u201d remains a R&amp;B standard. After a 1973 solo hit, \u201cPillow Talk,\u201d she co-founded Sugar Hill Records in 1979 with her husband Joe Robinson and oversaw the production of \u201cRapper\u2019s Delight\u201d (1979) and \u201cThe Message\u201d (1982), the two records most responsible for hip hop\u2019s early commercial breakthrough. She did not invent the techniques she put on record; what she did was hear, before anyone else in the industry, that hip hop had crossover potential, and she built a label around that hearing. She was inducted into the Rock and Roll Hall of Fame in 2022."
+  },
+
+  "melle-mel": {
+    label: "Melle Mel",
+    definition: "American MC (born Melvin Glover, 1961), generally credited as the first rapper to refer to himself as an \u201cMC\u201d and one of the foundational vocalists of hip hop. Mel grew up in the South Bronx, became part of Grandmaster Flash\u2019s circle in the mid-1970s, and was one of the original members of the Furious Five. He was the only member of the Furious Five who actually performed on \u201cThe Message\u201d (1982), delivering its climactic final twenty-eight-measure verse. He went on to a long career, including the 1983 anti-cocaine record \u201cWhite Lines (Don\u2019t Don\u2019t Do It).\u201d He was inducted into the Rock and Roll Hall of Fame as part of Grandmaster Flash and the Furious Five in 2007."
+  },
+
+  "duke-bootee": {
+    label: "Duke Bootee",
+    definition: "American percussionist, songwriter, and rapper (Edward Fletcher, 1951\u20132021), born and raised in Savannah, Georgia, and based in Elizabeth, New Jersey, when he became part of the Sugar Hill Records circle in the early 1980s. Fletcher was the primary writer and performer of \u201cThe Message\u201d (1982): he came up with the hook (\u201cdon\u2019t push me, \u2019cause I\u2019m close to the edge\u201d), wrote most of the verses, played drum machine, synthesizer, and percussion on the recording, and delivered the lead vocal on the verses. The track was credited to Grandmaster Flash and the Furious Five at Sylvia Robinson\u2019s direction; only Melle Mel of the credited group performed on it. Fletcher held a master\u2019s degree in education and after his music career taught high-school English in New Jersey for more than two decades."
+  },
+
+  "skip-mcdonald": {
+    label: "Skip McDonald",
+    definition: "American guitarist (born 1949), longtime member of the Sugar Hill Records house band along with bassist Doug Wimbish and drummer Keith LeBlanc. McDonald played guitar on most of Sugar Hill\u2019s major releases, including \u201cRapper\u2019s Delight\u201d (1979) and \u201cThe Message\u201d (1982). After Sugar Hill folded, McDonald, Wimbish, and LeBlanc moved to the UK and worked extensively with the producer Adrian Sherwood\u2019s On-U Sound label, performing as Tackhead and as the rhythm section behind a wide range of post-punk, dub, and industrial recordings."
+  },
+
+  "drum-machine": {
+    label: "Drum machine",
+    definition: "An electronic instrument that produces drum sounds, either by synthesizing them or by playing back short stored recordings of real drums (samples). Drum machines became commercially viable in the late 1970s and early 1980s and quickly reshaped popular music, especially in genres where studio production was central: hip hop, R&amp;B, electronic dance music, synth-pop. They allowed a single producer to lay down rhythmic patterns without hiring a drummer and with perfect timekeeping, and their distinctive timbres (the boomy kick of the Roland TR-808, the snappy snares of the Linn LM-1 and Oberheim DMX) became sounds in their own right. \u201cThe Message\u201d uses an Oberheim DMX, one of the first sampling drum machines."
+  },
+
+  "synthesizer": {
+    label: "Synthesizer",
+    definition: "An electronic instrument that generates sound from scratch (rather than picking up an acoustic source like a guitar string or a singer\u2019s voice) using oscillators, filters, and other circuits. Synthesizers became musically important in the 1960s with instruments like the Moog and the ARP, and exploded into popular music in the 1970s and 1980s as instruments became smaller, cheaper, and easier to play. Synthesizers can produce sounds that imitate acoustic instruments and sounds that no acoustic instrument could make; both kinds of sound have been central to popular music for the last fifty years. The Sequential Circuits Prophet 5, used on \u201cThe Message,\u201d is one of the iconic early polyphonic analog synthesizers."
+  },
+
+  "analog-synth": {
+    label: "Analog synthesizer",
+    definition: "A synthesizer that generates sound using continuous electrical signals (voltage-controlled oscillators, filters, and amplifiers) rather than digital computation. Analog synthesizers dominated the 1970s and early 1980s and have a characteristic warm, slightly imprecise sound that is still prized today. The Prophet 5, the Minimoog, the Roland Jupiter-8, and the Oberheim OB-Xa are all classic analog synthesizers from this era. The hook on \u201cThe Message\u201d is played on a Prophet 5."
+  },
+
+  "prophet-5": {
+    label: "Prophet 5",
+    definition: "A polyphonic analog synthesizer manufactured by Sequential Circuits in San Jose, California, beginning in 1978. The Prophet 5 was the first widely-available synthesizer that could play five notes at once with fully programmable sounds that could be saved to memory and recalled, which made it usable in live performance as well as studio recording. Its bright, slightly clipped lead and brass-like sounds appear on a great deal of late-1970s and early-1980s pop, R&amp;B, and hip hop, including the hook of \u201cThe Message.\u201d"
+  },
+
+  "public-enemy": {
+    label: "Public Enemy",
+    definition: "American hip hop group founded in 1985 in Long Island, New York, around lead MC Chuck D (Carlton Ridenhour), Flavor Flav (William Drayton), DJ Terminator X (Norman Rogers), and the Bomb Squad production team. Public Enemy\u2019s late-1980s and early-1990s records (<em>It Takes a Nation of Millions to Hold Us Back</em>, 1988; <em>Fear of a Black Planet</em>, 1990) are widely regarded as the high-water mark of politically explicit hip hop, building on the path \u201cThe Message\u201d had opened in 1982. The group\u2019s dense, aggressive production style, its sustained engagement with Black political and intellectual traditions, and Chuck D\u2019s commanding rhetorical voice influenced essentially every subsequent generation of socially-engaged hip hop artists, from KRS-One and X-Clan through Kendrick Lamar and Run the Jewels."
+  },
+
+  "conscious-hip-hop": {
+    label: "Conscious hip hop",
+    definition: "An informal label for hip hop that engages directly with social and political subject matter, generally including some combination of analysis of structural racism, critique of capitalism, exploration of African American history and identity, and explicit calls for political action or self-determination. Conscious hip hop is typically traced to Grandmaster Flash and the Furious Five\u2019s \u201cThe Message\u201d (1982) and developed through Public Enemy, KRS-One and Boogie Down Productions, A Tribe Called Quest, the Native Tongues collective, the Roots, Mos Def, Common, Lauryn Hill, dead prez, Kendrick Lamar, and many others. The label is often used in contrast to \u201cgangsta rap\u201d or \u201cparty rap,\u201d though many artists work in more than one of these registers and the boundaries between them have always been porous."
   }
 
 };

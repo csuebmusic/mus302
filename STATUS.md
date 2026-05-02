@@ -7,12 +7,11 @@ has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
 Last updated: end of the session that drafted the full
-listening guide for Module 2 Track 3 (James Brown, "Say It
-Loud — I'm Black and I'm Proud," 1968) and added a Pee Wee
-Ellis glossary entry. Module 2 framing reading, landing page,
-and Tracks 1, 2, and 3 are live; Tracks 4 (Grandmaster Flash)
-and 5 (Beyoncé), discussion, and quiz still pending. Glossary
-count: 252.
+listening guide for Module 2 Track 4 (Grandmaster Flash and
+the Furious Five, "The Message," 1982). Module 2 framing
+reading, landing page, and Tracks 1, 2, 3, and 4 are live;
+Track 5 (Beyoncé), discussion, and quiz still pending.
+Glossary count: 272.
 
 ## Term and dates
 
@@ -164,6 +163,60 @@ reviewed.
   linking convention, module2/roots-and-routes.html's first
   prose mention of "Say It Loud" in the political-modes
   paragraph is now linked to track3-brown.html.
+- `module2/track4-grandmaster-flash.html`: full listening
+  guide for Grandmaster Flash and the Furious Five, "The
+  Message" (Sugar Hill, single released July 1, 1982).
+  Four-part context (the South Bronx that made hip hop, with
+  Robert Moses and the Cross-Bronx Expressway as the
+  structural backstory and Kool Herc / Bambaataa / Flash as
+  the founding DJs / Sugar Hill Records and Sylvia Robinson
+  as the "Mother of Hip-Hop" who pushed the group toward
+  serious subject matter / the recording itself, including
+  the honest accounting that the track was largely written
+  and performed by Duke Bootee with Skip McDonald on guitar
+  and only Melle Mel from the credited group performing,
+  with the "authenticity is more complicated than the
+  legend" framing as the pedagogical move / reception and
+  afterlife: charts, the 2002 NRR induction, the lineage to
+  Public Enemy and KRS-One through Kendrick Lamar) and four
+  "Things to listen for" prompts (timbre of two rapping
+  voices plus electronic rhythm section / texture of just
+  four sonic strands with audible space between them /
+  form as expanding-verse architecture, with the verse-
+  length progression 8/11/13/16/28 measures from the LoC
+  essay carried over and used as the structural argument /
+  gesture, focused on Mel's final-verse tightening and the
+  closing arrest skit). Hero photo is the original 1982 12-
+  inch single cover (seven young men on a South Bronx
+  street with a boombox), credited to Sugar Hill Records
+  and used here for educational and analytical purposes.
+  Cross-links: backward to Brown for the funk-vamp-to-hip-
+  hop-vamp inheritance and the call-and-response question;
+  backward to Tharpe for the new-instrument absorption
+  point (electric guitar in 1944, drum machine and synth
+  in 1982); forward to Beyoncé in the navigation footer.
+  Reflective question asks students to pick a specific
+  moment and argue which of the three modes of political
+  work named in the framing reading (content, form, or
+  presence) that moment is doing. Page is 107 lines,
+  within the Module 2 envelope (104-117).
+- 20 new glossary entries added for Track 4 vocabulary:
+  south-bronx, robert-moses, cross-bronx-expressway,
+  white-flight, deindustrialization, kool-herc,
+  afrika-bambaataa, block-party, breakbeat,
+  sugar-hill-records, sylvia-robinson, melle-mel,
+  duke-bootee, skip-mcdonald, drum-machine, synthesizer,
+  analog-synth, prophet-5, public-enemy, conscious-hip-hop.
+  Glossary count is now 272. Two retroactive first-mention
+  button additions on existing pages: south-bronx on
+  module1/track2-cruz.html (in the El Barrio / South Bronx
+  Caribbean migrant paragraph), and public-enemy on
+  module2/track3-brown.html (in the Chuck D testimonial
+  paragraph). Per the cross-linking convention,
+  module2/roots-and-routes.html's first prose mention of
+  "The Message" in the political-modes paragraph is now
+  linked to track4-grandmaster-flash.html (parallel to the
+  existing Brown link in the same paragraph).
 - After Track 2 shipped, a series of cleanup passes ran on the
   methodology reading and the glossary. The methodology reading
   gained a tempo/beat/meter/rhythm reference section between the
@@ -258,14 +311,10 @@ reviewed.
 ## What is pending
 
 **Module 2 (rest of it).** The framing reading, landing page,
-and Tracks 1, 2, and 3 are done; the two remaining listening
-guides, discussion, and quiz are not yet drafted.
+and Tracks 1, 2, 3, and 4 are done; the final listening
+guide, the discussion, and the quiz are not yet drafted.
 
-- Listening guides for the two remaining anchor tracks, in
-  chronological order:
-  Track 4: Grandmaster Flash and the Furious Five, "The Message"
-    (1982). Hip hop's pivot from party to social commentary in
-    the deindustrializing city.
+- Listening guide for the remaining anchor track:
   Track 5: Beyoncé, "Formation" (2016). Black Southern identity
     on the largest stage of American mass culture.
 - `module2/discussion.md`: discussion prompt with Canvas paste
@@ -426,16 +475,32 @@ Remaining known intentional skips (audit warnings to live with):
    are word-boundary-different forms the audit correctly does not
    flag. Intentional skip.
 
-**Repo-wide audit state.** 14 files, 0 errors, 6 warnings.
-All six are documented as intentional skips above. Item 6
-covers four of them (the Stax row's `house-band`, the Black
-Swan row's `w-c-handy`, the Decca row's `decca`, and the Chess
-row's `muddy-waters`, all in the framing-reading labels-list
-table where multi-word gloss buttons render awkwardly inside
-narrow monospace cells). Item 7 covers one (the diaspora
-extended-prose definition in `module1/cultural-roots.html`).
-Item 8 covers one (the bare `rhythm` inside the compound
-`rhythm section` on the Tharpe Track 2 page). The
+9. *bare `dominant` in
+   `module2/track4-grandmaster-flash.html`'s reflective question.*
+   The `dominant` glossary entry defines the music-theory term
+   (the V chord). The reflective question's last line uses the
+   English adjective "dominant" in "the dominant culture wished
+   to ignore." Glossing it as the music-theory term would be
+   misleading. The audit's word-boundary regex (`[^\w-]` on each
+   side) correctly does not flag the bare `dominant` on
+   `module2/track3-brown.html` because the only occurrence there
+   is "dominant-flavored E-flat chord" and the trailing hyphen
+   fails the boundary check; on Track 4 the word appears only in
+   the reflective question, with a space on each side, so it
+   matches. Intentional skip.
+
+**Repo-wide audit state.** 15 files, 0 errors, 7 warnings.
+Six are documented as intentional skips above (item 6 covers
+four of them in the framing-reading labels-list table; item 7
+covers the diaspora extended-prose definition; item 8 covers
+the bare `rhythm` inside the compound `rhythm section` on
+the Tharpe Track 2 page). The seventh warning is new and is
+also a false positive: the `dominant` glossary entry (the V
+chord) matches the bare adjective "dominant" in
+`module2/track4-grandmaster-flash.html`'s reflective question
+("people the dominant culture wished to ignore"). This is the
+everyday English adjective, not the music-theory term, and
+glossing it would be misleading; intentional skip. The
 `module1/index.html` and `module2/index.html` landing pages
 are explicitly out of scope for missed-gloss flagging because
 landing pages are navigational summaries; this is formalized
