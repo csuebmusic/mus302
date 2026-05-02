@@ -6,12 +6,11 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that drafted the full
-listening guide for Module 2 Track 2 (Sister Rosetta Tharpe,
-"Strange Things Happening Every Day," 1944). Module 2 framing
-reading, landing page, and Tracks 1 and 2 are now live; the
-three remaining listening guides, discussion, and quiz still
-pending.
+Last updated: end of the session that added a tempo / beat /
+meter / rhythm reference section with two new SVG diagrams (4/4
+and 12/8) to the methodology reading. Module 2 framing reading,
+landing page, and Tracks 1 and 2 are live; the three remaining
+listening guides, discussion, and quiz still pending.
 
 ## Term and dates
 
@@ -25,8 +24,11 @@ reviewed.
 - `module1/index.html`: landing page with module overview,
   deadlines, content notice, and instructor contact.
 - `module1/how-to-listen.html`: the methodology reading
-  (timbre, texture, form, gesture; description-pattern-claim-
-  evidence). Five SVG figures embedded inline.
+  (tempo/beat/meter/rhythm reference section with two SVG
+  diagrams; the four analytical frames timbre/texture/form/
+  gesture; description-pattern-claim-evidence). Seven SVG
+  figures embedded inline (figures 1-2: 4/4 and 12/8 meter
+  diagrams; figures 3-7: texture and form diagrams).
 - `module1/cultural-roots.html`: the framing reading (cultural
   traditions, migration/displacement/diaspora, four traditions
   preview, Module 6 threads, intersections, listener position).
