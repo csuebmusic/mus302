@@ -65,6 +65,11 @@ var GLOSSARY = {
     definition: "A major American record label, originally part of the Radio Corporation of America. In the mid-twentieth century, RCA was one of the \u201cbig four\u201d labels alongside Columbia, Decca, and Capitol. Sam Cooke signed with RCA Victor in 1960."
   },
 
+  "sheet-music": {
+    label: "Sheet music",
+    definition: "The printed score of a song or instrumental piece, with the melody, lyrics, and chord or piano accompaniment laid out in standard musical notation on paper. From roughly the 1880s through the 1920s, sheet music was the way popular songs traveled commercially: songs were sold as printed pages people bought at music stores and played at home on a piano or parlor organ, and a song was a hit when its sheet music sold in large numbers, not when its records did. Owning the publishing rights to a sheet-music edition meant collecting income on every copy sold and on every performance and recording licensed from it, which is why W.C. Handy founded his own publishing company after losing the rights to \u201cMemphis Blues.\u201d Sheet music as the dominant format declined as recording, radio, and the Great Depression reshaped the industry, but the publishing-rights structure it set up still organizes the music industry today."
+  },
+
   /* ============================
      Form, arrangement, and production
      ============================ */
