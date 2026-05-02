@@ -1120,6 +1120,100 @@ var GLOSSARY = {
   "whitney-houston": {
     label: "Whitney Houston",
     definition: "American singer (1963\u20132012), born in Newark, New Jersey, into a family of singers (her mother Cissy Houston was a leading gospel and session vocalist; her cousin Dionne Warwick and her godmother Aretha Franklin were both major recording artists). Houston was trained in church before she was trained anywhere else, and her vocal technique drew on the gospel runs and melisma of the Black Protestant tradition. She became one of the best-selling artists of all time, with a string of pop and R&amp;B hits in the late 1980s and 1990s. Her career is a clear example of gospel-trained vocal craft moving into mainstream secular pop."
+  },
+
+  /* ============================
+     Module 2 Track 1: Bessie Smith and "St. Louis Blues"
+     ============================ */
+
+  "empress-of-the-blues": {
+    label: "Empress of the Blues",
+    definition: "The press nickname for Bessie Smith from roughly the mid-1920s on, used as a billing on her concert posters and Columbia record labels. The title positioned her above the older \u201cMother of the Blues\u201d (Ma Rainey) in the popular imagination, a kind of generational handing-off, and reflected her status as the highest-paid Black entertainer in the United States in that decade."
+  },
+
+  "classic-blues": {
+    label: "Classic blues",
+    definition: "A music-industry and music-history term for the recorded blues of the 1920s, dominated by African American women singers like Bessie Smith, Ma Rainey, Ethel Waters, Ida Cox, Alberta Hunter, and Mamie Smith. Classic blues recordings were generally backed by small jazz bands or solo pianists, performed in vaudeville-influenced staged settings, and aimed at the race-records market. The label distinguishes this body of recordings from the country blues that came later on record (rural, mostly male, accompanied by acoustic guitar) and from the urban Chicago blues that followed in the 1940s."
+  },
+
+  "vaudeville": {
+    label: "Vaudeville",
+    definition: "A form of variety theater that dominated American popular entertainment from roughly the 1880s through the 1920s, made up of short, varied acts (singers, comedians, dancers, novelty performers) presented one after another on a single bill. Vaudeville was strictly segregated: white vaudeville played mostly white theaters and produced stars like Eddie Cantor and Sophie Tucker; Black vaudeville played mostly Black-owned theaters on circuits like the Theater Owners\u2019 Booking Association (TOBA) and produced stars like Bessie Smith, Ma Rainey, and Ethel Waters. Many of the conventions of later live popular music (the headliner, the warm-up act, the touring revue) come from vaudeville."
+  },
+
+  "toba": {
+    label: "TOBA (Theater Owners' Booking Association)",
+    definition: "The major Black vaudeville circuit of the 1910s and 1920s, a network of Black-owned and Black-operated theaters across the South and East Coast that booked Black performers for Black audiences. TOBA gave artists like Bessie Smith and Ma Rainey a steady working circuit at a time when white vaudeville was largely closed to them, but the pay and accommodations were notoriously poor; performers wryly glossed the acronym as \u201cTough On Black Asses.\u201d Almost every major Black recording artist of the 1920s came up through TOBA."
+  },
+
+  "columbia-records": {
+    label: "Columbia Records",
+    definition: "An American record label founded in 1888, one of the oldest still-operating record companies in the world. In the 1920s Columbia became one of the major labels recording Black artists for the race-records market; Bessie Smith was its biggest star in that decade, and her sales were credited with pulling the company through a near-bankruptcy. Columbia later signed artists across nearly every era and genre, from Billie Holiday and Frank Sinatra to Bob Dylan and Bruce Springsteen, and remains a major label today as a subsidiary of Sony Music."
+  },
+
+  "w-c-handy": {
+    label: "W.C. Handy",
+    definition: "William Christopher Handy (1873\u20131958), African American bandleader, cornetist, and music publisher who composed and published some of the earliest commercially successful blues songs, including \u201cMemphis Blues\u201d (1912) and \u201cSt. Louis Blues\u201d (1914). The title of his 1941 autobiography, Father of the Blues, became his nickname; the claim is overstated (the blues was alive in Black Southern communities long before Handy heard it), but Handy did do something specific and important: he put the blues onto sheet music in a form the publishing industry could sell. His New York-based Pace & Handy Music Company was one of the earliest Black-owned music publishers."
+  },
+
+  "habanera": {
+    label: "Habanera",
+    definition: "A syncopated rhythmic pattern that originated in nineteenth-century Cuba, named after Havana (la Habana) and central to the Cuban contradanza and danz\u00f3n traditions. The pattern, sometimes notated as a dotted quarter note plus an eighth plus two quarters, traveled with Cuban musicians and sailors to New Orleans, Buenos Aires, and Spain in the late nineteenth century. It became a foundational rhythm of the tango in Argentina and a recurring presence in the early jazz of New Orleans. W.C. Handy heard it on a 1900 trip to Cuba and put it into the bridge of \u201cSt. Louis Blues.\u201d"
+  },
+
+  "spanish-tinge": {
+    label: "Spanish tinge",
+    definition: "Jelly Roll Morton\u2019s phrase for the Latin (specifically Cuban habanera) rhythmic flavor that runs through New Orleans jazz, ragtime, and early American popular music. Morton, the New Orleans pianist who claimed to have invented jazz, told the folklorist Alan Lomax in his 1938 Library of Congress interviews that you could not really play jazz without putting in what he called the \u201cSpanish tinge.\u201d The phrase has stuck as shorthand for the Caribbean and Latin American influences that shaped American popular music from the very beginning."
+  },
+
+  "tango": {
+    label: "Tango",
+    definition: "A partner dance and music form that emerged in the working-class neighborhoods of Buenos Aires and Montevideo in the late nineteenth century, drawing on Cuban habanera rhythm, European waltz and polka, and Afro-Argentine candombe. By the early 1910s tango had become an international dance craze in Paris and New York, where it was perceived as exotic and erotic. The 1914 craze is what W.C. Handy was responding to when he wrote the tango bridge into \u201cSt. Louis Blues.\u201d"
+  },
+
+  "acoustic-recording": {
+    label: "Acoustic recording",
+    definition: "The pre-electrical method of recording sound, used from the late 1870s until 1925. Performers played and sang directly into a large horn that funneled the sound waves to a needle, which cut grooves into a wax master disc. There were no microphones, no amplifiers, and no overdubs. Singers had to project loud enough to drive the cutting needle, which is why early-twentieth-century vocal training emphasized projection. Columbia and the other major labels switched to electrical recording (using microphones and electrical amplification) in 1925. Bessie Smith\u2019s \u201cSt. Louis Blues,\u201d cut in January of that year, was one of the last great acoustic vocal recordings."
+  },
+
+  "cornet": {
+    label: "Cornet",
+    definition: "A brass instrument closely related to the trumpet, with the same range and roughly the same fingering, but a more compact, conical bore that produces a slightly warmer, mellower tone than the trumpet\u2019s brighter, more cylindrical sound. The cornet was the standard high-brass instrument of New Orleans jazz and of much marching-band and dance-band music through the 1920s. Louis Armstrong played cornet on his early sides, including the 1925 sessions with Bessie Smith, before switching to trumpet later in the decade. Most listeners cannot distinguish them by ear without practice."
+  },
+
+  "harmonium": {
+    label: "Harmonium (pump organ)",
+    definition: "A small reed organ powered by foot-pumped bellows that push air across thin metal reeds to produce sound. Common in nineteenth- and early-twentieth-century homes, schools, and small churches, especially in rural areas without electricity, the harmonium was associated with hymns and parlor music. Its slightly wheezing, breathy sound is unmistakable. Fred Longshaw played one on Bessie Smith\u2019s \u201cSt. Louis Blues,\u201d a choice that gave the recording a sacred, country-church quality and is one of the reasons the track sounds the way it does."
+  },
+
+  "contralto": {
+    label: "Contralto",
+    definition: "The lowest standard female vocal range in Western classical and popular music, typically running from the F below middle C up to the F nearly two octaves above. A true contralto voice is rare and is usually described as deep, dark in color, and powerful in its lower range. Bessie Smith was a contralto, and a great deal of what makes her recordings sound the way they do (the weight of the bottom of her voice, the authority of her low notes) comes from that vocal type."
+  },
+
+  "obbligato": {
+    label: "Obbligato",
+    definition: "An accompanying musical line, often improvised, that weaves around and comments on a main vocal or solo line. The Italian word means \u201cobligatory,\u201d in the sense that the line is essential to the music rather than optional ornamentation. In jazz and blues recordings of the 1920s and 1930s, the obbligato was typically played by a horn (cornet, trumpet, clarinet, saxophone) responding to the singer\u2019s phrases in the spaces between vocal lines. Louis Armstrong\u2019s cornet behind Bessie Smith on \u201cSt. Louis Blues\u201d is one of the most famous examples in the recorded literature."
+  },
+
+  "aab": {
+    label: "AAB form (blues lyric)",
+    definition: "The standard lyric pattern of the twelve-bar blues. Each verse has three lines: the first line is sung once, then repeated almost identically (the two A lines), and then a third, contrasting line completes the thought (the B line). For example: \u201cI hate to see that evening sun go down / I hate to see that evening sun go down / It makes me think I\u2019m on my last go round.\u201d The repetition of the first line gives the singer a moment to think, gives the listener time to absorb the image, and creates the suspended, conversational feel that distinguishes the blues from most other song forms."
+  },
+
+  "ragtime": {
+    label: "Ragtime",
+    definition: "A composed, syncopated piano music that flourished from roughly the 1890s through the 1910s, most associated with the African American composer Scott Joplin (1868\u20131917) and his \u201cMaple Leaf Rag\u201d (1899). Ragtime\u2019s defining feature is a syncopated, \u201cragged\u201d right-hand melody played against a steady, marching left-hand bass, and its multi-strain compositional shape (several distinct sections in succession, like a march) influenced early jazz, the songs of W.C. Handy, and a great deal of American popular music in the 1910s and 1920s. \u201cSt. Louis Blues,\u201d with its three contrasting strains, is closer in shape to a rag than to a folk blues."
+  },
+
+  "billie-holiday": {
+    label: "Billie Holiday",
+    definition: "American jazz and blues singer (1915\u20131959), born Eleanora Fagan in Philadelphia and raised mostly in Baltimore. Holiday became one of the most influential vocalists of the twentieth century, known for her unusual phrasing (typically singing slightly behind the beat, lingering on or bending notes), her emotional directness, and her ability to make a song sound like she was telling you a true story about herself. She named Bessie Smith and Louis Armstrong as her two most important early influences. Her 1939 recording of \u201cStrange Fruit,\u201d a song about a Southern lynching, is one of the earliest and most important protest songs in American popular music."
+  },
+
+  "big-mama-thornton": {
+    label: "Big Mama Thornton",
+    definition: "American blues singer (1926\u20131984), born Willie Mae Thornton in Montgomery, Alabama, who came up through the same Southern touring circuits Bessie Smith had worked a generation earlier. In the 1940s she was sometimes billed as \u201cBessie Smith\u2019s Younger Sister.\u201d Her 1952 recording of \u201cHound Dog\u201d (written by Jerry Leiber and Mike Stoller) was a major R&B hit; Elvis Presley\u2019s 1956 cover, modeled on her version, was a much bigger pop hit and largely erased her from the song\u2019s public history. Her 1968 \u201cBall and Chain\u201d was covered to fame by Janis Joplin. Thornton\u2019s career is one of the clearest examples of how the lineage from Bessie Smith forward into rock and roll runs through Black women singers who rarely got the credit."
   }
 
 };

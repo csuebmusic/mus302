@@ -6,11 +6,12 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that resolved Module 1 image
-rights / Module 2 framing-reading editorial pass / glossary
-housekeeping items 1 through 5. Module 2 framing reading,
-landing page, and Bessie Smith stub all live; the four other
-listening guides, discussion, and quiz still pending.
+Last updated: end of the session that drafted the full
+listening guide for Module 2 Track 1 (Bessie Smith with
+Louis Armstrong, "St. Louis Blues," 1925), replacing the
+stub. Module 2 framing reading, landing page, and Bessie
+Smith guide all live; the four other listening guides,
+discussion, and quiz still pending.
 
 ## Term and dates
 
@@ -64,9 +65,35 @@ reviewed.
   substantive prose mentions. Per-track paragraphs in the closing
   "What's coming" section make the chronological structure
   scannable.
-- `module2/track1-bessie-smith.html`: stub. Resolves the broken
-  nav-footer link from the framing reading. Will be replaced with
-  the full listening guide in the next session.
+- `module2/track1-bessie-smith.html`: full listening guide
+  for Bessie Smith with Louis Armstrong, "St. Louis Blues"
+  (Columbia, January 14, 1925). Replaces the stub. Four-part
+  context (Smith before the song / song before the singer /
+  the recording / reception, death, and afterlife) and four
+  "Things to listen for" prompts (timbre, texture, form,
+  Armstrong's cornet as second voice). Hero photo is the
+  Edward Elcha c. 1922 publicity portrait from the Michael
+  Ochs Archives / Getty Images, in the same defensible-
+  educational-use category as the Module 1 KQED/Getty hero
+  photos and flagged the same way. Cross-links to all four
+  Module 1 listening guides for the texture comparison and
+  to Cooke for the timbre comparison. Reflective question
+  uses the T-Bone Walker "you can't dress up the blues"
+  quote against the framing reading's argument about Handy
+  and the recorded blues.
+- New glossary entries added for Track 1 vocabulary:
+  empress-of-the-blues, classic-blues, vaudeville, toba,
+  columbia-records, w-c-handy, habanera, spanish-tinge,
+  tango, acoustic-recording, cornet, harmonium, contralto,
+  obbligato, aab, ragtime, billie-holiday, big-mama-thornton.
+  Glossary now at 219 entries. The new w-c-handy entry
+  introduces a documented intentional skip in the Module 2
+  framing reading's labels-list table cell (same narrow-
+  monospace-cell rendering issue as the existing house-band
+  skip). The new billie-holiday entry caused a missed-gloss
+  warning on module1/track3-desanto.html (Holiday named in
+  the Fillmore-clubs paragraph), now resolved with a gloss
+  button at first mention.
 - New glossary entries added across recent sessions covering
   Module 2 vocabulary: spirituals, west-african-music,
   field-hollers, ring-shouts, reconstruction, bent-notes,
@@ -74,12 +101,14 @@ reviewed.
   thomas-dorsey, pentecostal, sacred-music, vocal-runs,
   testifying, cipher, mc, sampling, backbeat, downbeat,
   black-power, black-panthers, beyonce, whitney-houston,
-  grandmaster-flash, jazz. Glossary now at 201 entries (the
-  housekeeping pass dropped duplicate blues and country-music
-  entries and merged son/son-cubano into one, then added jazz;
-  earlier in the session beyonce, whitney-houston,
-  grandmaster-flash, and black-panthers had been added for the
-  framing-reading editorial pass).
+  grandmaster-flash, jazz. Glossary previously at 201
+  entries; the housekeeping pass dropped duplicate blues
+  and country-music entries and merged son/son-cubano into
+  one, then added jazz; earlier in the session beyonce,
+  whitney-houston, grandmaster-flash, and black-panthers
+  had been added for the framing-reading editorial pass.
+  This session pushed the count to 219 with the Bessie
+  Smith Track 1 cluster.
 
 **Final project module.** Fully built.
 - `final-project/index.html`: student-facing landing page with
@@ -94,18 +123,12 @@ reviewed.
 
 ## What is pending
 
-**Module 2 (rest of it).** The framing reading and landing page
-are done; the five listening guides, discussion, and quiz are
-not yet drafted. `module2/track1-bessie-smith.html` exists as
-a stub to resolve the broken nav-footer link from the framing
-reading; replace with the full listening guide.
+**Module 2 (rest of it).** The framing reading, landing page,
+and Track 1 listening guide are done; the four remaining
+listening guides, discussion, and quiz are not yet drafted.
 
-- Listening guides for the five anchor tracks, in chronological
-  order:
-  Track 1: Bessie Smith with Louis Armstrong, "St. Louis Blues"
-    (1925). Recorded blues anchor; predates the formal 1940s
-    start of the course but anchors the lineage. Currently a
-    stub; full guide is the next deliverable.
+- Listening guides for the four remaining anchor tracks, in
+  chronological order:
   Track 2: Sister Rosetta Tharpe, "Strange Things Happening
     Every Day" (1944). Gospel-to-rock pivot; Black queer woman
     written back into rock origin.
@@ -230,17 +253,20 @@ Resolved:
 
 Remaining known intentional skips (audit warnings to live with):
 
-6. *`house-band` in Module 2 labels-list table.* The Stax row
-   in `module2/roots-and-routes.html` mentions "racially
-   integrated house band (Booker T. & the M.G.'s)" without a
-   gloss button. The gloss is intentionally omitted: a
-   dotted-underline button inside the narrow monospace table
-   cell rendered awkwardly, and the term is contextually clear
-   once the named example follows. The `house-band` term
-   remains glossed in Module 1 (track3-desanto and
-   track4-williams, in regular prose where the visual issue
-   does not arise) and should be glossed in any future
-   Stax-track listening guide.
+6. *`house-band` and `w-c-handy` in Module 2 labels-list table.*
+   Two cells in `module2/roots-and-routes.html`'s record-labels
+   reference table contain glossable terms whose buttons are
+   intentionally omitted. The Stax row mentions "racially
+   integrated house band (Booker T. & the M.G.'s)"; the Black
+   Swan row mentions "founded by W.C. Handy's business partner
+   Harry Pace." Both terms are glossed in regular prose
+   elsewhere on the site (house-band on the Module 1 DeSanto
+   and Williams guides; w-c-handy in the Module 2 Track 1
+   Bessie Smith guide). Inside the narrow monospace table cell
+   the dotted-underline gloss button rendered awkwardly across
+   the inter-word space, so the cells use a parenthetical
+   naming a concrete example instead. Same skip pattern as the
+   original Stax house-band item.
 
 7. *`diaspora` in `module1/cultural-roots.html`.* The term is
    defined in extended prose at first mention rather than
@@ -248,14 +274,17 @@ Remaining known intentional skips (audit warnings to live with):
    that has spread out from a homeland..."). Deliberate
    pedagogical choice. The audit flags it; intentional skip.
 
-**Repo-wide audit state.** 12 files, 0 errors, 2 warnings. Both
-warnings are documented as intentional skips above (items 6 and
-7 in the glossary housekeeping list: Stax house-band rendering
-and diaspora extended-prose definition). The `module1/index.html`
-and `module2/index.html` landing pages are explicitly out of
-scope for missed-gloss flagging because landing pages are
-navigational summaries; this is formalized in the README's
-"Where glossings do not go" section.
+**Repo-wide audit state.** 12 files, 0 errors, 3 warnings.
+All three are documented as intentional skips above. Item 6
+covers two of them (the Stax row's `house-band` and the Black
+Swan row's `w-c-handy`, both in the framing-reading labels-list
+table where multi-word gloss buttons render awkwardly inside
+narrow monospace cells). Item 7 covers the third (the diaspora
+extended-prose definition in `module1/cultural-roots.html`).
+The `module1/index.html` and `module2/index.html` landing pages
+are explicitly out of scope for missed-gloss flagging because
+landing pages are navigational summaries; this is formalized in
+the README's "Where glossings do not go" section.
 
 **Syllabus revisions, if any.** Not flagged yet.
 
