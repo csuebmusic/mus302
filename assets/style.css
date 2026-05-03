@@ -443,6 +443,25 @@ figure svg.diagram {
   padding-right: 2rem;
 }
 
+/* Labels-table variant (Module 2 and Module 3 record-label tables).
+   The first column carries a label name plus a city/date metadata
+   line; the metadata wraps into a smaller, lighter span. The
+   first column is allowed to wrap and given a constrained width
+   so the other two columns get more room. */
+.schedule.labels-table td:first-child {
+  white-space: normal;
+  width: auto;
+  max-width: 14rem;
+}
+
+.schedule.labels-table .meta {
+  display: block;
+  font-weight: 400;
+  font-size: 0.85em;
+  color: var(--color-text-soft);
+  margin-top: 0.15rem;
+}
+
 /* Sources list at end */
 .sources {
   margin-top: 4rem;
