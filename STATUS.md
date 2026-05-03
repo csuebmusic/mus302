@@ -1102,6 +1102,23 @@ or HTML entities like `&amp;`, `&lt;`, `&gt;`. Would catch this
 category of bug at audit time rather than relying on Inés
 spotting raw characters in a popup.
 
+A second audit-script blind spot worth flagging: the
+once-buttoned-anywhere-on-page logic clears any term that has
+any button on a page, which means when a longer compound key
+(`rhythm-section`, `mambo-section`) is buttoned but the bare
+shorter key (`rhythm`, `mambo`) is the one the prose actually
+needs glossed at first mention, the audit clears both and the
+miss survives. Documented case histories: STATUS item 8 for
+Module 2 Track 2 Tharpe (rhythm cleared by rhythm-section, real
+miss never fired); Module 3 Track 1 (mambo cleared by mambo-
+section; the bare `mambo` glossing was missed in the first
+draft and caught only by an Inés-eye reading of the live page,
+then patched in commit `[next]`). A more careful version of the
+audit would treat each glossary key independently and require
+each one's first prose mention to be buttoned regardless of
+whether a related compound key is buttoned. Worth adding to
+`scripts/check-glossings.js` in a future pass.
+
 **Syllabus revisions, if any.** Not flagged yet.
 
 ## Decisions made and locked
