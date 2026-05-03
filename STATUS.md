@@ -6,16 +6,17 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that shipped Module 2
-Track 5 (Beyoncé, "Formation," 2016), did a post-Track-5
-review of the Module 2 landing page (which caught and fixed
-a broken Track 4 link and tightened the Track 5 description),
-and added three follow-up glossings to Track 5 prose
-(michael-brown, eric-garner, pluss) for names that had been
-unbuttoned where their neighbors were buttoned. Module 2
-framing reading, landing page, and all five anchor tracks
-are now live; the Module 2 discussion prompt and checkpoint
-quiz remain pending. Glossary count: 307.
+Last updated: end of the session that shipped the Module 2
+discussion prompt (`module2/discussion.md`) and the Module 2
+checkpoint quiz (`module2/quiz.md`), closing out Module 2.
+The framing reading, landing page, all five anchor tracks,
+the discussion, and the quiz are now in place. Module 2 is
+complete pending the standard image-rights verification on
+the Great Migration map and on the Track 1, 2, 3, and 4
+hero photos before launch. Glossary count unchanged at 307;
+no new glossary entries were needed for the markdown
+deliverables, since the discussion and quiz reference
+vocabulary already glossed in the listening guides.
 
 ## Term and dates
 
@@ -359,6 +360,44 @@ reviewed.
   the glossary file. The one-button-per-page convention
   meant only the first mention of each name on the page got
   the button. Glossary count: 307.
+- `module2/discussion.md`: discussion prompt with Canvas paste
+  block. Frames the Module 2 thread as "Two Tracks in
+  Conversation" (matching the wording on the Module 2 landing
+  page), in deliberate contrast to Module 1's "pick one track
+  and write about your strongest reaction" frame. Names three
+  shapes a conversation can take (a thread that runs from
+  earlier to later, a productive contrast, a shared thing two
+  tracks each do differently), with the three modes of
+  political work from the framing reading (content, form,
+  presence) cited as one organizing axis for the third shape.
+  Asks students to respond to classmates who picked different
+  pairs of tracks so the thread covers more of the module
+  rather than concentrating on a few popular pairs. Initial
+  post and two responses both due Sunday, July 19 (the
+  combined Modules 2 through 5 deadline). Names the SLOs
+  addressed (2, 3, 5) plus the GE-UD-3 methodology outcome
+  and the Diversity Overlay outcome on cultural histories.
+  Pattern follows the Module 1 discussion file.
+- `module2/quiz.md`: 12-question checkpoint quiz with student
+  intro, structured questions, Canvas paste block, and
+  bulleted answer key. Coverage distribution: four framing-
+  reading questions (what "foundational" means, the roots-and-
+  routes phrase from Gilroy, the three modes of political
+  work, the sacred-secular argument), two questions per anchor
+  track for Tracks 1 through 4 spread across factual recall
+  and methodology-vocabulary application (Q5 Bessie Smith's
+  three musicians, Q6 the habanera bridge, Q7 Tharpe's
+  COGIC tension, Q8 the gospel-into-R&B chart crossover, Q9
+  the children's chorus from Watts and Compton, Q10 the
+  single-vamp form of "Say It Loud," Q11 the expanding-verse
+  architecture of "The Message"), and one Track 5 question
+  (Q12 the marching-band horns at 0:55). Every fact-claim in
+  the quiz is grounded in the existing Module 2 page text;
+  spot-checked all twelve before shipping. Pattern follows
+  the Module 1 quiz file, including the all-correct-answers-
+  are-(a) convention in the structured-for-reading half (the
+  Canvas paste block strips the letters since Canvas
+  randomizes answer order at quiz-build time).
 - After Track 2 shipped, a series of cleanup passes ran on the
   methodology reading and the glossary. The methodology reading
   gained a tempo/beat/meter/rhythm reference section between the
@@ -452,18 +491,14 @@ reviewed.
 
 ## What is pending
 
-**Module 2 (rest of it).** The framing reading, landing page,
-and Tracks 1, 2, 3, and 4 are done; the final listening
-guide, the discussion, and the quiz are not yet drafted.
-
-- Listening guide for the remaining anchor track:
-  Track 5: Beyoncé, "Formation" (2016). Black Southern identity
-    on the largest stage of American mass culture.
-- `module2/discussion.md`: discussion prompt with Canvas paste
-  block. Default frame from the framing reading: put two of
-  the five tracks in conversation.
-- `module2/quiz.md`: checkpoint quiz with student intro,
-  structured questions, Canvas paste block, answer key.
+**Module 2.** Complete. Framing reading, landing page, all
+five anchor tracks, the discussion (`module2/discussion.md`),
+and the checkpoint quiz (`module2/quiz.md`) are in place. The
+remaining open items are not content-pending but launch-
+pending: image rights for the Great Migration map and for the
+Track 1, 2, 3, and 4 hero photos still need verification or
+swap before the course goes live (see "Image rights to verify
+before launch" further down).
 
 **Modules 3 through 5.** None yet drafted. Each will follow
 the `module1/` pattern: an `index.html` landing page, the
