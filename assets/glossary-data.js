@@ -1503,6 +1503,26 @@ var GLOSSARY = {
   "clifton-jiggs-chase": {
     label: "Clifton \u201cJiggs\u201d Chase",
     definition: "American jazz organist, arranger, and record producer (Clifton Nathaniel Chase, born 1940), Sugar Hill Records\u2019 in-house producer and arranger from the late 1970s through the mid-1980s. Chase came up as a jazz musician; one of his earliest documented recordings is his organ playing on saxophonist Buddy Terry\u2019s 1967 album <em>Natural Soul</em> (Prestige) alongside trumpeter Woody Shaw, and in 1976 he played sideman on Pharoah Sanders\u2019s album <em>Pharoah</em>. He went to Sugar Hill in the late 1970s pitching an artist he was arranging for; the label passed on the artist but hired him for the arranging work, and Sylvia Robinson eventually elevated him to in-house producer alongside her. He co-wrote and co-produced \u201cThe Message\u201d (1982): he was the one who pushed Ed \u201cDuke Bootee\u201d Fletcher (his bandmate from years before he joined Sugar Hill) to write the song, recognized the hook when Fletcher came up with it on the couch in his Elizabeth, New Jersey apartment, and brought Sylvia Robinson in. Chase also has co-writing credit on the Sugar Hill Gang\u2019s 1981 \u201cApache,\u201d the source of one of the most heavily sampled breakbeats in hip hop, and arranged Funky Four Plus One\u2019s \u201cThat\u2019s the Joint.\u201d Sugar Hill\u2019s in-house engineer through this period was Steve Jerome; the studio in Englewood, New Jersey where most of this work was done burned down in 2002."
+  },
+
+  "cowboy": {
+    label: "Cowboy",
+    definition: "American MC (Keith Wiggins, 1960\u20131989), one of the founding members of the Furious Five and the first rapper to officially join Grandmaster Flash. Cowboy is widely credited with coining the word \u201chip hop\u201d itself: at a Bronx party for a friend who had just enlisted in the Army, he scat-sang the syllables \u201chip / hop / hip / hop\u201d to mimic a marching cadence, and worked it into his routines from then on. The phrase \u201chip hopper\u201d was first used by older disco fans as a putdown of the new music; Cowboy and the Furious Five reclaimed it. Cowboy specialized in the role of crowd MC, the rapper who keeps the audience engaged with calls and chants, including \u201cthrow your hands in the air and wave \u2018em like you just don\u2019t care.\u201d He did not perform on \u201cThe Message\u201d (1982). He died of complications from a long crack-cocaine addiction in September 1989, just before his twenty-ninth birthday."
+  },
+
+  "kid-creole": {
+    label: "Kid Creole",
+    definition: "American MC (Nathaniel Glover, born 1960), founding member of the Furious Five along with his younger brother Melle Mel and Cowboy. Glover took his stage name from the 1958 Elvis Presley film <em>King Creole</em>, and is sometimes credited as Kidd Creole (he is a different person from August Darnell, the Kid Creole of the disco group Kid Creole and the Coconuts, who began performing under that name a few years later). Kid Creole and Melle Mel were the first rappers to refer to themselves as \u201cMCs.\u201d He did not perform on \u201cThe Message\u201d (1982). After the Furious Five split in 1983 he went with Grandmaster Flash and Rahiem to Elektra Records. He was inducted into the Rock and Roll Hall of Fame as part of Grandmaster Flash and the Furious Five in 2007. In 2017 he was arrested for the stabbing death of a homeless man in midtown Manhattan; he was convicted of manslaughter in 2022 and sentenced to sixteen years in prison."
+  },
+
+  "scorpio": {
+    label: "Scorpio",
+    definition: "American MC (Eddie Morris, born 1960), also known as Mr. Ness, founding member of the Furious Five. Scorpio joined the group along with Rahiem after the Three MCs (Melle Mel, Kid Creole, Cowboy) had already formed; the lineup with him in it is the Furious Five most fans recognize. He did not perform on \u201cThe Message\u201d (1982). After the group split in 1983 he stayed with Melle Mel and Cowboy in Grandmaster Melle Mel and the Furious Five; he and Melle Mel still tour together as Grandmaster\u2019s Furious Five. He was inducted into the Rock and Roll Hall of Fame as part of Grandmaster Flash and the Furious Five in 2007."
+  },
+
+  "rahiem": {
+    label: "Rahiem",
+    definition: "American MC (Guy Todd Williams, born 1963), the youngest member of the Furious Five. Rahiem joined the group along with Scorpio after the original three MCs were already in place. He did not perform on \u201cThe Message\u201d (1982); in the song\u2019s music video he is the member shown lip-syncing Duke Bootee\u2019s recorded vocal. After the Furious Five split in 1983 he went with Grandmaster Flash and Kid Creole to Elektra Records. He was inducted into the Rock and Roll Hall of Fame as part of Grandmaster Flash and the Furious Five in 2007."
   }
 
 };
