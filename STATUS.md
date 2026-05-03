@@ -6,17 +6,56 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that shipped the Module 2
-discussion prompt (`module2/discussion.md`) and the Module 2
-checkpoint quiz (`module2/quiz.md`), closing out Module 2.
-The framing reading, landing page, all five anchor tracks,
-the discussion, and the quiz are now in place. Module 2 is
-complete pending the standard image-rights verification on
-the Great Migration map and on the Track 1, 2, 3, and 4
-hero photos before launch. Glossary count unchanged at 307;
-no new glossary entries were needed for the markdown
-deliverables, since the discussion and quiz reference
-vocabulary already glossed in the listening guides.
+Last updated: end of a fresh-eyes audit pass on Module 2 that
+caught and fixed six small editorial issues across four
+listening guides. (1) Track 4's "The 2007 Rock and Roll Hall
+of Fame inducted..." rewritten as "In 2007, the Rock and Roll
+Hall of Fame inducted...", since the original phrasing read
+as if there were a 2007 edition of the Hall of Fame. (2) Track
+5's Shantrelle Lewis attribution rewritten from a broken-quote
+construction ("Mya's voice in the song 'would not have
+believed...'", in which the grammatical subject of "would not
+have believed" was incoherently attached to "voice") into a
+clean paraphrase ("Mya himself would not have imagined..."),
+with Lewis's Slate piece still cited correctly in Sources.
+(3) Track 1's stacked-negative texture beat ("There is no
+rhythm section. There is no piano. There is no bass. There
+are no drums.") collapsed into a single comma-separated
+negative list per the README's no-stacked-negatives rule; the
+gloss button on rhythm-section is preserved and the parenthetical
+about Longshaw still rides along. (4) Two Sanctified-vs-sanctified
+capitalization inconsistencies fixed: Track 3 line 40
+("a sanctified service") and Track 5 line 68 ("Sister Rosetta
+Tharpe's sanctified soprano") both made capital "Sanctified"
+to match the convention used elsewhere on the same and adjacent
+pages (Sanctified service / Sanctified church / Sanctified
+soprano are the proper-noun-style references to the tradition;
+the lowercase "the texture of her voice is sanctified" on
+Track 2 line 72 stays lowercase because it is the generic
+adjective). (5) Track 2's two body-prose uses of "rock-and-roll"
+(in the guitar-break paragraph) unhyphenated to match the
+unhyphenated "rock and roll" everywhere else on the page; the
+hyphenated "Rock-and-Roll" in the Wald book subtitle in the
+Sources section stays as the actual book title. (6) Track 5's
+Wikipedia citation reformatted to lead with "Wikipedia." like
+the four other Module 2 tracks' Wikipedia citations, instead of
+listing article titles first.
+
+The audit also surfaced three things deliberately left alone:
+the en dash in the Track 3 Sources Wikipedia article title for
+"Say It Loud – I'm Black and I'm Proud" (which is the actual
+typesetting of Wikipedia's article, even though the page uses
+em dash for the song title elsewhere); a small repetition on
+Track 1 line 66 ("Smith continued to record for Columbia
+until 1933" two sentences before "her last session was in
+1933"); and the Track 5 page-subject `beyonce` audit warning,
+which is the same intentional skip already documented as item
+10 in the intentional-skip list.
+
+Glossary count unchanged at 307. Audit count unchanged at 16
+files, 0 errors, 9 documented intentional warnings. No
+navigation changes; no listening-guide structural changes; no
+factual claims altered, only editorial cleanup.
 
 ## Term and dates
 
@@ -398,6 +437,28 @@ reviewed.
   are-(a) convention in the structured-for-reading half (the
   Canvas paste block strips the letters since Canvas
   randomizes answer order at quiz-build time).
+- Fresh-eyes audit pass on Module 2 after the discussion and
+  quiz shipped. Six small editorial fixes across four
+  listening guides, all detailed in the Last-updated header at
+  the top of this file: the Track 4 "The 2007 Rock and Roll
+  Hall of Fame" phrasing, the Track 5 Shantrelle Lewis broken-
+  quote construction, the Track 1 stacked-negative texture
+  beat, two Sanctified capitalization inconsistencies on Track
+  3 and Track 5, the two Track 2 "rock-and-roll" hyphenations
+  in the guitar-break paragraph, and the Track 5 Wikipedia
+  citation format. No factual claims changed, no navigation
+  changed, no glossary changes; audit baseline (16 files, 0
+  errors, 9 intentional warnings) preserved. The audit also
+  ran a battery of cross-page checks that came back clean:
+  cross-track BPM references match (Smith 70, Tharpe 155,
+  Brown 115, "The Message" 101, Beyoncé 123); the navigation
+  chain across all seven Module 2 pages is bidirectional and
+  correct; "Track N of 5" labels are right; no body-prose em
+  dashes outside song titles and nav labels; the Track 3 voices
+  recap matches each individual track's own description of its
+  vocal timbre; and the discussion and quiz I shipped this
+  session ground every fact-claim in the actual listening-
+  guide text.
 - After Track 2 shipped, a series of cleanup passes ran on the
   methodology reading and the glossary. The methodology reading
   gained a tempo/beat/meter/rhythm reference section between the
