@@ -321,6 +321,124 @@ var GLOSSARY = {
   },
 
   /* ============================
+     Latin diasporic genres and forms (added for Module 3)
+     ============================ */
+
+  "danzon": {
+    label: "Danzón",
+    definition: "The national dance of Cuba from the late nineteenth century forward, a slow elegant dance music played by a charanga ensemble of flute, violins, piano, bass, and percussion. The danzón is one of the foundational forms out of which mambo and cha-cha-chá later developed in the 1930s and 1940s."
+  },
+
+  "cha-cha-cha": {
+    label: "Cha-cha-chá",
+    definition: "A Cuban dance music genre developed in the early 1950s by violinist and composer Enrique Jorrín, derived from the danzón and the mambo but with a slower, more accessible tempo and a distinctive triple-step (cha-cha-cha) rhythm. Spread quickly through US ballrooms in the mid-1950s and remained a staple of Latin dance music for decades."
+  },
+
+  "bomba": {
+    label: "Bomba",
+    definition: "A Puerto Rican drum-and-dance tradition rooted in the African-descent communities along the island\u2019s coast, particularly in Loíza on the northeast coast. The form features a call-and-response between a lead singer and a chorus over barrel drums, with dancers and lead drummer engaging in an improvised conversation. Bomba is one of the deepest layers of Afro-Puerto Rican musical practice."
+  },
+
+  "plena": {
+    label: "Plena",
+    definition: "A Puerto Rican popular song form that emerged in the early twentieth century in working-class neighborhoods in Ponce, often called \u201cthe newspaper of the people\u201d because its lyrics commented on current events and local life. Played on hand drums (panderetas) and accompanied by guitar or accordion. In Panama, the same word \u201cplena\u201d came to refer to Spanish-language reggae, the music that became reggaeton\u2019s direct precursor."
+  },
+
+  "latin-jazz": {
+    label: "Latin jazz",
+    definition: "The fusion of Afro-Cuban (and later other Latin) rhythmic and percussion practices with the harmonic and improvisational language of jazz. Emerged in 1940s New York through collaborations between Cuban musicians (Mario Bauzá, Machito, Chano Pozo) and jazz figures (Dizzy Gillespie, Charlie Parker), and developed into a continuous tradition that runs from the mambo era through the present."
+  },
+
+  "cancion": {
+    label: "Canción",
+    definition: "Spanish for \u201csong.\u201d In the Mexican musical tradition, the canción is the broad category of song with guitar accompaniment, with roots in colonial Spanish musical inheritance. Many specific Mexican song forms (canción ranchera, canción romántica, canción bolero) are subcategories of this broader tradition."
+  },
+
+  "corrido": {
+    label: "Corrido",
+    definition: "The Mexican narrative ballad form that recounts deeds and historical events in verse, with roots going back to medieval Spanish ballads and developed extensively in the borderland regions during and after the Mexican Revolution (1910-1920). Corridos are still actively composed today; contemporary narcocorridos extend the form into accounts of the drug trade."
+  },
+
+  "ranchera": {
+    label: "Ranchera",
+    definition: "The Mexican song genre most associated with rural Mexican identity, typically performed in 3/4 (waltz) or 2/4 time and accompanied by mariachi. Ranchera lyrics often deal with love, country life, patriotism, and loss. Major ranchera figures include Lola Beltrán, José Alfredo Jiménez, and Vicente Fernández."
+  },
+
+  "mariachi": {
+    label: "Mariachi",
+    definition: "The Mexican ensemble form with violins, trumpets, guitar, vihuela (a small high-pitched guitar), and guitarrón (a large bass guitar), developed in the Jalisco region in the nineteenth century and promoted as a national symbol by the Mexican state in the twentieth. The mariachi ensemble is the standard accompaniment for ranchera and a global symbol of Mexican music."
+  },
+
+  "conjunto": {
+    label: "Conjunto",
+    definition: "The accordion-and-bajo-sexto-anchored ensemble form of working-class Mexican-American music in South Texas and northern Mexico, developed in the late nineteenth and early twentieth centuries from the meeting of Mexican folk song with the polkas and waltzes of German and Czech immigrants in the borderland. Conjunto is one of the two main streams (with orquesta) that fed into the later Tejano music of the 1980s and 1990s."
+  },
+
+  "orquesta": {
+    label: "Orquesta",
+    definition: "The brass-and-strings ensemble form of middle-class Mexican-American music in South Texas, developed alongside conjunto in the mid-twentieth century but with a more cosmopolitan, big-band-derived instrumentation. Orquesta and conjunto are the two main streams that fed into the Tejano music of the 1980s and 1990s; Selena\u2019s band Selena y Los Dinos drew on both."
+  },
+
+  "accordion": {
+    label: "Accordion",
+    definition: "A handheld instrument with a bellows and two keyboards (or buttons), played by squeezing air through metal reeds while pressing keys. The button accordion is the signature instrument of Mexican-American conjunto and Tejano music; it arrived in the Texas-Mexico borderland with German and Czech immigrants in the late nineteenth century and was adopted by Mexican-American musicians, who reshaped how it was played."
+  },
+
+  "bajo-sexto": {
+    label: "Bajo sexto",
+    definition: "A twelve-string Mexican guitar tuned in courses (six pairs of strings), played as the rhythmic and bass-line foundation of conjunto music. Paired with the button accordion, the bajo sexto defines the conjunto sound. The instrument developed in central Mexico in the nineteenth century and was adopted into Texas-Mexican music by the early twentieth."
+  },
+
+  "bachata": {
+    label: "Bachata",
+    definition: "A Dominican popular music genre that developed from rural guitar-and-bolero traditions in the mid-twentieth century, often dealing in lyrics of heartbreak and working-class life. Long stigmatized in the Dominican Republic as music of the poor, bachata went mainstream from the late 1980s onward (with figures like Juan Luis Guerra and later Aventura) and has become one of the major Latin genres of the twenty-first century."
+  },
+
+  "merengue": {
+    label: "Merengue",
+    definition: "The national dance music of the Dominican Republic, in fast 2/4 time with accordion (or saxophone), tambora (a two-headed drum), and güira (a metal scraper) as the core instruments. Merengue dominated Dominican popular music from the mid-twentieth century forward and crossed over to wide US audiences in the 1980s and 1990s through figures like Wilfrido Vargas and Juan Luis Guerra."
+  },
+
+  /* ============================
+     Latin migration history (added for Module 3)
+     ============================ */
+
+  "bracero-program": {
+    label: "Bracero Program",
+    definition: "A US-Mexico bilateral labor program that ran from 1942 to 1964, bringing several million Mexican contract laborers (\u201cbraceros\u201d) into US agriculture, railroad work, and other industries. The program shaped patterns of Mexican migration to the United States for decades after it ended; many bracero families settled in the US permanently. The program ended in 1964 partly because of growing concerns about exploitation of the workers."
+  },
+
+  "jones-shafroth-act": {
+    label: "Jones-Shafroth Act",
+    definition: "The 1917 US law that granted US citizenship to all residents of Puerto Rico, formalized the territorial relationship, and (by making Puerto Ricans US citizens) made Puerto Ricans eligible for the military draft just as the US entered World War I. The act made all subsequent Puerto Rican movement to the US mainland legally a matter of internal migration rather than immigration, even though the experience was an immigrant experience in nearly every other respect."
+  },
+
+  "operation-bootstrap": {
+    label: "Operation Bootstrap",
+    definition: "The economic restructuring program initiated by Puerto Rican governor Luis Muñoz Marín in the late 1940s and 1950s, which used US tax incentives to attract American manufacturers to set up factories in Puerto Rico. The program shifted the Puerto Rican economy from agriculture to industry, but it also displaced rural workers, contributing to the mass migration to the US mainland known as the Great Puerto Rican Migration."
+  },
+
+  "freedom-flights": {
+    label: "Freedom Flights",
+    definition: "The US-Cuban government program that ran twice-daily charter flights between Varadero, Cuba, and Miami from 1965 to 1973, allowing roughly 260,000 Cubans to leave Cuba for the United States during that period. The Freedom Flights were the second major wave of post-revolutionary Cuban migration, after the Early Exiles of 1959-62 and before the Mariel Boatlift of 1980."
+  },
+
+  "el-barrio": {
+    label: "El Barrio",
+    definition: "Spanish for \u201cthe neighborhood,\u201d the name Puerto Rican New Yorkers gave to East Harlem in upper Manhattan, the neighborhood that has been the cultural and demographic center of Puerto Rican New York since the 1920s. El Barrio was the home of mambo, boogaloo, salsa, and many of the institutions of Puerto Rican community life in the city."
+  },
+
+  "loisaida": {
+    label: "Loisaida",
+    definition: "The Nuyorican Spanish pronunciation and renaming of the Lower East Side of Manhattan, the Puerto Rican-settled neighborhood south of Houston Street and east of Avenue A. The name was popularized by the Nuyorican poet Bittman \u201cBimbo\u201d Rivas and his 1974 poem \u201cLoisaida\u201d and became the official designation of Avenue C in the 1980s. The neighborhood was a center of Puerto Rican cultural life from the 1950s through the 1980s."
+  },
+
+  "little-havana": {
+    label: "Little Havana",
+    definition: "The Cuban-American neighborhood in central Miami, centered along the Calle Ocho commercial district (SW 8th Street), built by the Cuban exile community after the 1959 Cuban Revolution. Little Havana became the cultural, commercial, and political center of Cuban-American Miami and the heart of the broader Latin Miami that developed from the 1960s forward."
+  },
+
+  /* ============================
      Cuban history and exile
      ============================ */
 
