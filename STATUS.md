@@ -6,12 +6,11 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that did a fresh-eyes
-proofread of Module 2 Tracks 1-4 and corrected three factual
-problems on Track 4 ("The Message"). Module 2 framing
-reading, landing page, and Tracks 1, 2, 3, and 4 are live;
-Track 5 (Beyoncé), discussion, and quiz still pending.
-Glossary count: 280.
+Last updated: end of the session that shipped Module 2
+Track 5 (Beyoncé, "Formation," 2016). Module 2 framing
+reading, landing page, and all five anchor tracks are now
+live; the Module 2 discussion prompt and checkpoint quiz
+remain pending. Glossary count: 304.
 
 ## Term and dates
 
@@ -257,6 +256,71 @@ reviewed.
   reflective question, which is an English adjective, not
   the music-theory V chord; documented in the intentional-
   skip section below as item 9).
+- `module2/track5-beyonce.html`: full listening guide for
+  Beyoncé, "Formation" (Parkwood / Columbia, surprise-released
+  February 6, 2016). Four-part context (Beyoncé before
+  "Formation," with Houston, Destiny's Child, and the Tina
+  Knowles Louisiana Creole / Mathew Knowles Alabama family
+  geography that the song's opening lines name directly /
+  the political moment of February 2016, with Trayvon Martin
+  through Ferguson through Sandra Bland and the question of
+  mainstream Black-celebrity political voice / the recording,
+  with Mike Will Made-It and Pluss on the original beat,
+  Swae Lee on the chorus freestyle, Beyoncé writing verses
+  on top, the marching-band horns added at her request, the
+  Messy Mya and Big Freedia samples, and the Mya estate's
+  $20M lawsuit and February 2018 settlement / reception, with
+  Pazz and Jop number one of 2016, Rolling Stone's number-one
+  music video of all time, the BLM and 2017 Women's March
+  anthem status, AND the Black New Orleanian critique by
+  Yaba Blay and Shantrelle Lewis that the song exploits
+  Katrina, police-violence, and queer-Black-death imagery
+  for a star's brand). Four "Things to listen for" prompts:
+  the timbre of Beyoncé's deliberately low, vocal-fry-grounded
+  delivery as a refusal to code-switch / the texture of the
+  two-stage trap-plus-marching-band build / the form, with
+  attention to how the song gives structural weight (not
+  ornamental cameo weight) to two voices that are not the
+  lead artist's / the gesture of the brass stab entering at
+  0:55 and shifting the song's address from private-trap to
+  public-march. Hero photo is a still from the music video
+  (the El Camino parking-lot scene; user-uploaded JPEG saved
+  at `assets/images/beyonce-formation.jpg`, credited to
+  Parkwood Entertainment / Pretty Bird Pictures and used here
+  for educational and analytical purposes). Cross-links:
+  backward to all four other Module 2 tracks in the things-
+  to-listen-for prompts (Bessie Smith for the contralto
+  comparison, Tharpe for the soprano comparison, Brown for
+  the looped-vamp inheritance, "The Message" for the
+  sampled-voices structural argument). Reflective question
+  asks students to pick a moment, name which mode of
+  political work it does, and then take a position on whether
+  the song's political force depends on how we resolve the
+  appropriation questions raised by the Mya estate lawsuit
+  and the New Orleanian critics. Page is 106 lines, within
+  the Module 2 envelope (104-117).
+- 25 new glossary entries added for Track 5 vocabulary:
+  tina-knowles, louisiana-creole, acadian,
+  keeanga-yamahtta-taylor, trayvon-martin, black-lives-matter,
+  sandra-bland, mike-will-made-it, atlanta-trap,
+  marching-band, second-line, trap-music, bounce-music,
+  messy-mya, big-freedia, fair-use, melina-matsoukas,
+  arthur-jafa, malcolm-x, pazz-and-jop, trap-808, vocal-fry,
+  code-switching, hbcu. The existing black-panthers entry
+  was enriched with the COINTELPRO and fiftieth-anniversary
+  detail (a duplicate black-panther-party entry I drafted in
+  parallel was rolled into the existing entry rather than
+  shipped). Glossary count: 304. Two retroactive cleanups:
+  module2/index.html's Track 5 link (which had been pointing
+  to the placeholder filename track5-formation.html since the
+  landing page was first built) now points to track5-beyonce.
+  html, and module2/roots-and-routes.html's first substantive
+  prose mention of "Formation" in the political-modes presence
+  paragraph is now linked to the Track 5 listening guide,
+  parallel to the existing forward links to Brown, Tharpe,
+  and "The Message" in the same paragraph. Two new
+  intentional skips were introduced and are documented below
+  as items 10 and 11.
 - After Track 2 shipped, a series of cleanup passes ran on the
   methodology reading and the glossary. The methodology reading
   gained a tempo/beat/meter/rhythm reference section between the
@@ -529,22 +593,51 @@ Remaining known intentional skips (audit warnings to live with):
    the reflective question, with a space on each side, so it
    matches. Intentional skip.
 
-**Repo-wide audit state.** 15 files, 0 errors, 7 warnings.
-Six are documented as intentional skips above (item 6 covers
-four of them in the framing-reading labels-list table; item 7
-covers the diaspora extended-prose definition; item 8 covers
-the bare `rhythm` inside the compound `rhythm section` on
-the Tharpe Track 2 page). The seventh warning is new and is
-also a false positive: the `dominant` glossary entry (the V
-chord) matches the bare adjective "dominant" in
-`module2/track4-grandmaster-flash.html`'s reflective question
-("people the dominant culture wished to ignore"). This is the
-everyday English adjective, not the music-theory term, and
-glossing it would be misleading; intentional skip. The
-`module1/index.html` and `module2/index.html` landing pages
-are explicitly out of scope for missed-gloss flagging because
-landing pages are navigational summaries; this is formalized
-in the README's "Where glossings do not go" section.
+10. *page subject `beyonce` in
+    `module2/track5-beyonce.html`'s video card.* The `beyonce`
+    glossary entry exists for cross-references on other pages
+    (the cultural-roots reading, the framing reading) where
+    Beyoncé's name is one term among many in a list of
+    influential artists. On the Track 5 listening guide,
+    Beyoncé is the subject of the entire page, and the
+    convention developed across the other Module 2 listening
+    guides is that the page subject is not buttoned in body
+    prose. The audit flags her name in the video-card
+    `<span class="video-title">` element, which is a UI label
+    rather than substantive prose. Same family as Track 4's
+    track-title element naming Grandmaster Flash and the
+    Furious Five (Track 4 happens not to flag because the
+    `grandmaster-flash` key is buttoned elsewhere in body
+    prose for its own pedagogical reasons; Track 5 does flag
+    because the same is not true here). Intentional skip.
+
+11. *bare `second-line` on
+    `module2/track1-bessie-smith.html`'s timbre paragraph.*
+    The `second-line` glossary entry, added during the Track 5
+    work, defines the New Orleans parade tradition and the
+    associated rhythm pattern. The Bessie Smith Track 1 page
+    uses the same two words in their ordinary English sense:
+    "the small breath she takes before the second line of each
+    verse." Glossing this as the New Orleans tradition would
+    be misleading. Track 1 also predates the term's entry into
+    the glossary by several months, so the prose was not
+    written with the gloss in mind. Intentional skip.
+
+**Repo-wide audit state.** 16 files, 0 errors, 9 warnings.
+All nine are documented as intentional skips above. Items 6
+through 9 carry over from previous sessions (four in the
+framing-reading labels-list table, one for the diaspora
+extended-prose definition, one for the bare `rhythm` inside
+the compound `rhythm section` on the Tharpe Track 2 page,
+one for the `dominant` false positive on Track 4). Items 10
+and 11 are new this session: the `beyonce` page-subject false
+positive on the Track 5 listening guide, and the `second-line`
+ordinary-English-usage false positive on the Track 1 listening
+guide. The `module1/index.html` and `module2/index.html`
+landing pages are explicitly out of scope for missed-gloss
+flagging because landing pages are navigational summaries;
+this is formalized in the README's "Where glossings do not
+go" section.
 
 **Syllabus revisions, if any.** Not flagged yet.
 
