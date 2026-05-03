@@ -1523,6 +1523,21 @@ var GLOSSARY = {
   "rahiem": {
     label: "Rahiem",
     definition: "American MC (Guy Todd Williams, born 1963), the youngest member of the Furious Five. Rahiem joined the group along with Scorpio after the original three MCs were already in place. He did not perform on \u201cThe Message\u201d (1982); in the song\u2019s music video he is the member shown lip-syncing Duke Bootee\u2019s recorded vocal. After the Furious Five split in 1983 he went with Grandmaster Flash and Kid Creole to Elektra Records. He was inducted into the Rock and Roll Hall of Fame as part of Grandmaster Flash and the Furious Five in 2007."
+  },
+
+  "doug-wimbish": {
+    label: "Doug Wimbish",
+    definition: "American electric bassist (born 1956 in Hartford, Connecticut), one third of the Sugar Hill Records house rhythm section in the early 1980s alongside drummer Keith LeBlanc and guitarist Skip McDonald. Wimbish, McDonald, and LeBlanc were the band on \u201cThe Message\u201d (1982), \u201cWhite Lines (Don\u2019t Don\u2019t Do It)\u201d (1983), and most of the Sugar Hill Gang\u2019s and Grandmaster Flash and the Furious Five\u2019s major releases. After Sugar Hill folded in the mid-1980s, Wimbish and his two bandmates moved to London and worked extensively with British dub producer Adrian Sherwood at On-U Sound; the three of them, with Sherwood, recorded as Tackhead. Wimbish later joined the rock band Living Colour in 1992 and has been their bassist ever since. His bass playing is widely considered foundational to the sound of early commercial hip hop."
+  },
+
+  "keith-leblanc": {
+    label: "Keith LeBlanc",
+    definition: "American drummer and producer (1954\u20132024), the drummer in the Sugar Hill Records house rhythm section from 1979 to roughly 1984. LeBlanc replaced the original house drummer Harold Sargent at Sargent\u2019s recommendation and joined Doug Wimbish and Skip McDonald in a trio that played on most of Sugar Hill\u2019s major releases, including \u201cThe Message\u201d (1982). Outside Sugar Hill, LeBlanc was an early adopter of sampling: his 1983 single \u201cNo Sell Out,\u201d built on samples of Malcolm X speeches over a programmed drum track, is widely considered one of the first sample-based hip hop records. After Sugar Hill folded he moved to London with Wimbish and McDonald, where the three of them with British producer Adrian Sherwood formed Tackhead. He went on to a long career as a session drummer and producer, including production credits on Nine Inch Nails\u2019s 1989 debut <em>Pretty Hate Machine</em>."
+  },
+
+  "reggie-griffin": {
+    label: "Reggie Griffin",
+    definition: "American multi-instrumentalist, arranger, and producer (Reginald D. Griffin, born in Indianapolis), Sugar Hill Records\u2019 in-house synthesizer player and drum-machine programmer in the early 1980s. Griffin came up with the Indianapolis funk band Manchild, which also featured a teenage Kenny \u201cBabyface\u201d Edmonds. After Manchild dissolved he was hired by Sylvia Robinson at Sugar Hill, where he programmed the studio\u2019s LinnDrum and Oberheim DMX drum machines and played most of the synthesizer parts on the label\u2019s major releases. He is widely credited with creating the iconic Prophet 5 hook on \u201cThe Message\u201d (1982), though the album credits list him alongside Jiggs Chase and Sylvia Robinson on the Prophet. In 1982 he also released \u201cMirda Rock\u201d under the name Reggie Griffin and Technofunk, an early electro single sometimes cited as the first record to use the word \u201ctechno\u201d on its sleeve. He later contributed to Chaka Khan\u2019s 1984 hit \u201cI Feel for You.\u201d"
   }
 
 };
