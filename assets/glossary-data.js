@@ -1146,7 +1146,7 @@ var GLOSSARY = {
 
   "black-panthers": {
     label: "Black Panther Party",
-    definition: "A revolutionary Black political organization founded in Oakland, California in 1966 by Huey P. Newton and Bobby Seale. The Panthers organized armed community self-defense against police violence, ran free breakfast programs and health clinics, and became the most visible face of the Black Power movement. The party\u2019s visual aesthetic (black leather jackets, black berets, raised fists) became globally recognizable. Beyonc\u00e9\u2019s 2016 Super Bowl halftime performance of \u201cFormation\u201d featured a backing troupe in black leather and berets, an explicit visual citation of the Panthers."
+    definition: "A revolutionary Black political organization founded in Oakland, California in October 1966 by Huey P. Newton and Bobby Seale, originally as the Black Panther Party for Self-Defense. The Panthers organized armed copwatch patrols of Oakland police, ran free breakfast programs and health clinics, published a national newspaper, and became the most visible face of the Black Power movement. The FBI\u2019s COINTELPRO program targeted the party as what J. Edgar Hoover called the country\u2019s \u201cgreatest internal threat,\u201d and through a combination of arrests, infiltrations, and the assassination of party members (most notoriously Fred Hampton in Chicago in December 1969) had effectively destroyed it as a national organization by the late 1970s. The party\u2019s visual aesthetic (black leather jackets, black berets, raised fists) became globally recognizable. Beyonc\u00e9\u2019s 2016 Super Bowl halftime performance of \u201cFormation\u201d featured a backing troupe in black leather and berets, an explicit visual citation of the Panthers; the performance landed exactly fifty years after the party\u2019s founding."
   },
 
   "beyonce": {
@@ -1538,6 +1538,126 @@ var GLOSSARY = {
   "reggie-griffin": {
     label: "Reggie Griffin",
     definition: "American multi-instrumentalist, arranger, and producer (Reginald D. Griffin, born in Indianapolis), Sugar Hill Records\u2019 in-house synthesizer player and drum-machine programmer in the early 1980s. Griffin came up with the Indianapolis funk band Manchild, which also featured a teenage Kenny \u201cBabyface\u201d Edmonds. After Manchild dissolved he was hired by Sylvia Robinson at Sugar Hill, where he programmed the studio\u2019s LinnDrum and Oberheim DMX drum machines and played most of the synthesizer parts on the label\u2019s major releases. He is widely credited with creating the iconic Prophet 5 hook on \u201cThe Message\u201d (1982), though the album credits list him alongside Jiggs Chase and Sylvia Robinson on the Prophet. In 1982 he also released \u201cMirda Rock\u201d under the name Reggie Griffin and Technofunk, an early electro single sometimes cited as the first record to use the word \u201ctechno\u201d on its sleeve. He later contributed to Chaka Khan\u2019s 1984 hit \u201cI Feel for You.\u201d"
+  },
+
+  "tina-knowles": {
+    label: "Tina Knowles",
+    definition: "American fashion designer, businesswoman, and the mother of Beyonc\u00e9 and Solange Knowles (born C\u00e9lestine Ann Beyonc\u00e9, January 4, 1954, in Galveston, Texas). Knowles\u2019s Louisiana Creole family came up Catholic in segregated South Louisiana, with roots in New Iberia, Abbeville, and the broader bayou parishes; the family settled in Galveston around 1950. She built one of the most successful Black-owned hair salons in 1980s Houston (Headliners), designed the costumes Destiny\u2019s Child wore on stage in their early years, and co-founded the fashion line House of D\u00e9r\u00e9on with her daughter in 2004 (named for Tina\u2019s mother, Agn\u00e9s D\u00e9r\u00e9on, a seamstress). Her family geography is named directly in the opening lines of \u201cFormation.\u201d Her 2025 memoir <em>Matriarch</em> was a New York Times bestseller and an Oprah\u2019s Book Club selection."
+  },
+
+  "louisiana-creole": {
+    label: "Louisiana Creole",
+    definition: "A cultural identity, not a single ethnic identity, that emerged in colonial Louisiana out of the mixing of French, Spanish, African, and Native American populations. Louisiana Creole people are historically associated with French- and Kreyol-speaking Catholic communities in New Orleans and across the bayou parishes of South Louisiana (St. Landry, St. Martin, Iberia, Lafayette, Vermilion, and others). Creole identity overlaps with but is distinct from Cajun identity (which traces specifically to Acadian exiles) and from generic African American identity. Many Creole families are of mixed Black, white, and Indigenous descent, and the label has been used through American history to mark a position both inside and outside the Black-white color line that organizes most of the rest of the country. Beyonc\u00e9\u2019s mother Tina Knowles is from a Louisiana Creole family."
+  },
+
+  "acadian": {
+    label: "Acadian",
+    definition: "The French-speaking Catholic settlers of the maritime region of northeastern North America (modern Nova Scotia, New Brunswick, Prince Edward Island, and parts of Maine and Quebec) from the early 1600s. After the British conquest of the region in 1710 and the Treaty of Utrecht in 1713, the British colonial government deported most of the Acadian population in a campaign that ran from 1755 to 1764, called by Acadians <em>le Grand D\u00e9rangement</em> (the Great Upheaval). Many of the deportees made their way to South Louisiana, where their descendants became known as Cajuns (an anglicization of <em>cadien</em>, short for <em>acadien</em>). The Acadian leader Joseph Broussard, called Beausoleil, led one of the major migrations to Louisiana in 1765. Beyonc\u00e9 is descended through her mother\u2019s mother\u2019s line from the Broussard family."
+  },
+
+  "keeanga-yamahtta-taylor": {
+    label: "Keeanga-Yamahtta Taylor",
+    definition: "American historian and political scientist (born 1972), professor at Northwestern University, and the author of <em>From #BlackLivesMatter to Black Liberation</em> (Haymarket, 2016) and <em>Race for Profit</em> (UNC Press, 2019). Taylor\u2019s scholarship is one of the standard accounts of the Movement for Black Lives as a sustained Black political mobilization, and her work places the wave of protest that ran from Trayvon Martin\u2019s 2012 killing through Ferguson, Baltimore, and beyond in the longer history of Black radical politics in the United States. The 2016 book is the source most often cited in academic writing on the political moment in which \u201cFormation\u201d landed."
+  },
+
+  "trayvon-martin": {
+    label: "Trayvon Martin",
+    definition: "Unarmed seventeen-year-old Black high school student (1995\u20132012) shot and killed by neighborhood-watch volunteer George Zimmerman in Sanford, Florida, on February 26, 2012, while walking back from a convenience store to the home where he was staying. Zimmerman was acquitted of second-degree murder and manslaughter in July 2013. The acquittal triggered a nationwide wave of protest and is the moment most often named as the beginning of the Black Lives Matter movement; the hashtag #BlackLivesMatter was first used in a Facebook post by Alicia Garza in response to the verdict, and was developed into an organizing framework by Garza, Patrisse Cullors, and Opal Tometi over the following year."
+  },
+
+  "black-lives-matter": {
+    label: "Black Lives Matter",
+    definition: "A decentralized political movement and the network of organizations that grew out of it, founded in 2013 by Alicia Garza, Patrisse Cullors, and Opal Tometi following the acquittal of George Zimmerman in the killing of Trayvon Martin. The movement gained mass-protest momentum after the August 2014 killing of Michael Brown by Ferguson, Missouri police, and again after the May 2020 killing of George Floyd by Minneapolis police. By the time \u201cFormation\u201d was released in February 2016, Black Lives Matter had become the central organizing language for a sustained wave of street protest, scholarly work, and electoral organizing about anti-Black police violence and the broader structures of racial inequity in the United States. The framing reading\u2019s discussion of Module 2 returns to the movement in <a href=\"../module2/roots-and-routes.html\">the closing-paragraph framing</a>."
+  },
+
+  "sandra-bland": {
+    label: "Sandra Bland",
+    definition: "Twenty-eight-year-old Black woman (1987\u20132015) found dead in a Waller County, Texas jail cell on July 13, 2015, three days after being arrested during a traffic stop for failing to signal a lane change. The arresting officer, state trooper Brian Encinia, threatened her with a Taser and forcibly removed her from her car; the dashcam video circulated widely. Authorities ruled her death a suicide; her family and many activists have disputed that ruling. Bland\u2019s death was one of the central cases the Black Lives Matter movement organized around in 2015 and 2016, and the question \u201cwhat happened to Sandy?\u201d, sometimes shouted at protests, is part of the Black political vocabulary the framing reading describes."
+  },
+
+  "mike-will-made-it": {
+    label: "Mike Will Made-It",
+    definition: "American hip hop record producer (Michael Len Williams II, born 1989, in Atlanta), one of the central figures in 2010s mainstream Atlanta trap. He came up producing for Gucci Mane, Future, and 2 Chainz, broke through commercially with Miley Cyrus\u2019s \u201cWe Can\u2019t Stop\u201d (2013) and Rae Sremmurd\u2019s catalog (2015 onward), and produced Beyonc\u00e9\u2019s \u201cFormation\u201d (2016) and most of Kendrick Lamar\u2019s 2017 <em>Black Panther</em> soundtrack work. The original \u201cFormation\u201d beat came from his collaborator Pluss; the freestyled chorus came from Swae Lee of Rae Sremmurd; Mike Will sent the reference to Beyonc\u00e9, who took it in a different direction than he had planned and built the song we now know on top of it."
+  },
+
+  "atlanta-trap": {
+    label: "Atlanta trap",
+    definition: "A subgenre of Southern hip hop that emerged in Atlanta in the early 2000s, named for the \u201ctrap house\u201d (slang for a place where crack cocaine is sold) and known for its slow tempos, half-time hi-hat patterns, distorted 808 sub-bass, and minimalist arrangements built around a few tightly-programmed elements. T.I.\u2019s 2003 album <em>Trap Muzik</em> popularized the name. By the mid-2010s trap had become the dominant rhythmic feel of mainstream pop and hip hop, with Atlanta producers (Mike Will Made-It, Metro Boomin, Zaytoven, Lex Luger, and others) working on records that ran the chart from 2012 onward. \u201cFormation\u201d is built on a trap rhythmic foundation, with a New Orleans brass-band layer added on top."
+  },
+
+  "marching-band": {
+    label: "marching band",
+    definition: "An ensemble of brass, woodwinds, and percussion that performs while moving (parading, marching, or in choreographed formation), distinct from a concert band that plays seated. American marching-band culture is shaped by two especially powerful Black traditions: the New Orleans brass band tradition (which feeds the second-line parade) and the HBCU homecoming-band tradition that came to national attention through the films <em>Drumline</em> (2002) and the documentary <em>Halftime</em>. \u201cFormation\u201d\u2019s chorus uses a brass-and-snare-drum stab that explicitly evokes that tradition; Beyonc\u00e9 said in interviews she wanted the song to be playable by a marching band, and her later live shows used HBCU-trained drumlines and brass sections, most famously at her 2018 Coachella headlining set, documented as the film <em>Homecoming</em>."
+  },
+
+  "second-line": {
+    label: "second line",
+    definition: "A specifically New Orleans tradition of street parade, in which a brass band leads the \u201cmain line\u201d (the people the parade is for, often a funeral procession or a benevolent-society anniversary) and a \u201csecond line\u201d of dancers and musicians follows behind, dancing, twirling parasols, and improvising. The second line is also the name of the syncopated rhythm pattern played by the bass drum and snare drum in the brass-band style: a pattern with a long-short-long feel that gives New Orleans music its distinctive forward propulsion. The second-line rhythm runs through New Orleans-rooted styles from Louis Armstrong\u2019s early jazz to bounce music to brass-band hip hop. The horn stab in \u201cFormation\u201d\u2019s chorus draws on the second-line tradition and its sonic associations with public Black New Orleans celebration."
+  },
+
+  "trap-music": {
+    label: "trap",
+    definition: "Short for Atlanta trap; the subgenre of Southern hip hop that emerged in Atlanta in the early 2000s and became the dominant rhythmic feel of mainstream pop and hip hop in the 2010s. Defining sonic features include slow tempos (often 70\u201385 BPM, doubled to 140\u2013170 in the half-time hi-hat patterns), heavy distorted 808 sub-bass, sparse arrangements built around a few sharply-programmed elements, and a vocal delivery style that sits somewhere between rapping and singing. \u201cFormation\u201d is built on a trap rhythmic foundation."
+  },
+
+  "bounce-music": {
+    label: "bounce music",
+    definition: "A New Orleans dance subgenre that emerged in the early 1990s, built on rapid call-and-response chants over the \u201cTriggerman\u201d beat (sampled from the Showboys\u2019 1986 record \u201cDrag Rap\u201d) and the \u201cBrown Beat\u201d (sampled from Derek B\u2019s 1988 \u201cRock the Beat\u201d). Bounce is the dance music of working-class Black New Orleans neighborhoods and second-line parades, and it has long been associated with a queer Black cultural ecology that includes performers like Big Freedia, Sissy Nobby, and the late Messy Mya, all of whom worked in or alongside the bounce scene. \u201cFormation\u201d uses two voices from this scene (Mya and Freedia) and the New Orleans associations they carry."
+  },
+
+  "messy-mya": {
+    label: "Messy Mya",
+    definition: "American bounce rapper, YouTube comedian, and street performer (Anthony Michael Barr\u00e9, December 15, 1987 \u2013 November 14, 2010). Mya was a queer Black New Orleanian who built a substantial following on YouTube in the late 2000s with comedic, profane, sharply-observed videos shot around the city, often with the catchphrase \u201cnow who gonna pop me?\u201d He was murdered in the city\u2019s 7th Ward at age 22, leaving his girlfriend\u2019s baby shower; the murder remains unsolved. Two of his lines (\u201cwhat happened at the New Orleans?\u201d and \u201cI like that\u201d) appear in \u201cFormation\u201d as samples; in February 2017 his sister and sole heir Angel Barr\u00e9 sued Beyonc\u00e9 for $20 million, claiming the samples had been used without consent and that Mya had not been credited as a writer. The case settled in February 2018 on undisclosed terms."
+  },
+
+  "big-freedia": {
+    label: "Big Freedia",
+    definition: "American bounce rapper and performer (Freddie Ross Jr., born 1978, in New Orleans), widely called \u201cthe Queen of Bounce.\u201d Freedia is a Black gender-nonconforming artist who uses she/her pronouns in performance and either she/her or he/him in personal life; her presence is one of the central public faces of New Orleans bounce music and its associated queer Black cultural ecology. She has been a featured voice on \u201cFormation\u201d (\u201cI did not come to play with you hoes / I came to slay, bitch\u201d) and on Drake\u2019s \u201cNice for What\u201d (2018), and starred in the Fuse reality series <em>Big Freedia: Queen of Bounce</em> from 2013 to 2017. Her presence on \u201cFormation\u201d connects the song to the queer Black New Orleans tradition that the framing reading places at the center of the song\u2019s political work."
+  },
+
+  "fair-use": {
+    label: "fair use",
+    definition: "A doctrine in U.S. copyright law (codified at 17 U.S.C. \u00a7107) that permits limited use of copyrighted material without the rightsholder\u2019s permission for purposes such as criticism, comment, news reporting, teaching, scholarship, or research. Whether a particular use qualifies as fair use depends on a four-factor test: the purpose and character of the use (especially whether it is \u201ctransformative\u201d), the nature of the copyrighted work, the amount used, and the effect on the market for the original. In the Messy Mya estate\u2019s 2017 lawsuit against Beyonc\u00e9, Beyonc\u00e9\u2019s legal team argued that the samples qualified as fair use; in July 2017, U.S. District Judge Nannette Jolivette Brown denied the motion to dismiss, ruling that the samples had not been transformed in the legal sense the doctrine requires. The case settled in February 2018 on undisclosed terms."
+  },
+
+  "melina-matsoukas": {
+    label: "Melina Matsoukas",
+    definition: "American film and music-video director (born 1981, in the Bronx), the director of the music videos for Beyonc\u00e9\u2019s \u201cFormation\u201d (2016) and Rihanna\u2019s \u201cWe Found Love\u201d (2011) and \u201cS&amp;M\u201d (2010), among many others. Matsoukas trained at NYU\u2019s Tisch School of the Arts and the AFI Conservatory; she has won two Grammys for Music Video of the Year. Her feature directorial debut, <em>Queen &amp; Slim</em> (2019, written by Lena Waithe), tells the story of a young Black couple who become fugitives after a traffic-stop killing. Her video work for \u201cFormation\u201d was named the greatest music video of all time by <em>Rolling Stone</em> in 2021."
+  },
+
+  "arthur-jafa": {
+    label: "Arthur Jafa",
+    definition: "American filmmaker, cinematographer, and video artist (born 1960, in Tupelo, Mississippi). Jafa is known for his sustained interest in what he has called the \u201cspecific power, beauty, and alienation of Black being\u201d and his attempt to develop a Black cinema with what he calls Black aesthetic specificity. He was the cinematographer of Julie Dash\u2019s landmark <em>Daughters of the Dust</em> (1991), the first feature film by an African American woman to receive theatrical distribution in the U.S., and he served as camera operator on the \u201cFormation\u201d music video, where his hand is visible in the documentary-grain texture of several scenes. His video installation <em>Love Is the Message, the Message Is Death</em> (2016), a seven-minute compilation of Black American footage cut to Kanye West\u2019s \u201cUltralight Beam,\u201d won the Golden Lion at the 2019 Venice Biennale."
+  },
+
+  "malcolm-x": {
+    label: "Malcolm X",
+    definition: "American Black Muslim minister, organizer, and writer (Malcolm Little, May 19, 1925 \u2013 February 21, 1965). Malcolm X was the most prominent national spokesman for the Nation of Islam from 1952 until his break with the organization in 1964; in the year between his break and his assassination, he made the hajj to Mecca, founded the Organization of Afro-American Unity, and revised many of his earlier positions while sharpening his critique of American racism, U.S. foreign policy, and the limits of mainstream civil-rights liberalism. He was assassinated at the Audubon Ballroom in Harlem in February 1965 by gunmen tied to the Nation of Islam. His <em>Autobiography of Malcolm X</em>, co-written with Alex Haley and published posthumously in 1965, is one of the foundational works of twentieth-century African American political writing. The X-formation in the \u201cFormation\u201d music video and the Super Bowl performance is widely understood as a reference to him."
+  },
+
+  "pazz-and-jop": {
+    label: "Pazz & Jop",
+    definition: "An annual U.S. music critics\u2019 poll, run by <em>The Village Voice</em> from 1971 through 2018, in which several hundred working music critics submitted year-end ballots ranking their top albums and singles of the year. The poll was created and named by the critic Robert Christgau (\u201cpazz\u201d for jazz, \u201cjop\u201d for pop, in his characteristically wry phrasing). For most of its run it was the most prestigious year-end critics\u2019 poll in American popular music. \u201cFormation\u201d topped the 2016 singles poll. The Voice folded as a print publication in 2018; subsequent attempts to continue the poll under other auspices have not had the same authority."
+  },
+
+  "trap-808": {
+    label: "trap-style 808 drums",
+    definition: "The drum-machine sounds and programming style closely associated with Atlanta trap. The 808 in question is the Roland TR-808, a drum machine released in 1980 (and discussed elsewhere in this glossary). Trap producers in the 2000s and 2010s rediscovered the 808\u2019s sub-bass kick drum and built it into a signature element: the kick is heavily sustained and pitch-tuned so that it functions as both percussion and bass, the snare and clap are tightly programmed, and the hi-hat patterns are sub-divided into rapid sixteenth-note rolls (the \u201ctriplet hat\u201d patterns are a particular trap signature). \u201cFormation\u201d uses this rhythmic vocabulary, with Mike Will Made-It and his engineer Jaycen Joshua adding distortion and saturated upper harmonics to the 808 to make it cut through the mix."
+  },
+
+  "vocal-fry": {
+    label: "vocal fry",
+    definition: "A vocal register, lower than chest voice, in which the vocal folds are loose enough that they vibrate irregularly and produce a creaky, rattling sound. Fry is a normal feature of speech in many languages and many speakers (the lower register most people use first thing in the morning); it has been the subject of disproportionate criticism in U.S. English when used by women and girls (the most-cited 2010s example being the way young women were criticized for fry while young men using the same register were not). In music, vocal fry is used as a deliberate timbral choice: a low, rattling, conversational sound that signals casualness, intimacy, threat, or refusal-to-perform-prettily, depending on context. Beyonc\u00e9\u2019s opening lines on \u201cFormation\u201d (\u201cy\u2019all haters corny with that Illuminati mess\u201d) are delivered in deliberate vocal fry, sitting near the floor of her chest voice."
+  },
+
+  "code-switching": {
+    label: "code-switching",
+    definition: "The linguistic and cultural practice of moving between two or more languages or dialects, or between two or more registers within a single language, depending on the social context. The term comes originally from sociolinguistics; it has come into wider use to describe the labor that members of marginalized groups, especially Black Americans, often do when they shift their speech, dress, or comportment to fit white-coded professional or institutional spaces. To <em>refuse</em> to code-switch is to maintain one\u2019s home register in spaces that expect a different one; the cultural critic Lauren Chanel Allen, writing in <em>Teen Vogue</em>, read Beyonc\u00e9\u2019s vocal delivery on \u201cFormation\u201d as exactly such a refusal: a Houston-and-Atlanta voice on a Houston-and-Atlanta beat, instead of the radio-pop voice the industry had been asking her to use."
+  },
+
+  "hbcu": {
+    label: "HBCU",
+    definition: "Historically Black College or University. The HBCU system in the United States is a network of more than one hundred colleges and universities founded primarily before 1964 to educate Black students in a country that systematically barred them from white institutions. The system includes Howard, Spelman, Morehouse, Hampton, Tuskegee, Fisk, Florida A&amp;M, Jackson State, Grambling, and dozens of other institutions, many in the South. HBCU homecoming-band culture (the marching bands, the drumlines, the dance lines, the halftime-show formations) is one of the most powerful Black musical and visual traditions in contemporary American life; the films <em>Drumline</em> (2002) and Beyonc\u00e9\u2019s own <em>Homecoming</em> (2019), documenting her 2018 Coachella headlining set, both center it. The marching-band horn stab in \u201cFormation\u201d points toward this tradition."
   }
 
 };
