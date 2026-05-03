@@ -521,6 +521,16 @@ var GLOSSARY = {
     definition: "Puerto Rican-American trombonist, bandleader, singer, and producer (born 1950 in the South Bronx), one of the foundational figures of New York salsa. Recorded a series of influential Fania albums in the 1970s, often with vocalist H\u00e9ctor Lavoe and (later) songwriter Rub\u00e9n Blades. His 1978 collaboration with Blades, <em>Siembra</em>, brought social-realist storytelling and political content into the salsa mainstream and remains a landmark of the genre."
   },
 
+  "tito-puente": {
+    label: "Tito Puente",
+    definition: "Ernest Anthony Puente Jr. (1923-2000), New York-born Puerto Rican bandleader, percussionist (most famously on timbales), composer, and arranger; one of the central figures of the New York mambo era and a sustained presence in Latin music for the next half century. Raised in Spanish Harlem, apprenticed in the Machito Orchestra in the early 1940s, served in the US Navy, studied at Juilliard on the GI Bill, and led the Tito Puente Orchestra from 1947 forward. Known as \u201cEl Rey de los Timbales\u201d (the King of the Timbales). His 1963 composition \u201cOye Como Va\u201d is the song the Module 3 Track 1 listening guide covers and the song Carlos Santana covered in 1970 for the Track 3 listening guide."
+  },
+
+  "tito-rodriguez": {
+    label: "Tito Rodr\u00edguez",
+    definition: "Pablo Rodr\u00edguez Lozada (1923-1973), Puerto Rican-born singer and bandleader, the third of the \u201cthree Titos\u201d of the New York mambo era (with Tito Puente and Machito). Born in Santurce, Puerto Rico; moved to East Harlem in 1940. Sang with Xavier Cugat, Noro Morales, and Cuban pianist Jos\u00e9 Curbelo in the 1940s before forming his own band in 1947. Headlined the Palladium Ballroom alongside Puente and Machito throughout the 1950s in what was widely treated as a friendly rivalry with Puente. Later known as \u201cEl Inolvidable\u201d (the Unforgettable) for his 1963 bolero recording of that name."
+  },
+
   /* ============================
      Cuban history and exile
      ============================ */
