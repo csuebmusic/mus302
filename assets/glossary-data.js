@@ -344,6 +344,11 @@ var GLOSSARY = {
     definition: "A Puerto Rican popular song form that emerged in the early twentieth century in working-class neighborhoods in Ponce, often called \u201cthe newspaper of the people\u201d because its lyrics commented on current events and local life. Played on hand drums (panderetas) and accompanied by guitar or accordion. In Panama, the same word \u201cplena\u201d came to refer to Spanish-language reggae, the music that became reggaeton\u2019s direct precursor."
   },
 
+  "bebop": {
+    label: "Bebop",
+    definition: "A jazz style that emerged in the early 1940s, primarily through after-hours jam sessions at Harlem clubs (Minton's Playhouse, Monroe's Uptown House) where a group of younger musicians (saxophonist Charlie Parker, trumpeter Dizzy Gillespie, pianist Thelonious Monk, drummer Kenny Clarke, others) developed a new musical language that broke with the swing era. Bebop is characterized by fast tempos, complex chord substitutions and chromatic harmony, virtuosic improvisation, and small-ensemble formats designed for listening rather than dancing. By the late 1940s bebop musicians (especially Gillespie, working with Cuban percussionist Chano Pozo) were also collaborating directly with Mario Bauzá and Machito's New York Cuban orchestras, producing the Afro-Cuban-jazz fusion that became Latin jazz."
+  },
+
   "latin-jazz": {
     label: "Latin jazz",
     definition: "The fusion of Afro-Cuban (and later other Latin) rhythmic and percussion practices with the harmonic and improvisational language of jazz. Emerged in 1940s New York through collaborations between Cuban musicians (Mario Bauzá, Machito, Chano Pozo) and jazz figures (Dizzy Gillespie, Charlie Parker), and developed into a continuous tradition that runs from the mambo era through the present."
