@@ -146,6 +146,56 @@ table-cell skip family); and zero net new from palladium-
 ballroom (the body-prose retroactive button kept it from
 flagging). All 27 warnings are documented intentional skips.
 
+Two post-shipping patches in this session after the main
+Track 1 commit. (1) Hero photo dropped in (commit `addffb1`):
+Inés sent the cover art for Grosso! Recordings' Italian
+reissue compilation `Mambo Gozón: Roots of Salsa - The RCA
+Years 1949-1960`, a designed collage of three RCA-era
+promotional photos of Puente at the timbales on yellow /
+orange / red circles. The image sits in a slightly different
+image-rights category from the other Module 1, 2, and 3 hero
+photos (it is a designed album cover from a named reissue
+label rather than a Getty editorial photograph), so the
+figcaption credits Grosso! Recordings explicitly and notes
+that the actual recording, "Oye Como Va," is from the 1962
+Tico LP `El Rey Bravo` rather than from this RCA-era
+compilation. The slight chronological / label slippage between
+the cover-art visual anchor and the recording was deliberate;
+the cover is unusually iconic as a portrait of Puente in his
+early-career timbales prime, and the listening-guide prose is
+clear about the actual recording. STATUS image-rights queue
+item 3 was updated to reflect Grosso! Recordings as the entity
+to contact for explicit clearance before launch. The original
+draft figcaption (Michael Ochs Archives / Getty editorial
+photo) was rewritten to match the actual source, and the alt
+text was rewritten to describe the triptych collage rather
+than the single-photograph framing the previous draft had
+assumed. (2) Mambo gloss patch (commit `2bae7f6`): Inés
+caught on a fresh-eyes reading that the bare `mambo` genre
+was not glossed on the Track 1 page despite appearing five
+times in body prose, including at first prose mention in the
+Cuban-forms list ("mambo, cha-cha-chá, son, rumba") where the
+other three were buttoned. The audit had cleared the miss
+because the longer compound key `mambo-section` was buttoned
+in the form prompt, and the once-buttoned-anywhere-on-page
+logic treats that as covering bare `mambo` too. Same pattern
+as the documented Module 2 Tharpe rhythm/rhythm-section
+false-clearing case (housekeeping item 8). The patch added
+the missing first-mention button. STATUS.md gained a second
+"Audit-script future improvement" note documenting the
+compound/bare false-clearing pattern as a recurring blind
+spot worth fixing in `scripts/check-glossings.js` so it does
+not recur on Tracks 2 through 5 or Modules 4 through 6.
+
+Final repo state at session close: 18 files, 0 errors, 27
+documented intentional-skip warnings (unchanged by the two
+patches; the mambo button addition resolved a real miss the
+audit had not caught and so does not change the warning count).
+Glossary count: 363. Track 1 (`module3/track1-puente.html`)
+is shipped with hero photo and full gloss coverage; the page
+nav footer links forward to `track2-bataan.html`, which 404s
+until built.
+
 ## Term and dates
 
 Summer 2026 term: May 26 to July 31, 2026. Nine instructional
@@ -1113,7 +1163,7 @@ Module 2 Track 2 Tharpe (rhythm cleared by rhythm-section, real
 miss never fired); Module 3 Track 1 (mambo cleared by mambo-
 section; the bare `mambo` glossing was missed in the first
 draft and caught only by an Inés-eye reading of the live page,
-then patched in commit `[next]`). A more careful version of the
+then patched in commit `2bae7f6`). A more careful version of the
 audit would treat each glossary key independently and require
 each one's first prose mention to be buttoned regardless of
 whether a related compound key is buttoned. Worth adding to
