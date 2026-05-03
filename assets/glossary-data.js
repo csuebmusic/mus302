@@ -452,6 +452,11 @@ var GLOSSARY = {
     definition: "The 1848 treaty that ended the US-Mexican War (1846-1848) and transferred to the United States the Mexican territory that became California, Nevada, Utah, most of Arizona and New Mexico, and parts of Colorado, Wyoming, Kansas, and Oklahoma. Roughly 80,000 Mexican citizens living in those territories were given the option of US citizenship or returning to Mexico; most stayed. The treaty is the legal origin of the Mexican-American populations of the US Southwest, and the standard short way of saying \u201cthe community didn\u2019t move; the border did.\u201d"
   },
 
+  "us-mexican-war": {
+    label: "US-Mexican War",
+    definition: "The 1846-1848 war between the United States and Mexico, fought over the US annexation of Texas (1845) and the disputed Texas-Mexico border. US forces invaded northern Mexico and eventually occupied Mexico City. The war ended with the Treaty of Guadalupe Hidalgo, in which Mexico ceded roughly half its national territory to the United States. The war is also called the Mexican-American War in much US writing; in Mexican historiography it is more often framed as a US invasion (la Intervenci\u00f3n Estadounidense en M\u00e9xico)."
+  },
+
   "mexican-revolution": {
     label: "Mexican Revolution",
     definition: "The decade-long armed political upheaval (1910-1920) that overthrew the long dictatorship of Porfirio D\u00edaz, killed roughly 1 to 2 million Mexicans, and reshaped Mexican society. The Revolution drove substantial migration north to the United States, particularly to Texas and the Southwest. Many corridos (the Mexican narrative ballad form) were composed about its battles and figures, and the revolutionary period remains central to Mexican popular memory."
