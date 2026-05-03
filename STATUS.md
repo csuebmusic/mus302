@@ -7,10 +7,15 @@ has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
 Last updated: end of the session that shipped Module 2
-Track 5 (Beyoncé, "Formation," 2016). Module 2 framing
-reading, landing page, and all five anchor tracks are now
-live; the Module 2 discussion prompt and checkpoint quiz
-remain pending. Glossary count: 304.
+Track 5 (Beyoncé, "Formation," 2016), did a post-Track-5
+review of the Module 2 landing page (which caught and fixed
+a broken Track 4 link and tightened the Track 5 description),
+and added three follow-up glossings to Track 5 prose
+(michael-brown, eric-garner, pluss) for names that had been
+unbuttoned where their neighbors were buttoned. Module 2
+framing reading, landing page, and all five anchor tracks
+are now live; the Module 2 discussion prompt and checkpoint
+quiz remain pending. Glossary count: 307.
 
 ## Term and dates
 
@@ -310,17 +315,50 @@ reviewed.
   was enriched with the COINTELPRO and fiftieth-anniversary
   detail (a duplicate black-panther-party entry I drafted in
   parallel was rolled into the existing entry rather than
-  shipped). Glossary count: 304. Two retroactive cleanups:
-  module2/index.html's Track 5 link (which had been pointing
-  to the placeholder filename track5-formation.html since the
-  landing page was first built) now points to track5-beyonce.
-  html, and module2/roots-and-routes.html's first substantive
-  prose mention of "Formation" in the political-modes presence
+  shipped). Two retroactive cleanups: module2/index.html's
+  Track 5 link (which had been pointing to the placeholder
+  filename track5-formation.html since the landing page was
+  first built) now points to track5-beyonce.html, and
+  module2/roots-and-routes.html's first substantive prose
+  mention of "Formation" in the political-modes presence
   paragraph is now linked to the Track 5 listening guide,
   parallel to the existing forward links to Brown, Tharpe,
   and "The Message" in the same paragraph. Two new
   intentional skips were introduced and are documented below
   as items 10 and 11.
+- Post-Track-5 review of the Module 2 landing page caught two
+  issues. (1) The Track 4 link on the landing page had been
+  pointing to the placeholder filename track4-message.html
+  since Track 4 shipped; the actual file has always been
+  track4-grandmaster-flash.html. Same family of bug as the
+  Track 5 placeholder link caught when Track 5 was shipped,
+  but lived on the live page for multiple sessions. Now
+  resolved. Note for future link audits: when shipping a
+  track, grep the landing page for placeholder-shaped hrefs
+  before pushing. (2) The Track 5 description on the landing
+  page was rewritten to match the pattern of the other four
+  track descriptions: a pivot clause followed by specifics
+  that preview the actual musical and recording-level work
+  the listening guide does. The closing beat of the new
+  description ("the long lineage of Black political music
+  the song closes") also makes Track 5's role as the
+  module's chronological closer explicit on the landing page.
+- Three follow-up glossings added to Track 5 body prose
+  after a closer read found three names buttoned-by-neighbors
+  but unbuttoned themselves: michael-brown and eric-garner
+  in the political-moment paragraph (where trayvon-martin,
+  black-lives-matter, and sandra-bland were already buttoned),
+  and pluss in the recording paragraph (where mike-will-made-it
+  was already buttoned). The michael-brown and eric-garner
+  entries follow the structural pattern of the existing
+  trayvon-martin and sandra-bland entries (name, age, place
+  and date of death, arresting officer or party, what
+  happened, the legal outcome, the political-organizing
+  afterlife with its specific rallying cry). The pluss entry
+  parallels the mike-will-made-it entry it sits next to in
+  the glossary file. The one-button-per-page convention
+  meant only the first mention of each name on the page got
+  the button. Glossary count: 307.
 - After Track 2 shipped, a series of cleanup passes ran on the
   methodology reading and the glossary. The methodology reading
   gained a tempo/beat/meter/rhythm reference section between the
