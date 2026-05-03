@@ -6,138 +6,145 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of a substantial Module 3 build session that
-shipped the Module 3 framing reading and a fresh-eyes audit pass
-on it, plus a glossary HTML-encoding bug fix that was a year-old
-carryover from the Module 1 and Module 2 builds.
+Last updated: end of a Module 3 Track 1 build session that
+shipped the Tito Puente "Oye Como Va" listening guide (the
+module's natural-next-step item per the previous STATUS) along
+with fifteen new glossary entries supporting it, retroactive
+button additions on the framing reading, a small dating fix
+on the existing tito-puente glossary entry, and one launch-
+queue update for the Track 1 hero photo. The framing reading's
+nav footer now resolves to a real page rather than 404.
 
-The Module 3 framing reading (`module3/roots-and-routes.html`)
-is in place. Title: "Many Roots, Shared Routes." Six sections
-plus a What's-coming preview plus a Sources section, parallel
-in structure to Module 2's "Roots and Routes" framing reading.
-The six sections cover (1) what "Latin diasporic" means here,
-including the four-conditions framing of Cuban exile, Puerto
-Rican statutory citizenship since the Jones-Shafroth Act, the
-"the border moved" framing of the Mexican-American case via
-the 1848 Treaty of Guadalupe Hidalgo, and more recent arrivals;
-(2) Roots, sketching three substrates (Cuban, Puerto Rican,
-Mexican), each treated separately with its own paragraph;
-(3) Routes, walking through four migrations (Mexican, Puerto
-Rican, Cuban, more recent Dominican/Panamanian/Colombian) with
-two figures embedded (a Pearson 2005 static migration map and
-the University of Washington's Latinx Great Migrations Tableau
-interactive); (4) The labels that built the industry, a
-twelve-row labels table from Decca Latin (1934) to VI Music /
-El Cartel Records (late 1990s) using a new `.schedule.labels-
-table` CSS modifier that splits city/dates onto a metadata line
-below the label name; (5) The dialogue with African American
-music, a cross-tradition argument running mambo-meets-bebop,
-boogaloo, salsa, Latin rock, reggaeton, with the dialogue
-running both directions; and (6) Latin music as political work,
-using the same content/form/presence framework as Module 2's
-political-modes argument. The What's-coming preview names all
-five anchor tracks with one-paragraph previews each. The
-Sources section has thirteen entries spanning Aparicio,
-Berríos-Miranda et al's American Sabor (the closest analog to
-what this module is doing), Flores, García on Cuban exile,
-Gilroy's Black Atlantic, Marshall et al on reggaeton, Peña on
-conjunto, Rivera on PR hip hop, Sánchez Korrol on PR New York,
-Washburne on salsa, Cepeda's Remezcla series on Panamanian
-reggaeton roots, the Center for Puerto Rican Studies, the
-Library of Congress, and Wikipedia.
+The Track 1 listening guide (`module3/track1-puente.html`)
+follows the established Module 2 envelope (104-117 lines;
+Track 1 lands at 111). Four-section context: (1) Puente before
+the song, covering Spanish Harlem, the Machito break when their
+drummer was drafted, the Navy years on USS Santee, the Spivak
+friendship and Juilliard study on the GI Bill, the Piccadilly
+Boys / Tito Puente Orchestra origin, and the 1949 Tico debut
+"Abaniquito"; (2) the Palladium era as the institutional context
+where Cuban music and Puerto Rican musicians met, with Sublette's
+"New York music with a Cuban substrate" framing and the 1962
+embargo / 1966 Palladium-closing as the moment the live Cuban
+supply line cut off; (3) the recording itself at the Hotel
+Riverside Plaza Ballroom, produced by Teddy Reig, with the full
+twenty-musician personnel from the album sleeve plus reissue
+notes (Pacheco on flute, Legarreta on violin, Barry Rogers on
+trombone, Bobby Rodríguez on bass, Mangual Sr. on bongos,
+Cadavieco on congas, Santos Colón and Rudy Calzado on lead and
+chorus, Yayo el Indio and Chirivico Dávila completing the
+chorus), the Cachao "Chanchullo" debt documented by Salazar
+and Ginell, the cha-cha-chá-at-the-end-of-the-cha-cha-chá-era
+framing, and an explicit honest gloss on the "mulata" lyric;
+(4) reception and afterlife, including the modest 1962-63 NY
+dance-floor success, Puente's anger at the 1971 Santana cover
+and his subsequent gratitude after the royalty checks arrived,
+and the published Mambo Birdland tribute language that the
+guide can quote because it was given on a recording. Four
+"Things to listen for" prompts: (1) timbre of charanga
+instruments (Pacheco's wooden five-key flute, Legarreta's
+violin) over a brass section, with cross-track comparison to
+the Fania All-Stars behind Cruz; (2) texture of layered
+rhythm-section / horn-section relationship, with cross-track
+comparison to the single-vamp funk texture of Brown's "Say It
+Loud"; (3) form as a single vamp with a surprise false ending,
+arguing that the song's vamp-form is part of why it traveled so
+well into rock, funk, and hip hop loop-based forms; (4) the
+central rhythmic figure, parsing the piano tumbao's 2-3-2-4-2-3
+eighth-note groupings (per Ethan Hein's analysis) and the
+mismatch between the dancer's grid and the piano's grid. The
+reflective question asks students to listen to the 1962 recording
+on its own terms (before hearing Santana's cover, which Track 3
+will work through) and pick a moment to argue from about what a
+1971 rock arrangement would have to make decisions about.
 
-The framing reading went through several rounds of Inés-driven
-revision before reaching its current form. Substantive
-revisions: Section 2's opening reorganized to name the three
-substrates (Cuban, Puerto Rican, Mexican) explicitly rather
-than collapsing Cuban and Puerto Rican into a single "Afro-
-Caribbean" tradition (the paragraphs that follow already treat
-them separately, so the section opening should match); the
-Pearson map figcaption got the instructor-facing rights-flag
-sentence stripped (verification flags belong in commit
-messages and STATUS, not in student-facing prose); the
-"Presence" paragraph in Section 6 now identifies the three
-artists in parentheses (Selena, Tego Calderón, Carlos Santana)
-so the GE-level reader doesn't have to infer who each vignette
-refers to; the CSU East Bay self-reference at the end of the
-Track 3 preview was removed (it read as instructor's-note
-voice rather than student-facing prose, and the previous
-sentence already established the Bay Area / Mission District
-context).
+Key factual care during drafting: two memory-fed claims caught
+and revised before shipping. (1) An Allan Kozinn New York Times
+"relatively minor hit at the time of its release" quote that I
+could not directly source was removed and replaced with the
+Ginell "throwaway" framing (which is documented in the
+uDiscoverMusic source). (2) A Robin Moore attribution about
+choral-tandem cha-cha-chá refrains being old-fashioned by 1962,
+which I could not source to Moore specifically, was reworked
+into a defensible synthesis claim drawn from the Sublette and
+Palladium-era timeline material. The Sublette framing of the
+NY mambo era as a "New York music whose Caribbean substrate
+was, at that historical moment, mostly Cuban" is a real
+argument from his 2004 book and is correctly attributed.
 
-Then a fresh-eyes audit pass surfaced six small editorial
-fixes, all shipped in commit `8af6630`: (1) Stan Getz removed
-from the bebop-musicians parenthetical in Section 5 (Getz is
-a Latin-jazz figure, but bossa-nova-era, not Palladium-mambo-
-era; Gillespie and Parker are the right names for that
-context); (2) Operation Bootstrap dating fixed from "in the
-1950s" to "beginning in the late 1940s and running through
-the 1950s and beyond"; (3) the "four distinct strands" count
-in the What's coming intro replaced with "several distinct
-strands" since it was contradicting the three-substrate
-framing of Section 2; (4) "Early Exiles" lowercased to "early
-exiles" to match the descriptive-vs-proper-noun pattern of
-the surrounding cohort labels (Freedom Flights and Mariel
-Boatlift stay capitalized as proper-noun program/event names);
-(5) the 1940 NYC Puerto Rican population figure hedged from
-"61,000" to "roughly 61,000" since the literature has variants
-in the 61k-70k range depending on the census source; (6) the
-long Section 5 paragraph (~380 words covering five separate
-moments of dialogue) split at the salsa pivot into two
-paragraphs, with a new bridge sentence "The dialogue
-intensified in the post-civil-rights decades" opening the
-second.
+Glossary expansion: 15 new entries added in a `Module 3 Track
+1: Tito Puente and "Oye Como Va"` section at the end of
+`assets/glossary-data.js`. The entries are: palladium-ballroom
+(the 1947-1966 ballroom and its racial-ethnic mixing); charanga
+(the Cuban flute-violin dance-band format); arsenio-rodriguez
+(Cuban tres player and bandleader, 1911-1970, the conjunto
+innovator); ned-sublette (the musicologist whose framing the
+Track 1 page draws on); el-rey-bravo (the 1962 Tico LP); cachao
+(Israel "Cachao" López, the Cuban bassist whose "Chanchullo"
+is the source of the piano figure); johnny-pacheco (Dominican
+flutist on the recording, future Fania co-founder); dorian-mode
+(the modal framework of the song); ostinato (the repeating
+musical figure); the-pocket (musicians' vocabulary for the
+locked-in groove); ethan-hein (the music theorist whose
+analysis the Track 1 page draws on); horn-section (trumpets,
+trombones, saxophones together); vibraphone (one of Puente's
+instruments); timbales (Puente's main instrument); mulata
+(loaded Spanish term, given an honest treatment in the
+recording paragraph). Glossary count went from 348 (end of
+last session, which had reported 347 but the file was 348)
+to 363 with the Track 1 additions.
 
-Glossary bug fix this session: 27 entries (going back to the
-original Module 1 build) had `<em>` tags or HTML entities like
-`&amp;` inside their definition strings, plus one entry with
-an `<a href>` link wrapper. The glossary loader at
-`assets/glossary.js` line 76 injects definitions via
-`.textContent`, which renders these as literal characters
-rather than parsing the HTML. The literal characters had been
-showing up in popups across the site (`<em>Siembra</em>`,
-`R&amp;B`, `<a href="...">the closing-paragraph framing</a>`).
-A Python sweep stripped all HTML tokens from definition
-strings; the file's header comment was strengthened to make
-the constraint explicit (no HTML tags, no `<a>` links, no
-entities, plain text only). The audit script
-(`scripts/check-glossings.js`) currently checks for missed
-gloss buttons but does not validate definition contents
-against the textContent constraint; worth adding a definition-
-content check to the audit script in a future pass to catch
-this category of bug if it recurs.
+The existing `tito-puente` glossary entry had its dating
+corrected from "His 1963 composition" to "His 1962 composition,"
+matching what Craft Recordings (the reissue label) and Wikipedia
+both document. The framing reading's What's-coming preview also
+had its dating hedged from "1962/63" to a clean "1962" for the
+same reason. Per the cross-linking convention, the framing
+reading's first prose mention of "Oye Como Va" in the Track 1
+preview is now linked to track1-puente.html.
 
-Glossary count: now 347, up from 307 at the end of the
-Module 2 audit. Forty new entries were added across the Module
-3 build: substrates and genres (danzón, cha-cha-chá, bomba,
-plena, latin-jazz, bebop, canción, corrido, ranchera, mariachi,
-conjunto, orquesta, bachata, merengue), instruments (accordion,
-bajo-sexto), migration history (bracero-program, jones-shafroth-
-act, operation-bootstrap, freedom-flights, mariel-boatlift,
-el-barrio, loisaida, little-havana), historical concepts
-(atlantic-slave-trade, treaty-of-guadalupe-hidalgo, us-mexican-
-war, mexican-revolution, chicano, chicano-movement, dembow,
-cumbia, tex-mex), and people (mario-bauza, machito, curtis-
-mayfield, ruben-blades, willie-colon, tito-puente, tito-
-rodriguez). All forty have first-mention gloss buttons in the
-framing reading; eight also have follow-up buttons on Module 1's
-Cruz/Fania track where the new terms had triggered missed-gloss
-warnings (cha-cha-cha, merengue, el-barrio, ruben-blades,
-willie-colon, tito-puente).
+Retroactive glossings on the framing reading: the new
+palladium-ballroom entry caused a missed-gloss warning at the
+framing reading's first body-prose mention of the Palladium
+("The mambo era at the Palladium Ballroom in midtown
+Manhattan..."), resolved with a first-mention button. The
+johnny-pacheco and charanga new entries also cause missed-
+gloss warnings on the framing reading, but both first
+appearances on the page are inside the labels-table cells; per
+the established intentional-skip pattern (STATUS item 12; the
+dotted-underline gloss button renders awkwardly inside narrow
+table cells), they are not buttoned in the table and the only
+prose mentions are buttoned on the Track 1 page itself.
+Documented as intentional skips below.
 
-Audit baseline: 17 files, 0 errors, 20 warnings. The 9 Module
-1 + Module 2 intentional skips documented in items 6 through
-11 of the Glossary housekeeping section below carry over
-unchanged. The 11 new warnings from Module 3 are all
-intentional skips in already-recognized categories (table-cell
-skips for tico-records, fania-records, decca, dancehall,
-tex-mex; a second-mention skip for trap-music since trap is
-buttoned earlier in body prose; too-basic skips for waltz,
-rhythm, rhythm-section in their compound uses; the bare
-"dominant" false positive that does not actually appear on
-Module 3 but the same pattern of false positive does on
-Module 2). Documented as intentional skips in the housekeeping
-section.
+Cross-page checks ran clean: the framing-reading nav footer
+now resolves to a real page, the Track 1 page nav links
+correctly back to roots-and-routes.html and forward to the
+not-yet-built track2-bataan.html (will 404 until Track 2
+ships, parallel to how the framing reading 404'd to
+track1-puente.html until this session); BPM cross-references
+match (Cruz "Quimbara" 120, Puente "Oye Como Va" 124, both in
+the bright midtempo cha-cha-chá / salsa range); no body-prose
+em dashes outside the title and nav label per convention; HTML
+tags balanced; no button-inside-anchor structures (the
+listening guide uses the established pattern of pulling the
+gloss button outside the cross-reference link, e.g.,
+"single-vamp <button>funk</button> texture behind <a>James
+Brown's 'Say It Loud'</a>" rather than wrapping the button
+inside the link).
+
+Audit baseline: 18 files, 0 errors, 27 warnings. Up from 17
+files / 0 errors / 20 warnings at end of last session. The
+seven new warnings break down as: three on the new Track 1
+page (the bare "rhythm" false-positive in compound use, the
+"tenor" false-positive matching inside "tenor saxophone," and
+the page-subject "Tito Puente" inside the YouTube video card,
+all in already-recognized intentional-skip families); two on
+the framing reading from the new charanga and johnny-pacheco
+entries hitting labels-table cells (already-recognized
+table-cell skip family); and zero net new from palladium-
+ballroom (the body-prose retroactive button kept it from
+flagging). All 27 warnings are documented intentional skips.
 
 ## Term and dates
 
@@ -624,7 +631,7 @@ reviewed.
 **Module 3: Latin diasporic traditions.** Partial.
 - Anchor track lineup decided and locked. Five tracks,
   chronological 1962-2002, ending pre-Bad-Bunny: Tito Puente
-  "Oye Como Va" (1962/63, mambo/cha-cha-chá NY); Joe Bataan
+  "Oye Como Va" (1962, mambo/cha-cha-chá NY); Joe Bataan
   "Gypsy Woman" (1967, Latin soul/boogaloo, Spanish Harlem);
   Santana "Oye Como Va" (1970, Latin rock, Bay Area Chicano
   scene, direct Puente cover); Selena "Bidi Bidi Bom Bom"
@@ -639,17 +646,22 @@ reviewed.
   documents the Puerto-Rican-mixtape-to-major-label arc that
   produced reggaeton as commercial genre.
 - `module3/roots-and-routes.html`: full framing reading,
-  shipped. Title: "Many Roots, Shared Routes." Full structure
-  and revision history detailed in the Last-updated header
-  at the top of this file. The structural decision was that
-  Module 3 needed a full framing reading parallel to Module 2,
-  not just a shorter framing on the landing page, because the
-  territory it covers (Cuban + Puerto Rican + Mexican +
-  Dominican + Panamanian + Colombian, across the Caribbean and
-  the Mexican-American borderland) is dispersed enough that
-  it earns the longer treatment. The reading is 254 lines, in
-  the Module 2 framing-reading length range. Page validates
-  cleanly, audit baseline holds.
+  shipped in the previous session. Title: "Many Roots, Shared
+  Routes." 254 lines, in the Module 2 framing-reading length
+  range. The structural decision was that Module 3 needed a
+  full framing reading parallel to Module 2, not just a shorter
+  framing on the landing page, because the territory it covers
+  (Cuban + Puerto Rican + Mexican + Dominican + Panamanian +
+  Colombian, across the Caribbean and the Mexican-American
+  borderland) is dispersed enough that it earns the longer
+  treatment. This session added two retroactive edits: the
+  What's-coming preview's first prose mention of "Oye Como Va"
+  is now linked to the new Track 1 listening guide, and the
+  Track 1 dating in that preview was cleaned up from "1962/63"
+  to "1962." A retroactive first-mention `palladium-ballroom`
+  button was also added in the Section 5 dialogue paragraph
+  where the Palladium first appears in body prose, to keep
+  the audit-clean status.
 - The labels table in Section 4 uses a new `.schedule.labels-
   table` CSS modifier (introduced in commit `4bc3685`) that
   splits `(city, dates)` onto a metadata line below the label
@@ -658,18 +670,39 @@ reviewed.
   schedule table remains on the bare `.schedule` class with
   its original `nowrap` first-column behavior, which is right
   for short date strings like "Sun, July 12."
+- `module3/track1-puente.html`: full listening guide for Tito
+  Puente, "Oye Como Va" (Tico, recorded at the Hotel Riverside
+  Plaza Ballroom in Manhattan, produced by Teddy Reig, released
+  on the LP El Rey Bravo in 1962). Shipped this session.
+  Detailed in the Last-updated header at the top of this file.
+  111 lines, within the Module 2 envelope (104-117). Hero
+  photo flagged for image-rights verification before launch
+  (Michael Ochs Archives / Getty editorial photo of Puente at
+  timbales c. early 1960s, same defensible-educational-use
+  category as the other hero photos). Cross-links forward to
+  track3-santana.html (the Santana cover, eight years later)
+  and backward to Module 1's Cruz/Fania track (texture
+  comparison) and Module 2's Brown / "Say It Loud" (single-
+  vamp form comparison). The framing reading's first prose
+  mention of "Oye Como Va" is now linked here. The existing
+  `tito-puente` glossary entry had its dating corrected from
+  1963 to 1962 to match the El Rey Bravo LP release year.
 - Module 3 has not yet shipped: the landing page
-  (`module3/index.html`); the five listening guides
-  (`module3/track1-puente.html`, `module3/track2-bataan.html`,
-  `module3/track3-santana.html`, `module3/track4-selena.html`,
-  `module3/track5-tego.html`); the discussion
-  (`module3/discussion.md`) and the checkpoint quiz
-  (`module3/quiz.md`). The framing reading's nav footer points
-  to `track1-puente.html`, which currently 404s; building the
-  Track 1 listening guide is the natural next step.
-- Glossary expansion: 40 new entries added across the Module 3
-  build, listed in the Last-updated header. Glossary count
-  went from 307 (end of Module 2) to 347 (end of this session).
+  (`module3/index.html`); the four remaining listening guides
+  (`module3/track2-bataan.html`, `module3/track3-santana.html`,
+  `module3/track4-selena.html`, `module3/track5-tego.html`);
+  the discussion (`module3/discussion.md`) and the checkpoint
+  quiz (`module3/quiz.md`). The Track 1 nav footer points to
+  `track2-bataan.html`, which currently 404s; building the
+  Joe Bataan "Gypsy Woman" Track 2 guide is the natural next
+  step.
+- Glossary expansion across the Module 3 build to date: 55 new
+  entries, of which 40 came in with the framing reading and 15
+  came in with the Track 1 guide this session (palladium-
+  ballroom, charanga, arsenio-rodriguez, ned-sublette, el-rey-
+  bravo, cachao, johnny-pacheco, dorian-mode, ostinato,
+  the-pocket, ethan-hein, horn-section, vibraphone, timbales,
+  mulata). Glossary count: 363, up from 307 at end of Module 2.
 
 **Final project module.** Fully built.
 - `final-project/index.html`: student-facing landing page with
@@ -694,16 +727,17 @@ swap before the course goes live (see "Image rights to verify
 before launch" further down).
 
 **Module 3: Latin diasporic traditions.** Partial. The framing
-reading is shipped (see What is complete and live). What
-remains: landing page (`module3/index.html`), five listening
-guides (Tito Puente "Oye Como Va," Joe Bataan "Gypsy Woman,"
-Santana "Oye Como Va," Selena "Bidi Bidi Bom Bom," Tego
-Calderón "Pa' Que Retozen"), `discussion.md`, and `quiz.md`.
-Each listening guide will follow the Module 2 envelope (104-117
-lines) and the established four-section context plus four-prompt
-"Things to listen for" structure. Framing-reading nav footer
-currently points to `track1-puente.html` which 404s; building
-the Tito Puente Track 1 guide is the natural next step.
+reading and Track 1 (Puente, "Oye Como Va") are shipped (see
+What is complete and live). What remains: landing page
+(`module3/index.html`), four remaining listening guides (Joe
+Bataan "Gypsy Woman," Santana "Oye Como Va," Selena "Bidi Bidi
+Bom Bom," Tego Calderón "Pa' Que Retozen"), `discussion.md`,
+and `quiz.md`. Each remaining listening guide will follow the
+Module 2 envelope (104-117 lines) and the established four-
+section context plus four-prompt "Things to listen for"
+structure. Track 1's nav footer currently points to
+`track2-bataan.html` which 404s; building the Joe Bataan
+"Gypsy Woman" Track 2 guide is the natural next step.
 
 The framing reading also flagged a small set of labels-table
 factual claims for verification before launch (in addition to
@@ -782,9 +816,17 @@ photos already in the course:
 3. *Module 1, Module 2, and Module 3 hero photos.* Editorial-use
    copyrighted photos from KQED, Getty, and similar (already
    noted in the README photo convention). Same flag-before-launch
-   rule. The Module 3 listening guides have not yet been built;
-   their hero photos will land in this category as well, and
-   should be selected with the verification queue in mind.
+   rule. Module 3 Track 1 (`assets/images/tito-puente.jpg`,
+   used in `module3/track1-puente.html`) is in this queue: a
+   Michael Ochs Archives / Getty editorial photo of Puente at
+   the timbales c. early 1960s, in the same defensible-
+   educational-use category as the Module 2 Bessie Smith and
+   James Brown hero photos. The image file itself is not yet
+   in the repo at the time of writing; the page references it
+   by path and will display the alt text until the file is
+   added. Hero photos for Tracks 2 through 5 will land in this
+   category as those guides are built and should be selected
+   with the verification queue in mind.
 
 **Glossary housekeeping.** Items 1 through 5 from the previous
 list have been resolved in this session. Two known intentional
@@ -965,18 +1007,75 @@ The Module 3 framing reading shipped this session contributed
     Track 4 (item 9) and the bare `rhythm` false positive on
     Module 2 Track 2 Tharpe (item 8).
 
-**Repo-wide audit state.** 17 files, 0 errors, 20 warnings.
-All twenty are documented as intentional skips above. The 9
-Module 1 + Module 2 skips (items 6 through 11) carry over
-unchanged. The 11 new warnings from Module 3 are documented
-in items 12, 13, and 14, all in already-recognized intentional-
-skip categories (table-cell skips, second-mention skips, too-
-basic / compound-usage false positives). The
-`module1/index.html`, `module2/index.html`, and (when built)
-`module3/index.html` landing pages are explicitly out of scope
-for missed-gloss flagging because landing pages are
-navigational summaries; this is formalized in the README's
-"Where glossings do not go" section.
+The Module 3 Track 1 listening guide shipped this session
+contributed 5 new intentional skips: 2 on the framing reading
+from the new charanga and johnny-pacheco entries, and 3 on
+the Track 1 page itself.
+
+15. *`charanga` and `johnny-pacheco` in
+    `module3/roots-and-routes.html`'s labels table.* Two table-
+    cell warnings, same skip pattern as items 6 (Module 2 four
+    table-cell skips) and 12 (the original Module 3 five
+    table-cell skips). The Alegre row of the labels table
+    mentions "New York Cuban-style charanga and pachanga
+    forward" and the artists cell of the same row lists
+    "Charlie Palmieri, Eddie Palmieri, Johnny Pacheco." Both
+    terms are now glossed in regular prose on the Track 1
+    listening guide (charanga in the recording paragraph,
+    johnny-pacheco in the personnel paragraph). Inside the
+    narrow monospace table cells the dotted-underline gloss
+    button rendered awkwardly across the inter-word space, so
+    the cells stay unbuttoned. The framing reading already had
+    a body-prose mention of the Palladium Ballroom that the
+    new `palladium-ballroom` entry would have flagged; that
+    one was resolved with a retroactive first-mention button
+    in the Section 5 dialogue paragraph rather than added as
+    a skip.
+
+16. *bare `rhythm` on `module3/track1-puente.html`'s key/
+    meter/tempo opening paragraph.* Same false-positive family
+    as item 14 above. The bare `rhythm` glossary key matches
+    the word inside "the song's energy comes from rhythm,
+    ensemble texture, and arrangement" where the word is
+    doing ordinary-English list-item work parallel to "ensemble
+    texture" and "arrangement." Glossing it as the music-theory
+    term would be misleading. Intentional skip.
+
+17. *`tenor` (key: tenor, label: Tenor voice) on
+    `module3/track1-puente.html`'s personnel paragraph.* The
+    `tenor` glossary entry defines the vocal range. The word
+    matches inside the saxophone-section listing ("Rafael
+    'Tata' Palau, Jesús Caunedo, Al Abreu on tenor; Pete
+    Fanelli on alto; Shep Pullman on baritone"), where it
+    refers to a tenor saxophone, not a singing voice. Glossing
+    it as the vocal range would be misleading. Same family as
+    the `dominant` false positive (item 9). Intentional skip.
+
+18. *page subject `tito-puente` on
+    `module3/track1-puente.html`'s video-link card.* The
+    `tito-puente` glossary entry exists for cross-references
+    on other pages. On the Track 1 listening guide, Puente is
+    the subject of the entire page. The convention developed
+    across the Module 2 listening guides is that the page
+    subject is not buttoned in body prose, and that the audit
+    nonetheless flags the `<span class="video-title">` UI
+    label inside the YouTube card. Same family as Track 5
+    Beyoncé video card (item 10). Intentional skip.
+
+**Repo-wide audit state.** 18 files, 0 errors, 27 warnings.
+All twenty-seven are documented as intentional skips above. The
+9 Module 1 + Module 2 skips (items 6 through 11) carry over
+unchanged. Items 12 through 14 (the 11 Module 3 framing-reading
+skips) carry over with one addition: the new `charanga` and
+`johnny-pacheco` table-cell skips, documented above as part of
+item 15. Items 15 through 18 are the 5 net-new skips from this
+session: 2 framing-reading table-cell skips and 3 Track 1
+listening-guide skips. Landing pages
+(`module1/index.html`, `module2/index.html`, and the not-yet-
+built `module3/index.html`) remain explicitly out of scope for
+missed-gloss flagging because landing pages are navigational
+summaries; formalized in the README's "Where glossings do not
+go" section.
 
 **Audit-script future improvement.** The HTML-encoding bug
 discovered this session (27 entries with `<em>` tags or

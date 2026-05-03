@@ -544,7 +544,7 @@ var GLOSSARY = {
 
   "tito-puente": {
     label: "Tito Puente",
-    definition: "Ernest Anthony Puente Jr. (1923-2000), New York-born Puerto Rican bandleader, percussionist (most famously on timbales), composer, and arranger; one of the central figures of the New York mambo era and a sustained presence in Latin music for the next half century. Raised in Spanish Harlem, apprenticed in the Machito Orchestra in the early 1940s, served in the US Navy, studied at Juilliard on the GI Bill, and led the Tito Puente Orchestra from 1947 forward. Known as \u201cEl Rey de los Timbales\u201d (the King of the Timbales). His 1963 composition \u201cOye Como Va\u201d is the song the Module 3 Track 1 listening guide covers and the song Carlos Santana covered in 1970 for the Track 3 listening guide."
+    definition: "Ernest Anthony Puente Jr. (1923-2000), New York-born Puerto Rican bandleader, percussionist (most famously on timbales), composer, and arranger; one of the central figures of the New York mambo era and a sustained presence in Latin music for the next half century. Raised in Spanish Harlem, apprenticed in the Machito Orchestra in the early 1940s, served in the US Navy, studied at Juilliard on the GI Bill, and led the Tito Puente Orchestra from 1947 forward. Known as \u201cEl Rey de los Timbales\u201d (the King of the Timbales). His 1962 composition \u201cOye Como Va\u201d is the song the Module 3 Track 1 listening guide covers and the song Carlos Santana covered in 1970 for the Track 3 listening guide."
   },
 
   "tito-rodriguez": {
@@ -1910,6 +1910,85 @@ var GLOSSARY = {
   "hbcu": {
     label: "HBCU",
     definition: "Historically Black College or University. The HBCU system in the United States is a network of more than one hundred colleges and universities founded primarily before 1964 to educate Black students in a country that systematically barred them from white institutions. The system includes Howard, Spelman, Morehouse, Hampton, Tuskegee, Fisk, Florida A&M, Jackson State, Grambling, and dozens of other institutions, many in the South. HBCU homecoming-band culture (the marching bands, the drumlines, the dance lines, the halftime-show formations) is one of the most powerful Black musical and visual traditions in contemporary American life; the films Drumline (2002) and Beyonc\u00e9\u2019s own Homecoming (2019), documenting her 2018 Coachella headlining set, both center it. The marching-band horn stab in \u201cFormation\u201d points toward this tradition."
+  },
+
+  /* ============================
+     Module 3 Track 1: Tito Puente and "Oye Como Va"
+     ============================ */
+
+  "palladium-ballroom": {
+    label: "Palladium Ballroom",
+    definition: "The dance hall at 53rd Street and Broadway in midtown Manhattan that was the central institution of New York Latin music from 1947 to 1966. Featured live Latin music four nights a week, anchored by the \u201cBig Three\u201d orchestras of Machito, Tito Puente, and Tito Rodr\u00edguez. The Palladium was unusual for its time in being racially and ethnically integrated: Puerto Rican, Cuban, Italian, Jewish, African American, and Irish dancers and musicians shared the floor. Closed in 1966 after a police drug raid invoking the Cabaret License Law. The era is widely treated as the high point of the New York mambo and cha-cha-ch\u00e1 scene."
+  },
+
+  "charanga": {
+    label: "charanga",
+    definition: "A Cuban dance band format built around flute, violin (or violins), piano, bass, and percussion, descended from the early-20th-century danz\u00f3n ensembles. The charanga sound is lighter and more melodic than the brass-heavy mambo orchestra; the wooden five-key Cuban flute and the violin carry the lead lines. Popular in Cuba in the 1940s and 1950s and exported to New York alongside the mambo. Tito Puente\u2019s \u201cOye Como Va\u201d uses a charanga texture (Pacheco\u2019s flute, Legarreta\u2019s violin) layered with a full brass section."
+  },
+
+  "arsenio-rodriguez": {
+    label: "Arsenio Rodr\u00edguez",
+    definition: "Cuban tres player, composer, and bandleader (1911-1970), one of the most influential figures in 20th-century Cuban music. Born in Matanzas province, blinded in childhood by a horse kick, he developed the conjunto format that expanded the traditional son sextet by adding a piano, a second trumpet, and a conga drum, transforming the rhythm and texture of Cuban dance music in the 1940s. Moved to New York in 1953 and continued recording and performing until his death. His harmonic and rhythmic innovations are foundational to mambo, son montuno, and salsa."
+  },
+
+  "ned-sublette": {
+    label: "Ned Sublette",
+    definition: "American musicologist, composer, and music journalist (born 1951), author of Cuba and Its Music: From the First Drums to the Mambo (Chicago Review Press, 2004) and The World That Made New Orleans (Lawrence Hill, 2008). His work argues for the centrality of Caribbean (especially Cuban) musical traditions to the development of American popular music, and is widely cited in the literature on the New York mambo and salsa eras."
+  },
+
+  "el-rey-bravo": {
+    label: "El Rey Bravo",
+    definition: "Tito Puente\u2019s 1962 LP for Tico Records, recorded at the Hotel Riverside Plaza Ballroom in Manhattan and produced by Teddy Reig. The album was a working dance-floor record at the time of its release; its second track, \u201cOye Como Va,\u201d was a modest hit in 1962 but would become an international standard after Carlos Santana covered it in 1970. The album has been reissued by Craft Latino in remastered editions in the 2020s."
+  },
+
+  "cachao": {
+    label: "Cachao",
+    definition: "Stage name of Israel L\u00f3pez Vald\u00e9s (1918-2008), Cuban bassist, composer, and bandleader, widely credited (with his brother Orestes) with co-inventing the mambo in the late 1930s through compositions written for the Antonio Arca\u00f1o orchestra. After the 1959 revolution he settled first in Spain, then in Las Vegas and Miami, where he continued performing and recording into his late eighties. His 1957 mambo \u201cChanchullo\u201d is the source of the piano figure Puente reworked into \u201cOye Como Va.\u201d His descargas (jam sessions) of the late 1950s are foundational documents of Afro-Cuban improvised music."
+  },
+
+  "johnny-pacheco": {
+    label: "Johnny Pacheco",
+    definition: "Dominican-born flutist, composer, bandleader, and music executive (1935-2021), one of the central figures in 20th-century New York Latin music. Played in Tito Puente\u2019s orchestra (including on \u201cOye Como Va\u201d) before co-founding Fania Records with the lawyer Jerry Masucci in 1964. Pacheco was Fania\u2019s musical director through the 1970s and is widely credited with popularizing the term \u201csalsa\u201d as a label for the New York-grown Latin sound. The framing reading covers his role in the salsa boom; he reappears here as a sideman a few years before Fania began."
+  },
+
+  "dorian-mode": {
+    label: "Dorian mode",
+    definition: "One of the seven traditional church modes, equivalent to the major scale starting on its second note (so D Dorian uses the white keys of the piano from D to D, with no sharps or flats). Compared to a natural minor scale starting on the same note, Dorian raises the sixth, which gives it a brighter and more open sound than minor while keeping the minor third that grounds it. \u201cOye Como Va\u201d is in A Dorian, alternating between A minor 7 and D 7, the two chords built on the mode\u2019s tonic and fourth. The Dorian sound is common in jazz, in Cuban dance music, in much of British folk, and in 1960s and 1970s rock (\u201cScarborough Fair,\u201d \u201cEleanor Rigby,\u201d \u201cSo What\u201d)."
+  },
+
+  "ostinato": {
+    label: "ostinato",
+    definition: "A musical figure (a melodic line, a rhythmic pattern, a chord progression) that repeats throughout a section of music or sometimes throughout an entire piece, while other elements change around it. The Italian word means \u201cstubborn,\u201d and that is what an ostinato does: it stays put while the rest of the music moves. The piano block-chord pattern in \u201cOye Como Va\u201d is an ostinato; so is most bass-line repetition in funk and hip hop, the chaconne and passacaglia of Baroque music, and the looped sample of much of contemporary popular music."
+  },
+
+  "the-pocket": {
+    label: "the pocket",
+    definition: "Musicians\u2019 vocabulary for the locked-in rhythmic spot where a band\u2019s separate parts collectively imply a steady beat without any single instrument simply playing the beat on the surface. A drummer playing slightly behind the bassist, the bassist playing slightly ahead of the rhythm guitarist, and the keyboard player splitting the difference can produce a pocket the dancer hears as a clear groove, even though no one in the band is laying it down on its own. The term comes mainly from R&B and funk; the same idea organizes most great dance-band music, including the rhythm section of Puente\u2019s \u201cOye Como Va.\u201d"
+  },
+
+  "ethan-hein": {
+    label: "Ethan Hein",
+    definition: "American music theorist, educator, and writer who teaches at New York University and the New School. His blog, ethanhein.com, has been an unusually rich source of accessible analytical writing about popular music since the late 2000s, covering everything from Beatles harmony to hip hop production to Cuban dance music. The Track 1 listening guide draws on his analysis of \u201cOye Como Va\u2019s\u201d Dorian harmony and rhythmic figure."
+  },
+
+  "horn-section": {
+    label: "horn section",
+    definition: "The group of wind instruments (trumpets, trombones, saxophones) within a band. \u201cHorns\u201d in popular-music usage usually means brass and saxophones together, even though a saxophone is technically a woodwind. The horn section provides the punchy melodic riffs and harmonic sustain that thicken a soul, funk, salsa, or big-band arrangement. Puente\u2019s \u201cOye Como Va\u201d horn section is unusually large: three trumpets, one trombone, four saxophones plus a baritone."
+  },
+
+  "vibraphone": {
+    label: "vibraphone",
+    definition: "A tuned percussion instrument with metal bars laid out like a piano keyboard, struck with mallets, and amplified by tubular resonators below each bar. A motor turns small disks inside the resonators, producing the slow vibrato (the \u201cvibe\u201d) that gives the instrument its name. Developed in the United States in the 1920s and adopted by jazz players in the 1930s. Tito Puente recorded extensively on vibraphone and is credited with bringing it into the Latin orchestra format."
+  },
+
+  "timbales": {
+    label: "timbales",
+    definition: "Paired high-pitched single-headed drums of Cuban origin, mounted on a stand at chest height and played with thin wooden sticks. The drums are tuned to slightly different pitches; the player switches between striking the heads, the metal shells (the c\u00e1scara pattern), and a cowbell mounted between them. Timbales are the central percussion instrument of midcentury Cuban dance music, and Tito Puente, perhaps more than any other player, established the timbales as a front-of-the-stage solo voice rather than a back-of-the-band timekeeper."
+  },
+
+  "mulata": {
+    label: "mulata",
+    definition: "Spanish noun describing a woman of mixed Black and European ancestry. The word descends from the Spanish colonial racial-classification system of the Caribbean; many Spanish-speakers today consider it offensive (its English cognate, mulatto, is similarly considered dated and offensive in most current usage). In Cuban dance-music lyrics of the 1940s through 1960s, however, mulata appeared frequently as a stock romantic or celebratory term of address, often without conscious racial-political weight on the part of the writer. The word\u2019s use in \u201cOye Como Va\u201d sits in that midcentury idiom and is not transferable to current contexts; today\u2019s Latin musicians and writers generally reach for other vocabulary."
   }
 
 };
