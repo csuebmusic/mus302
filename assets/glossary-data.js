@@ -536,6 +536,11 @@ var GLOSSARY = {
     definition: "Pablo Rodr\u00edguez Lozada (1923-1973), Puerto Rican-born singer and bandleader, the third of the \u201cthree Titos\u201d of the New York mambo era (with Tito Puente and Machito). Born in Santurce, Puerto Rico; moved to East Harlem in 1940. Sang with Xavier Cugat, Noro Morales, and Cuban pianist Jos\u00e9 Curbelo in the 1940s before forming his own band in 1947. Headlined the Palladium Ballroom alongside Puente and Machito throughout the 1950s in what was widely treated as a friendly rivalry with Puente. Later known as \u201cEl Inolvidable\u201d (the Unforgettable) for his 1963 bolero recording of that name."
   },
 
+  "bad-bunny": {
+    label: "Bad Bunny",
+    definition: "Stage name of Benito Antonio Mart\u00ednez Ocasio (born 1994 in Bayam\u00f3n, raised in Vega Baja, Puerto Rico), the most globally successful Latin music artist of the 2020s. His sound combines reggaeton, Latin trap, dembow, dancehall, salsa, and bomba; his preferred genre descriptor is <em>m\u00fasica urbana</em>. Several of his albums (<em>YHLQMDLG</em> 2020, <em>Un Verano Sin Ti</em> 2022, <em>Deb\u00ed Tirar M\u00e1s Fotos</em> 2025) topped the Billboard 200 in Spanish, with <em>Deb\u00ed Tirar M\u00e1s Fotos</em> becoming the first Spanish-language album to win a Grammy for Album of the Year. His public work has consistently engaged Puerto Rican politics: the 2019 protests that drove Governor Ricardo Rossell\u00f3 from office, post-Hurricane Mar\u00eda recovery, the island's debate over its political status, and gender politics in Latin pop. Treated in detail in Module 6."
+  },
+
   /* ============================
      Cuban history and exile
      ============================ */
