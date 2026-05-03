@@ -439,6 +439,84 @@ var GLOSSARY = {
   },
 
   /* ============================
+     Latin / American historical concepts (added for Module 3)
+     ============================ */
+
+  "atlantic-slave-trade": {
+    label: "Atlantic slave trade",
+    definition: "The forced transatlantic transportation of an estimated 12 million enslaved Africans, primarily from West and Central Africa to the Americas, between roughly the early 1500s and the late 1800s. The slave trade was the foundation of plantation economies across the Caribbean, Brazil, and the southern United States, and it carried with it the West and Central African musical practices that became the substrate for African American, Afro-Cuban, Afro-Puerto Rican, Afro-Brazilian, and other Black music in the Americas."
+  },
+
+  "treaty-of-guadalupe-hidalgo": {
+    label: "Treaty of Guadalupe Hidalgo",
+    definition: "The 1848 treaty that ended the US-Mexican War (1846-1848) and transferred to the United States the Mexican territory that became California, Nevada, Utah, most of Arizona and New Mexico, and parts of Colorado, Wyoming, Kansas, and Oklahoma. Roughly 80,000 Mexican citizens living in those territories were given the option of US citizenship or returning to Mexico; most stayed. The treaty is the legal origin of the Mexican-American populations of the US Southwest, and the standard short way of saying \u201cthe community didn\u2019t move; the border did.\u201d"
+  },
+
+  "mexican-revolution": {
+    label: "Mexican Revolution",
+    definition: "The decade-long armed political upheaval (1910-1920) that overthrew the long dictatorship of Porfirio D\u00edaz, killed roughly 1 to 2 million Mexicans, and reshaped Mexican society. The Revolution drove substantial migration north to the United States, particularly to Texas and the Southwest. Many corridos (the Mexican narrative ballad form) were composed about its battles and figures, and the revolutionary period remains central to Mexican popular memory."
+  },
+
+  "mariel-boatlift": {
+    label: "Mariel Boatlift",
+    definition: "The mass migration of approximately 125,000 Cubans from the port of Mariel, Cuba, to Florida between April and October 1980, after the Cuban government temporarily allowed anyone who wished to leave to do so. The Mariel migration was the third major post-revolutionary Cuban exodus, and the first to include a significant Afro-Cuban population. The Cubans who arrived (\u201cMarielitos\u201d) faced harsher reception in the US than earlier Cuban refugees had."
+  },
+
+  "chicano": {
+    label: "Chicano / Chicana",
+    definition: "A self-identifier adopted by many Mexican-Americans starting in the 1960s to assert a politicized cultural identity distinct from both the Mexican nation and the white US mainstream. The term reclaims a word that was earlier used as a slur. \u201cChicano\u201d is masculine; \u201cChicana\u201d is feminine; \u201cChicanx\u201d and \u201cChicane\u201d are gender-inclusive variants. The Chicano Movement of the late 1960s and 1970s gave the term its political weight."
+  },
+
+  "chicano-movement": {
+    label: "Chicano Movement",
+    definition: "The Mexican-American civil rights, cultural, and political movement of the late 1960s and 1970s, centered in California, Texas, the Southwest, and the Midwest. The movement included the United Farm Workers led by C\u00e9sar Ch\u00e1vez and Dolores Huerta, student walkouts in Los Angeles, the Crusade for Justice in Denver, the founding of MEChA (a college student organization), and the broader cultural assertion of Chicano identity in art, literature, theater, and music. The Movement reshaped how Mexican-Americans related to the US and to Mexico."
+  },
+
+  "dembow": {
+    label: "Dembow",
+    definition: "The signature drum pattern of reggaeton, adapted by Panamanian and Puerto Rican producers in the 1990s from a Jamaican dancehall riddim of the same name (the \u201cDem Bow\u201d riddim built by Bobby \u201cDigital\u201d Dixon for Shabba Ranks\u2019s 1990 song \u201cDem Bow\u201d). The pattern is a steady boom-ch-boom-chick that anchors almost every reggaeton track; once you hear it, you hear it everywhere in the genre."
+  },
+
+  "cumbia": {
+    label: "Cumbia",
+    definition: "A Colombian dance music genre with roots on the Caribbean coast, blending African, Indigenous, and Spanish musical elements into a moderate-tempo dance form anchored by drum patterns and traditionally featuring accordion, gaita flute, and percussion. Cumbia spread across Latin America in the second half of the twentieth century and developed regional variations in Mexico, Peru, Argentina, and elsewhere. Mexican and Tejano cumbia is one of the streams that fed into Selena\u2019s music."
+  },
+
+  "tex-mex": {
+    label: "Tex-Mex",
+    definition: "A general descriptor for the cultural fusion of the Texas-Mexico borderland: in food, in language, and in music. As a music term, \u201cTex-Mex\u201d is sometimes used interchangeably with conjunto and Tejano, sometimes more loosely to cover the broader range of Mexican-American popular music in Texas (including the cross-border country and rock fusions of figures like the Texas Tornados). The term is older than \u201cTejano\u201d and has a slightly different feel; \u201cTejano\u201d is the more specific genre name for the 1980s-90s pop-flavored borderland music that Selena was central to."
+  },
+
+  /* ============================
+     Latin music figures (added for Module 3)
+     ============================ */
+
+  "mario-bauza": {
+    label: "Mario Bauz\u00e1",
+    definition: "Cuban-born trumpeter, alto saxophonist, arranger, and bandleader (1911-1993) who was the architect of Afro-Cuban jazz. Moved from Havana to New York in 1930; became musical director of Chick Webb\u2019s big band in 1934, then of Cab Calloway\u2019s in 1938 (where he persuaded Calloway to hire Dizzy Gillespie). In 1940 he co-founded Machito and the Afro-Cubans with his brother-in-law Machito, where he served as musical director until 1976. His 1943 composition \u201cTang\u00e1\u201d is widely treated as the first true Afro-Cuban jazz piece."
+  },
+
+  "machito": {
+    label: "Machito",
+    definition: "Stage name of Frank Ra\u00fal Guti\u00e9rrez Grillo (1909-1984), the Cuban-born vocalist, maraca player, and bandleader who fronted Machito and the Afro-Cubans in New York from 1940 until his death. The band, with Mario Bauz\u00e1 as musical director, was the central institution of the New York mambo era at the Palladium Ballroom and one of the foundational forces in the development of Afro-Cuban jazz. Machito was Bauz\u00e1\u2019s brother-in-law."
+  },
+
+  "curtis-mayfield": {
+    label: "Curtis Mayfield",
+    definition: "African American singer, songwriter, guitarist, and producer (1942-1999), one of the most important figures in 1960s and 1970s soul music. Led the vocal group the Impressions through the early 1960s civil rights era, writing songs (\u201cPeople Get Ready,\u201d \u201cKeep On Pushing\u201d) that became anthems of the movement. Went solo in 1970 and recorded the iconic <em>Super Fly</em> soundtrack in 1972. His original \u201cGypsy Woman\u201d (1961, with the Impressions) is the song Joe Bataan covered for the Module 3 Track 2 listening guide."
+  },
+
+  "ruben-blades": {
+    label: "Rub\u00e9n Blades",
+    definition: "Panamanian singer, songwriter, lawyer, actor, and politician (born 1948), one of the central figures of 1970s and 1980s salsa. Known for politically and narratively substantive lyrics that brought social-realist storytelling into Latin popular music; his 1978 album <em>Siembra</em> with Willie Col\u00f3n, including the track \u201cPedro Navaja,\u201d remains one of the best-selling salsa albums ever recorded. Has run for the Panamanian presidency and served as Panama\u2019s minister of tourism (2004-2009)."
+  },
+
+  "willie-colon": {
+    label: "Willie Col\u00f3n",
+    definition: "Puerto Rican-American trombonist, bandleader, singer, and producer (born 1950 in the South Bronx), one of the foundational figures of New York salsa. Recorded a series of influential Fania albums in the 1970s, often with vocalist H\u00e9ctor Lavoe and (later) songwriter Rub\u00e9n Blades. His 1978 collaboration with Blades, <em>Siembra</em>, brought social-realist storytelling and political content into the salsa mainstream and remains a landmark of the genre."
+  },
+
+  /* ============================
      Cuban history and exile
      ============================ */
 
