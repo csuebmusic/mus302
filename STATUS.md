@@ -817,16 +817,26 @@ photos already in the course:
    copyrighted photos from KQED, Getty, and similar (already
    noted in the README photo convention). Same flag-before-launch
    rule. Module 3 Track 1 (`assets/images/tito-puente.jpg`,
-   used in `module3/track1-puente.html`) is in this queue: a
-   Michael Ochs Archives / Getty editorial photo of Puente at
-   the timbales c. early 1960s, in the same defensible-
-   educational-use category as the Module 2 Bessie Smith and
-   James Brown hero photos. The image file itself is not yet
-   in the repo at the time of writing; the page references it
-   by path and will display the alt text until the file is
-   added. Hero photos for Tracks 2 through 5 will land in this
-   category as those guides are built and should be selected
-   with the verification queue in mind.
+   used in `module3/track1-puente.html`) sits in a slightly
+   different image-rights category from the other hero photos:
+   it is the cover art for the Italian Grosso! Recordings
+   reissue compilation *Mambo Gozón: Roots of Salsa - The RCA
+   Years 1949-1960*, which collects Puente's pre-Tico RCA-era
+   recordings (1949-1960). The cover is a designed collage of
+   three RCA-era promotional photos of Puente at the timbales,
+   set against yellow / orange / red circles. The figcaption
+   credits Grosso! Recordings explicitly and notes that the
+   listening guide's actual recording, "Oye Como Va," is from
+   the 1962 Tico LP *El Rey Bravo* rather than from this
+   RCA-era compilation. The slight chronological / label
+   slippage between the cover-art visual anchor and the
+   recording was a deliberate choice. Defensible educational
+   use with attribution; before launch, either contact Grosso!
+   Recordings for explicit clearance or swap for a public-
+   domain or licensed alternative photograph of Puente at the
+   timbales. Hero photos for Tracks 2 through 5 will land in
+   this category as those guides are built and should be
+   selected with the verification queue in mind.
 
 **Glossary housekeeping.** Items 1 through 5 from the previous
 list have been resolved in this session. Two known intentional
