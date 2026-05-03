@@ -6,12 +6,12 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of the session that drafted the full
-listening guide for Module 2 Track 4 (Grandmaster Flash and
-the Furious Five, "The Message," 1982). Module 2 framing
+Last updated: end of the session that did a fresh-eyes
+proofread of Module 2 Tracks 1-4 and corrected three factual
+problems on Track 4 ("The Message"). Module 2 framing
 reading, landing page, and Tracks 1, 2, 3, and 4 are live;
 Track 5 (Beyoncé), discussion, and quiz still pending.
-Glossary count: 272.
+Glossary count: 280.
 
 ## Term and dates
 
@@ -217,6 +217,46 @@ reviewed.
   "The Message" in the political-modes paragraph is now
   linked to track4-grandmaster-flash.html (parallel to the
   existing Brown link in the same paragraph).
+- After Track 4 shipped, two follow-up passes ran. First, a
+  glossary expansion added cluster-mate entries for
+  clifton-jiggs-chase (the Sugar Hill in-house producer who
+  co-wrote and co-produced "The Message") and the four other
+  Furious Five MCs who, like Grandmaster Flash, did not
+  perform on the recording: cowboy, kid-creole, scorpio,
+  rahiem. Each of the four is buttoned at first mention in
+  the Track 4 recording paragraph at the line "Neither did
+  Cowboy, Kid Creole, Scorpio, or Rahiem." Brought glossary
+  count to 277. Second, a fresh-eyes proofread of all four
+  Module 2 listening guides caught three real factual
+  problems on Track 4, all corrected in commit dabc2e6:
+  (1) replaced a fabricated "always tired, my legs feel
+  like lead" lyric (which does not appear in the song) with
+  the actual transit-strike lyric "can't take the train to
+  the job, there's a strike at the station" (sourced from
+  Rolling Stone's Duke Bootee obituary); (2) corrected the
+  personnel attribution by distinguishing the 1980 demo
+  (Bootee played most of the parts in his Elizabeth, NJ
+  apartment) from the released 1982 studio version (which
+  added overdubs from the Sugar Hill house rhythm section:
+  Doug Wimbish on electric bass, Keith LeBlanc on drums,
+  Skip McDonald on guitar, with the Prophet-5 hook credited
+  on the album sleeve to Reggie Griffin, Jiggs Chase, and
+  Sylvia Robinson, Griffin generally cited in oral histories
+  as the source of the synth lick); (3) hedged the drum
+  machine attribution from "programmed rather than performed
+  live" to a more accurate framing that names what students
+  hear (a drum machine) while acknowledging that the album
+  credits LeBlanc on drums and that how exactly the live
+  drumming and the DMX were combined on the released master
+  is not fully documented. Three new glossary entries
+  added to support the corrections: doug-wimbish,
+  keith-leblanc, reggie-griffin. Glossary count: 280. Page
+  remains at 107 lines, within the Module 2 envelope
+  (104-117). Track 4 audit is back to a single documented
+  intentional skip (the "dominant" false positive in the
+  reflective question, which is an English adjective, not
+  the music-theory V chord; documented in the intentional-
+  skip section below as item 9).
 - After Track 2 shipped, a series of cleanup passes ran on the
   methodology reading and the glossary. The methodology reading
   gained a tempo/beat/meter/rhythm reference section between the
