@@ -9,12 +9,28 @@
  * mid-paragraph and wants to keep reading; the definition should answer
  * "what is this?" quickly and let them get back to the prose.
  *
- * Character encoding: these strings are JavaScript string literals, not
- * HTML. Use plain & (not &amp;), plain < and > (not &lt; / &gt;), and
- * plain quotes. The glossary loader injects these via .textContent,
- * which treats whatever it gets as literal characters. If you write
- * "R&amp;B" the popup will display the literal five characters
- * "R&amp;B" rather than "R&B."
+ * Plain text only, no HTML. The glossary loader (assets/glossary.js,
+ * line 76) injects definitions via .textContent, which treats whatever
+ * it gets as literal characters. Anything that looks like HTML in a
+ * definition will render as literal characters to the student:
+ *   - Do NOT use <em>, </em>, <strong>, or any HTML tags. The popup
+ *     will show the literal "<em>" characters. To convey emphasis,
+ *     just write the title or term as plain text in mid-sentence;
+ *     the surrounding prose should make clear it is a title.
+ *   - Do NOT use <a> tags to link to other pages. The popup cannot
+ *     render clickable links; the literal "<a href=...>" will show.
+ *     If you need to point students to another page, do it in the
+ *     listening guide prose, not in the glossary popup.
+ *   - Do NOT use HTML entities. Use plain & (not &amp;), plain < and
+ *     > (not &lt; / &gt;), and plain straight or curly quotes. If you
+ *     write "R&amp;B" the popup will display the literal five
+ *     characters "R&amp;B" rather than "R&B."
+ *
+ * Character encoding: these strings are JavaScript string literals.
+ * For curly quotes and accented characters, use Unicode escapes
+ * (\u201c, \u00e9, etc.) rather than typing literal Unicode where
+ * possible; the file is a JS source and the escapes survive any
+ * encoding conversion safely.
  */
 
 var GLOSSARY = {
@@ -513,17 +529,17 @@ var GLOSSARY = {
 
   "curtis-mayfield": {
     label: "Curtis Mayfield",
-    definition: "African American singer, songwriter, guitarist, and producer (1942-1999), one of the most important figures in 1960s and 1970s soul music. Led the vocal group the Impressions through the early 1960s civil rights era, writing songs (\u201cPeople Get Ready,\u201d \u201cKeep On Pushing\u201d) that became anthems of the movement. Went solo in 1970 and recorded the iconic <em>Super Fly</em> soundtrack in 1972. His original \u201cGypsy Woman\u201d (1961, with the Impressions) is the song Joe Bataan covered for the Module 3 Track 2 listening guide."
+    definition: "African American singer, songwriter, guitarist, and producer (1942-1999), one of the most important figures in 1960s and 1970s soul music. Led the vocal group the Impressions through the early 1960s civil rights era, writing songs (\u201cPeople Get Ready,\u201d \u201cKeep On Pushing\u201d) that became anthems of the movement. Went solo in 1970 and recorded the iconic Super Fly soundtrack in 1972. His original \u201cGypsy Woman\u201d (1961, with the Impressions) is the song Joe Bataan covered for the Module 3 Track 2 listening guide."
   },
 
   "ruben-blades": {
     label: "Rub\u00e9n Blades",
-    definition: "Panamanian singer, songwriter, lawyer, actor, and politician (born 1948), one of the central figures of 1970s and 1980s salsa. Known for politically and narratively substantive lyrics that brought social-realist storytelling into Latin popular music; his 1978 album <em>Siembra</em> with Willie Col\u00f3n, including the track \u201cPedro Navaja,\u201d remains one of the best-selling salsa albums ever recorded. Has run for the Panamanian presidency and served as Panama\u2019s minister of tourism (2004-2009)."
+    definition: "Panamanian singer, songwriter, lawyer, actor, and politician (born 1948), one of the central figures of 1970s and 1980s salsa. Known for politically and narratively substantive lyrics that brought social-realist storytelling into Latin popular music; his 1978 album Siembra with Willie Col\u00f3n, including the track \u201cPedro Navaja,\u201d remains one of the best-selling salsa albums ever recorded. Has run for the Panamanian presidency and served as Panama\u2019s minister of tourism (2004-2009)."
   },
 
   "willie-colon": {
     label: "Willie Col\u00f3n",
-    definition: "Puerto Rican-American trombonist, bandleader, singer, and producer (born 1950 in the South Bronx), one of the foundational figures of New York salsa. Recorded a series of influential Fania albums in the 1970s, often with vocalist H\u00e9ctor Lavoe and (later) songwriter Rub\u00e9n Blades. His 1978 collaboration with Blades, <em>Siembra</em>, brought social-realist storytelling and political content into the salsa mainstream and remains a landmark of the genre."
+    definition: "Puerto Rican-American trombonist, bandleader, singer, and producer (born 1950 in the South Bronx), one of the foundational figures of New York salsa. Recorded a series of influential Fania albums in the 1970s, often with vocalist H\u00e9ctor Lavoe and (later) songwriter Rub\u00e9n Blades. His 1978 collaboration with Blades, Siembra, brought social-realist storytelling and political content into the salsa mainstream and remains a landmark of the genre."
   },
 
   "tito-puente": {
@@ -538,7 +554,7 @@ var GLOSSARY = {
 
   "bad-bunny": {
     label: "Bad Bunny",
-    definition: "Stage name of Benito Antonio Mart\u00ednez Ocasio (born 1994 in Bayam\u00f3n, raised in Vega Baja, Puerto Rico), the most globally successful Latin music artist of the 2020s. His sound combines reggaeton, Latin trap, dembow, dancehall, salsa, and bomba; his preferred genre descriptor is <em>m\u00fasica urbana</em>. Several of his albums (<em>YHLQMDLG</em> 2020, <em>Un Verano Sin Ti</em> 2022, <em>Deb\u00ed Tirar M\u00e1s Fotos</em> 2025) topped the Billboard 200 in Spanish, with <em>Deb\u00ed Tirar M\u00e1s Fotos</em> becoming the first Spanish-language album to win a Grammy for Album of the Year. His public work has consistently engaged Puerto Rican politics: the 2019 protests that drove Governor Ricardo Rossell\u00f3 from office, post-Hurricane Mar\u00eda recovery, the island's debate over its political status, and gender politics in Latin pop. Treated in detail in Module 6."
+    definition: "Stage name of Benito Antonio Mart\u00ednez Ocasio (born 1994 in Bayam\u00f3n, raised in Vega Baja, Puerto Rico), the most globally successful Latin music artist of the 2020s. His sound combines reggaeton, Latin trap, dembow, dancehall, salsa, and bomba; his preferred genre descriptor is m\u00fasica urbana. Several of his albums (YHLQMDLG 2020, Un Verano Sin Ti 2022, Deb\u00ed Tirar M\u00e1s Fotos 2025) topped the Billboard 200 in Spanish, with Deb\u00ed Tirar M\u00e1s Fotos becoming the first Spanish-language album to win a Grammy for Album of the Year. His public work has consistently engaged Puerto Rican politics: the 2019 protests that drove Governor Ricardo Rossell\u00f3 from office, post-Hurricane Mar\u00eda recovery, the island's debate over its political status, and gender politics in Latin pop. Treated in detail in Module 6."
   },
 
   /* ============================
@@ -1525,7 +1541,7 @@ var GLOSSARY = {
 
   "gayle-wald": {
     label: "Gayle Wald",
-    definition: "American scholar of African American music and popular culture, professor of English and American Studies at George Washington University, and author of <em>Shout, Sister, Shout!: The Untold Story of Rock-and-Roll Trailblazer Sister Rosetta Tharpe</em> (Beacon, 2007; revised 2023), the standard biography of Tharpe. Wald is also the author of <em>It\u2019s Been Beautiful: Soul! and Black Power Television</em> (Duke, 2015) and the editor of several scholarly collections on Black music. Most contemporary writing about Tharpe, including the framing in this listening guide, rests on Wald\u2019s research."
+    definition: "American scholar of African American music and popular culture, professor of English and American Studies at George Washington University, and author of Shout, Sister, Shout!: The Untold Story of Rock-and-Roll Trailblazer Sister Rosetta Tharpe (Beacon, 2007; revised 2023), the standard biography of Tharpe. Wald is also the author of It\u2019s Been Beautiful: Soul! and Black Power Television (Duke, 2015) and the editor of several scholarly collections on Black music. Most contemporary writing about Tharpe, including the framing in this listening guide, rests on Wald\u2019s research."
   },
 
   "afm-strike": {
@@ -1594,7 +1610,7 @@ var GLOSSARY = {
 
   "pee-wee-ellis": {
     label: "Pee Wee Ellis",
-    definition: "American saxophonist, composer, arranger, and bandleader (1941\u20132021), born Alfred James Rogers in Bradenton, Florida and raised in Lubbock, Texas and then Rochester, New York after his stepfather\u2019s racist murder forced the family north. Ellis studied jazz saxophone in weekly lessons with Sonny Rollins beginning at age sixteen, attended Manhattan School of Music, and joined James Brown\u2019s band in 1965 at the invitation of trumpeter Waymon Reed. In January 1967 Brown promoted him to bandleader and musical director, the position from which he co-wrote and arranged the recordings that crystallized funk as a genre: \u201cCold Sweat\u201d (1967), often pointed to as the moment funk arrived, and \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud\u201d (1968). Ellis described his musical contribution to Brown\u2019s sound as the fusion of his jazz training with Brown\u2019s R&amp;B background, which produced the percussive, horn-section-as-rhythm-instrument arrangements that became the funk template. He left Brown in 1969, worked extensively in jazz arrangement (his composition \u201cThe Chicken\u201d became a jazz-funk standard through Jaco Pastorius\u2019s recording), served as Van Morrison\u2019s bandleader and arranger from 1979, and continued to lead his own bands and tour internationally until shortly before his death in Somerset, England."
+    definition: "American saxophonist, composer, arranger, and bandleader (1941\u20132021), born Alfred James Rogers in Bradenton, Florida and raised in Lubbock, Texas and then Rochester, New York after his stepfather\u2019s racist murder forced the family north. Ellis studied jazz saxophone in weekly lessons with Sonny Rollins beginning at age sixteen, attended Manhattan School of Music, and joined James Brown\u2019s band in 1965 at the invitation of trumpeter Waymon Reed. In January 1967 Brown promoted him to bandleader and musical director, the position from which he co-wrote and arranged the recordings that crystallized funk as a genre: \u201cCold Sweat\u201d (1967), often pointed to as the moment funk arrived, and \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud\u201d (1968). Ellis described his musical contribution to Brown\u2019s sound as the fusion of his jazz training with Brown\u2019s R&B background, which produced the percussive, horn-section-as-rhythm-instrument arrangements that became the funk template. He left Brown in 1969, worked extensively in jazz arrangement (his composition \u201cThe Chicken\u201d became a jazz-funk standard through Jaco Pastorius\u2019s recording), served as Van Morrison\u2019s bandleader and arranger from 1979, and continued to lead his own bands and tour internationally until shortly before his death in Somerset, England."
   },
 
   "charles-bobbitt": {
@@ -1628,7 +1644,7 @@ var GLOSSARY = {
 
   "robert-moses": {
     label: "Robert Moses",
-    definition: "American urban planner (1888\u20131981), often called New York City\u2019s \u201cmaster builder.\u201d Moses held a series of unelected positions of enormous power from the 1930s through the 1960s, including parks commissioner, construction coordinator, and chair of the Triborough Bridge and Tunnel Authority. He oversaw the construction of hundreds of parks, playgrounds, bridges, public housing projects, and highways across the New York metropolitan area. He also displaced hundreds of thousands of residents in the process, disproportionately working-class people of color, and his planning decisions are widely regarded as having reshaped the city\u2019s racial geography. Robert Caro\u2019s 1974 biography <em>The Power Broker</em> is the standard account of Moses\u2019s career and is one of the most influential works of urban history ever written."
+    definition: "American urban planner (1888\u20131981), often called New York City\u2019s \u201cmaster builder.\u201d Moses held a series of unelected positions of enormous power from the 1930s through the 1960s, including parks commissioner, construction coordinator, and chair of the Triborough Bridge and Tunnel Authority. He oversaw the construction of hundreds of parks, playgrounds, bridges, public housing projects, and highways across the New York metropolitan area. He also displaced hundreds of thousands of residents in the process, disproportionately working-class people of color, and his planning decisions are widely regarded as having reshaped the city\u2019s racial geography. Robert Caro\u2019s 1974 biography The Power Broker is the standard account of Moses\u2019s career and is one of the most influential works of urban history ever written."
   },
 
   "cross-bronx-expressway": {
@@ -1673,7 +1689,7 @@ var GLOSSARY = {
 
   "sylvia-robinson": {
     label: "Sylvia Robinson",
-    definition: "American singer, producer, and label executive (1935\u20132011), often called the \u201cMother of Hip-Hop.\u201d Robinson\u2019s career began in the 1950s as Little Sylvia and as half of the duo Mickey & Sylvia, whose 1956 hit \u201cLove Is Strange\u201d remains a R&amp;B standard. After a 1973 solo hit, \u201cPillow Talk,\u201d she co-founded Sugar Hill Records in 1979 with her husband Joe Robinson and oversaw the production of \u201cRapper\u2019s Delight\u201d (1979) and \u201cThe Message\u201d (1982), the two records most responsible for hip hop\u2019s early commercial breakthrough. She did not invent the techniques she put on record; what she did was hear, before anyone else in the industry, that hip hop had crossover potential, and she built a label around that hearing. She was inducted into the Rock and Roll Hall of Fame in 2022."
+    definition: "American singer, producer, and label executive (1935\u20132011), often called the \u201cMother of Hip-Hop.\u201d Robinson\u2019s career began in the 1950s as Little Sylvia and as half of the duo Mickey & Sylvia, whose 1956 hit \u201cLove Is Strange\u201d remains a R&B standard. After a 1973 solo hit, \u201cPillow Talk,\u201d she co-founded Sugar Hill Records in 1979 with her husband Joe Robinson and oversaw the production of \u201cRapper\u2019s Delight\u201d (1979) and \u201cThe Message\u201d (1982), the two records most responsible for hip hop\u2019s early commercial breakthrough. She did not invent the techniques she put on record; what she did was hear, before anyone else in the industry, that hip hop had crossover potential, and she built a label around that hearing. She was inducted into the Rock and Roll Hall of Fame in 2022."
   },
 
   "melle-mel": {
@@ -1693,7 +1709,7 @@ var GLOSSARY = {
 
   "drum-machine": {
     label: "Drum machine",
-    definition: "An electronic instrument that produces drum sounds, either by synthesizing them or by playing back short stored recordings of real drums (samples). Drum machines became commercially viable in the late 1970s and early 1980s and quickly reshaped popular music, especially in genres where studio production was central: hip hop, R&amp;B, electronic dance music, synth-pop. They allowed a single producer to lay down rhythmic patterns without hiring a drummer and with perfect timekeeping, and their distinctive timbres (the boomy kick of the Roland TR-808, the snappy snares of the Linn LM-1 and Oberheim DMX) became sounds in their own right. \u201cThe Message\u201d uses an Oberheim DMX, one of the first sampling drum machines."
+    definition: "An electronic instrument that produces drum sounds, either by synthesizing them or by playing back short stored recordings of real drums (samples). Drum machines became commercially viable in the late 1970s and early 1980s and quickly reshaped popular music, especially in genres where studio production was central: hip hop, R&B, electronic dance music, synth-pop. They allowed a single producer to lay down rhythmic patterns without hiring a drummer and with perfect timekeeping, and their distinctive timbres (the boomy kick of the Roland TR-808, the snappy snares of the Linn LM-1 and Oberheim DMX) became sounds in their own right. \u201cThe Message\u201d uses an Oberheim DMX, one of the first sampling drum machines."
   },
 
   "synthesizer": {
@@ -1708,12 +1724,12 @@ var GLOSSARY = {
 
   "prophet-5": {
     label: "Prophet 5",
-    definition: "A polyphonic analog synthesizer manufactured by Sequential Circuits in San Jose, California, beginning in 1978. The Prophet 5 was the first widely-available synthesizer that could play five notes at once with fully programmable sounds that could be saved to memory and recalled, which made it usable in live performance as well as studio recording. Its bright, slightly clipped lead and brass-like sounds appear on a great deal of late-1970s and early-1980s pop, R&amp;B, and hip hop, including the hook of \u201cThe Message.\u201d"
+    definition: "A polyphonic analog synthesizer manufactured by Sequential Circuits in San Jose, California, beginning in 1978. The Prophet 5 was the first widely-available synthesizer that could play five notes at once with fully programmable sounds that could be saved to memory and recalled, which made it usable in live performance as well as studio recording. Its bright, slightly clipped lead and brass-like sounds appear on a great deal of late-1970s and early-1980s pop, R&B, and hip hop, including the hook of \u201cThe Message.\u201d"
   },
 
   "public-enemy": {
     label: "Public Enemy",
-    definition: "American hip hop group founded in 1985 in Long Island, New York, around lead MC Chuck D (Carlton Ridenhour), Flavor Flav (William Drayton), DJ Terminator X (Norman Rogers), and the Bomb Squad production team. Public Enemy\u2019s late-1980s and early-1990s records (<em>It Takes a Nation of Millions to Hold Us Back</em>, 1988; <em>Fear of a Black Planet</em>, 1990) are widely regarded as the high-water mark of politically explicit hip hop, building on the path \u201cThe Message\u201d had opened in 1982. The group\u2019s dense, aggressive production style, its sustained engagement with Black political and intellectual traditions, and Chuck D\u2019s commanding rhetorical voice influenced essentially every subsequent generation of socially-engaged hip hop artists, from KRS-One and X-Clan through Kendrick Lamar and Run the Jewels."
+    definition: "American hip hop group founded in 1985 in Long Island, New York, around lead MC Chuck D (Carlton Ridenhour), Flavor Flav (William Drayton), DJ Terminator X (Norman Rogers), and the Bomb Squad production team. Public Enemy\u2019s late-1980s and early-1990s records (It Takes a Nation of Millions to Hold Us Back, 1988; Fear of a Black Planet, 1990) are widely regarded as the high-water mark of politically explicit hip hop, building on the path \u201cThe Message\u201d had opened in 1982. The group\u2019s dense, aggressive production style, its sustained engagement with Black political and intellectual traditions, and Chuck D\u2019s commanding rhetorical voice influenced essentially every subsequent generation of socially-engaged hip hop artists, from KRS-One and X-Clan through Kendrick Lamar and Run the Jewels."
   },
 
   "conscious-hip-hop": {
@@ -1723,7 +1739,7 @@ var GLOSSARY = {
 
   "clifton-jiggs-chase": {
     label: "Clifton \u201cJiggs\u201d Chase",
-    definition: "American jazz organist, arranger, and record producer (Clifton Nathaniel Chase, born 1940), Sugar Hill Records\u2019 in-house producer and arranger from the late 1970s through the mid-1980s. Chase came up as a jazz musician; one of his earliest documented recordings is his organ playing on saxophonist Buddy Terry\u2019s 1967 album <em>Natural Soul</em> (Prestige) alongside trumpeter Woody Shaw, and in 1976 he played sideman on Pharoah Sanders\u2019s album <em>Pharoah</em>. He went to Sugar Hill in the late 1970s pitching an artist he was arranging for; the label passed on the artist but hired him for the arranging work, and Sylvia Robinson eventually elevated him to in-house producer alongside her. He co-wrote and co-produced \u201cThe Message\u201d (1982): he was the one who pushed Ed \u201cDuke Bootee\u201d Fletcher (his bandmate from years before he joined Sugar Hill) to write the song, recognized the hook when Fletcher came up with it on the couch in his Elizabeth, New Jersey apartment, and brought Sylvia Robinson in. Chase also has co-writing credit on the Sugar Hill Gang\u2019s 1981 \u201cApache,\u201d the source of one of the most heavily sampled breakbeats in hip hop, and arranged Funky Four Plus One\u2019s \u201cThat\u2019s the Joint.\u201d Sugar Hill\u2019s in-house engineer through this period was Steve Jerome; the studio in Englewood, New Jersey where most of this work was done burned down in 2002."
+    definition: "American jazz organist, arranger, and record producer (Clifton Nathaniel Chase, born 1940), Sugar Hill Records\u2019 in-house producer and arranger from the late 1970s through the mid-1980s. Chase came up as a jazz musician; one of his earliest documented recordings is his organ playing on saxophonist Buddy Terry\u2019s 1967 album Natural Soul (Prestige) alongside trumpeter Woody Shaw, and in 1976 he played sideman on Pharoah Sanders\u2019s album Pharoah. He went to Sugar Hill in the late 1970s pitching an artist he was arranging for; the label passed on the artist but hired him for the arranging work, and Sylvia Robinson eventually elevated him to in-house producer alongside her. He co-wrote and co-produced \u201cThe Message\u201d (1982): he was the one who pushed Ed \u201cDuke Bootee\u201d Fletcher (his bandmate from years before he joined Sugar Hill) to write the song, recognized the hook when Fletcher came up with it on the couch in his Elizabeth, New Jersey apartment, and brought Sylvia Robinson in. Chase also has co-writing credit on the Sugar Hill Gang\u2019s 1981 \u201cApache,\u201d the source of one of the most heavily sampled breakbeats in hip hop, and arranged Funky Four Plus One\u2019s \u201cThat\u2019s the Joint.\u201d Sugar Hill\u2019s in-house engineer through this period was Steve Jerome; the studio in Englewood, New Jersey where most of this work was done burned down in 2002."
   },
 
   "cowboy": {
@@ -1733,7 +1749,7 @@ var GLOSSARY = {
 
   "kid-creole": {
     label: "Kid Creole",
-    definition: "American MC (Nathaniel Glover, born 1960), founding member of the Furious Five along with his younger brother Melle Mel and Cowboy. Glover took his stage name from the 1958 Elvis Presley film <em>King Creole</em>, and is sometimes credited as Kidd Creole (he is a different person from August Darnell, the Kid Creole of the disco group Kid Creole and the Coconuts, who began performing under that name a few years later). Kid Creole and Melle Mel were the first rappers to refer to themselves as \u201cMCs.\u201d He did not perform on \u201cThe Message\u201d (1982). After the Furious Five split in 1983 he went with Grandmaster Flash and Rahiem to Elektra Records. He was inducted into the Rock and Roll Hall of Fame as part of Grandmaster Flash and the Furious Five in 2007. In 2017 he was arrested for the stabbing death of a homeless man in midtown Manhattan; he was convicted of manslaughter in 2022 and sentenced to sixteen years in prison."
+    definition: "American MC (Nathaniel Glover, born 1960), founding member of the Furious Five along with his younger brother Melle Mel and Cowboy. Glover took his stage name from the 1958 Elvis Presley film King Creole, and is sometimes credited as Kidd Creole (he is a different person from August Darnell, the Kid Creole of the disco group Kid Creole and the Coconuts, who began performing under that name a few years later). Kid Creole and Melle Mel were the first rappers to refer to themselves as \u201cMCs.\u201d He did not perform on \u201cThe Message\u201d (1982). After the Furious Five split in 1983 he went with Grandmaster Flash and Rahiem to Elektra Records. He was inducted into the Rock and Roll Hall of Fame as part of Grandmaster Flash and the Furious Five in 2007. In 2017 he was arrested for the stabbing death of a homeless man in midtown Manhattan; he was convicted of manslaughter in 2022 and sentenced to sixteen years in prison."
   },
 
   "scorpio": {
@@ -1753,7 +1769,7 @@ var GLOSSARY = {
 
   "keith-leblanc": {
     label: "Keith LeBlanc",
-    definition: "American drummer and producer (1954\u20132024), the drummer in the Sugar Hill Records house rhythm section from 1979 to roughly 1984. LeBlanc replaced the original house drummer Harold Sargent at Sargent\u2019s recommendation and joined Doug Wimbish and Skip McDonald in a trio that played on most of Sugar Hill\u2019s major releases, including \u201cThe Message\u201d (1982). Outside Sugar Hill, LeBlanc was an early adopter of sampling: his 1983 single \u201cNo Sell Out,\u201d built on samples of Malcolm X speeches over a programmed drum track, is widely considered one of the first sample-based hip hop records. After Sugar Hill folded he moved to London with Wimbish and McDonald, where the three of them with British producer Adrian Sherwood formed Tackhead. He went on to a long career as a session drummer and producer, including production credits on Nine Inch Nails\u2019s 1989 debut <em>Pretty Hate Machine</em>."
+    definition: "American drummer and producer (1954\u20132024), the drummer in the Sugar Hill Records house rhythm section from 1979 to roughly 1984. LeBlanc replaced the original house drummer Harold Sargent at Sargent\u2019s recommendation and joined Doug Wimbish and Skip McDonald in a trio that played on most of Sugar Hill\u2019s major releases, including \u201cThe Message\u201d (1982). Outside Sugar Hill, LeBlanc was an early adopter of sampling: his 1983 single \u201cNo Sell Out,\u201d built on samples of Malcolm X speeches over a programmed drum track, is widely considered one of the first sample-based hip hop records. After Sugar Hill folded he moved to London with Wimbish and McDonald, where the three of them with British producer Adrian Sherwood formed Tackhead. He went on to a long career as a session drummer and producer, including production credits on Nine Inch Nails\u2019s 1989 debut Pretty Hate Machine."
   },
 
   "reggie-griffin": {
@@ -1763,7 +1779,7 @@ var GLOSSARY = {
 
   "tina-knowles": {
     label: "Tina Knowles",
-    definition: "American fashion designer, businesswoman, and the mother of Beyonc\u00e9 and Solange Knowles (born C\u00e9lestine Ann Beyonc\u00e9, January 4, 1954, in Galveston, Texas). Knowles\u2019s Louisiana Creole family came up Catholic in segregated South Louisiana, with roots in New Iberia, Abbeville, and the broader bayou parishes; the family settled in Galveston around 1950. She built one of the most successful Black-owned hair salons in 1980s Houston (Headliners), designed the costumes Destiny\u2019s Child wore on stage in their early years, and co-founded the fashion line House of D\u00e9r\u00e9on with her daughter in 2004 (named for Tina\u2019s mother, Agn\u00e9s D\u00e9r\u00e9on, a seamstress). Her family geography is named directly in the opening lines of \u201cFormation.\u201d Her 2025 memoir <em>Matriarch</em> was a New York Times bestseller and an Oprah\u2019s Book Club selection."
+    definition: "American fashion designer, businesswoman, and the mother of Beyonc\u00e9 and Solange Knowles (born C\u00e9lestine Ann Beyonc\u00e9, January 4, 1954, in Galveston, Texas). Knowles\u2019s Louisiana Creole family came up Catholic in segregated South Louisiana, with roots in New Iberia, Abbeville, and the broader bayou parishes; the family settled in Galveston around 1950. She built one of the most successful Black-owned hair salons in 1980s Houston (Headliners), designed the costumes Destiny\u2019s Child wore on stage in their early years, and co-founded the fashion line House of D\u00e9r\u00e9on with her daughter in 2004 (named for Tina\u2019s mother, Agn\u00e9s D\u00e9r\u00e9on, a seamstress). Her family geography is named directly in the opening lines of \u201cFormation.\u201d Her 2025 memoir Matriarch was a New York Times bestseller and an Oprah\u2019s Book Club selection."
   },
 
   "louisiana-creole": {
@@ -1773,12 +1789,12 @@ var GLOSSARY = {
 
   "acadian": {
     label: "Acadian",
-    definition: "The French-speaking Catholic settlers of the maritime region of northeastern North America (modern Nova Scotia, New Brunswick, Prince Edward Island, and parts of Maine and Quebec) from the early 1600s. After the British conquest of the region in 1710 and the Treaty of Utrecht in 1713, the British colonial government deported most of the Acadian population in a campaign that ran from 1755 to 1764, called by Acadians <em>le Grand D\u00e9rangement</em> (the Great Upheaval). Many of the deportees made their way to South Louisiana, where their descendants became known as Cajuns (an anglicization of <em>cadien</em>, short for <em>acadien</em>). The Acadian leader Joseph Broussard, called Beausoleil, led one of the major migrations to Louisiana in 1765. Beyonc\u00e9 is descended through her mother\u2019s mother\u2019s line from the Broussard family."
+    definition: "The French-speaking Catholic settlers of the maritime region of northeastern North America (modern Nova Scotia, New Brunswick, Prince Edward Island, and parts of Maine and Quebec) from the early 1600s. After the British conquest of the region in 1710 and the Treaty of Utrecht in 1713, the British colonial government deported most of the Acadian population in a campaign that ran from 1755 to 1764, called by Acadians le Grand D\u00e9rangement (the Great Upheaval). Many of the deportees made their way to South Louisiana, where their descendants became known as Cajuns (an anglicization of cadien, short for acadien). The Acadian leader Joseph Broussard, called Beausoleil, led one of the major migrations to Louisiana in 1765. Beyonc\u00e9 is descended through her mother\u2019s mother\u2019s line from the Broussard family."
   },
 
   "keeanga-yamahtta-taylor": {
     label: "Keeanga-Yamahtta Taylor",
-    definition: "American historian and political scientist (born 1972), professor at Northwestern University, and the author of <em>From #BlackLivesMatter to Black Liberation</em> (Haymarket, 2016) and <em>Race for Profit</em> (UNC Press, 2019). Taylor\u2019s scholarship is one of the standard accounts of the Movement for Black Lives as a sustained Black political mobilization, and her work places the wave of protest that ran from Trayvon Martin\u2019s 2012 killing through Ferguson, Baltimore, and beyond in the longer history of Black radical politics in the United States. The 2016 book is the source most often cited in academic writing on the political moment in which \u201cFormation\u201d landed."
+    definition: "American historian and political scientist (born 1972), professor at Northwestern University, and the author of From #BlackLivesMatter to Black Liberation (Haymarket, 2016) and Race for Profit (UNC Press, 2019). Taylor\u2019s scholarship is one of the standard accounts of the Movement for Black Lives as a sustained Black political mobilization, and her work places the wave of protest that ran from Trayvon Martin\u2019s 2012 killing through Ferguson, Baltimore, and beyond in the longer history of Black radical politics in the United States. The 2016 book is the source most often cited in academic writing on the political moment in which \u201cFormation\u201d landed."
   },
 
   "trayvon-martin": {
@@ -1788,7 +1804,7 @@ var GLOSSARY = {
 
   "black-lives-matter": {
     label: "Black Lives Matter",
-    definition: "A decentralized political movement and the network of organizations that grew out of it, founded in 2013 by Alicia Garza, Patrisse Cullors, and Opal Tometi following the acquittal of George Zimmerman in the killing of Trayvon Martin. The movement gained mass-protest momentum after the August 2014 killing of Michael Brown by Ferguson, Missouri police, and again after the May 2020 killing of George Floyd by Minneapolis police. By the time \u201cFormation\u201d was released in February 2016, Black Lives Matter had become the central organizing language for a sustained wave of street protest, scholarly work, and electoral organizing about anti-Black police violence and the broader structures of racial inequity in the United States. The framing reading\u2019s discussion of Module 2 returns to the movement in <a href=\"../module2/roots-and-routes.html\">the closing-paragraph framing</a>."
+    definition: "A decentralized political movement and the network of organizations that grew out of it, founded in 2013 by Alicia Garza, Patrisse Cullors, and Opal Tometi following the acquittal of George Zimmerman in the killing of Trayvon Martin. The movement gained mass-protest momentum after the August 2014 killing of Michael Brown by Ferguson, Missouri police, and again after the May 2020 killing of George Floyd by Minneapolis police. By the time \u201cFormation\u201d was released in February 2016, Black Lives Matter had become the central organizing language for a sustained wave of street protest, scholarly work, and electoral organizing about anti-Black police violence and the broader structures of racial inequity in the United States. The framing reading\u2019s discussion of Module 2 returns to the movement in the closing-paragraph framing."
   },
 
   "michael-brown": {
@@ -1808,7 +1824,7 @@ var GLOSSARY = {
 
   "mike-will-made-it": {
     label: "Mike Will Made-It",
-    definition: "American hip hop record producer (Michael Len Williams II, born 1989, in Atlanta), one of the central figures in 2010s mainstream Atlanta trap. He came up producing for Gucci Mane, Future, and 2 Chainz, broke through commercially with Miley Cyrus\u2019s \u201cWe Can\u2019t Stop\u201d (2013) and Rae Sremmurd\u2019s catalog (2015 onward), and produced Beyonc\u00e9\u2019s \u201cFormation\u201d (2016) and most of Kendrick Lamar\u2019s 2017 <em>Black Panther</em> soundtrack work. The original \u201cFormation\u201d beat came from his collaborator Pluss; the freestyled chorus came from Swae Lee of Rae Sremmurd; Mike Will sent the reference to Beyonc\u00e9, who took it in a different direction than he had planned and built the song we now know on top of it."
+    definition: "American hip hop record producer (Michael Len Williams II, born 1989, in Atlanta), one of the central figures in 2010s mainstream Atlanta trap. He came up producing for Gucci Mane, Future, and 2 Chainz, broke through commercially with Miley Cyrus\u2019s \u201cWe Can\u2019t Stop\u201d (2013) and Rae Sremmurd\u2019s catalog (2015 onward), and produced Beyonc\u00e9\u2019s \u201cFormation\u201d (2016) and most of Kendrick Lamar\u2019s 2017 Black Panther soundtrack work. The original \u201cFormation\u201d beat came from his collaborator Pluss; the freestyled chorus came from Swae Lee of Rae Sremmurd; Mike Will sent the reference to Beyonc\u00e9, who took it in a different direction than he had planned and built the song we now know on top of it."
   },
 
   "pluss": {
@@ -1818,12 +1834,12 @@ var GLOSSARY = {
 
   "atlanta-trap": {
     label: "Atlanta trap",
-    definition: "A subgenre of Southern hip hop that emerged in Atlanta in the early 2000s, named for the \u201ctrap house\u201d (slang for a place where crack cocaine is sold) and known for its slow tempos, half-time hi-hat patterns, distorted 808 sub-bass, and minimalist arrangements built around a few tightly-programmed elements. T.I.\u2019s 2003 album <em>Trap Muzik</em> popularized the name. By the mid-2010s trap had become the dominant rhythmic feel of mainstream pop and hip hop, with Atlanta producers (Mike Will Made-It, Metro Boomin, Zaytoven, Lex Luger, and others) working on records that ran the chart from 2012 onward. \u201cFormation\u201d is built on a trap rhythmic foundation, with a New Orleans brass-band layer added on top."
+    definition: "A subgenre of Southern hip hop that emerged in Atlanta in the early 2000s, named for the \u201ctrap house\u201d (slang for a place where crack cocaine is sold) and known for its slow tempos, half-time hi-hat patterns, distorted 808 sub-bass, and minimalist arrangements built around a few tightly-programmed elements. T.I.\u2019s 2003 album Trap Muzik popularized the name. By the mid-2010s trap had become the dominant rhythmic feel of mainstream pop and hip hop, with Atlanta producers (Mike Will Made-It, Metro Boomin, Zaytoven, Lex Luger, and others) working on records that ran the chart from 2012 onward. \u201cFormation\u201d is built on a trap rhythmic foundation, with a New Orleans brass-band layer added on top."
   },
 
   "marching-band": {
     label: "marching band",
-    definition: "An ensemble of brass, woodwinds, and percussion that performs while moving (parading, marching, or in choreographed formation), distinct from a concert band that plays seated. American marching-band culture is shaped by two especially powerful Black traditions: the New Orleans brass band tradition (which feeds the second-line parade) and the HBCU homecoming-band tradition that came to national attention through the films <em>Drumline</em> (2002) and the documentary <em>Halftime</em>. \u201cFormation\u201d\u2019s chorus uses a brass-and-snare-drum stab that explicitly evokes that tradition; Beyonc\u00e9 said in interviews she wanted the song to be playable by a marching band, and her later live shows used HBCU-trained drumlines and brass sections, most famously at her 2018 Coachella headlining set, documented as the film <em>Homecoming</em>."
+    definition: "An ensemble of brass, woodwinds, and percussion that performs while moving (parading, marching, or in choreographed formation), distinct from a concert band that plays seated. American marching-band culture is shaped by two especially powerful Black traditions: the New Orleans brass band tradition (which feeds the second-line parade) and the HBCU homecoming-band tradition that came to national attention through the films Drumline (2002) and the documentary Halftime. \u201cFormation\u201d\u2019s chorus uses a brass-and-snare-drum stab that explicitly evokes that tradition; Beyonc\u00e9 said in interviews she wanted the song to be playable by a marching band, and her later live shows used HBCU-trained drumlines and brass sections, most famously at her 2018 Coachella headlining set, documented as the film Homecoming."
   },
 
   "second-line": {
@@ -1848,7 +1864,7 @@ var GLOSSARY = {
 
   "big-freedia": {
     label: "Big Freedia",
-    definition: "American bounce rapper and performer (Freddie Ross Jr., born 1978, in New Orleans), widely called \u201cthe Queen of Bounce.\u201d Freedia is a Black gender-nonconforming artist who uses she/her pronouns in performance and either she/her or he/him in personal life; her presence is one of the central public faces of New Orleans bounce music and its associated queer Black cultural ecology. She has been a featured voice on \u201cFormation\u201d (\u201cI did not come to play with you hoes / I came to slay, bitch\u201d) and on Drake\u2019s \u201cNice for What\u201d (2018), and starred in the Fuse reality series <em>Big Freedia: Queen of Bounce</em> from 2013 to 2017. Her presence on \u201cFormation\u201d connects the song to the queer Black New Orleans tradition that the framing reading places at the center of the song\u2019s political work."
+    definition: "American bounce rapper and performer (Freddie Ross Jr., born 1978, in New Orleans), widely called \u201cthe Queen of Bounce.\u201d Freedia is a Black gender-nonconforming artist who uses she/her pronouns in performance and either she/her or he/him in personal life; her presence is one of the central public faces of New Orleans bounce music and its associated queer Black cultural ecology. She has been a featured voice on \u201cFormation\u201d (\u201cI did not come to play with you hoes / I came to slay, bitch\u201d) and on Drake\u2019s \u201cNice for What\u201d (2018), and starred in the Fuse reality series Big Freedia: Queen of Bounce from 2013 to 2017. Her presence on \u201cFormation\u201d connects the song to the queer Black New Orleans tradition that the framing reading places at the center of the song\u2019s political work."
   },
 
   "fair-use": {
@@ -1858,22 +1874,22 @@ var GLOSSARY = {
 
   "melina-matsoukas": {
     label: "Melina Matsoukas",
-    definition: "American film and music-video director (born 1981, in the Bronx), the director of the music videos for Beyonc\u00e9\u2019s \u201cFormation\u201d (2016) and Rihanna\u2019s \u201cWe Found Love\u201d (2011) and \u201cS&amp;M\u201d (2010), among many others. Matsoukas trained at NYU\u2019s Tisch School of the Arts and the AFI Conservatory; she has won two Grammys for Music Video of the Year. Her feature directorial debut, <em>Queen &amp; Slim</em> (2019, written by Lena Waithe), tells the story of a young Black couple who become fugitives after a traffic-stop killing. Her video work for \u201cFormation\u201d was named the greatest music video of all time by <em>Rolling Stone</em> in 2021."
+    definition: "American film and music-video director (born 1981, in the Bronx), the director of the music videos for Beyonc\u00e9\u2019s \u201cFormation\u201d (2016) and Rihanna\u2019s \u201cWe Found Love\u201d (2011) and \u201cS&M\u201d (2010), among many others. Matsoukas trained at NYU\u2019s Tisch School of the Arts and the AFI Conservatory; she has won two Grammys for Music Video of the Year. Her feature directorial debut, Queen & Slim (2019, written by Lena Waithe), tells the story of a young Black couple who become fugitives after a traffic-stop killing. Her video work for \u201cFormation\u201d was named the greatest music video of all time by Rolling Stone in 2021."
   },
 
   "arthur-jafa": {
     label: "Arthur Jafa",
-    definition: "American filmmaker, cinematographer, and video artist (born 1960, in Tupelo, Mississippi). Jafa is known for his sustained interest in what he has called the \u201cspecific power, beauty, and alienation of Black being\u201d and his attempt to develop a Black cinema with what he calls Black aesthetic specificity. He was the cinematographer of Julie Dash\u2019s landmark <em>Daughters of the Dust</em> (1991), the first feature film by an African American woman to receive theatrical distribution in the U.S., and he served as camera operator on the \u201cFormation\u201d music video, where his hand is visible in the documentary-grain texture of several scenes. His video installation <em>Love Is the Message, the Message Is Death</em> (2016), a seven-minute compilation of Black American footage cut to Kanye West\u2019s \u201cUltralight Beam,\u201d won the Golden Lion at the 2019 Venice Biennale."
+    definition: "American filmmaker, cinematographer, and video artist (born 1960, in Tupelo, Mississippi). Jafa is known for his sustained interest in what he has called the \u201cspecific power, beauty, and alienation of Black being\u201d and his attempt to develop a Black cinema with what he calls Black aesthetic specificity. He was the cinematographer of Julie Dash\u2019s landmark Daughters of the Dust (1991), the first feature film by an African American woman to receive theatrical distribution in the U.S., and he served as camera operator on the \u201cFormation\u201d music video, where his hand is visible in the documentary-grain texture of several scenes. His video installation Love Is the Message, the Message Is Death (2016), a seven-minute compilation of Black American footage cut to Kanye West\u2019s \u201cUltralight Beam,\u201d won the Golden Lion at the 2019 Venice Biennale."
   },
 
   "malcolm-x": {
     label: "Malcolm X",
-    definition: "American Black Muslim minister, organizer, and writer (Malcolm Little, May 19, 1925 \u2013 February 21, 1965). Malcolm X was the most prominent national spokesman for the Nation of Islam from 1952 until his break with the organization in 1964; in the year between his break and his assassination, he made the hajj to Mecca, founded the Organization of Afro-American Unity, and revised many of his earlier positions while sharpening his critique of American racism, U.S. foreign policy, and the limits of mainstream civil-rights liberalism. He was assassinated at the Audubon Ballroom in Harlem in February 1965 by gunmen tied to the Nation of Islam. His <em>Autobiography of Malcolm X</em>, co-written with Alex Haley and published posthumously in 1965, is one of the foundational works of twentieth-century African American political writing. The X-formation in the \u201cFormation\u201d music video and the Super Bowl performance is widely understood as a reference to him."
+    definition: "American Black Muslim minister, organizer, and writer (Malcolm Little, May 19, 1925 \u2013 February 21, 1965). Malcolm X was the most prominent national spokesman for the Nation of Islam from 1952 until his break with the organization in 1964; in the year between his break and his assassination, he made the hajj to Mecca, founded the Organization of Afro-American Unity, and revised many of his earlier positions while sharpening his critique of American racism, U.S. foreign policy, and the limits of mainstream civil-rights liberalism. He was assassinated at the Audubon Ballroom in Harlem in February 1965 by gunmen tied to the Nation of Islam. His Autobiography of Malcolm X, co-written with Alex Haley and published posthumously in 1965, is one of the foundational works of twentieth-century African American political writing. The X-formation in the \u201cFormation\u201d music video and the Super Bowl performance is widely understood as a reference to him."
   },
 
   "pazz-and-jop": {
     label: "Pazz & Jop",
-    definition: "An annual U.S. music critics\u2019 poll, run by <em>The Village Voice</em> from 1971 through 2018, in which several hundred working music critics submitted year-end ballots ranking their top albums and singles of the year. The poll was created and named by the critic Robert Christgau (\u201cpazz\u201d for jazz, \u201cjop\u201d for pop, in his characteristically wry phrasing). For most of its run it was the most prestigious year-end critics\u2019 poll in American popular music. \u201cFormation\u201d topped the 2016 singles poll. The Voice folded as a print publication in 2018; subsequent attempts to continue the poll under other auspices have not had the same authority."
+    definition: "An annual U.S. music critics\u2019 poll, run by The Village Voice from 1971 through 2018, in which several hundred working music critics submitted year-end ballots ranking their top albums and singles of the year. The poll was created and named by the critic Robert Christgau (\u201cpazz\u201d for jazz, \u201cjop\u201d for pop, in his characteristically wry phrasing). For most of its run it was the most prestigious year-end critics\u2019 poll in American popular music. \u201cFormation\u201d topped the 2016 singles poll. The Voice folded as a print publication in 2018; subsequent attempts to continue the poll under other auspices have not had the same authority."
   },
 
   "trap-808": {
@@ -1888,12 +1904,12 @@ var GLOSSARY = {
 
   "code-switching": {
     label: "code-switching",
-    definition: "The linguistic and cultural practice of moving between two or more languages or dialects, or between two or more registers within a single language, depending on the social context. The term comes originally from sociolinguistics; it has come into wider use to describe the labor that members of marginalized groups, especially Black Americans, often do when they shift their speech, dress, or comportment to fit white-coded professional or institutional spaces. To <em>refuse</em> to code-switch is to maintain one\u2019s home register in spaces that expect a different one; the cultural critic Lauren Chanel Allen, writing in <em>Teen Vogue</em>, read Beyonc\u00e9\u2019s vocal delivery on \u201cFormation\u201d as exactly such a refusal: a Houston-and-Atlanta voice on a Houston-and-Atlanta beat, instead of the radio-pop voice the industry had been asking her to use."
+    definition: "The linguistic and cultural practice of moving between two or more languages or dialects, or between two or more registers within a single language, depending on the social context. The term comes originally from sociolinguistics; it has come into wider use to describe the labor that members of marginalized groups, especially Black Americans, often do when they shift their speech, dress, or comportment to fit white-coded professional or institutional spaces. To refuse to code-switch is to maintain one\u2019s home register in spaces that expect a different one; the cultural critic Lauren Chanel Allen, writing in Teen Vogue, read Beyonc\u00e9\u2019s vocal delivery on \u201cFormation\u201d as exactly such a refusal: a Houston-and-Atlanta voice on a Houston-and-Atlanta beat, instead of the radio-pop voice the industry had been asking her to use."
   },
 
   "hbcu": {
     label: "HBCU",
-    definition: "Historically Black College or University. The HBCU system in the United States is a network of more than one hundred colleges and universities founded primarily before 1964 to educate Black students in a country that systematically barred them from white institutions. The system includes Howard, Spelman, Morehouse, Hampton, Tuskegee, Fisk, Florida A&amp;M, Jackson State, Grambling, and dozens of other institutions, many in the South. HBCU homecoming-band culture (the marching bands, the drumlines, the dance lines, the halftime-show formations) is one of the most powerful Black musical and visual traditions in contemporary American life; the films <em>Drumline</em> (2002) and Beyonc\u00e9\u2019s own <em>Homecoming</em> (2019), documenting her 2018 Coachella headlining set, both center it. The marching-band horn stab in \u201cFormation\u201d points toward this tradition."
+    definition: "Historically Black College or University. The HBCU system in the United States is a network of more than one hundred colleges and universities founded primarily before 1964 to educate Black students in a country that systematically barred them from white institutions. The system includes Howard, Spelman, Morehouse, Hampton, Tuskegee, Fisk, Florida A&M, Jackson State, Grambling, and dozens of other institutions, many in the South. HBCU homecoming-band culture (the marching bands, the drumlines, the dance lines, the halftime-show formations) is one of the most powerful Black musical and visual traditions in contemporary American life; the films Drumline (2002) and Beyonc\u00e9\u2019s own Homecoming (2019), documenting her 2018 Coachella headlining set, both center it. The marching-band horn stab in \u201cFormation\u201d points toward this tradition."
   }
 
 };
