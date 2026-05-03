@@ -252,6 +252,28 @@ framing better. Module 1 now has four anchor tracks: Cooke, Cruz,
 DeSanto, Williams. The Module 1 content notice was rewritten to
 cover only the four current tracks.
 
+**Module 3 anchor tracks: five, ending pre-Bad-Bunny.** Tito Puente
+"Oye Como Va" (1962/63), Joe Bataan "Gypsy Woman" (1967), Santana
+"Oye Como Va" (1970), Selena "Bidi Bidi Bom Bom" (1994), Tego
+Calderón "Pa' Que Retozen" (2002). Salsa is not anchored in Module
+3 because Module 1's Cruz/Fania track already carries it; the
+Module 3 framing reading cross-references back. Reggaeton is
+anchored on Tego (the artistic-political anchor) rather than Daddy
+Yankee's "Gasolina" 2004 (the commercial-breakthrough track),
+which the framing reading carries as context. Module 6 picks up
+Bad Bunny's "El Apag\u00f3n" as the contemporary continuation.
+
+**Module 3 framing-reading decision.** Module 3 opens with a full
+framing reading (`module3/roots-and-routes.html`, "Many Roots,
+Shared Routes"), parallel in structure to Module 2's. The
+territory it covers (Cuban + Puerto Rican + Mexican + Dominican
++ Panamanian + Colombian, across the Caribbean and the Mexican-
+American borderland) is dispersed enough that it earns the
+longer treatment over a shorter framing on the landing page.
+Modules 4 and 5 are still open on this question (default
+assumption: shorter framing on the landing page unless there is
+a reason for a full reading).
+
 **Glossings: aggressive but not exhaustive.** The convention is to
 gloss specialized terms a non-majors student might not know that
 are not defined inline in the prose; to gloss artists who will recur
@@ -262,6 +284,35 @@ extended prose, so those are not glossed even though they are
 clearly specialized. The methodology reading defines timbre,
 texture, form, and gesture the same way and they are similarly
 not glossed.
+
+**Glossary content constraint: plain text only.** Definitions in
+`assets/glossary-data.js` are loaded into popups via
+`assets/glossary.js` line 76 (`text.textContent = entry.definition`),
+which treats whatever it gets as literal characters. HTML tags
+(`<em>`, `<strong>`), HTML entities (`&amp;`, `&lt;`), and
+inline `<a>` links all render as literal characters in the
+popup. The header comment of `glossary-data.js` documents this
+explicitly and gives examples of what fails. A year-old
+HTML-encoding bug across 27 entries (album titles in `<em>`,
+ampersands in `&amp;`, one inline link wrapper) was caught and
+fixed in commit `115a5af`; the README warning is intended to
+prevent the same bug from recurring. Future audit script
+enhancement: validate definition contents at audit time.
+
+**Labels-table CSS modifier.** The Module 2 and Module 3
+record-labels reference tables use a `.schedule.labels-table`
+modifier introduced in commit `4bc3685`. The modifier drops
+`white-space: nowrap` on the first column, sets `max-width:
+14rem`, and adds a `.meta` span style for the city/dates line
+that sits below the label name (`<span class="meta">`). The
+syllabus schedule table stays on the bare `.schedule` class
+with its original `nowrap` first-column behavior, which is
+right for short date strings like "Sun, July 12." Future
+labels-table-style uses should adopt the multi-class pattern
+(`class="schedule labels-table"`) and the `<br><span
+class="meta">...</span>` first-cell structure; do not add
+labels-table styling to other table types or strip nowrap from
+the syllabus.
 
 **Two-warm-two-cool palette by design.** The site uses cool slate
 type and cool blue accents (links, play button), warm cream

@@ -6,56 +6,138 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of a fresh-eyes audit pass on Module 2 that
-caught and fixed six small editorial issues across four
-listening guides. (1) Track 4's "The 2007 Rock and Roll Hall
-of Fame inducted..." rewritten as "In 2007, the Rock and Roll
-Hall of Fame inducted...", since the original phrasing read
-as if there were a 2007 edition of the Hall of Fame. (2) Track
-5's Shantrelle Lewis attribution rewritten from a broken-quote
-construction ("Mya's voice in the song 'would not have
-believed...'", in which the grammatical subject of "would not
-have believed" was incoherently attached to "voice") into a
-clean paraphrase ("Mya himself would not have imagined..."),
-with Lewis's Slate piece still cited correctly in Sources.
-(3) Track 1's stacked-negative texture beat ("There is no
-rhythm section. There is no piano. There is no bass. There
-are no drums.") collapsed into a single comma-separated
-negative list per the README's no-stacked-negatives rule; the
-gloss button on rhythm-section is preserved and the parenthetical
-about Longshaw still rides along. (4) Two Sanctified-vs-sanctified
-capitalization inconsistencies fixed: Track 3 line 40
-("a sanctified service") and Track 5 line 68 ("Sister Rosetta
-Tharpe's sanctified soprano") both made capital "Sanctified"
-to match the convention used elsewhere on the same and adjacent
-pages (Sanctified service / Sanctified church / Sanctified
-soprano are the proper-noun-style references to the tradition;
-the lowercase "the texture of her voice is sanctified" on
-Track 2 line 72 stays lowercase because it is the generic
-adjective). (5) Track 2's two body-prose uses of "rock-and-roll"
-(in the guitar-break paragraph) unhyphenated to match the
-unhyphenated "rock and roll" everywhere else on the page; the
-hyphenated "Rock-and-Roll" in the Wald book subtitle in the
-Sources section stays as the actual book title. (6) Track 5's
-Wikipedia citation reformatted to lead with "Wikipedia." like
-the four other Module 2 tracks' Wikipedia citations, instead of
-listing article titles first.
+Last updated: end of a substantial Module 3 build session that
+shipped the Module 3 framing reading and a fresh-eyes audit pass
+on it, plus a glossary HTML-encoding bug fix that was a year-old
+carryover from the Module 1 and Module 2 builds.
 
-The audit also surfaced three things deliberately left alone:
-the en dash in the Track 3 Sources Wikipedia article title for
-"Say It Loud – I'm Black and I'm Proud" (which is the actual
-typesetting of Wikipedia's article, even though the page uses
-em dash for the song title elsewhere); a small repetition on
-Track 1 line 66 ("Smith continued to record for Columbia
-until 1933" two sentences before "her last session was in
-1933"); and the Track 5 page-subject `beyonce` audit warning,
-which is the same intentional skip already documented as item
-10 in the intentional-skip list.
+The Module 3 framing reading (`module3/roots-and-routes.html`)
+is in place. Title: "Many Roots, Shared Routes." Six sections
+plus a What's-coming preview plus a Sources section, parallel
+in structure to Module 2's "Roots and Routes" framing reading.
+The six sections cover (1) what "Latin diasporic" means here,
+including the four-conditions framing of Cuban exile, Puerto
+Rican statutory citizenship since the Jones-Shafroth Act, the
+"the border moved" framing of the Mexican-American case via
+the 1848 Treaty of Guadalupe Hidalgo, and more recent arrivals;
+(2) Roots, sketching three substrates (Cuban, Puerto Rican,
+Mexican), each treated separately with its own paragraph;
+(3) Routes, walking through four migrations (Mexican, Puerto
+Rican, Cuban, more recent Dominican/Panamanian/Colombian) with
+two figures embedded (a Pearson 2005 static migration map and
+the University of Washington's Latinx Great Migrations Tableau
+interactive); (4) The labels that built the industry, a
+twelve-row labels table from Decca Latin (1934) to VI Music /
+El Cartel Records (late 1990s) using a new `.schedule.labels-
+table` CSS modifier that splits city/dates onto a metadata line
+below the label name; (5) The dialogue with African American
+music, a cross-tradition argument running mambo-meets-bebop,
+boogaloo, salsa, Latin rock, reggaeton, with the dialogue
+running both directions; and (6) Latin music as political work,
+using the same content/form/presence framework as Module 2's
+political-modes argument. The What's-coming preview names all
+five anchor tracks with one-paragraph previews each. The
+Sources section has thirteen entries spanning Aparicio,
+Berríos-Miranda et al's American Sabor (the closest analog to
+what this module is doing), Flores, García on Cuban exile,
+Gilroy's Black Atlantic, Marshall et al on reggaeton, Peña on
+conjunto, Rivera on PR hip hop, Sánchez Korrol on PR New York,
+Washburne on salsa, Cepeda's Remezcla series on Panamanian
+reggaeton roots, the Center for Puerto Rican Studies, the
+Library of Congress, and Wikipedia.
 
-Glossary count unchanged at 307. Audit count unchanged at 16
-files, 0 errors, 9 documented intentional warnings. No
-navigation changes; no listening-guide structural changes; no
-factual claims altered, only editorial cleanup.
+The framing reading went through several rounds of Inés-driven
+revision before reaching its current form. Substantive
+revisions: Section 2's opening reorganized to name the three
+substrates (Cuban, Puerto Rican, Mexican) explicitly rather
+than collapsing Cuban and Puerto Rican into a single "Afro-
+Caribbean" tradition (the paragraphs that follow already treat
+them separately, so the section opening should match); the
+Pearson map figcaption got the instructor-facing rights-flag
+sentence stripped (verification flags belong in commit
+messages and STATUS, not in student-facing prose); the
+"Presence" paragraph in Section 6 now identifies the three
+artists in parentheses (Selena, Tego Calderón, Carlos Santana)
+so the GE-level reader doesn't have to infer who each vignette
+refers to; the CSU East Bay self-reference at the end of the
+Track 3 preview was removed (it read as instructor's-note
+voice rather than student-facing prose, and the previous
+sentence already established the Bay Area / Mission District
+context).
+
+Then a fresh-eyes audit pass surfaced six small editorial
+fixes, all shipped in commit `8af6630`: (1) Stan Getz removed
+from the bebop-musicians parenthetical in Section 5 (Getz is
+a Latin-jazz figure, but bossa-nova-era, not Palladium-mambo-
+era; Gillespie and Parker are the right names for that
+context); (2) Operation Bootstrap dating fixed from "in the
+1950s" to "beginning in the late 1940s and running through
+the 1950s and beyond"; (3) the "four distinct strands" count
+in the What's coming intro replaced with "several distinct
+strands" since it was contradicting the three-substrate
+framing of Section 2; (4) "Early Exiles" lowercased to "early
+exiles" to match the descriptive-vs-proper-noun pattern of
+the surrounding cohort labels (Freedom Flights and Mariel
+Boatlift stay capitalized as proper-noun program/event names);
+(5) the 1940 NYC Puerto Rican population figure hedged from
+"61,000" to "roughly 61,000" since the literature has variants
+in the 61k-70k range depending on the census source; (6) the
+long Section 5 paragraph (~380 words covering five separate
+moments of dialogue) split at the salsa pivot into two
+paragraphs, with a new bridge sentence "The dialogue
+intensified in the post-civil-rights decades" opening the
+second.
+
+Glossary bug fix this session: 27 entries (going back to the
+original Module 1 build) had `<em>` tags or HTML entities like
+`&amp;` inside their definition strings, plus one entry with
+an `<a href>` link wrapper. The glossary loader at
+`assets/glossary.js` line 76 injects definitions via
+`.textContent`, which renders these as literal characters
+rather than parsing the HTML. The literal characters had been
+showing up in popups across the site (`<em>Siembra</em>`,
+`R&amp;B`, `<a href="...">the closing-paragraph framing</a>`).
+A Python sweep stripped all HTML tokens from definition
+strings; the file's header comment was strengthened to make
+the constraint explicit (no HTML tags, no `<a>` links, no
+entities, plain text only). The audit script
+(`scripts/check-glossings.js`) currently checks for missed
+gloss buttons but does not validate definition contents
+against the textContent constraint; worth adding a definition-
+content check to the audit script in a future pass to catch
+this category of bug if it recurs.
+
+Glossary count: now 347, up from 307 at the end of the
+Module 2 audit. Forty new entries were added across the Module
+3 build: substrates and genres (danzón, cha-cha-chá, bomba,
+plena, latin-jazz, bebop, canción, corrido, ranchera, mariachi,
+conjunto, orquesta, bachata, merengue), instruments (accordion,
+bajo-sexto), migration history (bracero-program, jones-shafroth-
+act, operation-bootstrap, freedom-flights, mariel-boatlift,
+el-barrio, loisaida, little-havana), historical concepts
+(atlantic-slave-trade, treaty-of-guadalupe-hidalgo, us-mexican-
+war, mexican-revolution, chicano, chicano-movement, dembow,
+cumbia, tex-mex), and people (mario-bauza, machito, curtis-
+mayfield, ruben-blades, willie-colon, tito-puente, tito-
+rodriguez). All forty have first-mention gloss buttons in the
+framing reading; eight also have follow-up buttons on Module 1's
+Cruz/Fania track where the new terms had triggered missed-gloss
+warnings (cha-cha-cha, merengue, el-barrio, ruben-blades,
+willie-colon, tito-puente).
+
+Audit baseline: 17 files, 0 errors, 20 warnings. The 9 Module
+1 + Module 2 intentional skips documented in items 6 through
+11 of the Glossary housekeeping section below carry over
+unchanged. The 11 new warnings from Module 3 are all
+intentional skips in already-recognized categories (table-cell
+skips for tico-records, fania-records, decca, dancehall,
+tex-mex; a second-mention skip for trap-music since trap is
+buttoned earlier in body prose; too-basic skips for waltz,
+rhythm, rhythm-section in their compound uses; the bare
+"dominant" false positive that does not actually appear on
+Module 3 but the same pattern of false positive does on
+Module 2). Documented as intentional skips in the housekeeping
+section.
 
 ## Term and dates
 
@@ -539,6 +621,56 @@ reviewed.
   This session pushed the count to 219 with the Bessie
   Smith Track 1 cluster.
 
+**Module 3: Latin diasporic traditions.** Partial.
+- Anchor track lineup decided and locked. Five tracks,
+  chronological 1962-2002, ending pre-Bad-Bunny: Tito Puente
+  "Oye Como Va" (1962/63, mambo/cha-cha-chá NY); Joe Bataan
+  "Gypsy Woman" (1967, Latin soul/boogaloo, Spanish Harlem);
+  Santana "Oye Como Va" (1970, Latin rock, Bay Area Chicano
+  scene, direct Puente cover); Selena "Bidi Bidi Bom Bom"
+  (1994, Tejano, Texas-Mexico borderland); Tego Calderón
+  "Pa' Que Retozen" (2002, Afro-Puerto Rican reggaeton,
+  artistic-political anchor track since the framing reading
+  carries Daddy Yankee's "Gasolina" 2004 as the commercial-
+  breakthrough context). Salsa is not anchored in Module 3
+  because Module 1's Cruz/Fania track already carries it; the
+  Module 3 framing reading cross-references back to that
+  Module 1 track. The framing reading's labels table also
+  documents the Puerto-Rican-mixtape-to-major-label arc that
+  produced reggaeton as commercial genre.
+- `module3/roots-and-routes.html`: full framing reading,
+  shipped. Title: "Many Roots, Shared Routes." Full structure
+  and revision history detailed in the Last-updated header
+  at the top of this file. The structural decision was that
+  Module 3 needed a full framing reading parallel to Module 2,
+  not just a shorter framing on the landing page, because the
+  territory it covers (Cuban + Puerto Rican + Mexican +
+  Dominican + Panamanian + Colombian, across the Caribbean and
+  the Mexican-American borderland) is dispersed enough that
+  it earns the longer treatment. The reading is 254 lines, in
+  the Module 2 framing-reading length range. Page validates
+  cleanly, audit baseline holds.
+- The labels table in Section 4 uses a new `.schedule.labels-
+  table` CSS modifier (introduced in commit `4bc3685`) that
+  splits `(city, dates)` onto a metadata line below the label
+  name. The same modifier was applied to the Module 2 labels
+  table at the same time for consistency. The syllabus
+  schedule table remains on the bare `.schedule` class with
+  its original `nowrap` first-column behavior, which is right
+  for short date strings like "Sun, July 12."
+- Module 3 has not yet shipped: the landing page
+  (`module3/index.html`); the five listening guides
+  (`module3/track1-puente.html`, `module3/track2-bataan.html`,
+  `module3/track3-santana.html`, `module3/track4-selena.html`,
+  `module3/track5-tego.html`); the discussion
+  (`module3/discussion.md`) and the checkpoint quiz
+  (`module3/quiz.md`). The framing reading's nav footer points
+  to `track1-puente.html`, which currently 404s; building the
+  Track 1 listening guide is the natural next step.
+- Glossary expansion: 40 new entries added across the Module 3
+  build, listed in the Last-updated header. Glossary count
+  went from 307 (end of Module 2) to 347 (end of this session).
+
 **Final project module.** Fully built.
 - `final-project/index.html`: student-facing landing page with
   full project description, what "personal significance"
@@ -561,14 +693,35 @@ Track 1, 2, 3, and 4 hero photos still need verification or
 swap before the course goes live (see "Image rights to verify
 before launch" further down).
 
-**Modules 3 through 5.** None yet drafted. Each will follow
+**Module 3: Latin diasporic traditions.** Partial. The framing
+reading is shipped (see What is complete and live). What
+remains: landing page (`module3/index.html`), five listening
+guides (Tito Puente "Oye Como Va," Joe Bataan "Gypsy Woman,"
+Santana "Oye Como Va," Selena "Bidi Bidi Bom Bom," Tego
+Calderón "Pa' Que Retozen"), `discussion.md`, and `quiz.md`.
+Each listening guide will follow the Module 2 envelope (104-117
+lines) and the established four-section context plus four-prompt
+"Things to listen for" structure. Framing-reading nav footer
+currently points to `track1-puente.html` which 404s; building
+the Tito Puente Track 1 guide is the natural next step.
+
+The framing reading also flagged a small set of labels-table
+factual claims for verification before launch (in addition to
+image rights):
+- Discos Falcon founding date claimed as 1947; double-check
+  before launch.
+- Tico Records claimed dates 1948-1974; double-check.
+- EMI Latin geography claimed as "Los Angeles / Miami"; this
+  is the rough framing but the corporate history is more
+  complicated and worth verifying that both city labels are
+  defensible.
+- Q-Productions founding year claimed as 1986; double-check.
+
+**Modules 4 and 5.** None yet drafted. Each will follow
 the `module1/` pattern: an `index.html` landing page, the
 listening guides for the module's anchor tracks (count to be
 decided per module), `discussion.md`, and `quiz.md`.
 
-- Module 3: Latin diasporic traditions. Mambo, Latin soul and
-  boogaloo, salsa, Tejano, Latin rock and the Chicano movement,
-  reggaeton, Latin trap.
 - Module 4: Asian American traditions. Filipino American R&B
   and jazz, Asian American jazz movement, Filipino DJs and
   turntablism, Asian American hip hop, indie, electronic, K-pop
@@ -590,7 +743,7 @@ the course. Most natural fits are Module 5's Brill Building
 section (she covered Goffin/King) or as a deep cut in Module 6.
 To be decided when those modules get built.
 
-**Image rights to verify before launch.** Two items, same
+**Image rights to verify before launch.** Several items, same
 defensible-educational-use category as the KQED/Getty editorial
 photos already in the course:
 
@@ -609,9 +762,29 @@ photos already in the course:
    ClarissaUprooted@teenempowerment.org) for explicit
    permission, or swap for a public-domain alternative.
 
-2. *Module 1 hero photos.* Editorial-use copyrighted photos from
-   KQED, Getty, and similar (already noted in the README photo
-   convention). Same flag-before-launch rule.
+2. *Module 3 Pearson migration map*
+   (`assets/images/latin-american-migration-map.jpg`, used in
+   `module3/roots-and-routes.html` Figure 1). Static map © 2005
+   Pearson Prentice Hall, showing migration to the US from Latin
+   America and the Caribbean with annual figures in thousands.
+   Defensible educational use with the © attribution in the
+   figcaption ("Map © 2005 Pearson Prentice Hall."). The original
+   instructor-facing rights-flag sentence in the figcaption was
+   removed because instructor-facing flags belong in commit
+   messages and STATUS, not in student-facing prose. The map is
+   still on the launch-pending verification list. Before launch,
+   contact Pearson education permissions for explicit clearance,
+   or swap for a public-domain or Creative-Commons-licensed
+   alternative (e.g., the Migration Policy Institute's data
+   visualizations, US Census or Pew Research Center static
+   maps, or a hand-drawn equivalent).
+
+3. *Module 1, Module 2, and Module 3 hero photos.* Editorial-use
+   copyrighted photos from KQED, Getty, and similar (already
+   noted in the README photo convention). Same flag-before-launch
+   rule. The Module 3 listening guides have not yet been built;
+   their hero photos will land in this category as well, and
+   should be selected with the verification queue in mind.
 
 **Glossary housekeeping.** Items 1 through 5 from the previous
 list have been resolved in this session. Two known intentional
@@ -757,21 +930,68 @@ Remaining known intentional skips (audit warnings to live with):
     the glossary by several months, so the prose was not
     written with the gloss in mind. Intentional skip.
 
-**Repo-wide audit state.** 16 files, 0 errors, 9 warnings.
-All nine are documented as intentional skips above. Items 6
-through 9 carry over from previous sessions (four in the
-framing-reading labels-list table, one for the diaspora
-extended-prose definition, one for the bare `rhythm` inside
-the compound `rhythm section` on the Tharpe Track 2 page,
-one for the `dominant` false positive on Track 4). Items 10
-and 11 are new this session: the `beyonce` page-subject false
-positive on the Track 5 listening guide, and the `second-line`
-ordinary-English-usage false positive on the Track 1 listening
-guide. The `module1/index.html` and `module2/index.html`
-landing pages are explicitly out of scope for missed-gloss
-flagging because landing pages are navigational summaries;
-this is formalized in the README's "Where glossings do not
-go" section.
+The Module 3 framing reading shipped this session contributed
+11 new intentional skips, all in already-recognized categories:
+
+12. *`tico-records`, `fania-records`, `decca`, `dancehall`,
+    `tex-mex` in `module3/roots-and-routes.html`'s labels
+    table.* Five table-cell warnings, same skip pattern as
+    Module 2's labels-table cells (item 6 above): the cells
+    are narrow and the dotted-underline gloss button rendered
+    awkwardly across the inter-word space. All five terms are
+    glossed in regular prose elsewhere on the framing reading
+    or in adjacent pages.
+
+13. *`trap` (key: trap-music) in
+    `module3/roots-and-routes.html`'s opening paragraph and
+    Section 6 Bad Bunny mention.* The framing reading buttons
+    Latin trap explicitly with the `latin-trap` key at first
+    mention in the opening paragraph; subsequent prose uses of
+    the bare word "trap" point to the same family of music
+    but the second mention is intentionally not buttoned per
+    the one-button-per-page convention.
+
+14. *`waltz`, `rhythm`, `rhythm-section` in
+    `module3/roots-and-routes.html`.* Three too-basic / false-
+    positive skips. `waltz` appears in the Mexican-substrate
+    paragraph in compound contexts ("polkas and waltzes")
+    where the audit's word-boundary regex matches but the
+    word is doing ordinary-English work and is not a music-
+    theory pedagogical target on this page. `rhythm` and
+    `rhythm-section` similarly appear in compound or generic-
+    English uses ("rhythmic patterns," "rhythm section
+    practice") where the bare-word match is a false positive.
+    Same family as the `dominant` false positive on Module 2
+    Track 4 (item 9) and the bare `rhythm` false positive on
+    Module 2 Track 2 Tharpe (item 8).
+
+**Repo-wide audit state.** 17 files, 0 errors, 20 warnings.
+All twenty are documented as intentional skips above. The 9
+Module 1 + Module 2 skips (items 6 through 11) carry over
+unchanged. The 11 new warnings from Module 3 are documented
+in items 12, 13, and 14, all in already-recognized intentional-
+skip categories (table-cell skips, second-mention skips, too-
+basic / compound-usage false positives). The
+`module1/index.html`, `module2/index.html`, and (when built)
+`module3/index.html` landing pages are explicitly out of scope
+for missed-gloss flagging because landing pages are
+navigational summaries; this is formalized in the README's
+"Where glossings do not go" section.
+
+**Audit-script future improvement.** The HTML-encoding bug
+discovered this session (27 entries with `<em>` tags or
+HTML entities or one `<a>` tag inside their definition strings,
+all rendering as literal characters via the loader's
+`textContent` injection) was a year-old carryover from the
+original Module 1 build. The bug survived multiple audit passes
+because `scripts/check-glossings.js` checks for missed gloss
+buttons but does not validate the contents of definition
+strings against the textContent constraint. Worth adding a
+definition-content check to the audit script in a future pass:
+flag any definition string containing `<` or `>` characters,
+or HTML entities like `&amp;`, `&lt;`, `&gt;`. Would catch this
+category of bug at audit time rather than relying on Inés
+spotting raw characters in a popup.
 
 **Syllabus revisions, if any.** Not flagged yet.
 
@@ -795,6 +1015,19 @@ reason. They are documented in more detail in the README's
   (`roots-and-routes.html`), not just a shorter framing on the
   landing page. Subsequent modules' need for full readings is
   still open per module.
+- Module 3 anchor tracks: five, in chronological order.
+  Tito Puente "Oye Como Va" (1962/63), Joe Bataan "Gypsy
+  Woman" (1967), Santana "Oye Como Va" (1970), Selena "Bidi
+  Bidi Bom Bom" (1994), Tego Calderón "Pa' Que Retozen" (2002).
+  Salsa is not anchored in Module 3 because Module 1's
+  Cruz/Fania track already carries it; the Module 3 framing
+  reading cross-references back to that Module 1 track.
+- Module 3 opens with a full framing reading
+  (`module3/roots-and-routes.html`), not just a shorter framing
+  on the landing page. The territory (Cuban + Puerto Rican +
+  Mexican + Dominican + Panamanian + Colombian) is dispersed
+  enough to earn the longer treatment. Title: "Many Roots,
+  Shared Routes."
 - Indigenous artist in framing reading: Jim Pepper, not
   Buffy Sainte-Marie.
 - Final project: 18-20 slides, up to 3 media slides, video
@@ -806,20 +1039,32 @@ reason. They are documented in more detail in the README's
   sourcing rule for the assistant (every claim grounded in
   at least one source), free quotation rule (multiple quotes
   per source fine, no hard length ceiling).
+- Glossary content constraint: definitions are plain text
+  only, no HTML tags, no `<a>` links, no entities. The loader
+  injects via `.textContent`. Documented in the header
+  comment of `assets/glossary-data.js` and enforced manually
+  during writing pending an audit-script enhancement.
+- Labels-table CSS modifier: `.schedule.labels-table`
+  introduced in commit `4bc3685` for the Module 2 and Module 3
+  record-labels tables. Splits city/dates onto a metadata line
+  (`<span class="meta">`) below the label name, drops `nowrap`
+  on the first column, caps it at `max-width: 14rem`. The
+  syllabus schedule table stays on the bare `.schedule` class
+  with its original `nowrap` first-column behavior.
 - Visual identity: cool slate type, cool blue links, warm
   cream background, warm rust glossings (#7a4a3a). Locked.
 
 ## Decisions still open
 
-- Module 3 through 5 anchor track selection. Each module
+- Modules 4 and 5 anchor track selection. Each module
   needs its own short list, ideally previewed by the artists
   named in the framing reading where they overlap.
 - Module 6 anchor track selection beyond the two contemporary
   tracks (Lamar, Bad Bunny). Indigenous and queer liberation
   threads need their own anchor tracks.
-- Whether each subsequent module needs a methodology-style
-  reading of its own. Module 2 has one; whether Modules 3, 4, 5
-  need full readings or shorter framing on the landing page is
+- Whether Modules 4 and 5 need full framing readings of their
+  own. Modules 2 and 3 each have one; whether 4 and 5 need
+  full readings or shorter framing on the landing page is
   module-by-module. Default assumption stays: shorter framing
   on the landing page unless there's a reason for a full reading.
 - Aretha Franklin placement (see "What is pending").
