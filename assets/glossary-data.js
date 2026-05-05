@@ -2223,6 +2223,11 @@ var GLOSSARY = {
   "clave": {
     label: "Clave",
     definition: "The five-stroke rhythmic pattern, distributed across two bars, that anchors most Cuban dance music and the salsa genre that grew out of it. The two halves of the pattern are not symmetrical: a 3-2 clave puts three strokes in the first bar and two in the second, while a 2-3 clave reverses the order. Salsa arrangers organize an entire ensemble around the clave, with each instrument\u2019s pattern locking against it. Cumbia, Selena\u2019s rhythmic foundation on \u201cBidi Bidi Bom Bom,\u201d is a Colombian rather than Cuban tradition and is not built on clave; the cumbia walking groove and the g\u00fciro scrape do the structural work that clave does in salsa."
+  },
+
+  "polka": {
+    label: "Polka",
+    definition: "A fast couples dance and music genre in 2/4 meter, with three quick steps and a hop, that originated among Czech peasants in Bohemia (now part of the Czech Republic) in the early 1830s. The name probably comes from the Czech p\u016flka, meaning \u201chalf-step,\u201d referring to the dance\u2019s short, half-tempo footwork. By 1840 polka had reached the ballrooms of Prague, Vienna, and Paris and set off the international fashion known at the time as \u201cpolkamania,\u201d sweeping through European court and concert music (Strauss, Lanner, Smetana, Dvo\u0159\u00e1k all wrote polkas) and across the Atlantic with European emigration. In the second half of the nineteenth century, German, Czech, and Polish immigrants brought the polka, the waltz, the schottische, and the diatonic button accordion to central Texas, the Texas-Mexico borderland, and northern Mexico. There the polka rhythm and the accordion fused with Mexican song traditions in the music that became conjunto, norte\u00f1o, and Tejano: the \u201coom-pah-pah\u201d substrate that runs underneath \u201cBidi Bidi Bom Bom\u201d and the rest of the Tejano cumbia tradition is descended directly from this nineteenth-century European-immigrant transmission."
   }
 
 };
