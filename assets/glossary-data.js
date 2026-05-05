@@ -2030,6 +2030,11 @@ var GLOSSARY = {
     definition: "Puerto Rican-born pianist, singer, and bandleader (born 1932) whose 1967 single \u201cI Like It Like That\u201d became one of the genre-defining boogaloo recordings. Rodriguez\u2019s career was almost entirely confined to the boogaloo era; unlike most of his contemporaries he did not move on to salsa when the boogaloo wave passed. The 2015 documentary We Like It Like That takes its title from his hit."
   },
 
+  "king-nando": {
+    label: "King Nando",
+    definition: "Stage name of Fernando Rivera (1945-2008), Puerto Rican-American boogaloo bandleader and songwriter active in New York from the mid-1960s through the early 1970s. His mid-1960s hit \u201cFortuna\u201d had international reach, and his three boogaloo LPs (Shing-A-Ling With King Nando and His Orchestra, El Solitario, and Unpredictable Sounds) document the genre\u2019s peak. King Nando is widely quoted across the literature on boogaloo\u2019s end describing the industry-wide shutout that killed the genre when the young bands tried to organize for better pay and top billing."
+  },
+
   "the-impressions": {
     label: "the Impressions",
     definition: "Chicago vocal group, originally founded in 1958 as the Roosters by Sam Gooden, Richard Brooks, and Arthur Brooks, which by the early 1960s had become the trio of Curtis Mayfield, Sam Gooden, and Fred Cash. Recording for ABC-Paramount, the Impressions had a string of hits in the 1960s including \u201cGypsy Woman\u201d (1961), \u201cIt\u2019s All Right\u201d (1963), \u201cKeep On Pushing\u201d (1964), \u201cPeople Get Ready\u201d (1965), and \u201cWe\u2019re a Winner\u201d (1968). Mayfield\u2019s songwriting for the group made the Impressions one of the central voices of soul music\u2019s civil rights moment."
