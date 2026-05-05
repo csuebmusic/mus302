@@ -6,195 +6,208 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of a Module 3 Track 1 build session that
-shipped the Tito Puente "Oye Como Va" listening guide (the
-module's natural-next-step item per the previous STATUS) along
-with fifteen new glossary entries supporting it, retroactive
-button additions on the framing reading, a small dating fix
-on the existing tito-puente glossary entry, and one launch-
-queue update for the Track 1 hero photo. The framing reading's
-nav footer now resolves to a real page rather than 404.
+Last updated: end of a Module 3 Track 2 build session that
+shipped the Joe Bataan "Gypsy Woman" listening guide, fourteen
+new glossary entries supporting it, retroactive trombone and
+conga first-mention buttons on Module 3 Track 1 and (for
+trombone) Module 2 Track 3 Brown, and a factual correction to
+the Module 3 framing reading's Track 2 preview paragraph that
+fixed the Bataan parentage line and added the cross-link to
+the new listening guide. The framing-reading nav footer's
+forward link now resolves to a real page.
 
-The Track 1 listening guide (`module3/track1-puente.html`)
-follows the established Module 2 envelope (104-117 lines;
-Track 1 lands at 111). Four-section context: (1) Puente before
-the song, covering Spanish Harlem, the Machito break when their
-drummer was drafted, the Navy years on USS Santee, the Spivak
-friendship and Juilliard study on the GI Bill, the Piccadilly
-Boys / Tito Puente Orchestra origin, and the 1949 Tico debut
-"Abaniquito"; (2) the Palladium era as the institutional context
-where Cuban music and Puerto Rican musicians met, with Sublette's
-"New York music with a Cuban substrate" framing and the 1962
-embargo / 1966 Palladium-closing as the moment the live Cuban
-supply line cut off; (3) the recording itself at the Hotel
-Riverside Plaza Ballroom, produced by Teddy Reig, with the full
-twenty-musician personnel from the album sleeve plus reissue
-notes (Pacheco on flute, Legarreta on violin, Barry Rogers on
-trombone, Bobby Rodríguez on bass, Mangual Sr. on bongos,
-Cadavieco on congas, Santos Colón and Rudy Calzado on lead and
-chorus, Yayo el Indio and Chirivico Dávila completing the
-chorus), the Cachao "Chanchullo" debt documented by Salazar
-and Ginell, the cha-cha-chá-at-the-end-of-the-cha-cha-chá-era
-framing, and an explicit honest gloss on the "mulata" lyric;
-(4) reception and afterlife, including the modest 1962-63 NY
-dance-floor success, Puente's anger at the 1971 Santana cover
-and his subsequent gratitude after the royalty checks arrived,
-and the published Mambo Birdland tribute language that the
-guide can quote because it was given on a recording. Four
-"Things to listen for" prompts: (1) timbre of charanga
-instruments (Pacheco's wooden five-key flute, Legarreta's
-violin) over a brass section, with cross-track comparison to
-the Fania All-Stars behind Cruz; (2) texture of layered
-rhythm-section / horn-section relationship, with cross-track
-comparison to the single-vamp funk texture of Brown's "Say It
-Loud"; (3) form as a single vamp with a surprise false ending,
-arguing that the song's vamp-form is part of why it traveled so
-well into rock, funk, and hip hop loop-based forms; (4) the
-central rhythmic figure, parsing the piano tumbao's 2-3-2-4-2-3
-eighth-note groupings (per Ethan Hein's analysis) and the
-mismatch between the dancer's grid and the piano's grid. The
-reflective question asks students to listen to the 1962 recording
-on its own terms (before hearing Santana's cover, which Track 3
-will work through) and pick a moment to argue from about what a
-1971 rock arrangement would have to make decisions about.
+The Track 2 listening guide (`module3/track2-bataan.html`)
+follows the established Module 2/Module 3 envelope (106 lines).
+Four-section context: (1) Bataan before the song, covering his
+parents (Filipino father from Manila, African American mother
+from Newport News, Virginia), the family's rarity in mostly-
+Puerto-Rican East Harlem, his bilingual upbringing, his time as
+president of the Puerto Rican Dragons gang, the Coxsackie
+sentence at fifteen, and the Latin Swingers' formation as a
+band of neighborhood teenagers in 1965-66 with the apocryphal
+knife-in-the-piano leadership story; (2) what boogaloo was,
+covering the 1966 Palladium closing and the cabaret-license
+mechanism, Joe Cuba's "Bang Bang" as the genre's million-
+selling first hit, Pete Rodriguez's "I Like It Like That,"
+the bicultural English-Spanish formula, and the older-
+generation reaction (Tito Puente specifically called the
+boogaloo bands inadequate; Mathew Ramirez Warren's documentary
+quotes the establishment's "you're bastardizing our sound,
+you're making it black" framing); (3) the recording, covering
+Fania's 1964 founding by Pacheco and Masucci, Pacheco
+spotting the Latin Swingers at Colgate Gardens, the deal that
+moved the album from Al Santiago's Futura label to Fania, the
+single-day-session origin documented by the Apple Music
+liner-note context, the personnel (Bataan on piano and English
+vocals, Joe Pagan on Spanish vocals, Fuente and Hernandez on
+trombone, Devis on bass, Gonzalez on conga, Nater on timbales,
+Cortez on bell), the 1961 Mayfield original (ABC-Paramount,
+written when Mayfield was around fourteen, doo-wop with
+castanets and the "Spanish flair" the period press reviews
+named, No. 2 R&B / No. 20 Hot 100), and Oliver Wang's
+Pitchfork analysis of how Bataan rebuilt the song around a
+piano montuno and a "she smokes hot, hot, she smokes" chorus
+shout; (4) reception and afterlife, covering the New York
+Latin market's reception, the eight Fania albums between 1967
+and 1972, the rapid demise of boogaloo by 1969-70, the
+We Like It Like That conga player Nando's account of an
+industry-wide shutout, the 1973 break with Fania, the founding
+of Salsoul Records, the 1979 "Rap-O Clap-O" single (one of the
+earliest commercially released raps, top-ten across Europe),
+the 1980s youth-counselor work at the Bridges Juvenile Center
+in the Bronx, and the 2000s revival. Four "Things to listen
+for" prompts: (1) timbre of Bataan's smooth doo-wop-trained
+voice against the brassy two-trombone front line, with cross-
+track comparison to Cooke's gospel-trained voice in Module 1;
+(2) texture of the nine-musician boogaloo band layered in
+roughly four strands (rhythm section, two trombones, lead
+vocal, chorus), with cross-track comparison to the Fania
+All-Stars at full 1974 mature size behind Cruz; (3) form as
+the alternation between pop-soul verse and double-time
+boogaloo-handclap break, contrasting with Track 1's single-
+vamp form; (4) the bilingual moment, parsing the English lead
+vocal against the Spanish chorus interjection, what
+codeswitching does politically inside a US dance-floor
+record, and the irony that the same Pacheco who produced this
+bilingual recording in 1967 would be a few years later one of
+the architects of the Spanish-only salsa boom that pushed
+boogaloo off the radio. The reflective question pushes
+students to argue from a specific moment in the recording
+about how the multiply-mixed identity of the musicians (Bataan
+not Puerto Rican by parentage, but his band of teenage Puerto
+Rican neighborhood kids putting an English-language Mayfield
+song through a Cuban-rhythm filter on Fania's brand-new gold
+label) actually maps to the categories the course uses.
 
-Key factual care during drafting: two memory-fed claims caught
-and revised before shipping. (1) An Allan Kozinn New York Times
-"relatively minor hit at the time of its release" quote that I
-could not directly source was removed and replaced with the
-Ginell "throwaway" framing (which is documented in the
-uDiscoverMusic source). (2) A Robin Moore attribution about
-choral-tandem cha-cha-chá refrains being old-fashioned by 1962,
-which I could not source to Moore specifically, was reworked
-into a defensible synthesis claim drawn from the Sublette and
-Palladium-era timeline material. The Sublette framing of the
-NY mambo era as a "New York music whose Caribbean substrate
-was, at that historical moment, mostly Cuban" is a real
-argument from his 2004 book and is correctly attributed.
+Hero photo decision: Inés sent the iconic 1979 Rap-O Clap-O
+publicity image (Bataan smiling in suspenders and a hand-
+painted t-shirt against a bright orange background, snapping
+his fingers). The image is twelve years after the 1967
+recording the listening guide covers, in the same designed-
+publicity-image rather than candid-editorial-photo category as
+the Module 3 Track 1 Mambo Gozón cover-art image. The
+figcaption transparently dates it 1979, credits it to Salsoul
+Records / Bataan Music, names the image-rights flag, and uses
+the chronological mismatch deliberately, the way the Track 1
+figcaption did with the Mambo Gozón cover, to point students
+at where Bataan's career goes after the Gypsy Woman album
+(through Salsoul to one of the first commercial rap
+recordings). The Red Bull Music Academy 2006 Bataan lecture
+documents the t-shirt's hand-made origin (he bought a black
+shirt for $3, painted on a disco-roller-skater graphic, added
+a fake diamond and gold star, paired it with red suspenders
+borrowed for a European Rap-O Clap-O tour); the page does
+not narrate that backstory in body prose but cites the lecture
+in the Sources section so the figcaption's claims are
+sourceable.
 
-Glossary expansion: 15 new entries added in a `Module 3 Track
-1: Tito Puente and "Oye Como Va"` section at the end of
-`assets/glossary-data.js`. The entries are: palladium-ballroom
-(the 1947-1966 ballroom and its racial-ethnic mixing); charanga
-(the Cuban flute-violin dance-band format); arsenio-rodriguez
-(Cuban tres player and bandleader, 1911-1970, the conjunto
-innovator); ned-sublette (the musicologist whose framing the
-Track 1 page draws on); el-rey-bravo (the 1962 Tico LP); cachao
-(Israel "Cachao" López, the Cuban bassist whose "Chanchullo"
-is the source of the piano figure); johnny-pacheco (Dominican
-flutist on the recording, future Fania co-founder); dorian-mode
-(the modal framework of the song); ostinato (the repeating
-musical figure); the-pocket (musicians' vocabulary for the
-locked-in groove); ethan-hein (the music theorist whose
-analysis the Track 1 page draws on); horn-section (trumpets,
-trombones, saxophones together); vibraphone (one of Puente's
-instruments); timbales (Puente's main instrument); mulata
-(loaded Spanish term, given an honest treatment in the
-recording paragraph). Glossary count went from 348 (end of
-last session, which had reported 347 but the file was 348)
-to 363 with the Track 1 additions.
+Key factual correction this session, on the framing reading
+rather than the new Track 2 page. The Module 3 framing
+reading's Track 2 preview paragraph previously called Bataan
+"Afro-Filipino-Puerto Rican" and "Black-Filipino-Puerto Rican."
+Every primary source (Wikipedia, the Bronx African American
+History Project 2006 oral history, the Joe Bataan official
+website biography, the LA Phil biography, the uDiscoverMusic
+review, the Far Out Magazine profile, the Pitchfork review,
+the Red Bull Music Academy lecture) agrees: his parents are
+Filipino (father Marcial Nitollano, from Manila) and African
+American (mother from Newport News, Virginia). He is not
+Puerto Rican by parentage. He is Puerto Rican-formed by
+upbringing: he grew up in mostly-Puerto-Rican East Harlem,
+was president of the (Puerto Rican) Dragons gang at fifteen,
+and learned Spanish from his Puerto Rican playmates at school.
+Module 1's `cultural-roots.html` ("Joe Bataan is Filipino and
+Black, raised in Spanish Harlem") and the existing
+`joe-bataan` glossary entry ("Filipino and African American
+heritage, raised in Spanish Harlem") both have this right;
+only the Module 3 framing reading carried the error. The
+corrected paragraph now reads: "a Filipino and African
+American singer who grew up in Spanish Harlem, formed in a
+Puerto Rican cultural setting, and covered Curtis Mayfield's
+1961 R&B hit." The "Bataan's own complicated identity (Black-
+Filipino-Puerto Rican)" parenthetical has been rewritten to
+"Bataan's own multiply-mixed identity (Filipino, Black, raised
+inside a Puerto Rican neighborhood)." The framing reading's
+first prose mention of "Joe Bataan" now carries the
+glossable button per the established convention, and the song
+title "Gypsy Woman" is now linked to the new listening guide
+per the cross-linking convention.
 
-The existing `tito-puente` glossary entry had its dating
-corrected from "His 1963 composition" to "His 1962 composition,"
-matching what Craft Recordings (the reissue label) and Wikipedia
-both document. The framing reading's What's-coming preview also
-had its dating hedged from "1962/63" to a clean "1962" for the
-same reason. Per the cross-linking convention, the framing
-reading's first prose mention of "Oye Como Va" in the Track 1
-preview is now linked to track1-puente.html.
+Glossary expansion: 14 new entries added in a `Module 3 Track
+2: Joe Bataan and "Gypsy Woman"` section at the end of
+`assets/glossary-data.js`. The entries are: frankie-lymon
+(the doo-wop teen idol Bataan grew up listening to);
+dragons-gang (the Puerto Rican East Harlem street gang Bataan
+led at fifteen); coxsackie (the upstate New York correctional
+facility where Bataan served roughly five years); latin-
+swingers (Bataan's first band, formed 1965-66); tropicoro-
+ballroom (the Bronx venue where the band gigged before being
+signed); joe-cuba (the Puerto Rican-born conga player and
+boogaloo godfather, "Bang Bang" 1966); pete-rodriguez (the
+Puerto Rican pianist whose "I Like It Like That" gave the
+2015 documentary its title); the-impressions (Curtis
+Mayfield's Chicago vocal group, 1958 onward, the original
+"Gypsy Woman" 1961); jerry-masucci (the Italian-American
+lawyer who co-founded Fania with Pacheco); salsoul-records
+(the 1974 NY label Bataan helped name and co-found before
+selling out his interest); rap-o-clap-o (Bataan's 1979
+disco-rap single, top-ten across Europe); conga (the Cuban
+hand drum); trombone (the brass instrument with a slide);
+nuyorican (the term, originally a slur, for NY-born Puerto
+Ricans of the post-1945 generation, reclaimed in the 1970s).
+Glossary count went from 363 to 377.
 
-Retroactive glossings on the framing reading: the new
-palladium-ballroom entry caused a missed-gloss warning at the
-framing reading's first body-prose mention of the Palladium
-("The mambo era at the Palladium Ballroom in midtown
-Manhattan..."), resolved with a first-mention button. The
-johnny-pacheco and charanga new entries also cause missed-
-gloss warnings on the framing reading, but both first
-appearances on the page are inside the labels-table cells; per
-the established intentional-skip pattern (STATUS item 12; the
-dotted-underline gloss button renders awkwardly inside narrow
-table cells), they are not buttoned in the table and the only
-prose mentions are buttoned on the Track 1 page itself.
-Documented as intentional skips below.
+Retroactive button additions on existing pages, caused by the
+new conga, trombone, and joe-bataan entries hitting first
+prose mentions that had not been glossed because the entries
+didn't exist yet at the time of writing. Three patches:
+- `module3/track1-puente.html`: trombone in the personnel
+  sentence ("one trombone (Barry Rogers...)") and conga in
+  the rhythmic-figure paragraph ("the conga's tumbao").
+- `module2/track3-brown.html`: trombone in the Wesley
+  sentence ("Wesley played trombone").
+- `module3/roots-and-routes.html`: joe-bataan first-mention
+  button in the Track 2 preview paragraph (alongside the
+  parentage correction described above).
 
 Cross-page checks ran clean: the framing-reading nav footer
-now resolves to a real page, the Track 1 page nav links
-correctly back to roots-and-routes.html and forward to the
-not-yet-built track2-bataan.html (will 404 until Track 2
-ships, parallel to how the framing reading 404'd to
-track1-puente.html until this session); BPM cross-references
-match (Cruz "Quimbara" 120, Puente "Oye Como Va" 124, both in
-the bright midtempo cha-cha-chá / salsa range); no body-prose
-em dashes outside the title and nav label per convention; HTML
-tags balanced; no button-inside-anchor structures (the
-listening guide uses the established pattern of pulling the
-gloss button outside the cross-reference link, e.g.,
-"single-vamp <button>funk</button> texture behind <a>James
-Brown's 'Say It Loud'</a>" rather than wrapping the button
-inside the link).
+now resolves to two real pages (Track 1 already, and Track 2
+shipped this session); the Track 1 page nav links forward to
+Track 2 which now resolves; the Track 2 page nav links forward
+to the not-yet-built track3-santana.html (will 404 until
+Track 3 ships, parallel to how Track 1 404'd to Track 2 until
+this session); BPM cross-references match (Cruz "Quimbara"
+120, Puente "Oye Como Va" 124, Bataan "Gypsy Woman" 136, all
+in the same dance-floor range with the boogaloo recording
+fastest); no body-prose em dashes outside the title and nav
+labels per convention; HTML tags balanced; no button-inside-
+anchor structures (the framing reading's preview paragraph
+keeps the gloss button on the artist name and the cross-link
+on the song title rather than nesting them); glossary file
+checked clean for the documented HTML-encoding-in-definitions
+bug from previous sessions.
 
-Audit baseline: 18 files, 0 errors, 27 warnings. Up from 17
-files / 0 errors / 20 warnings at end of last session. The
-seven new warnings break down as: three on the new Track 1
-page (the bare "rhythm" false-positive in compound use, the
-"tenor" false-positive matching inside "tenor saxophone," and
-the page-subject "Tito Puente" inside the YouTube video card,
-all in already-recognized intentional-skip families); two on
-the framing reading from the new charanga and johnny-pacheco
-entries hitting labels-table cells (already-recognized
-table-cell skip family); and zero net new from palladium-
-ballroom (the body-prose retroactive button kept it from
-flagging). All 27 warnings are documented intentional skips.
+Audit baseline: 19 files, 0 errors, 35 warnings. Up from 18
+files / 0 errors / 27 warnings at end of last session. The 8
+new warnings break down as: 4 documented intentional skips on
+the new Track 2 page (the bare "rhythm" false-positive from
+the documented compound/bare false-clearing pattern with
+"rhythm-section" already buttoned, the page-subject "Joe
+Bataan" inside the YouTube video card matching the Track 1
+Puente and Track 5 Beyoncé cases, the "horn" false-positive
+in compound use ("the horn work"), and the "MC" abbreviation
+in "the MC mistaking the name and announcing him as Joe
+Batman"); and 4 new framing-reading table-cell skips from
+the new joe-cuba and jerry-masucci entries, both first
+appearances inside the labels-table cells where the
+established intentional-skip family covers them. All 35
+warnings are documented intentional skips.
 
-Two post-shipping patches in this session after the main
-Track 1 commit. (1) Hero photo dropped in (commit `addffb1`):
-Inés sent the cover art for Grosso! Recordings' Italian
-reissue compilation `Mambo Gozón: Roots of Salsa - The RCA
-Years 1949-1960`, a designed collage of three RCA-era
-promotional photos of Puente at the timbales on yellow /
-orange / red circles. The image sits in a slightly different
-image-rights category from the other Module 1, 2, and 3 hero
-photos (it is a designed album cover from a named reissue
-label rather than a Getty editorial photograph), so the
-figcaption credits Grosso! Recordings explicitly and notes
-that the actual recording, "Oye Como Va," is from the 1962
-Tico LP `El Rey Bravo` rather than from this RCA-era
-compilation. The slight chronological / label slippage between
-the cover-art visual anchor and the recording was deliberate;
-the cover is unusually iconic as a portrait of Puente in his
-early-career timbales prime, and the listening-guide prose is
-clear about the actual recording. STATUS image-rights queue
-item 3 was updated to reflect Grosso! Recordings as the entity
-to contact for explicit clearance before launch. The original
-draft figcaption (Michael Ochs Archives / Getty editorial
-photo) was rewritten to match the actual source, and the alt
-text was rewritten to describe the triptych collage rather
-than the single-photograph framing the previous draft had
-assumed. (2) Mambo gloss patch (commit `2bae7f6`): Inés
-caught on a fresh-eyes reading that the bare `mambo` genre
-was not glossed on the Track 1 page despite appearing five
-times in body prose, including at first prose mention in the
-Cuban-forms list ("mambo, cha-cha-chá, son, rumba") where the
-other three were buttoned. The audit had cleared the miss
-because the longer compound key `mambo-section` was buttoned
-in the form prompt, and the once-buttoned-anywhere-on-page
-logic treats that as covering bare `mambo` too. Same pattern
-as the documented Module 2 Tharpe rhythm/rhythm-section
-false-clearing case (housekeeping item 8). The patch added
-the missing first-mention button. STATUS.md gained a second
-"Audit-script future improvement" note documenting the
-compound/bare false-clearing pattern as a recurring blind
-spot worth fixing in `scripts/check-glossings.js` so it does
-not recur on Tracks 2 through 5 or Modules 4 through 6.
-
-Final repo state at session close: 18 files, 0 errors, 27
-documented intentional-skip warnings (unchanged by the two
-patches; the mambo button addition resolved a real miss the
-audit had not caught and so does not change the warning count).
-Glossary count: 363. Track 1 (`module3/track1-puente.html`)
-is shipped with hero photo and full gloss coverage; the page
-nav footer links forward to `track2-bataan.html`, which 404s
-until built.
+Final repo state at session close: 19 files, 0 errors, 35
+documented intentional-skip warnings. Glossary count: 377.
+Track 2 (`module3/track2-bataan.html`) is shipped with hero
+photo and full gloss coverage; the page nav footer links
+forward to `track3-santana.html`, which 404s until built.
 
 ## Term and dates
 
@@ -723,36 +736,77 @@ reviewed.
 - `module3/track1-puente.html`: full listening guide for Tito
   Puente, "Oye Como Va" (Tico, recorded at the Hotel Riverside
   Plaza Ballroom in Manhattan, produced by Teddy Reig, released
-  on the LP El Rey Bravo in 1962). Shipped this session.
-  Detailed in the Last-updated header at the top of this file.
-  111 lines, within the Module 2 envelope (104-117). Hero
-  photo flagged for image-rights verification before launch
-  (Michael Ochs Archives / Getty editorial photo of Puente at
-  timbales c. early 1960s, same defensible-educational-use
-  category as the other hero photos). Cross-links forward to
-  track3-santana.html (the Santana cover, eight years later)
-  and backward to Module 1's Cruz/Fania track (texture
-  comparison) and Module 2's Brown / "Say It Loud" (single-
-  vamp form comparison). The framing reading's first prose
-  mention of "Oye Como Va" is now linked here. The existing
-  `tito-puente` glossary entry had its dating corrected from
-  1963 to 1962 to match the El Rey Bravo LP release year.
+  on the LP El Rey Bravo in 1962). 111 lines, within the Module
+  2 envelope (104-117). Hero photo flagged for image-rights
+  verification before launch (the Mambo Gozón cover-art collage
+  from Grosso! Recordings, slightly outside the Getty-editorial
+  category most of the other hero photos sit in). Cross-links
+  forward to track3-santana.html (the Santana cover, eight
+  years later) and backward to Module 1's Cruz/Fania track
+  (texture comparison) and Module 2's Brown / "Say It Loud"
+  (single-vamp form comparison). Two retroactive button
+  additions this session, caused by the new conga and trombone
+  glossary entries hitting first prose mentions on the page
+  that had not been glossed because the entries didn't exist
+  at the time of the original Track 1 ship: trombone in the
+  personnel sentence, conga in the rhythmic-figure paragraph.
+  The framing reading's first prose mention of "Oye Como Va"
+  is linked here.
+- `module3/track2-bataan.html`: full listening guide for Joe
+  Bataan, "Gypsy Woman" (Fania, 1967, produced and musical-
+  directed by Johnny Pacheco, recorded in a single day-long
+  session by Bataan with the Latin Swingers). Shipped this
+  session. Detailed in the Last-updated header at the top of
+  this file. 106 lines, within the Module 2/3 envelope. Hero
+  photo is the iconic 1979 Rap-O Clap-O publicity image Inés
+  sent, treated transparently in the same designed-publicity-
+  image category as the Module 3 Track 1 cover-art photo;
+  flagged for image-rights verification (Salsoul Records /
+  Bataan Music) before launch. Cross-links: forward to
+  track3-santana.html (the Latin rock node coming next);
+  backward to Module 1 Track 1 Cooke (timbre comparison of
+  doo-wop-trained vs. gospel-trained voices); backward to
+  Module 1 Track 2 Cruz/Fania-All-Stars (texture comparison
+  between the 1967 startup-Fania boogaloo band and the 1974
+  mature-Fania orchestra); backward to Module 3 Track 1
+  Puente (form comparison between alternating verse-and-break
+  vs. single vamp). Reflective question pushes students to
+  argue from a specific moment about how the multiply-mixed
+  identities of the musicians (Bataan not Puerto Rican by
+  parentage, his band of teenage Puerto Rican neighborhood
+  kids putting an English-language Mayfield song through a
+  Cuban-rhythm filter on Pacheco's brand-new gold label) map
+  to the categories the course uses. The framing reading's
+  first prose mention of "Gypsy Woman" is linked here, and
+  the framing reading's Track 2 preview paragraph received a
+  factual correction this session: the "Afro-Filipino-Puerto
+  Rican" line was wrong (Bataan's parents are Filipino and
+  African American; the Puerto Rican formation is cultural, not
+  parental), and is now corrected to match what Module 1's
+  cultural-roots.html and the existing joe-bataan glossary
+  entry both already had right.
 - Module 3 has not yet shipped: the landing page
-  (`module3/index.html`); the four remaining listening guides
-  (`module3/track2-bataan.html`, `module3/track3-santana.html`,
-  `module3/track4-selena.html`, `module3/track5-tego.html`);
-  the discussion (`module3/discussion.md`) and the checkpoint
-  quiz (`module3/quiz.md`). The Track 1 nav footer points to
-  `track2-bataan.html`, which currently 404s; building the
-  Joe Bataan "Gypsy Woman" Track 2 guide is the natural next
-  step.
-- Glossary expansion across the Module 3 build to date: 55 new
-  entries, of which 40 came in with the framing reading and 15
-  came in with the Track 1 guide this session (palladium-
-  ballroom, charanga, arsenio-rodriguez, ned-sublette, el-rey-
-  bravo, cachao, johnny-pacheco, dorian-mode, ostinato,
-  the-pocket, ethan-hein, horn-section, vibraphone, timbales,
-  mulata). Glossary count: 363, up from 307 at end of Module 2.
+  (`module3/index.html`); the three remaining listening guides
+  (`module3/track3-santana.html`, `module3/track4-selena.html`,
+  `module3/track5-tego.html`); the discussion
+  (`module3/discussion.md`) and the checkpoint quiz
+  (`module3/quiz.md`). The Track 2 nav footer points to
+  `track3-santana.html`, which currently 404s; building the
+  Santana "Oye Como Va" Track 3 guide is the natural next
+  step. Track 3 is structurally interesting because it is the
+  cover-by-an-eight-years-later-Bay-Area-rock-band of the song
+  the Track 1 listening guide already worked through, so much
+  of the conceptual framing is already built; the Track 3 work
+  is mostly close listening on what the Santana arrangement
+  preserves, alters, and loses against the 1962 Tico recording.
+- Glossary expansion across the Module 3 build to date: 69 new
+  entries, of which 40 came in with the framing reading, 15
+  came in with the Track 1 guide, and 14 came in with the
+  Track 2 guide this session (frankie-lymon, dragons-gang,
+  coxsackie, latin-swingers, tropicoro-ballroom, joe-cuba,
+  pete-rodriguez, the-impressions, jerry-masucci,
+  salsoul-records, rap-o-clap-o, conga, trombone, nuyorican).
+  Glossary count: 377, up from 307 at end of Module 2.
 
 **Final project module.** Fully built.
 - `final-project/index.html`: student-facing landing page with
@@ -1122,15 +1176,79 @@ the Track 1 page itself.
     label inside the YouTube card. Same family as Track 5
     Beyoncé video card (item 10). Intentional skip.
 
-**Repo-wide audit state.** 18 files, 0 errors, 27 warnings.
-All twenty-seven are documented as intentional skips above. The
+The Module 3 Track 2 listening guide shipped this session
+contributed 4 new intentional skips on the Track 2 page itself
+plus 2 net-new framing-reading table-cell skips from the new
+`joe-cuba` and `jerry-masucci` entries.
+
+19. *`joe-cuba` and `jerry-masucci` in
+    `module3/roots-and-routes.html`'s labels table.* Two table-
+    cell warnings, same skip pattern as items 6, 12, and 15.
+    The Tico Records row's artists cell lists "Tito Puente,
+    Tito Rodríguez, Joe Cuba Sextet, La Lupe, Eddie Palmieri
+    (early)" and the Fania Records row's description cell
+    mentions "the lawyer Jerry Masucci." Both terms are now
+    glossed in regular prose on the Track 2 listening guide
+    (joe-cuba in the boogaloo-context paragraph, jerry-masucci
+    in the recording paragraph). Inside the labels-table cells
+    the dotted-underline gloss button rendered awkwardly across
+    the inter-word space, so the cells stay unbuttoned.
+
+20. *page subject `joe-bataan` on
+    `module3/track2-bataan.html`'s video-link card.* Same
+    page-subject pattern as items 10 (Beyoncé) and 18 (Puente).
+    Bataan is buttoned at first prose mention in the framing
+    reading and named in body prose throughout the Track 2
+    page; the audit nonetheless flags the `<span class="video-
+    title">` UI label inside the YouTube card. Intentional
+    skip.
+
+21. *bare `rhythm` on `module3/track2-bataan.html`'s texture
+    paragraph.* Same compound/bare false-clearing family as
+    items 8 (Tharpe) and 16 (Puente Track 1). The page buttons
+    `rhythm-section` at first body-prose mention in the texture
+    paragraph ("twenty musicians in three layers (rhythm
+    section, brass...)"), and the audit's once-buttoned-
+    anywhere-on-page logic clears the longer compound key while
+    leaving the bare `rhythm` flagged. The bare-word match is
+    inside the same compound use ("the rhythm section") and is
+    a false positive. Intentional skip; the documented audit-
+    script future improvement (treating each glossary key
+    independently) would resolve this category at audit time.
+
+22. *`horn` (false-positive in compound use) on
+    `module3/track2-bataan.html`'s timbre paragraph.* The
+    `horn` glossary entry defines the jazz/blues/R&B usage of
+    "horn" to mean any wind instrument. The word matches inside
+    "the two unison trombones (Joe 'Chickie' Fuente and Ruben
+    Hernandez) carry most of the horn work" where it is doing
+    the compound-use thing the existing item 7 (`horn` on
+    Module 2 Track 3 Brown) documented. The Track 2 page also
+    has explicit comparisons to "no horn section" textures
+    that further muddy the false-positive. Intentional skip.
+
+23. *`mc` (key: mc) on `module3/track2-bataan.html`'s context
+    paragraph.* The `mc` glossary entry defines the hip hop
+    role of master of ceremonies. The word matches inside "the
+    MC mistaking the name and announcing him as 'Joe Batman'"
+    where it refers to a generic ballroom announcer in 1966,
+    not the hip hop role. Glossing it as the hip hop role would
+    be anachronistic and misleading (hip hop's MC tradition
+    began about a decade later). Same false-positive family as
+    items 9 (`dominant`) and 17 (`tenor`). Intentional skip.
+
+**Repo-wide audit state.** 19 files, 0 errors, 35 warnings.
+All thirty-five are documented as intentional skips above. The
 9 Module 1 + Module 2 skips (items 6 through 11) carry over
 unchanged. Items 12 through 14 (the 11 Module 3 framing-reading
-skips) carry over with one addition: the new `charanga` and
-`johnny-pacheco` table-cell skips, documented above as part of
-item 15. Items 15 through 18 are the 5 net-new skips from this
-session: 2 framing-reading table-cell skips and 3 Track 1
-listening-guide skips. Landing pages
+skips) carry over with the additions documented in item 15
+(`charanga`, `johnny-pacheco`) and item 19 (`joe-cuba`,
+`jerry-masucci`); the framing reading's table-cell skip family
+now stands at 9 entries (5 original + 2 from item 15 + 2 from
+item 19). Items 15 through 18 are the 5 Module 3 Track 1 skips
+from the previous session. Items 19 through 23 are the 6 net-
+new skips from this session: 2 framing-reading table-cell
+skips and 4 Track 2 listening-guide skips. Landing pages
 (`module1/index.html`, `module2/index.html`, and the not-yet-
 built `module3/index.html`) remain explicitly out of scope for
 missed-gloss flagging because landing pages are navigational
