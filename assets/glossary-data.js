@@ -2153,6 +2153,76 @@ var GLOSSARY = {
   "rico-reyes": {
     label: "Rico Reyes",
     definition: "Jos\u00e9 Rico Reyes (1945-2002), American singer and percussionist who was part of the extended Santana band percussion section from roughly 1970 to 1972. Reyes contributed backing vocals and additional percussion on Abraxas (1970, including the Spanish backing vocal on \u201cOye Como Va\u201d and on \u201cEl Nicoya\u201d), then continued through Santana III (1971, where he is credited as a co-writer on \u201cGuajira\u201d) and Caravanserai (1972). Outside the Santana band proper, Reyes also recorded with the Bay Area Latin-rock band Azteca (1972 and 1973) and on the trumpeter Luis Gasca\u2019s 1972 record For Those Who Chant. He returned to Carlos Santana\u2019s working band on the 1992 Milagro album and the 1993 Sacred Fire live record."
+  },
+
+  "lake-jackson": {
+    label: "Lake Jackson, Texas",
+    definition: "A small town in Brazoria County on the Gulf Coast of Texas, southwest of Houston, built in the 1940s as a planned community to house workers at the Dow Chemical complex in nearby Freeport. Selena Quintanilla was born there on April 16, 1971. Her father Abraham Quintanilla Jr. worked at the Dow plant for some years before opening the Tex-Mex restaurant Papa Gayo\u2019s in Lake Jackson in 1980, where Selena and her siblings first performed publicly as a family band. The 1980s oil glut bankrupted the restaurant in 1981 and the Quintanillas moved to Corpus Christi."
+  },
+
+  "corpus-christi": {
+    label: "Corpus Christi, Texas",
+    definition: "A coastal Gulf-of-Mexico city in South Texas, roughly halfway down the Texas coast between Houston and the US-Mexico border. By the late twentieth century the city was around sixty percent Hispanic, with a long-established Mexican American population and a regional center of Tejano music and Tejano-related institutions. The Quintanilla family moved there in 1981 after their Lake Jackson restaurant went bankrupt, and the city became Selena\u2019s home and performance base for the rest of her life. Q-Productions, the Quintanilla family\u2019s recording and management operation, was based in Corpus Christi, and the Selena Museum opened there in 1998 in the former family studio."
+  },
+
+  "abraham-quintanilla": {
+    label: "Abraham Quintanilla Jr.",
+    definition: "American Tejano musician and music industry figure (b. 1939), Selena\u2019s father, manager, and producer of much of the family\u2019s commercial operation. As a young man in the 1950s and 1960s he sang in a Tejano group called Los Dinos. After leaving music for industrial work in the 1970s he turned the next-generation family band, also called Los Dinos, into Selena y Los Dinos and managed Selena\u2019s career through her death. He runs Q-Productions, the company that recorded, managed, and merchandised Selena\u2019s career and continues to control her catalog."
+  },
+
+  "ab-quintanilla": {
+    label: "A.B. Quintanilla III",
+    definition: "American Tejano songwriter, bassist, and producer (b. 1963), Selena\u2019s older brother and the principal music producer behind her commercial peak. As bandleader of Selena y Los Dinos he played bass and wrote or co-wrote most of the songs on Selena\u2019s major albums. He produced Amor Prohibido (1994), the album this listening guide\u2019s track is from, and arranged \u201cBidi Bidi Bom Bom.\u201d After Selena\u2019s death he led the cumbia-pop group A.B. Quintanilla III y los Kumbia Kings into the early 2000s and continues to produce and perform."
+  },
+
+  "pete-astudillo": {
+    label: "Pete Astudillo (b. 1963)",
+    definition: "American Tejano singer, dancer, songwriter, and longtime backup vocalist for Selena y Los Dinos (joined 1988). Astudillo co-wrote many of Selena\u2019s biggest hits with A.B. Quintanilla III, including \u201cComo la Flor\u201d (1992), \u201cAmor Prohibido\u201d (1994), and \u201cBidi Bidi Bom Bom\u201d (1994), winning BMI Songwriter of the Year in 1994. He has described \u201cBidi Bidi Bom Bom\u201d as the only song he ever wrote with Selena directly, helping translate her improvised English-language soundcheck phrases into the Spanish lyric the song was recorded with."
+  },
+
+  "chris-perez": {
+    label: "Chris P\u00e9rez (b. 1969)",
+    definition: "American guitarist, lead guitarist of Selena y Los Dinos from 1990 onward, and Selena\u2019s husband. He and Selena married on April 2, 1992, against her father\u2019s initial objection; her father later accepted the marriage and brought P\u00e9rez back into the band. P\u00e9rez plays the electric guitar parts on Amor Prohibido, including the figure on \u201cBidi Bidi Bom Bom.\u201d After Selena\u2019s death in 1995 he formed the Chris P\u00e9rez Band, which won the 2000 Grammy for Best Latin Rock Album. He published a memoir of his life with Selena, To Selena, With Love, in 2012."
+  },
+
+  "selena-y-los-dinos": {
+    label: "Selena y Los Dinos",
+    definition: "The Tejano band Selena fronted from age nine until her death, named for an earlier 1960s Tejano band of the same name in which her father had played. The 1980s lineup centered on Selena on lead vocals, brother A.B. Quintanilla III on bass, and sister Suzette Quintanilla on drums; subsequent members included keyboardist Ricky Vela, backup vocalist and dancer Pete Astudillo, and from 1990 onward lead guitarist Chris P\u00e9rez (who married Selena in 1992). The band recorded for small regional labels through the 1980s and signed with EMI Latin in 1989."
+  },
+
+  "amor-prohibido": {
+    label: "Amor Prohibido (1994)",
+    definition: "Selena\u2019s fourth studio album, released by EMI Latin on March 13, 1994. Produced by A.B. Quintanilla III and recorded at Manny Guerra\u2019s studio in San Antonio, the album fused Tejano cumbia with synthesizer-rich pop production, rock en espa\u00f1ol guitar work, dancehall and reggae elements, and contemporary R&B vocal practice. Four of its singles topped the Billboard Hot Latin Songs chart (\u201cAmor Prohibido,\u201d \u201cBidi Bidi Bom Bom,\u201d \u201cNo Me Queda M\u00e1s,\u201d \u201cFotos y Recuerdos\u201d), and it became the first Tejano album to reach number one on the Billboard Top Latin Albums chart, where it stayed in the top five for ninety-eight consecutive weeks. It is generally considered Selena\u2019s and her band\u2019s artistic peak."
+  },
+
+  "q-productions": {
+    label: "Q-Productions",
+    definition: "The recording, management, and merchandising operation that Selena\u2019s father Abraham Quintanilla Jr. built around the family\u2019s music business, eventually housed in a state-of-the-art studio in an industrial district of Corpus Christi. The company recorded, promoted, and marketed Selena\u2019s career while she was alive and continues to manage her catalog and likeness today. After Selena\u2019s death in 1995, the studio was converted into the Selena Museum, which opened in 1998 and remains a Corpus Christi tourist destination."
+  },
+
+  "emi-latin": {
+    label: "EMI Latin",
+    definition: "The Latin-music division of the major label EMI Records, founded in 1989 with operations in Los Angeles and Miami. EMI Latin signed Selena in 1989, releasing her self-titled debut that year and her major commercial albums (Ven Conmigo 1990, Entre a Mi Mundo 1992, Selena Live! 1993, Amor Prohibido 1994) through her death in 1995. The label was the major-label infrastructure that scaled Tejano music from a regional Texas-Mexico market into a national and international one, and Selena was its flagship Tejano artist."
+  },
+
+  "onomatopoeia": {
+    label: "Onomatopoeia",
+    definition: "A word or phrase that imitates the sound of the thing it describes, like \u201cbuzz,\u201d \u201cdrip,\u201d \u201cmeow,\u201d or \u201cknock knock.\u201d In song lyrics, onomatopoeic phrases are common in pop and dance music because they cross language boundaries: a syllable like \u201cdoo-wop,\u201d \u201cshoop shoop,\u201d or \u201cbidi bidi bom bom\u201d carries the same meaning to a listener who does not speak the song\u2019s language as to one who does. The title phrase of \u201cBidi Bidi Bom Bom\u201d is onomatopoeia for a heart palpitating with attraction."
+  },
+
+  "guacharaca": {
+    label: "G\u00fciro / guacharaca",
+    definition: "A scraped percussion instrument that gives Latin American dance musics, especially cumbia, their characteristic forward motion. The Cuban g\u00fciro is a hollowed-out gourd with notches carved in one side; the Colombian guacharaca is a longer cane stick with notches. Both are scraped with a stiff brush or a thin metal-tined comb to produce the rasping rhythmic pattern often described as \u201cchu-chu-cu-chu,\u201d running through almost every cumbia recording. On \u201cBidi Bidi Bom Bom\u201d the g\u00fciro scrape is in the foreground throughout, the most consistent rhythmic element on the track."
+  },
+
+  "chord-progression": {
+    label: "Chord progression",
+    definition: "The sequence of chords a song moves through. A chord progression can be very long (a jazz standard might cycle through ten or more distinct chords in a single chorus) or very short (a one-chord vamp, a two-chord ostinato). Songs built on a short repeating chord progression hold an audience\u2019s attention through rhythm, ensemble, and melody rather than through harmonic motion; this is the architecture of much American funk, reggae, and salsa, and of \u201cBidi Bidi Bom Bom,\u201d which sits on the same four-chord I-IV-V-IV cycle from the first downbeat to the last."
+  },
+
+  "clave": {
+    label: "Clave",
+    definition: "The five-stroke rhythmic pattern, distributed across two bars, that anchors most Cuban dance music and the salsa genre that grew out of it. The two halves of the pattern are not symmetrical: a 3-2 clave puts three strokes in the first bar and two in the second, while a 2-3 clave reverses the order. Salsa arrangers organize an entire ensemble around the clave, with each instrument\u2019s pattern locking against it. Cumbia, Selena\u2019s rhythmic foundation on \u201cBidi Bidi Bom Bom,\u201d is a Colombian rather than Cuban tradition and is not built on clave; the cumbia walking groove and the g\u00fciro scrape do the structural work that clave does in salsa."
   }
 
 };
