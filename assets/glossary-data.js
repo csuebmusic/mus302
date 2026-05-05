@@ -2138,6 +2138,16 @@ var GLOSSARY = {
   "wally-heiders": {
     label: "Wally Heider\u2019s Studios",
     definition: "A San Francisco recording studio at 245 Hyde Street, opened by audio engineer Wally Heider in 1969, that became the dominant West Coast studio of the late 1960s and 1970s. The Grateful Dead, Jefferson Airplane, Crosby, Stills, Nash &amp; Young, Creedence Clearwater Revival, and Santana all recorded major albums there. Santana\u2019s Abraxas was recorded at Wally Heider\u2019s from April 17 to May 2, 1970 with producer Fred Catero. The studio was sold in the 1980s and has continued under the name Hyde Street Studios."
+  },
+
+  "jefferson-airplane": {
+    label: "Jefferson Airplane",
+    definition: "American rock band formed in San Francisco in 1965, the first Bay Area band of the 1960s psychedelic-rock generation to achieve international commercial success. The classic 1966-1970 lineup, inducted into the Rock and Roll Hall of Fame in 1996, was Marty Balin (vocals), Paul Kantner (rhythm guitar, vocals), Grace Slick (vocals, keyboards), Jorma Kaukonen (lead guitar, vocals), Jack Casady (bass), and Spencer Dryden (drums). Their 1967 album Surrealistic Pillow, with the Grace Slick-fronted hits \u201cSomebody to Love\u201d and \u201cWhite Rabbit,\u201d was one of the defining recordings of the Summer of Love. The band played Monterey Pop (1967), Woodstock (1969), and Altamont (1969); Bill Graham was their manager during the period that overlaps Santana\u2019s breakthrough."
+  },
+
+  "grateful-dead": {
+    label: "Grateful Dead",
+    definition: "American rock band formed in Palo Alto in 1965, central to San Francisco\u2019s psychedelic and hippie counterculture and to the Haight-Ashbury Summer of Love. The founding members were Jerry Garcia (lead guitar, vocals), Bob Weir (rhythm guitar, vocals), Phil Lesh (bass), Bill Kreutzmann (drums), and Ron \u201cPigpen\u201d McKernan (keyboards, harmonica, vocals). The band came up through the Palo Alto folk and jug-band scene (as Mother McCree\u2019s Uptown Jug Champions, then briefly the Warlocks) before being christened the Grateful Dead in late 1965. Their style fused rock, blues, folk, bluegrass, jazz, and country into long improvisational live performances; the band toured nearly continuously from 1965 until Garcia\u2019s death in 1995, playing more than 2,300 concerts and developing a uniquely devoted touring fan base known as Deadheads. Bill Graham managed the band during the 1969 period that produced the Woodstock-leverage move that put Santana on the festival\u2019s bill."
   }
 
 };
