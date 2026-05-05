@@ -6,15 +6,124 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of a Module 3 Track 2 build session that
-shipped the Joe Bataan "Gypsy Woman" listening guide, fourteen
-new glossary entries supporting it, retroactive trombone and
-conga first-mention buttons on Module 3 Track 1 and (for
-trombone) Module 2 Track 3 Brown, and a factual correction to
-the Module 3 framing reading's Track 2 preview paragraph that
-fixed the Bataan parentage line and added the cross-link to
-the new listening guide. The framing-reading nav footer's
-forward link now resolves to a real page.
+Last updated: end of a Module 3 Track 3 build session that
+shipped the Santana "Oye Como Va" listening guide
+(`module3/track3-santana.html`, 86 lines) with the Tucker
+Ransom Woodstock 1969 hero photo, fourteen new glossary
+entries supporting it (carlos-santana, santana-the-band,
+abraxas-album, latin-rock, mission-district, bill-graham,
+fillmore-west, gregg-rolie, hammond-organ, jose-chepito-areas,
+michael-shrieve, autlan-de-navarro, tijuana, wally-heiders),
+retroactive first-mention buttons in the Module 3 framing
+reading (latin-rock, carlos-santana, santana-the-band, mission-
+district) and on Module 3 Track 1 (santana-the-band in body
+prose, with a small cleanup of the Track 1 cross-link from
+"Carlos Santana's band" to the album title "Abraxas," and the
+gloss button on Carlos Santana pulled outside the anchor per
+the established convention), and a new cross-link to Track 3
+in the framing reading's Track 3 preview paragraph. The
+framing-reading nav footer's forward link now resolves to a
+real Track 3 page; the new Track 3 page's nav footer's forward
+link points to `track4-selena.html`, which will 404 until
+Track 4 ships.
+
+A small but instructive sourcing fix earlier in the same
+session, before Track 3 began, on the Track 2 page's reception
+paragraph. The paragraph had named "Boogaloo great Nando,
+interviewed in We Like It Like That" as the source for the
+industry-shutout quote about the boogaloo bands trying to
+organize for better pay and top billing. Three things were
+wrong: the musician's full stage name is King Nando (Fernando
+Rivera, 1945-2008); he was a bandleader, not the "conga player"
+I had imported into the description by association with Joe
+Cuba (the Liberation News article's main subject); and he
+could not have been interviewed in the 2015 documentary because
+he died in 2008. The body prose was corrected to "the boogaloo
+bandleader King Nando, widely quoted across Latin music
+histories of the period," the king-nando glossary entry was
+added (Fernando Rivera, 1945-2008, his hit "Fortuna" in the
+mid-1960s, three boogaloo LPs documenting the genre's peak),
+the Sources section was reworked to attribute the
+"bastardizing our sound, you're making it black" quote to
+Mathew Ramirez Warren's March 4, 2015 Billboard interview
+rather than to the documentary itself, and the Liberation News
+(2009) and Liberation School (2025) pieces were added as the
+actual venue for the King Nando quote. Glossary went from
+377 to 378 in that earlier patch, then to 392 with the Track
+3 entries; net for the session is +15 entries.
+
+The Track 3 listening guide (`module3/track3-santana.html`)
+runs slightly leaner than the Track 1 and 2 envelope (86
+lines), partly because the cross-track comparison with Track
+1 carries weight that would otherwise need to be in this
+guide's prose, and partly because the four-section context
+sections themselves are shorter, since Carlos Santana's
+biography is more linear and less freighted with disputed
+identity claims than Bataan's was. Four-section context: (1)
+Carlos before the song, covering Autlán de Navarro 1947, the
+mariachi-violinist father, Tijuana 1955 through the Strip
+clubs and US-radio blues, the family's move to the Mission in
+1961-63, Mission High graduation in 1965, naturalization 1965,
+and the Santana Blues Band's 1966 founding through the Bill
+Graham connection at the Fillmore West; (2) Woodstock and
+the Mission, covering the August 16 1969 set, the Bill Graham
+leverage move that forced Woodstock to book the unrecorded
+band as a condition of the Airplane and Dead, the debut album
+release within days of the festival, and the Mission as the
+founding moment of Bay Area Chicano cultural institutions
+(El Tecolote 1970, Galería de la Raza 1971, Mission Cultural
+Center 1976), with a sentence on what it meant for a Mexican-
+American guitarist from Mission High to stand on the Woodstock
+stage as the bill's only Latin act; (3) the recording, covering
+the Wally Heider's April 17 - May 2, 1970 sessions, Fred Catero
+producing, the full classic Woodstock-era lineup including
+Rico Reyes on the lead Spanish vocal, Carlos's quote about
+hearing Eddie Palmieri, Ray Barretto, and Tito Puente on a
+Spanish-language AM station at two in the morning while living
+on Potrero Hill ("I knew immediately it was a party song,
+like 'Louie, Louie'"), the analytical observation that the
+arrangement keeps the song's underlying form intact (same A
+Dorian, same Am7-D9 vamp, same essentially cha-cha-chá pulse)
+while replacing the charanga voicings with electric blues-rock
+instrumentation; (4) reception and afterlife, covering Tito
+Puente's anger-then-gratitude on the song (the Library of
+Congress essay's anecdote about Puente joking he should steal
+another one once the royalty checks arrived), the Latin Grammy
+Hall of Fame 2001 induction, and the Library of Congress
+preservation 2015. Four "Things to listen for" prompts: (1)
+timbre of Santana's distorted electric guitar against Puente's
+flute, and the Hammond B-3 against the brass section; (2)
+texture of seven musicians compressing a roughly twenty-piece
+Latin orchestra, with the percussion section as the load-
+bearing element and the piano tumbao moved to the Hammond;
+(3) form as the same vamp form hosting rock-style guitar-and-
+organ solos in place of flute and saxophone solos, with the
+pedagogical point that the vamp's openness is precisely what
+makes the transmission possible; (4) explicit cross-track
+comparison with Track 1 (same key, same vamp, same pulse,
+eight years apart, opposite coasts, different traditions,
+different audiences). The reflective question pushes students
+to argue from a specific moment about how the form makes the
+transmission possible.
+
+Hero photo decision: Inés sent the Tucker Ransom photograph
+of Carlos Santana onstage at Woodstock, August 16, 1969
+(Hulton Archive / Getty Images), the iconic image of a
+twenty-two-year-old Santana grinning at the microphone while
+holding maracas in one hand and the neck of his Gibson SG in
+the other, wearing a black knit vest and concho-style belt.
+The figcaption transparently dates and locates the photograph,
+names it as a Woodstock image two months before the Wally
+Heider's sessions that produced this listening guide's track,
+credits the photographer and the rights chain, and flags it
+for explicit clearance before launch. The image is in the same
+defensible-editorial-use category as the Module 1 anchor-track
+hero photos and the Module 3 Track 2 publicity image.
+
+This earlier note is preserved as historical context from the
+Track 2 build session; some of it (the King Nando attribution
+in particular) has been corrected by the patches described
+above.
 
 The Track 2 listening guide (`module3/track2-bataan.html`)
 follows the established Module 2/Module 3 envelope (106 lines).
@@ -187,27 +296,24 @@ on the song title rather than nesting them); glossary file
 checked clean for the documented HTML-encoding-in-definitions
 bug from previous sessions.
 
-Audit baseline: 19 files, 0 errors, 35 warnings. Up from 18
-files / 0 errors / 27 warnings at end of last session. The 8
-new warnings break down as: 4 documented intentional skips on
-the new Track 2 page (the bare "rhythm" false-positive from
-the documented compound/bare false-clearing pattern with
-"rhythm-section" already buttoned, the page-subject "Joe
-Bataan" inside the YouTube video card matching the Track 1
-Puente and Track 5 Beyoncé cases, the "horn" false-positive
-in compound use ("the horn work"), and the "MC" abbreviation
-in "the MC mistaking the name and announcing him as Joe
-Batman"); and 4 new framing-reading table-cell skips from
-the new joe-cuba and jerry-masucci entries, both first
-appearances inside the labels-table cells where the
-established intentional-skip family covers them. All 35
-warnings are documented intentional skips.
+Audit baseline at session close: 20 files, 0 errors, 32
+warnings. Up from 19 files / 0 errors / 35 warnings at the
+start of this session (which was 31 after the King Nando
+patches earlier in the session). The change since the
+King Nando patches: +1 file (Track 3 shipped), +1 documented
+intentional skip on the new Track 3 page (the BPM mention in
+the Sources section, which is reference apparatus and never
+glossed across the site). All retroactive first-mention misses
+caused by the new entries (santana-the-band, carlos-santana,
+mission-district, latin-rock) were resolved in the framing
+reading and on Track 1 in this session. All 32 warnings at
+session close are documented intentional skips.
 
-Final repo state at session close: 19 files, 0 errors, 35
-documented intentional-skip warnings. Glossary count: 377.
-Track 2 (`module3/track2-bataan.html`) is shipped with hero
+Final repo state at session close: 20 files, 0 errors, 32
+documented intentional-skip warnings. Glossary count: 392.
+Track 3 (`module3/track3-santana.html`) is shipped with hero
 photo and full gloss coverage; the page nav footer links
-forward to `track3-santana.html`, which 404s until built.
+forward to `track4-selena.html`, which 404s until built.
 
 ## Term and dates
 
@@ -831,17 +937,17 @@ swap before the course goes live (see "Image rights to verify
 before launch" further down).
 
 **Module 3: Latin diasporic traditions.** Partial. The framing
-reading and Track 1 (Puente, "Oye Como Va") are shipped (see
-What is complete and live). What remains: landing page
-(`module3/index.html`), four remaining listening guides (Joe
-Bataan "Gypsy Woman," Santana "Oye Como Va," Selena "Bidi Bidi
-Bom Bom," Tego Calderón "Pa' Que Retozen"), `discussion.md`,
-and `quiz.md`. Each remaining listening guide will follow the
-Module 2 envelope (104-117 lines) and the established four-
-section context plus four-prompt "Things to listen for"
-structure. Track 1's nav footer currently points to
-`track2-bataan.html` which 404s; building the Joe Bataan
-"Gypsy Woman" Track 2 guide is the natural next step.
+reading and Tracks 1, 2, and 3 (Puente "Oye Como Va," Bataan
+"Gypsy Woman," Santana "Oye Como Va") are shipped (see What is
+complete and live). What remains: landing page
+(`module3/index.html`), two remaining listening guides (Selena
+"Bidi Bidi Bom Bom," Tego Calderón "Pa' Que Retozen"),
+`discussion.md`, and `quiz.md`. Each remaining listening guide
+will follow the Module 2 envelope (104-117 lines) and the
+established four-section context plus four-prompt "Things to
+listen for" structure. Track 3's nav footer currently points
+to `track4-selena.html` which 404s; building the Selena Track
+4 guide is the natural next step.
 
 The framing reading also flagged a small set of labels-table
 factual claims for verification before launch (in addition to

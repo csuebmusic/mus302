@@ -2068,6 +2068,76 @@ var GLOSSARY = {
   "nuyorican": {
     label: "Nuyorican",
     definition: "A term, originally a slur but reclaimed in the 1970s, for New York-born Puerto Ricans and the cultural production of New York-born Puerto Ricans. The Nuyorican generation came of age in the 1960s and 1970s, born to parents who had migrated during the postwar Operation Bootstrap years. Their experience was bicultural and bilingual in ways their island-born parents\u2019 was not, and Nuyorican literature, theater, and music (the Nuyorican Poets Cafe was founded in 1973 on the Lower East Side) became a self-conscious cultural movement. Boogaloo and Latin soul are sometimes called the first Nuyorican music."
+  },
+
+  "carlos-santana": {
+    label: "Carlos Santana",
+    definition: "Mexican-born American guitarist and bandleader (born July 20, 1947, in Autl\u00e1n de Navarro, Jalisco). Carlos started on the violin at age five, taught by his mariachi-violinist father Jos\u00e9; he switched to guitar at eight after the family moved to Tijuana in 1955. He played the Tijuana club scene as a teenager, joined his family in San Francisco in 1963, graduated from Mission High School in 1965, was naturalized as a US citizen the same year, and started the Santana Blues Band in October 1966. Now widely considered one of the founders of Latin rock; his playing fuses electric blues guitar phrasing (B.B. King, T-Bone Walker) with Afro-Cuban and mariachi rhythmic and melodic instincts. The eponymous band he leads has been working continuously since 1966."
+  },
+
+  "santana-the-band": {
+    label: "Santana (the band)",
+    definition: "American rock band founded in San Francisco in October 1966 as the Santana Blues Band by guitarist Carlos Santana, organist and vocalist Gregg Rolie, and a rotating roster of other Bay Area musicians. The classic late-1960s lineup that broke through at Woodstock and recorded the first three studio albums (Santana, 1969; Abraxas, 1970; Santana III, 1971) consisted of Carlos, Rolie, bassist David Brown, drummer Michael Shrieve, conga player Michael Carabello, and timbales/conga player Jos\u00e9 \u201cChepito\u201d Areas. The band\u2019s sound\u2014electric blues-rock guitar over an Afro-Cuban percussion section anchored by congas and timbales\u2014is one of the founding statements of Latin rock. Inducted into the Rock and Roll Hall of Fame in 1998."
+  },
+
+  "abraxas-album": {
+    label: "Abraxas",
+    definition: "Santana\u2019s second studio album, recorded April 17 to May 2, 1970 at Wally Heider\u2019s Studios in San Francisco with producer Fred Catero, and released by Columbia Records on September 23, 1970. The album reached number one on the Billboard 200 and spawned two hit singles, \u201cBlack Magic Woman\u201d (a cover of the Fleetwood Mac song) and \u201cOye Como Va\u201d (a cover of the Tito Puente song). The cover painting, Mati Klarwein\u2019s 1961 Annunciation, became one of the most recognizable rock album covers of the era. Selected for preservation by the Library of Congress in 2015 as a recording of cultural, historical, or aesthetic significance."
+  },
+
+  "latin-rock": {
+    label: "Latin rock",
+    definition: "An umbrella term for rock music that incorporates Latin American rhythmic, melodic, or instrumental elements\u2014most often Afro-Cuban percussion (congas, timbales) and harmonic structures derived from Cuban dance music. The genre crystallized at the end of the 1960s in San Francisco around Santana, whose first three albums (1969-1971) established the sound, but its lineage runs through Ritchie Valens (\u201cLa Bamba,\u201d 1958), War, Malo, Azt\u00e9ca, El Chicano, and many subsequent Chicano and Latin American rock bands. Latin rock is a parallel development to New York salsa\u2014the same generation reaching for similar fusions of US Black popular music with Caribbean and Mexican traditions, but on the West Coast and through the rock idiom rather than through a Latin dance band."
+  },
+
+  "mission-district": {
+    label: "Mission District",
+    definition: "A neighborhood in central San Francisco, named for Mission San Francisco de As\u00eds (1776), that became the city\u2019s primary Mexican-American and later broader Latin American neighborhood from the 1940s onward. The transformation began when Mexican-American residents of the Rincon Hill \u201cMexican Barrio\u201d were displaced by the construction of the western landing of the Bay Bridge in the early 1930s and resettled south in the Mission. By the 1960s the neighborhood had a heavily Chicano character, and the late-1960s and 1970s Chicano cultural renaissance produced lasting institutions there: the bilingual newspaper El Tecolote (1970), the Galer\u00eda de la Raza (1971), and the Mission Cultural Center for Latino Arts (1976). Carlos Santana grew up in the Mission and graduated from Mission High School in 1965."
+  },
+
+  "bill-graham": {
+    label: "Bill Graham",
+    definition: "American concert promoter (1931-1991), born Wulf Wolodia Grajonca in Berlin, who escaped Nazi Germany as a child and became the most influential rock promoter on the US West Coast. Graham ran the Fillmore Auditorium and later the Fillmore West in San Francisco as well as the Fillmore East in New York, and he managed Jefferson Airplane, the Grateful Dead, and Santana, among others. He used his leverage as the Airplane and Dead\u2019s manager to force the organizers of the 1969 Woodstock festival to also book his then-unknown Mission District clients, the Santana Blues Band, on the bill\u2014the booking that made Santana an overnight national act."
+  },
+
+  "fillmore-west": {
+    label: "Fillmore West",
+    definition: "San Francisco rock venue at the corner of Market Street and South Van Ness Avenue, run by Bill Graham from 1968 to 1971 as the West Coast counterpart to his Fillmore East in New York. The Fillmore West (and its predecessor, the Fillmore Auditorium) was the central live venue of the late-1960s San Francisco rock scene, hosting Jefferson Airplane, the Grateful Dead, Janis Joplin, Santana, and most of the rest of the Bay Area\u2019s major bands of the period. Carlos Santana saw B.B. King perform there in the mid-1960s, an experience he has cited as decisive for his decision to commit fully to music."
+  },
+
+  "gregg-rolie": {
+    label: "Gregg Rolie",
+    definition: "American keyboard player, organist, and singer (born 1947), co-founder of Santana with Carlos Santana in 1966 and the band\u2019s lead vocalist on most of the first three albums. Rolie played the Hammond B-3 organ that is, alongside Carlos\u2019s guitar, the band\u2019s most identifiable melodic voice. He left Santana in 1972 along with guitarist Neal Schon to co-found Journey. Rock and Roll Hall of Fame inductee with Santana (1998) and Journey (2017)."
+  },
+
+  "hammond-organ": {
+    label: "Hammond organ",
+    definition: "An electric organ designed by Laurens Hammond and patented in 1934, originally as a low-cost replacement for a pipe organ. The instrument generates tones using rotating tonewheels and shapes them through nine drawbars (per manual) that mix harmonic partials\u2014a kind of mechanical additive synthesis that produces the instrument\u2019s characteristic warm, bright, slightly buzzing timbre. The B-3 model, built from 1954 to 1975 and almost always paired with a Leslie rotating-speaker cabinet, became the standard organ of jazz, gospel, R&B, and rock from the 1950s onward. Gregg Rolie\u2019s Hammond B-3 is one of the two melodic voices (the other being Carlos\u2019s electric guitar) that defines the early Santana sound."
+  },
+
+  "jose-chepito-areas": {
+    label: "Jos\u00e9 \u201cChepito\u201d Areas",
+    definition: "Nicaraguan-born percussionist (born 1946 in Le\u00f3n, Nicaragua), the timbales and conga player on Santana\u2019s classic Woodstock-era lineup. Areas joined the band in 1969, just before the Woodstock performance, and is widely credited (along with Michael Carabello) with deepening the band\u2019s Afro-Cuban rhythmic vocabulary, having grown up with cha-cha-ch\u00e1, mambo, and Cuban dance music traditions. He played on Santana, Abraxas, and Santana III before injuries and band conflicts curtailed his role in the early 1970s."
+  },
+
+  "michael-shrieve": {
+    label: "Michael Shrieve",
+    definition: "American drummer (born 1949 in San Francisco), the youngest member of Santana\u2019s classic Woodstock-era lineup; he was twenty when he played the festival. Shrieve\u2019s extended drum solo in the band\u2019s closing performance of \u201cSoul Sacrifice,\u201d captured in the 1970 documentary film Woodstock, became one of the most-watched drum solos in rock and a defining moment in the band\u2019s breakthrough. He played on the first seven Santana studio albums and remained close to the band as a collaborator after his departure in 1974."
+  },
+
+  "autlan-de-navarro": {
+    label: "Autl\u00e1n de Navarro",
+    definition: "A small town in the western Mexican state of Jalisco, southwest of Guadalajara, with a population of about thirty thousand at the time of Carlos Santana\u2019s 1947 birth there. The town has a long tradition of mariachi music; Carlos\u2019s father, Jos\u00e9, was a working mariachi violinist there before the family moved to Tijuana in 1955."
+  },
+
+  "tijuana": {
+    label: "Tijuana",
+    definition: "Mexican border city directly south of San Diego, California, the principal land crossing point between Mexico and the western United States. By the 1950s and 1960s, when the Santana family lived there, the city\u2019s economy revolved around US tourism, and its nightlife drew US servicemen and college students; the Tijuana Strip\u2019s clubs and bars employed many young Mexican musicians who absorbed American rock and roll, blues, and R&B from US radio stations across the line. Carlos Santana\u2019s teenage musical formation\u2014blues and rock and roll grafted onto a mariachi-trained foundation\u2014happened in this border-city context."
+  },
+
+  "wally-heiders": {
+    label: "Wally Heider\u2019s Studios",
+    definition: "A San Francisco recording studio at 245 Hyde Street, opened by audio engineer Wally Heider in 1969, that became the dominant West Coast studio of the late 1960s and 1970s. The Grateful Dead, Jefferson Airplane, Crosby, Stills, Nash &amp; Young, Creedence Clearwater Revival, and Santana all recorded major albums there. Santana\u2019s Abraxas was recorded at Wally Heider\u2019s from April 17 to May 2, 1970 with producer Fred Catero. The studio was sold in the 1980s and has continued under the name Hyde Street Studios."
   }
 
 };
