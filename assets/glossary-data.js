@@ -2148,6 +2148,11 @@ var GLOSSARY = {
   "grateful-dead": {
     label: "Grateful Dead",
     definition: "American rock band formed in Palo Alto in 1965, central to San Francisco\u2019s psychedelic and hippie counterculture and to the Haight-Ashbury Summer of Love. The founding members were Jerry Garcia (lead guitar, vocals), Bob Weir (rhythm guitar, vocals), Phil Lesh (bass), Bill Kreutzmann (drums), and Ron \u201cPigpen\u201d McKernan (keyboards, harmonica, vocals). The band came up through the Palo Alto folk and jug-band scene (as Mother McCree\u2019s Uptown Jug Champions, then briefly the Warlocks) before being christened the Grateful Dead in late 1965. Their style fused rock, blues, folk, bluegrass, jazz, and country into long improvisational live performances; the band toured nearly continuously from 1965 until Garcia\u2019s death in 1995, playing more than 2,300 concerts and developing a uniquely devoted touring fan base known as Deadheads. Bill Graham managed the band during the 1969 period that produced the Woodstock-leverage move that put Santana on the festival\u2019s bill."
+  },
+
+  "rico-reyes": {
+    label: "Rico Reyes",
+    definition: "Jos\u00e9 Rico Reyes (1945-2002), American singer and percussionist who was part of the extended Santana band percussion section from roughly 1970 to 1972. Reyes contributed backing vocals and additional percussion on Abraxas (1970, including the Spanish backing vocal on \u201cOye Como Va\u201d and on \u201cEl Nicoya\u201d), then continued through Santana III (1971, where he is credited as a co-writer on \u201cGuajira\u201d) and Caravanserai (1972). Outside the Santana band proper, Reyes also recorded with the Bay Area Latin-rock band Azteca (1972 and 1973) and on the trumpeter Luis Gasca\u2019s 1972 record For Those Who Chant. He returned to Carlos Santana\u2019s working band on the 1992 Milagro album and the 1993 Sacred Fire live record."
   }
 
 };
