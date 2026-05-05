@@ -1989,6 +1989,80 @@ var GLOSSARY = {
   "mulata": {
     label: "mulata",
     definition: "Spanish noun describing a woman of mixed Black and European ancestry. The word descends from the Spanish colonial racial-classification system of the Caribbean; many Spanish-speakers today consider it offensive (its English cognate, mulatto, is similarly considered dated and offensive in most current usage). In Cuban dance-music lyrics of the 1940s through 1960s, however, mulata appeared frequently as a stock romantic or celebratory term of address, often without conscious racial-political weight on the part of the writer. The word\u2019s use in \u201cOye Como Va\u201d sits in that midcentury idiom and is not transferable to current contexts; today\u2019s Latin musicians and writers generally reach for other vocabulary."
+  },
+
+  /* ============================
+     Module 3 Track 2: Joe Bataan and "Gypsy Woman"
+     ============================ */
+
+  "frankie-lymon": {
+    label: "Frankie Lymon",
+    definition: "African American doo-wop singer (1942-1968) who, with his group the Teenagers, recorded \u201cWhy Do Fools Fall in Love\u201d in 1956 when he was thirteen. The song was a number-one R&B and number-six pop hit and made Lymon the first Black teen idol of the rock-and-roll era. He was a major influence on a generation of young Black, Latino, and white singers in 1950s and early 1960s New York, including Joe Bataan. Lymon\u2019s career collapsed quickly after his voice changed; he died of a heroin overdose at twenty-five."
+  },
+
+  "dragons-gang": {
+    label: "the Dragons",
+    definition: "A predominantly Puerto Rican street gang in mid-twentieth-century East Harlem, one of dozens of neighborhood gangs that organized New York\u2019s working-class teenage social life in the 1950s and 1960s. Joe Bataan was, by his own account, named the Dragons\u2019 president when he was about fifteen, before the stolen-car arrest that sent him upstate. Bataan was not Puerto Rican by parentage but was accepted into a Puerto Rican gang because he had grown up alongside the same kids in El Barrio."
+  },
+
+  "coxsackie": {
+    label: "Coxsackie Correctional Facility",
+    definition: "A New York State prison in upstate Greene County, opened in 1935 and historically operated as a youth and young-adult facility. Joe Bataan served roughly five years at Coxsackie beginning at age fifteen, on a stolen-car charge. He has said in interviews that he learned to play the piano during his time inside and that the experience redirected his life toward music. He returned to a similar facility in the 1980s, this time as a youth counselor at the Bridges Juvenile Center in the Bronx."
+  },
+
+  "latin-swingers": {
+    label: "Joe Bataan and the Latin Swingers",
+    definition: "Joe Bataan\u2019s first band, formed in 1965 or 1966 in East Harlem after his release from Coxsackie. Bataan recruited a group of neighborhood teenagers, most of them eleven to thirteen years old at the start, and taught himself the piano alongside teaching them their parts. The band played weddings, dances, and small ballrooms in the Bronx and East Harlem before being signed to Fania Records in 1966. The personnel on the 1967 Gypsy Woman LP is essentially the Latin Swingers, with Bataan on piano and English vocals and Joe Pagan on Spanish vocals."
+  },
+
+  "tropicoro-ballroom": {
+    label: "Tropicoro Ballroom",
+    definition: "A Bronx Latin music venue active in the 1960s, one of the regular gigging spots for the young boogaloo and Latin soul bands of the era including Joe Bataan and the Latin Swingers. The Tropicoro and similar Bronx and Manhattan ballrooms (Colgate Gardens, the Hunts Point Palace, the Cheetah Club) were where the next generation of Latin musicians built audiences after the closing of the Palladium in 1966."
+  },
+
+  "joe-cuba": {
+    label: "Joe Cuba",
+    definition: "Stage name of Gilberto Miguel Calder\u00f3n Cardona (1931-2009), Puerto Rican-born conga player and bandleader of the Joe Cuba Sextet, the New York group most often called the godfather of Latin boogaloo. The sextet\u2019s 1966 single \u201cBang Bang\u201d was the genre\u2019s first major commercial hit, selling around a million copies; their earlier \u201cEl Pito (I\u2019ll Never Go Back to Georgia)\u201d in 1965 had already pointed the way. Joe Cuba is often credited as the first major exponent of what would later be called Nuyorican music, and his sextet format was unusual for keeping the band small enough to play teenage social clubs that could not afford a full orchestra."
+  },
+
+  "pete-rodriguez": {
+    label: "Pete Rodriguez",
+    definition: "Puerto Rican-born pianist, singer, and bandleader (born 1932) whose 1967 single \u201cI Like It Like That\u201d became one of the genre-defining boogaloo recordings. Rodriguez\u2019s career was almost entirely confined to the boogaloo era; unlike most of his contemporaries he did not move on to salsa when the boogaloo wave passed. The 2015 documentary We Like It Like That takes its title from his hit."
+  },
+
+  "the-impressions": {
+    label: "the Impressions",
+    definition: "Chicago vocal group, originally founded in 1958 as the Roosters by Sam Gooden, Richard Brooks, and Arthur Brooks, which by the early 1960s had become the trio of Curtis Mayfield, Sam Gooden, and Fred Cash. Recording for ABC-Paramount, the Impressions had a string of hits in the 1960s including \u201cGypsy Woman\u201d (1961), \u201cIt\u2019s All Right\u201d (1963), \u201cKeep On Pushing\u201d (1964), \u201cPeople Get Ready\u201d (1965), and \u201cWe\u2019re a Winner\u201d (1968). Mayfield\u2019s songwriting for the group made the Impressions one of the central voices of soul music\u2019s civil rights moment."
+  },
+
+  "jerry-masucci": {
+    label: "Jerry Masucci",
+    definition: "Italian-American lawyer (1934-1997) who co-founded Fania Records in 1964 with the flutist Johnny Pacheco. Masucci handled the business side of the operation while Pacheco handled the music. The two of them built Fania into the dominant Latin music label of the 1970s salsa boom; the label\u2019s relationships with its artists were widely contested over royalties and ownership, and several major Fania artists, including Joe Bataan, eventually left over financial disputes."
+  },
+
+  "salsoul-records": {
+    label: "Salsoul Records",
+    definition: "New York record label founded in 1974 by the Cayre brothers (Kenneth, Stanley, and Joseph) with Joe Bataan as a creative co-founder. Bataan named the label by combining \u201csalsa\u201d and \u201csoul\u201d to describe the fusion he had been working on; he sold his interest early on and the label was largely steered by the Cayres. Salsoul became one of the central labels of late-1970s disco, with the Salsoul Orchestra (an in-house ensemble built around former Philadelphia International musicians) producing some of the era\u2019s most influential dance records."
+  },
+
+  "rap-o-clap-o": {
+    label: "\u201cRap-O Clap-O\u201d",
+    definition: "Joe Bataan\u2019s 1979 single on Salsoul Records, recorded a few months after the Sugarhill Gang\u2019s \u201cRapper\u2019s Delight,\u201d that is among the earliest commercially released rap recordings. \u201cRap-O Clap-O\u201d included rapping in Spanish as well as English and was a top-ten hit across much of Europe, where it is sometimes credited as the first international rap hit. It barely charted in the United States. The orange-background publicity image of Bataan in suspenders and a hand-painted Rap-O Clap-O t-shirt that opens this listening guide is from this period."
+  },
+
+  "conga": {
+    label: "conga",
+    definition: "A tall single-headed hand drum of Cuban origin, played in pairs or sets of three at a standing height, struck with the palms and fingers. Congas are the central hand-drum sound of Afro-Cuban dance music and (through that route) of all the New York Latin genres in this module: mambo, cha-cha-ch\u00e1, boogaloo, salsa, Latin jazz, salsoul, and reggaeton. The conga is the instrument most often used to teach the basic Afro-Cuban rhythmic patterns (the tumbao, the martillo) on which a Latin band\u2019s groove is built."
+  },
+
+  "trombone": {
+    label: "trombone",
+    definition: "A brass wind instrument with a sliding inner tube that the player extends and contracts to change the pitch. Trombones can be used in concert orchestras, jazz big bands, ska and reggae horn sections, soul and funk arrangements, and Latin dance bands. The two-trombone front line that Joe \u201cChickie\u201d Fuente and Ruben Hernandez play on \u201cGypsy Woman\u201d became a signature texture of the late-1960s Fania sound, picked up most famously by Willie Col\u00f3n and Hector Lavoe."
+  },
+
+  "nuyorican": {
+    label: "Nuyorican",
+    definition: "A term, originally a slur but reclaimed in the 1970s, for New York-born Puerto Ricans and the cultural production of New York-born Puerto Ricans. The Nuyorican generation came of age in the 1960s and 1970s, born to parents who had migrated during the postwar Operation Bootstrap years. Their experience was bicultural and bilingual in ways their island-born parents\u2019 was not, and Nuyorican literature, theater, and music (the Nuyorican Poets Cafe was founded in 1973 on the Lower East Side) became a self-conscious cultural movement. Boogaloo and Latin soul are sometimes called the first Nuyorican music."
   }
 
 };
