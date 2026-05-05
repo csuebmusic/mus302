@@ -2228,6 +2228,101 @@ var GLOSSARY = {
   "polka": {
     label: "Polka",
     definition: "A fast couples dance and music genre in 2/4 meter, with three quick steps and a hop, that originated among Czech peasants in Bohemia (now part of the Czech Republic) in the early 1830s. The name probably comes from the Czech p\u016flka, meaning \u201chalf-step,\u201d referring to the dance\u2019s short, half-tempo footwork. By 1840 polka had reached the ballrooms of Prague, Vienna, and Paris and set off the international fashion known at the time as \u201cpolkamania,\u201d sweeping through European court and concert music (Strauss, Lanner, Smetana, Dvo\u0159\u00e1k all wrote polkas) and across the Atlantic with European emigration. In the second half of the nineteenth century, German, Czech, and Polish immigrants brought the polka, the waltz, the schottische, and the diatonic button accordion to central Texas, the Texas-Mexico borderland, and northern Mexico. There the polka rhythm and the accordion fused with Mexican song traditions in the music that became conjunto, norte\u00f1o, and Tejano: the \u201coom-pah-pah\u201d substrate that runs underneath \u201cBidi Bidi Bom Bom\u201d and the rest of the Tejano cumbia tradition is descended directly from this nineteenth-century European-immigrant transmission."
+  },
+
+  "tego-calderon": {
+    label: "Tego Calder\u00f3n (b. 1972)",
+    definition: "Tegui Calder\u00f3n Rosario, born September 1, 1972 in Santurce, San Juan, Puerto Rico, and raised in R\u00edo Grande and Carolina near Lo\u00edza on the island\u2019s northeast coast. An Afro-Puerto Rican rapper whose 2002 debut album El Abayarde, released by White Lion Records in Puerto Rico and re-released internationally by BMG U.S. Latin in 2003, is widely regarded as the album that brought reggaeton out of the Puerto Rican mixtape underground and onto major-label distribution. Tego is the genre\u2019s most articulate political voice: his lyrics return repeatedly to Black Puerto Rican identity, the legacy of slavery in the Caribbean, the politics of Lo\u00edza and the island\u2019s African heritage, and Puerto Rican independence. He attended the Escuela Libre de M\u00fasica in San Juan with a percussion concentration before moving to Miami as a teenager, where he absorbed Public Enemy and N.W.A.; he credits Vico C with showing him that hip hop could be done in Spanish."
+  },
+
+  "el-abayarde-album": {
+    label: "El Abayarde (album)",
+    definition: "Tego Calder\u00f3n\u2019s debut studio album, released November 1, 2002 on White Lion Records in Puerto Rico and re-released internationally on BMG U.S. Latin / Sony BMG in 2003. Nineteen tracks, total runtime 57:32, produced collectively by Luny Tunes, DJ Nelson, Maestro, Rafy Mercenario, DJ Joe, DJ Adam, Echo, and Coo-kee, with executive production by El\u00edas De Le\u00f3n. The album sold 50,000 copies in its first week in Puerto Rico, eventually reaching 132,000 copies in the US and more than 350,000 worldwide; it was nominated for a Latin Grammy for Best Rap/Hip Hop Album at the 4th Latin Grammy Awards in 2003. El Abayarde is the album that, along with Daddy Yankee\u2019s 2004 Barrio Fino, Ivy Queen\u2019s Diva, and Don Omar\u2019s The Last Don, internationalized reggaeton; \u201cAbayarde,\u201d Spanish for \u201cfire ant,\u201d was the nickname Tego\u2019s grandmother gave him as a child."
+  },
+
+  "loiza": {
+    label: "Lo\u00edza",
+    definition: "A municipality on Puerto Rico\u2019s northeast coast, just east of San Juan, with the highest concentration of Afro-Puerto Rican residents on the island and the strongest surviving African cultural presence. Lo\u00edza is the historical center of bomba, the Afro-Puerto Rican drum-and-dance tradition; the town\u2019s annual Fiestas de Santiago Ap\u00f3stol (Festival of St. James the Apostle) in late July is one of the major living-tradition events of Black Caribbean Catholicism. When Tego Calder\u00f3n names Lo\u00edza in his lyrics or brings bomba percussion into his reggaeton, he is making a deliberate connection to this tradition and to the Afro-Puerto Rican identity that mainstream Puerto Rican culture has often been reluctant to foreground."
+  },
+
+  "santurce": {
+    label: "Santurce",
+    definition: "A densely populated district of San Juan, Puerto Rico, historically a working-class neighborhood with a strong Afro-Puerto Rican presence and a rich musical history. Tego Calder\u00f3n was born in Santurce and located his recording studio, El Sitio, there as an adult; he has said in interviews that he kept the studio in Santurce as a deliberate statement that the neighborhood is not dying. Santurce has been the home of generations of Puerto Rican musicians, from Ismael Rivera and Rafael Cortijo through the underground reggaeton scene of the 1990s."
+  },
+
+  "escuela-libre-de-musica": {
+    label: "Escuela Libre de M\u00fasica",
+    definition: "The Free School of Music, a network of public conservatories in Puerto Rico that admits students through audition and provides music-conservatory training (instrumental performance, theory, composition) alongside the standard secondary-school curriculum. The flagship school in San Juan has trained generations of Puerto Rican musicians across genres. Tego Calder\u00f3n attended the Escuela Libre de M\u00fasica with a percussion concentration; the conservatory training in Puerto Rican traditional music (bomba, plena, salsa) is part of what allows him to bring those forms into his reggaeton with a working musician\u2019s knowledge rather than as quotation."
+  },
+
+  "ismael-rivera": {
+    label: "Ismael Rivera (1931-1987)",
+    definition: "Puerto Rican salsa singer, songwriter, and bandleader, born in Santurce, often called \u201cEl Sonero Mayor\u201d (The Greatest Sonero) by his peers. Rivera came up in the 1950s with the bandleader Rafael Cortijo and Cortijo\u2019s combo, helping to bring bomba and plena into the mainstream Puerto Rican popular music of the 1950s and 1960s. His 1975 song \u201cLas Caras Lindas (de mi gente negra)\u201d (\u201cThe Beautiful Faces of My Black People\u201d) is a foundational document of Afro-Puerto Rican musical pride. Tego Calder\u00f3n has named Rivera as the central artistic and political model for his own work; the walls of Tego\u2019s studio, El Sitio, are wallpapered with photographs of Rivera."
+  },
+
+  "vico-c": {
+    label: "Vico C (b. 1971)",
+    definition: "Luis Armando Lozada Cruz, born in Brooklyn and raised in Puerto Rico, the foundational figure of Spanish-language hip hop in Puerto Rico and one of the genre\u2019s first major Latin American voices. Active from the late 1980s, Vico C (sometimes \u201cEl Filos\u00f3fo,\u201d \u201cThe Philosopher\u201d) made the early case that hip hop could be performed in Spanish without simply translating English-language conventions, and his work shaped the underground Puerto Rican rap scene out of which reggaeton later emerged. Tego Calder\u00f3n has named Vico C as his most important model for rapping in Spanish and has credited him with making reggaeton imaginable as a Spanish-language music in the first place."
+  },
+
+  "eddie-dee": {
+    label: "Eddie Dee (b. 1976)",
+    definition: "Eddie \u00c1vila, Puerto Rican rapper and reggaeton artist active from the late 1990s. Eddie Dee\u2019s 2000 album El Terrorista de la L\u00edrica was an early-2000s mixtape-era reggaeton release that featured Tego Calder\u00f3n in a guest spot; the appearance was one of the early visibility-building moments for Tego before his own debut album. Eddie Dee\u2019s 2004 compilation 12 Disc\u00edpulos brought together twelve of the genre\u2019s leading artists (Tego, Daddy Yankee, Don Omar, Ivy Queen, Voltio, and others) on a single record and marked a moment of collective genre consolidation just before the 2004-2005 international breakthrough."
+  },
+
+  "dj-joe": {
+    label: "DJ Joe",
+    definition: "Jos\u00e9 Velez, Puerto Rican reggaeton producer active since the late 1990s, one of the producers credited on Tego Calder\u00f3n\u2019s El Abayarde and the lead producer on the album\u2019s biggest single, \u201cPa\u2019 Que Retozen.\u201d DJ Joe also produced influential underground compilations including the Reggaeton Sex and Sandunguero series with DJ Blass and Plan B in the early 2000s, helping establish the dembow-driven sound that defined PR reggaeton at the moment of its commercial breakthrough."
+  },
+
+  "rafy-mercenario": {
+    label: "Rafy Mercenario",
+    definition: "Puerto Rican reggaeton producer, co-credited with DJ Joe on \u201cPa\u2019 Que Retozen\u201d and on several other tracks of Tego Calder\u00f3n\u2019s El Abayarde. Tego name-checks both producers in the song\u2019s opening: \u201cTego Calde con DJ Joe\u2026 Junto a DJ Joe y Rafy Mercenario.\u201d Mercenario was one of the working PR reggaeton beat-makers of the early 2000s commercial moment."
+  },
+
+  "white-lion-records": {
+    label: "White Lion Records",
+    definition: "An independent Puerto Rican record label founded by El\u00edas De Le\u00f3n, focused on emerging Puerto Rican urban music, that brought reggaeton out of the underground mixtape circuit and onto formal commercial distribution in the early 2000s. White Lion released Tego Calder\u00f3n\u2019s El Abayarde in November 2002, selling 50,000 copies in the first week and setting a sales record for the then-underground genre. After the album\u2019s success, BMG U.S. Latin and Sony BMG re-released it internationally in 2003. White Lion continued to be a key label for the genre\u2019s breakout generation."
+  },
+
+  "jiggiri-records": {
+    label: "Jiggiri Records",
+    definition: "Tego Calder\u00f3n\u2019s own record label, founded after the success of El Abayarde to give Tego control over his own catalog and his subsequent releases. Jiggiri now controls the digital reissue rights to El Abayarde, which is why the YouTube and streaming releases of \u201cPa\u2019 Que Retozen\u201d list the phonogram copyright as \u201c\u2117 2003 Jiggiri Records\u201d even though the original 2002 release was on White Lion Records. In 2005, Tego signed a partnership between Jiggiri and Atlantic Records, becoming the first reggaeton artist to have a deal with a major US record company."
+  },
+
+  "elias-de-leon": {
+    label: "El\u00edas De Le\u00f3n",
+    definition: "Puerto Rican music industry executive, founder of White Lion Records, and the executive producer of Tego Calder\u00f3n\u2019s El Abayarde. De Le\u00f3n had Tego participate in several reggaeton compilations to build anticipation for the album, including the 2002 Planet Reggae compilation. His role on El Abayarde was the institutional one: securing distribution, coordinating producers, and bringing a reggaeton album to formal commercial release at a moment when the genre still circulated mostly through underground mixtapes."
+  },
+
+  "perreo": {
+    label: "Perreo",
+    definition: "The signature partnered dance of reggaeton, in which a couple grinds hip-to-hip with the woman in front of the man (the name comes from perro, \u201cdog,\u201d sometimes translated as \u201cdoggy-style dancing\u201d). Perreo emerged in the Puerto Rican underground club scene of the 1990s and became the genre\u2019s default dance form. The dance was the central target of the 2002 Anti-Pornography Campaign led by Senator Velda Gonz\u00e1lez, which sought to ban reggaeton music videos that depicted perreo from Puerto Rican television. Contemporary Puerto Rican feminist writers (notably the LX Project at NYU\u2019s coverage in the 2020s) have reframed perreo as a site of women\u2019s and queer self-expression rather than only the object of older masculinist reggaeton."
+  },
+
+  "velda-gonzalez": {
+    label: "Velda Gonz\u00e1lez (1933-2016)",
+    definition: "Puerto Rican actress, dancer, and Popular Democratic Party senator, who served in the Puerto Rico Senate from 1981 to 2005. In 2002, Gonz\u00e1lez led the Anti-Pornography Campaign that sought to remove perreo dance content and reggaeton lyrics deemed sexually explicit from Puerto Rican television and radio. The campaign coincided with police raids on reggaeton producers (DJ Playero\u2019s home was searched) and the confiscation of mixtape inventories from record stores under penal obscenity codes. Scholars including Petra Rivera-Rideau have argued the campaign was as much about the racial coding of Black Puerto Rican youth as about the explicit content; Gonz\u00e1lez lost her 2004 reelection bid as the campaign\u2019s political moment passed and reggaeton entered the mainstream."
+  },
+
+  "el-general": {
+    label: "El General (b. 1969)",
+    definition: "Edgardo Franco, Afro-Panamanian rapper and singer, one of the founding figures of Spanish-language reggae (reggae en espa\u00f1ol) and a direct precursor of reggaeton. Active from the late 1980s and through the 1990s, El General produced Spanish-language adaptations of Jamaican dancehall riddims for Panamanian and US Latin audiences; his hits \u201cTu Pum Pum\u201d (1991) and \u201cMuevelo\u201d (1991) brought the dancehall-derived sound to a wide Latin American audience. The Panamanian reggae en espa\u00f1ol scene that El General represented was one of the direct sources from which Puerto Rican producers built reggaeton in the early 1990s."
+  },
+
+  "dj-playero": {
+    label: "DJ Playero",
+    definition: "Pedro Gerardo Torruellas Vivoni, Puerto Rican producer and mixtape DJ, the most influential of the early-1990s underground reggaeton mixtape producers. DJ Playero\u2019s mixtape series, sold from car trunks and at PR record stores, gave early visibility to artists including Daddy Yankee (Playero 37, 1992) and shaped the dembow-driven sound that defined the underground scene before commercial reggaeton consolidated in the early 2000s. His home was raided by the Puerto Rican police during the 2002 Anti-Pornography Campaign, and his recordings were confiscated as obscene material."
+  },
+
+  "daddy-yankee": {
+    label: "Daddy Yankee (b. 1976)",
+    definition: "Ram\u00f3n Luis Ayala Rodr\u00edguez, Puerto Rican rapper and reggaeton producer, often called \u201cthe King of Reggaeton.\u201d Came up through DJ Playero\u2019s mixtape series in the 1990s and released his 2004 album Barrio Fino on his own label El Cartel; the album\u2019s breakthrough single \u201cGasolina\u201d became the first reggaeton track to reach a global mainstream audience and established the genre as an international pop force. Daddy Yankee\u2019s commercial trajectory after El Abayarde\u2019s 2002 breakthrough is the story of reggaeton becoming the dominant Spanish-language popular music of the twenty-first century."
+  },
+
+  "nwa": {
+    label: "N.W.A.",
+    definition: "Niggaz Wit Attitudes, a Compton, California hip hop group active 1986-1991, consisting at its commercial peak of Eazy-E, Dr. Dre, Ice Cube, MC Ren, and DJ Yella. Their 1988 album Straight Outta Compton is the foundational document of West Coast \u201cgangsta rap,\u201d a hip hop register centered on first-person accounts of Black urban life, police violence, and the political economy of the post-Reagan inner city. N.W.A.\u2019s confrontational style and their refusal to sanitize the political conditions they were rapping about influenced essentially every subsequent generation of hip hop, including the Spanish-language Caribbean rappers (Tego Calder\u00f3n among them) who absorbed the group as teenagers in the early 1990s."
   }
 
 };
