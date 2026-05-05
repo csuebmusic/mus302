@@ -6,314 +6,282 @@ The README has the durable conventions and decisions; this file
 has the time-sensitive picture of what is done, what is next,
 and what is still open.
 
-Last updated: end of a Module 3 Track 3 build session that
-shipped the Santana "Oye Como Va" listening guide
-(`module3/track3-santana.html`, 86 lines) with the Tucker
-Ransom Woodstock 1969 hero photo, fourteen new glossary
-entries supporting it (carlos-santana, santana-the-band,
-abraxas-album, latin-rock, mission-district, bill-graham,
-fillmore-west, gregg-rolie, hammond-organ, jose-chepito-areas,
-michael-shrieve, autlan-de-navarro, tijuana, wally-heiders),
-retroactive first-mention buttons in the Module 3 framing
-reading (latin-rock, carlos-santana, santana-the-band, mission-
-district) and on Module 3 Track 1 (santana-the-band in body
-prose, with a small cleanup of the Track 1 cross-link from
-"Carlos Santana's band" to the album title "Abraxas," and the
-gloss button on Carlos Santana pulled outside the anchor per
-the established convention), and a new cross-link to Track 3
-in the framing reading's Track 3 preview paragraph. The
-framing-reading nav footer's forward link now resolves to a
-real Track 3 page; the new Track 3 page's nav footer's forward
-link points to `track4-selena.html`, which will 404 until
-Track 4 ships.
+Last updated: end of a Module 3 build session that completed
+the module's full five-track anchor-tracks set. This update
+covers the multi-session arc since Track 3 shipped: the Track 3
+formatting alignment to the canonical template, the full Track 4
+(Selena) build, the four family-tree SVG diagrams added across
+Tracks 1-4, and the full Track 5 (Tego Calderón) build with its
+own family-tree diagram. Module 3 anchor-tracks set is now
+complete; what remains for the module is the landing page
+(`module3/index.html`), the discussion (`module3/discussion.md`),
+and the checkpoint quiz (`module3/quiz.md`).
 
-A small but instructive sourcing fix earlier in the same
-session, before Track 3 began, on the Track 2 page's reception
-paragraph. The paragraph had named "Boogaloo great Nando,
-interviewed in We Like It Like That" as the source for the
-industry-shutout quote about the boogaloo bands trying to
-organize for better pay and top billing. Three things were
-wrong: the musician's full stage name is King Nando (Fernando
-Rivera, 1945-2008); he was a bandleader, not the "conga player"
-I had imported into the description by association with Joe
-Cuba (the Liberation News article's main subject); and he
-could not have been interviewed in the 2015 documentary because
-he died in 2008. The body prose was corrected to "the boogaloo
-bandleader King Nando, widely quoted across Latin music
-histories of the period," the king-nando glossary entry was
-added (Fernando Rivera, 1945-2008, his hit "Fortuna" in the
-mid-1960s, three boogaloo LPs documenting the genre's peak),
-the Sources section was reworked to attribute the
-"bastardizing our sound, you're making it black" quote to
-Mathew Ramirez Warren's March 4, 2015 Billboard interview
-rather than to the documentary itself, and the Liberation News
-(2009) and Liberation School (2025) pieces were added as the
-actual venue for the King Nando quote. Glossary went from
-377 to 378 in that earlier patch, then to 392 with the Track
-3 entries; net for the session is +15 entries.
+Final repo state at session close: 22 files, 0 errors, 47
+documented intentional-skip warnings. Glossary count: 428.
+Working tree clean, branch up to date with origin/main.
 
-The Track 3 listening guide (`module3/track3-santana.html`)
-runs slightly leaner than the Track 1 and 2 envelope (86
-lines), partly because the cross-track comparison with Track
-1 carries weight that would otherwise need to be in this
-guide's prose, and partly because the four-section context
-sections themselves are shorter, since Carlos Santana's
-biography is more linear and less freighted with disputed
-identity claims than Bataan's was. Four-section context: (1)
-Carlos before the song, covering Autlán de Navarro 1947, the
-mariachi-violinist father, Tijuana 1955 through the Strip
-clubs and US-radio blues, the family's move to the Mission in
-1961-63, Mission High graduation in 1965, naturalization 1965,
-and the Santana Blues Band's 1966 founding through the Bill
-Graham connection at the Fillmore West; (2) Woodstock and
-the Mission, covering the August 16 1969 set, the Bill Graham
-leverage move that forced Woodstock to book the unrecorded
-band as a condition of the Airplane and Dead, the debut album
-release within days of the festival, and the Mission as the
-founding moment of Bay Area Chicano cultural institutions
-(El Tecolote 1970, Galería de la Raza 1971, Mission Cultural
-Center 1976), with a sentence on what it meant for a Mexican-
-American guitarist from Mission High to stand on the Woodstock
-stage as the bill's only Latin act; (3) the recording, covering
-the Wally Heider's April 17 - May 2, 1970 sessions, Fred Catero
-producing, the full classic Woodstock-era lineup including
-Rico Reyes on the lead Spanish vocal, Carlos's quote about
-hearing Eddie Palmieri, Ray Barretto, and Tito Puente on a
-Spanish-language AM station at two in the morning while living
-on Potrero Hill ("I knew immediately it was a party song,
-like 'Louie, Louie'"), the analytical observation that the
-arrangement keeps the song's underlying form intact (same A
-Dorian, same Am7-D9 vamp, same essentially cha-cha-chá pulse)
-while replacing the charanga voicings with electric blues-rock
-instrumentation; (4) reception and afterlife, covering Tito
-Puente's anger-then-gratitude on the song (the Library of
-Congress essay's anecdote about Puente joking he should steal
-another one once the royalty checks arrived), the Latin Grammy
-Hall of Fame 2001 induction, and the Library of Congress
-preservation 2015. Four "Things to listen for" prompts: (1)
-timbre of Santana's distorted electric guitar against Puente's
-flute, and the Hammond B-3 against the brass section; (2)
-texture of seven musicians compressing a roughly twenty-piece
-Latin orchestra, with the percussion section as the load-
-bearing element and the piano tumbao moved to the Hammond;
-(3) form as the same vamp form hosting rock-style guitar-and-
-organ solos in place of flute and saxophone solos, with the
-pedagogical point that the vamp's openness is precisely what
-makes the transmission possible; (4) explicit cross-track
-comparison with Track 1 (same key, same vamp, same pulse,
-eight years apart, opposite coasts, different traditions,
-different audiences). The reflective question pushes students
-to argue from a specific moment about how the form makes the
-transmission possible.
+The Module 3 anchor-tracks set in chronological order:
 
-Hero photo decision: Inés sent the Tucker Ransom photograph
-of Carlos Santana onstage at Woodstock, August 16, 1969
-(Hulton Archive / Getty Images), the iconic image of a
-twenty-two-year-old Santana grinning at the microphone while
-holding maracas in one hand and the neck of his Gibson SG in
-the other, wearing a black knit vest and concho-style belt.
-The figcaption transparently dates and locates the photograph,
-names it as a Woodstock image two months before the Wally
-Heider's sessions that produced this listening guide's track,
-credits the photographer and the rights chain, and flags it
-for explicit clearance before launch. The image is in the same
-defensible-editorial-use category as the Module 1 anchor-track
-hero photos and the Module 3 Track 2 publicity image.
+`module3/track1-puente.html`. Tito Puente, "Oye Como Va" (Tico,
+1962). Recorded at the Hotel Riverside Plaza Ballroom in
+Manhattan, produced by Teddy Reig, released on the LP El Rey
+Bravo. The earliest of the five tracks; sits at the hinge of
+the late mambo era at the moment the Cuban supply line was
+about to close. Hero photo (Mambo Gozón cover-art collage)
+flagged for image-rights verification. 166 lines after the
+family-tree diagram add. Cross-links forward to track3-santana
+(the cover, eight years later); backward to Module 1 Cruz/Fania
+(texture comparison) and Module 2 Brown / "Say It Loud" (single-
+vamp form comparison).
 
-This earlier note is preserved as historical context from the
-Track 2 build session; some of it (the King Nando attribution
-in particular) has been corrected by the patches described
-above.
+`module3/track2-bataan.html`. Joe Bataan, "Gypsy Woman" (Fania,
+1967). Produced and musical-directed by Johnny Pacheco, recorded
+in a single day-long session by Bataan with the Latin Swingers.
+The boogaloo / Latin soul node, sitting just before the Fania
+salsa pivot eclipsed both. Hero photo is the 1979 Rap-O Clap-O
+publicity image (Salsoul / Bataan Music), flagged for image-
+rights verification. 158 lines after the family-tree diagram
+add. Cross-links: forward to track3-santana; backward to Module
+1 Track 1 Cooke (timbre, doo-wop-trained vs. gospel-trained
+voices), Module 1 Track 2 Cruz/Fania (texture, 1967 startup
+Fania vs. 1974 mature Fania), Module 3 Track 1 Puente (form,
+alternating verse-and-break vs. single vamp).
 
-The Track 2 listening guide (`module3/track2-bataan.html`)
-follows the established Module 2/Module 3 envelope (106 lines).
-Four-section context: (1) Bataan before the song, covering his
-parents (Filipino father from Manila, African American mother
-from Newport News, Virginia), the family's rarity in mostly-
-Puerto-Rican East Harlem, his bilingual upbringing, his time as
-president of the Puerto Rican Dragons gang, the Coxsackie
-sentence at fifteen, and the Latin Swingers' formation as a
-band of neighborhood teenagers in 1965-66 with the apocryphal
-knife-in-the-piano leadership story; (2) what boogaloo was,
-covering the 1966 Palladium closing and the cabaret-license
-mechanism, Joe Cuba's "Bang Bang" as the genre's million-
-selling first hit, Pete Rodriguez's "I Like It Like That,"
-the bicultural English-Spanish formula, and the older-
-generation reaction (Tito Puente specifically called the
-boogaloo bands inadequate; Mathew Ramirez Warren's documentary
-quotes the establishment's "you're bastardizing our sound,
-you're making it black" framing); (3) the recording, covering
-Fania's 1964 founding by Pacheco and Masucci, Pacheco
-spotting the Latin Swingers at Colgate Gardens, the deal that
-moved the album from Al Santiago's Futura label to Fania, the
-single-day-session origin documented by the Apple Music
-liner-note context, the personnel (Bataan on piano and English
-vocals, Joe Pagan on Spanish vocals, Fuente and Hernandez on
-trombone, Devis on bass, Gonzalez on conga, Nater on timbales,
-Cortez on bell), the 1961 Mayfield original (ABC-Paramount,
-written when Mayfield was around fourteen, doo-wop with
-castanets and the "Spanish flair" the period press reviews
-named, No. 2 R&B / No. 20 Hot 100), and Oliver Wang's
-Pitchfork analysis of how Bataan rebuilt the song around a
-piano montuno and a "she smokes hot, hot, she smokes" chorus
-shout; (4) reception and afterlife, covering the New York
-Latin market's reception, the eight Fania albums between 1967
-and 1972, the rapid demise of boogaloo by 1969-70, the
-We Like It Like That conga player Nando's account of an
-industry-wide shutout, the 1973 break with Fania, the founding
-of Salsoul Records, the 1979 "Rap-O Clap-O" single (one of the
-earliest commercially released raps, top-ten across Europe),
-the 1980s youth-counselor work at the Bridges Juvenile Center
-in the Bronx, and the 2000s revival. Four "Things to listen
-for" prompts: (1) timbre of Bataan's smooth doo-wop-trained
-voice against the brassy two-trombone front line, with cross-
-track comparison to Cooke's gospel-trained voice in Module 1;
-(2) texture of the nine-musician boogaloo band layered in
-roughly four strands (rhythm section, two trombones, lead
-vocal, chorus), with cross-track comparison to the Fania
-All-Stars at full 1974 mature size behind Cruz; (3) form as
-the alternation between pop-soul verse and double-time
-boogaloo-handclap break, contrasting with Track 1's single-
-vamp form; (4) the bilingual moment, parsing the English lead
-vocal against the Spanish chorus interjection, what
-codeswitching does politically inside a US dance-floor
-record, and the irony that the same Pacheco who produced this
-bilingual recording in 1967 would be a few years later one of
-the architects of the Spanish-only salsa boom that pushed
-boogaloo off the radio. The reflective question pushes
-students to argue from a specific moment in the recording
-about how the multiply-mixed identity of the musicians (Bataan
-not Puerto Rican by parentage, but his band of teenage Puerto
-Rican neighborhood kids putting an English-language Mayfield
-song through a Cuban-rhythm filter on Fania's brand-new gold
-label) actually maps to the categories the course uses.
+`module3/track3-santana.html`. Carlos Santana, "Oye Como Va"
+(Columbia, 1970, from Abraxas). Recorded at Wally Heider's
+Studios in San Francisco, April 17 - May 2 1970, produced by
+Fred Catero, with the classic Woodstock-era lineup including
+Rico Reyes on the Spanish backing vocal heard behind Rolie's
+lead on this track. The Bay Area Latin rock node; same song as
+Track 1, eight years later, on a different rhythmic and
+instrumental substrate. Hero photo: Tucker Ransom, Woodstock,
+August 16, 1969, Carlos with the Gibson SG and the maracas at
+the microphone. 155 lines after the family-tree diagram add.
+This page was shipped originally with the canonical structure
+out of order (six structural divergences from the template,
+including missing closing script tags); the Track 3 formatting
+alignment that opened this multi-session arc fixed all six.
+Cross-links: backward to track1-puente (the song's source
+recording) and to track2-bataan in the body prose.
 
-Hero photo decision: Inés sent the iconic 1979 Rap-O Clap-O
-publicity image (Bataan smiling in suspenders and a hand-
-painted t-shirt against a bright orange background, snapping
-his fingers). The image is twelve years after the 1967
-recording the listening guide covers, in the same designed-
-publicity-image rather than candid-editorial-photo category as
-the Module 3 Track 1 Mambo Gozón cover-art image. The
-figcaption transparently dates it 1979, credits it to Salsoul
-Records / Bataan Music, names the image-rights flag, and uses
-the chronological mismatch deliberately, the way the Track 1
-figcaption did with the Mambo Gozón cover, to point students
-at where Bataan's career goes after the Gypsy Woman album
-(through Salsoul to one of the first commercial rap
-recordings). The Red Bull Music Academy 2006 Bataan lecture
-documents the t-shirt's hand-made origin (he bought a black
-shirt for $3, painted on a disco-roller-skater graphic, added
-a fake diamond and gold star, paired it with red suspenders
-borrowed for a European Rap-O Clap-O tour); the page does
-not narrate that backstory in body prose but cites the lecture
-in the Sources section so the figcaption's claims are
-sourceable.
+`module3/track4-selena.html`. Selena Quintanilla, "Bidi Bidi
+Bom Bom" (EMI Latin, from Amor Prohibido, 1994). Producer A.B.
+Quintanilla III, engineer Brian Moore, recorded at Manny
+Guerra's studio in San Antonio across roughly six months
+beginning September 1993. The Tejano cumbia node, on a
+fundamentally different substrate from the Cuban-NY-Bay-Area
+substrate of Tracks 1-3. Hero photo: studio publicity portrait
+of Selena, photographer not identified in available sources,
+treated transparently in the same designed-publicity-image
+category as Track 1 and Track 2 hero photos and flagged for
+image-rights verification (current image is widely circulated
+but unattributed via iHeart / Rovi metadata; stronger candidates
+exist in the Al Rendon 1992 Entre A Mi Mundo session and the
+John Dyer 1992 Mas Magazine session, both better-attributed).
+167 lines after the family-tree diagram add. The Track 4 build
+also added the new polka glossary entry plus accordion and
+bajo-sexto first-mention buttons. Cross-links: backward to
+Module 1 Track 2 Cruz (texture comparison; declamatory salsa
+voice vs. conversational Tejano pop voice) and Module 2 Track 5
+Beyoncé (forward in time, the 2016 Houston astrodome moment
+echoed in Selena's 1995 last televised performance).
 
-Key factual correction this session, on the framing reading
-rather than the new Track 2 page. The Module 3 framing
-reading's Track 2 preview paragraph previously called Bataan
-"Afro-Filipino-Puerto Rican" and "Black-Filipino-Puerto Rican."
-Every primary source (Wikipedia, the Bronx African American
-History Project 2006 oral history, the Joe Bataan official
-website biography, the LA Phil biography, the uDiscoverMusic
-review, the Far Out Magazine profile, the Pitchfork review,
-the Red Bull Music Academy lecture) agrees: his parents are
-Filipino (father Marcial Nitollano, from Manila) and African
-American (mother from Newport News, Virginia). He is not
-Puerto Rican by parentage. He is Puerto Rican-formed by
-upbringing: he grew up in mostly-Puerto-Rican East Harlem,
-was president of the (Puerto Rican) Dragons gang at fifteen,
-and learned Spanish from his Puerto Rican playmates at school.
-Module 1's `cultural-roots.html` ("Joe Bataan is Filipino and
-Black, raised in Spanish Harlem") and the existing
-`joe-bataan` glossary entry ("Filipino and African American
-heritage, raised in Spanish Harlem") both have this right;
-only the Module 3 framing reading carried the error. The
-corrected paragraph now reads: "a Filipino and African
-American singer who grew up in Spanish Harlem, formed in a
-Puerto Rican cultural setting, and covered Curtis Mayfield's
-1961 R&B hit." The "Bataan's own complicated identity (Black-
-Filipino-Puerto Rican)" parenthetical has been rewritten to
-"Bataan's own multiply-mixed identity (Filipino, Black, raised
-inside a Puerto Rican neighborhood)." The framing reading's
-first prose mention of "Joe Bataan" now carries the
-glossable button per the established convention, and the song
-title "Gypsy Woman" is now linked to the new listening guide
-per the cross-linking convention.
+`module3/track5-tego.html`. Tego Calderón, "Pa' Que Retozen"
+(El Abayarde, White Lion Records, November 1, 2002, internationally
+re-released on BMG U.S. Latin / Sony BMG June 17, 2003). Producer
+DJ Joe with Rafy Mercenario co-credited; Tego namechecks both
+in the song's opening tag. The reggaeton node, anchoring
+Module 3 at its 2002 closing date and pointing forward to Daddy
+Yankee's 2004 "Gasolina" (which the framing reading covers as
+the genre's commercial-breakthrough moment) and to Bad Bunny's
+2020s dominance (which Module 6 picks up). Hero photo: Coburn
+Dukehart for NPR, Tego outside his studio El Sitio in Santurce,
+San Juan; ran in the May 20, 2013 Alt.Latino piece "Black,
+Puerto Rican And Proud: Guest DJ Tego Calderón" and the May 25,
+2013 Code Switch piece "Las Caras Lindas: To Be Black And
+Puerto Rican In 2013." Strong attribution from a journalistic
+source, comparable to the KQED Sugar Pie DeSanto photo on
+Module 1 Track 3. 157 lines including the family-tree diagram.
+Cross-links: to Track 1 (cha-cha-chá vs. dembow rhythm comparison
+in the first listening paragraph), to Module 2 Track 4 Grandmaster
+Flash and the Furious Five "The Message" (Melle Mel voice
+comparison; both sparse-track-and-rapping-voice constructions
+in different Black Atlantic registers), and to Track 2 Bataan
+(the same Spanish-English diglossia thirty-five years later on
+a different rhythmic base).
 
-Glossary expansion: 14 new entries added in a `Module 3 Track
-2: Joe Bataan and "Gypsy Woman"` section at the end of
-`assets/glossary-data.js`. The entries are: frankie-lymon
-(the doo-wop teen idol Bataan grew up listening to);
-dragons-gang (the Puerto Rican East Harlem street gang Bataan
-led at fifteen); coxsackie (the upstate New York correctional
-facility where Bataan served roughly five years); latin-
-swingers (Bataan's first band, formed 1965-66); tropicoro-
-ballroom (the Bronx venue where the band gigged before being
-signed); joe-cuba (the Puerto Rican-born conga player and
-boogaloo godfather, "Bang Bang" 1966); pete-rodriguez (the
-Puerto Rican pianist whose "I Like It Like That" gave the
-2015 documentary its title); the-impressions (Curtis
-Mayfield's Chicago vocal group, 1958 onward, the original
-"Gypsy Woman" 1961); jerry-masucci (the Italian-American
-lawyer who co-founded Fania with Pacheco); salsoul-records
-(the 1974 NY label Bataan helped name and co-found before
-selling out his interest); rap-o-clap-o (Bataan's 1979
-disco-rap single, top-ten across Europe); conga (the Cuban
-hand drum); trombone (the brass instrument with a slide);
-nuyorican (the term, originally a slur, for NY-born Puerto
-Ricans of the post-1945 generation, reclaimed in the 1970s).
-Glossary count went from 363 to 377.
+The five family-tree SVG diagrams. Each diagram sits at the
+pivot point between the end of the four-h3 Context section and
+the start of the four-prompt "Things to listen for" section. All
+five share visual conventions: viewBox 720 wide, Courier Prime
+font throughout, the cool blue-grey palette of the site's
+typewriter aesthetic (#1f2933 text, #5b6770 muted, #36546f
+accent, #e6e9ee fill, #d4dae2 emphasis fill, #f4f1ea inverse
+text on the dark accent endpoint). 1.5px stroke for box borders,
+1.2px for connector lines. Time axis at the bottom of each
+diagram with date anchors below. The highlighted track endpoint
+uses dark accent (#36546f) fill with cream text on top, matching
+the highlight convention from the existing how-to-listen.html
+beat-grid SVGs and module2/roots-and-routes.html lineage SVG.
 
-Retroactive button additions on existing pages, caused by the
-new conga, trombone, and joe-bataan entries hitting first
-prose mentions that had not been glossed because the entries
-didn't exist yet at the time of writing. Three patches:
-- `module3/track1-puente.html`: trombone in the personnel
-  sentence ("one trombone (Barry Rogers...)") and conga in
-  the rhythmic-figure paragraph ("the conga's tumbao").
-- `module2/track3-brown.html`: trombone in the Wesley
-  sentence ("Wesley played trombone").
-- `module3/roots-and-routes.html`: joe-bataan first-mention
-  button in the Track 2 preview paragraph (alongside the
-  parentage correction described above).
+Track 1 diagram (720x340 viewBox): five Cuban-roots source
+nodes (danzón, son cubano, mambo, cha-cha-chá, NY Cuban-music
+scene of the Palladium era) feeding the highlighted Puente
+"Oye Como Va" 1962 endpoint. Establishes the visual template
+for the set.
 
-Cross-page checks ran clean: the framing-reading nav footer
-now resolves to two real pages (Track 1 already, and Track 2
-shipped this session); the Track 1 page nav links forward to
-Track 2 which now resolves; the Track 2 page nav links forward
-to the not-yet-built track3-santana.html (will 404 until
-Track 3 ships, parallel to how Track 1 404'd to Track 2 until
-this session); BPM cross-references match (Cruz "Quimbara"
-120, Puente "Oye Como Va" 124, Bataan "Gypsy Woman" 136, all
-in the same dance-floor range with the boogaloo recording
-fastest); no body-prose em dashes outside the title and nav
-labels per convention; HTML tags balanced; no button-inside-
-anchor structures (the framing reading's preview paragraph
-keeps the gloss button on the artist name and the cross-link
-on the song title rather than nesting them); glossary file
-checked clean for the documented HTML-encoding-in-definitions
-bug from previous sessions.
+Track 2 diagram (720x360 viewBox): picks up where Track 1
+ended. A compressed Cuban-roots-and-NY-mambo-era source node
+forks into boogaloo (1965-1968), Latin soul (1965-1970), and
+salsa (Fania boom, ~1971 onward). Bataan's "Gypsy Woman" 1967
+sits at the boogaloo / Latin soul intersection as the
+highlighted endpoint. A dashed line between the salsa node and
+the Latin soul node carries the "eclipses boogaloo" relationship
+that the Track 2 prose's King Nando quote describes.
 
-Audit baseline at session close: 20 files, 0 errors, 32
-warnings. Up from 19 files / 0 errors / 35 warnings at the
-start of this session (which was 31 after the King Nando
-patches earlier in the session). The change since the
-King Nando patches: +1 file (Track 3 shipped), +1 documented
-intentional skip on the new Track 3 page (the BPM mention in
-the Sources section, which is reference apparatus and never
-glossed across the site). All retroactive first-mention misses
-caused by the new entries (santana-the-band, carlos-santana,
-mission-district, latin-rock) were resolved in the framing
-reading and on Track 1 in this session. All 32 warnings at
-session close are documented intentional skips.
+Track 3 diagram (720x360 viewBox): two-stream convergence on
+Bay Area Latin rock. Upper stream is the Cuban roots and NY
+mambo era from Track 1; lower stream is the Bay Area blues-
+rock scene through the Santana Blues Band 1966-1968. The two
+streams meet in Latin rock (Santana, Malo, Azteca, El Chicano,
+1969-1972), where Santana's "Oye Como Va" 1970 sits as the
+highlighted endpoint. The figcaption flags two simplifications:
+Carlos's mariachi-trained father and the Mexican folk and
+ranchera music of his childhood are not on the chart, and the
+British blues revival that fed the Bay Area blues-rock node is
+also not shown.
 
-Final repo state at session close: 20 files, 0 errors, 32
-documented intentional-skip warnings. Glossary count: 392.
-Track 3 (`module3/track3-santana.html`) is shipped with hero
-photo and full gloss coverage; the page nav footer links
-forward to `track4-selena.html`, which 404s until built.
+Track 4 diagram (720x440 viewBox): three-stream Mexican-
+borderland family tree, on a fundamentally different substrate.
+Top stream is Mexican folk song / ranchera / corrido. Middle
+stream is European-immigrant polka, waltz, accordion (TX-MX,
+late 1800s). The first two converge in conjunto and orquesta
+tejana (South Texas, 1930s-50s). Bottom stream is Colombian
+cumbia (Caribbean coast, 19th-early 20th c.) feeding Mexican
+cumbia (Mexico, 1940s onward, via Luis Carlos Meyer Castandet).
+All three streams converge in Tejano cumbia (1980s-90s), where
+Selena's "Bidi Bidi Bom Bom" 1994 is the highlighted endpoint.
+The earlier section labels for the three streams were tried and
+dropped because they conflicted visually with the intermediate
+convergence boxes that occupy the same vertical zones one column
+over; the figcaption does the work the section labels would
+have done.
+
+Track 5 diagram (720x420 viewBox): the reggaeton family tree,
+three source streams converging on a single intermediate node.
+Top stream is Jamaican dancehall (Shabba Ranks "Dem Bow" 1990
+and the riddim Bobby "Digital" Dixon built for it). Middle
+stream is Panamanian reggae en español (El General, Renato,
+late 1980s). Bottom stream is American hip hop (Public Enemy,
+N.W.A., 1979 onward). All three converge in the PR mixtape
+underground (DJ Playero, DJ Negro, Vico C, The Noise, 1991-2001),
+which feeds the highlighted Tego "Pa' Que Retozen" 2002
+endpoint. Slightly less tall than Track 4's diagram because
+this one has only one intermediate column instead of two.
+
+Glossary expansion across this multi-session arc:
+- 14 entries with the Track 4 build (selena, lake-jackson,
+  corpus-christi, abraham-quintanilla, ab-quintanilla,
+  pete-astudillo, chris-perez, selena-y-los-dinos,
+  amor-prohibido, q-productions, emi-latin, onomatopoeia,
+  guacharaca, chord-progression, clave; the polka entry came
+  next as a separate retrofit batch).
+- 1 entry (rico-reyes) with the Track 3 alignment patch.
+- 1 entry (polka) as a retrofit batch with first-mention
+  buttons in module1/cultural-roots, module3/roots-and-routes,
+  and module3/track4-selena.
+- 19 entries with the Track 5 build (tego-calderon,
+  el-abayarde-album, loiza, santurce, escuela-libre-de-musica,
+  ismael-rivera, vico-c, eddie-dee, dj-joe, rafy-mercenario,
+  white-lion-records, jiggiri-records, elias-de-leon, perreo,
+  velda-gonzalez, el-general, dj-playero, daddy-yankee, nwa)
+  plus first-mention buttons retrofitted on the framing reading
+  (tego-calderon at line 40, dj-playero and vico-c in the labels
+  table, daddy-yankee and white-lion-records and elias-de-leon
+  in the same table, plus a small spelling correction from
+  "Elias de León" to "Elías De León").
+
+Glossary count: 428, up from 392 at end of the previous session
+(Track 3 shipped). Net +36 entries across the arc.
+
+Image-rights status flags accumulated this session:
+- Module 3 Track 4 Selena hero photo: current image is widely
+  circulated but unattributed via iHeart / Rovi metadata.
+  Stronger candidates: Al Rendon 1992 Entre A Mi Mundo session,
+  John Dyer 1992 Mas Magazine session. Worth swapping before
+  launch.
+- Module 3 Track 5 Tego hero photo: Coburn Dukehart for NPR
+  with strong journalistic attribution; treat in the same
+  educational-fair-use category as the existing KQED photos
+  and flag for verification before launch.
+
+A few small editorial / factual catches across the arc that
+should be remembered as patterns rather than as one-offs:
+- Personnel-list import-by-association is a recurring failure
+  mode. King Nando's "conga player" attribute (imported by
+  association with Joe Cuba in the Liberation News article)
+  was the original instance. Rico Reyes's "Nicaraguan"
+  attribution (imported by association with Chepito Areas) was
+  the second. Bataan's "nineteen years old" (imported by
+  association with the teenage Latin Swingers) was the third.
+  Each was caught and corrected. The pattern is: when a piece
+  of biographical information appears near an artist's name in
+  a source but is not actually about that artist, the model is
+  prone to attaching it to the artist anyway. Future-me, double-
+  check personnel-adjacent biographical claims before they ship.
+- Missing script tags on individual track pages is a real
+  failure mode. Track 3 originally shipped without the
+  `<script src="../assets/glossary-data.js"></script>` and
+  `<script src="../assets/glossary.js"></script>` close-of-body
+  tags, which silently breaks all gloss buttons on the page
+  (the buttons render but nothing happens when clicked). The
+  audit script (`scripts/check-glossings.js`) does not currently
+  check for this, and so the issue was not caught until a
+  manual structural review. Worth adding to the audit script;
+  see the deferred items in the next-up list at the end of this
+  block.
+- First-mention button drift: when prose is drafted out of
+  document order (typically with `accordion` and `bajo-sexto`
+  on Track 4, where the first body-prose mentions came before
+  the conjunto-orquesta-ranchera survey paragraph that the
+  buttons originally landed on), the buttons need to be moved
+  back to the actual first mention. The audit script's first-
+  mention check is conservative enough that it does not flag
+  this kind of drift, only fully-missed glossings. Worth a
+  manual scan before any track ships.
+
+Pending Module 3 work (in the order I would tackle next):
+1. `module3/index.html` landing page. Should mirror the
+   structure of `module1/index.html` and `module2/index.html`,
+   listing the framing reading and the five anchor tracks with
+   short orienting paragraphs.
+2. `module3/discussion.md`. Discussion thread, with the Canvas
+   paste block.
+3. `module3/quiz.md`. Low-stakes recall quiz plus listening
+   identification, in the same shape as `module2/quiz.md`.
+4. The deferred items accumulated across the arc:
+   - `chord-progression` cross-page glossings: module2/roots-
+     and-routes line 38, module2/track1-bessie-smith line 80,
+     module2/track3-brown lines 66 and 72.
+   - `onomatopoeia` cross-page gloss: module1/track2-cruz.
+   - `corpus-christi` cross-page gloss: module3/roots-and-routes
+     line 28.
+   - Audit script improvements: validate definition strings
+     against textContent constraint (flag `<`, `>`, HTML
+     entities); treat each glossary key independently rather
+     than once-buttoned-anywhere clearing; check that every
+     page using `class="glossable"` also includes the two
+     expected `<script>` tags (this would have caught the
+     Track 3 missing-scripts bug); catch first-mention-skipped
+     drift.
+   - Astrodome attendance figure standardization across the
+     framing reading (60,000) and Track 4 ("more than 60,000").
+     Wikipedia gives 66,994 specifically.
+   - Track 4 photo attribution thin (see above).
+   - Forward-reference links to Modules 4 and 6 in the framing
+     reading: still broken anchor tags at lines 189 and 201.
+     Decision deferred until those modules exist.
 
 ## Term and dates
 
@@ -797,14 +765,15 @@ reviewed.
   This session pushed the count to 219 with the Bessie
   Smith Track 1 cluster.
 
-**Module 3: Latin diasporic traditions.** Partial.
-- Anchor track lineup decided and locked. Five tracks,
-  chronological 1962-2002, ending pre-Bad-Bunny: Tito Puente
-  "Oye Como Va" (1962, mambo/cha-cha-chá NY); Joe Bataan
-  "Gypsy Woman" (1967, Latin soul/boogaloo, Spanish Harlem);
-  Santana "Oye Como Va" (1970, Latin rock, Bay Area Chicano
-  scene, direct Puente cover); Selena "Bidi Bidi Bom Bom"
-  (1994, Tejano, Texas-Mexico borderland); Tego Calderón
+**Module 3: Latin diasporic traditions.** Anchor-tracks set
+complete; landing page, discussion, and quiz still pending.
+- Anchor track lineup, locked. Five tracks, chronological
+  1962-2002, ending pre-Bad-Bunny: Tito Puente "Oye Como Va"
+  (1962, mambo/cha-cha-chá NY); Joe Bataan "Gypsy Woman"
+  (1967, Latin soul/boogaloo, Spanish Harlem); Santana
+  "Oye Como Va" (1970, Latin rock, Bay Area Chicano scene,
+  direct Puente cover); Selena "Bidi Bidi Bom Bom" (1994,
+  Tejano cumbia, Texas-Mexico borderland); Tego Calderón
   "Pa' Que Retozen" (2002, Afro-Puerto Rican reggaeton,
   artistic-political anchor track since the framing reading
   carries Daddy Yankee's "Gasolina" 2004 as the commercial-
@@ -814,105 +783,95 @@ reviewed.
   Module 1 track. The framing reading's labels table also
   documents the Puerto-Rican-mixtape-to-major-label arc that
   produced reggaeton as commercial genre.
-- `module3/roots-and-routes.html`: full framing reading,
-  shipped in the previous session. Title: "Many Roots, Shared
-  Routes." 254 lines, in the Module 2 framing-reading length
-  range. The structural decision was that Module 3 needed a
-  full framing reading parallel to Module 2, not just a shorter
-  framing on the landing page, because the territory it covers
-  (Cuban + Puerto Rican + Mexican + Dominican + Panamanian +
-  Colombian, across the Caribbean and the Mexican-American
-  borderland) is dispersed enough that it earns the longer
-  treatment. This session added two retroactive edits: the
-  What's-coming preview's first prose mention of "Oye Como Va"
-  is now linked to the new Track 1 listening guide, and the
-  Track 1 dating in that preview was cleaned up from "1962/63"
-  to "1962." A retroactive first-mention `palladium-ballroom`
-  button was also added in the Section 5 dialogue paragraph
-  where the Palladium first appears in body prose, to keep
-  the audit-clean status.
-- The labels table in Section 4 uses a new `.schedule.labels-
-  table` CSS modifier (introduced in commit `4bc3685`) that
-  splits `(city, dates)` onto a metadata line below the label
-  name. The same modifier was applied to the Module 2 labels
-  table at the same time for consistency. The syllabus
-  schedule table remains on the bare `.schedule` class with
-  its original `nowrap` first-column behavior, which is right
-  for short date strings like "Sun, July 12."
-- `module3/track1-puente.html`: full listening guide for Tito
-  Puente, "Oye Como Va" (Tico, recorded at the Hotel Riverside
-  Plaza Ballroom in Manhattan, produced by Teddy Reig, released
-  on the LP El Rey Bravo in 1962). 111 lines, within the Module
-  2 envelope (104-117). Hero photo flagged for image-rights
-  verification before launch (the Mambo Gozón cover-art collage
-  from Grosso! Recordings, slightly outside the Getty-editorial
-  category most of the other hero photos sit in). Cross-links
-  forward to track3-santana.html (the Santana cover, eight
-  years later) and backward to Module 1's Cruz/Fania track
-  (texture comparison) and Module 2's Brown / "Say It Loud"
-  (single-vamp form comparison). Two retroactive button
-  additions this session, caused by the new conga and trombone
-  glossary entries hitting first prose mentions on the page
-  that had not been glossed because the entries didn't exist
-  at the time of the original Track 1 ship: trombone in the
-  personnel sentence, conga in the rhythmic-figure paragraph.
-  The framing reading's first prose mention of "Oye Como Va"
-  is linked here.
-- `module3/track2-bataan.html`: full listening guide for Joe
-  Bataan, "Gypsy Woman" (Fania, 1967, produced and musical-
-  directed by Johnny Pacheco, recorded in a single day-long
-  session by Bataan with the Latin Swingers). Shipped this
-  session. Detailed in the Last-updated header at the top of
-  this file. 106 lines, within the Module 2/3 envelope. Hero
-  photo is the iconic 1979 Rap-O Clap-O publicity image Inés
-  sent, treated transparently in the same designed-publicity-
-  image category as the Module 3 Track 1 cover-art photo;
-  flagged for image-rights verification (Salsoul Records /
-  Bataan Music) before launch. Cross-links: forward to
-  track3-santana.html (the Latin rock node coming next);
-  backward to Module 1 Track 1 Cooke (timbre comparison of
-  doo-wop-trained vs. gospel-trained voices); backward to
-  Module 1 Track 2 Cruz/Fania-All-Stars (texture comparison
-  between the 1967 startup-Fania boogaloo band and the 1974
-  mature-Fania orchestra); backward to Module 3 Track 1
-  Puente (form comparison between alternating verse-and-break
-  vs. single vamp). Reflective question pushes students to
-  argue from a specific moment about how the multiply-mixed
-  identities of the musicians (Bataan not Puerto Rican by
-  parentage, his band of teenage Puerto Rican neighborhood
-  kids putting an English-language Mayfield song through a
-  Cuban-rhythm filter on Pacheco's brand-new gold label) map
-  to the categories the course uses. The framing reading's
-  first prose mention of "Gypsy Woman" is linked here, and
-  the framing reading's Track 2 preview paragraph received a
-  factual correction this session: the "Afro-Filipino-Puerto
-  Rican" line was wrong (Bataan's parents are Filipino and
-  African American; the Puerto Rican formation is cultural, not
-  parental), and is now corrected to match what Module 1's
-  cultural-roots.html and the existing joe-bataan glossary
-  entry both already had right.
-- Module 3 has not yet shipped: the landing page
-  (`module3/index.html`); the three remaining listening guides
-  (`module3/track3-santana.html`, `module3/track4-selena.html`,
-  `module3/track5-tego.html`); the discussion
-  (`module3/discussion.md`) and the checkpoint quiz
-  (`module3/quiz.md`). The Track 2 nav footer points to
-  `track3-santana.html`, which currently 404s; building the
-  Santana "Oye Como Va" Track 3 guide is the natural next
-  step. Track 3 is structurally interesting because it is the
-  cover-by-an-eight-years-later-Bay-Area-rock-band of the song
-  the Track 1 listening guide already worked through, so much
-  of the conceptual framing is already built; the Track 3 work
-  is mostly close listening on what the Santana arrangement
-  preserves, alters, and loses against the 1962 Tico recording.
-- Glossary expansion across the Module 3 build to date: 69 new
+- `module3/roots-and-routes.html`: full framing reading. Title:
+  "Many Roots, Shared Routes." 254 lines, in the Module 2
+  framing-reading length range. The structural decision was
+  that Module 3 needed a full framing reading parallel to
+  Module 2, not just a shorter framing on the landing page,
+  because the territory it covers (Cuban + Puerto Rican +
+  Mexican + Dominican + Panamanian + Colombian, across the
+  Caribbean and the Mexican-American borderland) is dispersed
+  enough that it earns the longer treatment. The What's-coming
+  preview paragraphs all link to the corresponding listening
+  guides at first prose mention, and the labels table has had
+  first-mention buttons retrofitted across the build for new
+  glossary entries that landed after the framing reading
+  itself shipped.
+- The labels table in Section 4 uses a `.schedule.labels-table`
+  CSS modifier (introduced in commit `4bc3685`) that splits
+  `(city, dates)` onto a metadata line below the label name.
+  The same modifier was applied to the Module 2 labels table
+  for consistency. The syllabus schedule table remains on the
+  bare `.schedule` class with its original `nowrap` first-
+  column behavior, which is right for short date strings like
+  "Sun, July 12."
+- All five listening guides shipped, all in the canonical Module
+  3 envelope (155-167 lines including the family-tree diagram).
+  Each follows the canonical template: course header, track
+  title, YouTube play-button card, hero photo, h2 Context with
+  four h3 sub-sections, family-tree SVG diagram at the pivot
+  point, h2 Things to listen for with four First/Second/Third/
+  Fourth listening paragraphs, reflective question wrapper,
+  sources, nav, glossary scripts. Detailed track-by-track
+  description is in the Last-updated block at the top of this
+  file; the short version follows.
+  - `module3/track1-puente.html`: Tito Puente, "Oye Como Va"
+    (Tico, 1962). 166 lines.
+  - `module3/track2-bataan.html`: Joe Bataan, "Gypsy Woman"
+    (Fania, 1967). 158 lines.
+  - `module3/track3-santana.html`: Carlos Santana, "Oye Como
+    Va" (Columbia, Abraxas, 1970). 155 lines.
+  - `module3/track4-selena.html`: Selena, "Bidi Bidi Bom Bom"
+    (EMI Latin, Amor Prohibido, 1994). 167 lines.
+  - `module3/track5-tego.html`: Tego Calderón, "Pa' Que Retozen"
+    (White Lion / BMG U.S. Latin, El Abayarde, 2002). 157
+    lines.
+- All five tracks have family-tree SVG diagrams shipped at the
+  pivot point between Context and Things to listen for. Visual
+  conventions match across the set: viewBox 720 wide, Courier
+  Prime font, cool blue-grey palette of the site's typewriter
+  aesthetic, dark accent fill on the highlighted track endpoint
+  with cream text, time axis at bottom with date anchors. The
+  five together give students a continuous visual mental map
+  of Latin diasporic music in the United States from the late
+  nineteenth century through 2002. Detailed per-diagram
+  description is in the Last-updated block.
+- Hero photos for all five tracks are in place. Track 1
+  (Mambo Gozón cover-art collage) and Track 2 (1979 Rap-O
+  Clap-O publicity image, Salsoul Records / Bataan Music) are
+  flagged for image-rights verification before launch. Track 3
+  (Tucker Ransom, Carlos at Woodstock 1969), Track 4 (Selena
+  studio publicity portrait, photographer not identified in
+  available sources), and Track 5 (Coburn Dukehart for NPR,
+  Tego outside El Sitio in Santurce) all have stronger
+  attribution but should still be verified in the same
+  educational-fair-use category as the existing KQED photos.
+  See "Image rights to verify before launch" further down for
+  the full status; Track 4 in particular has stronger photo
+  candidates available (Al Rendon 1992, John Dyer 1992) if a
+  swap is wanted.
+- Glossary expansion across the Module 3 build: 121 new
   entries, of which 40 came in with the framing reading, 15
-  came in with the Track 1 guide, and 14 came in with the
-  Track 2 guide this session (frankie-lymon, dragons-gang,
-  coxsackie, latin-swingers, tropicoro-ballroom, joe-cuba,
-  pete-rodriguez, the-impressions, jerry-masucci,
-  salsoul-records, rap-o-clap-o, conga, trombone, nuyorican).
-  Glossary count: 377, up from 307 at end of Module 2.
+  with the Track 1 guide, 14 with the Track 2 guide, 14 with
+  the Track 3 guide, 18 with the Track 4 guide and the polka
+  retrofit (selena, lake-jackson, corpus-christi,
+  abraham-quintanilla, ab-quintanilla, pete-astudillo,
+  chris-perez, selena-y-los-dinos, amor-prohibido,
+  q-productions, emi-latin, onomatopoeia, guacharaca,
+  chord-progression, clave, polka, plus rico-reyes from the
+  Track 3 alignment patch and accordion / bajo-sexto retrofits
+  on Track 4), and 19 with the Track 5 guide (tego-calderon,
+  el-abayarde-album, loiza, santurce, escuela-libre-de-musica,
+  ismael-rivera, vico-c, eddie-dee, dj-joe, rafy-mercenario,
+  white-lion-records, jiggiri-records, elias-de-leon, perreo,
+  velda-gonzalez, el-general, dj-playero, daddy-yankee, nwa).
+  Glossary count: 428, up from 307 at end of Module 2 and 392
+  at end of the previous-session Track 3 ship.
+- Module 3 has not yet shipped: the landing page
+  (`module3/index.html`); the discussion (`module3/discussion.md`)
+  and the checkpoint quiz (`module3/quiz.md`). Track 5's nav
+  footer points to `index.html`, which currently 404s;
+  building the landing page is the natural next step.
 
 **Final project module.** Fully built.
 - `final-project/index.html`: student-facing landing page with
@@ -936,18 +895,14 @@ Track 1, 2, 3, and 4 hero photos still need verification or
 swap before the course goes live (see "Image rights to verify
 before launch" further down).
 
-**Module 3: Latin diasporic traditions.** Partial. The framing
-reading and Tracks 1, 2, and 3 (Puente "Oye Como Va," Bataan
-"Gypsy Woman," Santana "Oye Como Va") are shipped (see What is
-complete and live). What remains: landing page
-(`module3/index.html`), two remaining listening guides (Selena
-"Bidi Bidi Bom Bom," Tego Calderón "Pa' Que Retozen"),
-`discussion.md`, and `quiz.md`. Each remaining listening guide
-will follow the Module 2 envelope (104-117 lines) and the
-established four-section context plus four-prompt "Things to
-listen for" structure. Track 3's nav footer currently points
-to `track4-selena.html` which 404s; building the Selena Track
-4 guide is the natural next step.
+**Module 3: Latin diasporic traditions.** Anchor-tracks set
+complete (framing reading plus all five listening guides plus
+the five family-tree diagrams; see What is complete and live
+for detail). What remains: landing page (`module3/index.html`),
+the discussion (`module3/discussion.md`), and the checkpoint
+quiz (`module3/quiz.md`). Track 5's nav footer currently points
+to `index.html` which 404s; building the landing page is the
+natural next step.
 
 The framing reading also flagged a small set of labels-table
 factual claims for verification before launch (in addition to
@@ -960,6 +915,24 @@ image rights):
   complicated and worth verifying that both city labels are
   defensible.
 - Q-Productions founding year claimed as 1986; double-check.
+
+A handful of small Module 3 cleanup items also accumulated
+across the build that are worth a single sweep before the
+module's discussion and quiz get written, or that could go
+into a future "polish pass" commit:
+- `chord-progression` cross-page glossings: module2/roots-
+  and-routes line 38, module2/track1-bessie-smith line 80,
+  module2/track3-brown lines 66 and 72.
+- `onomatopoeia` cross-page gloss: module1/track2-cruz.
+- `corpus-christi` cross-page gloss: module3/roots-and-routes
+  line 28.
+- Astrodome attendance figure standardization: the framing
+  reading says "60,000" and Track 4 says "more than 60,000."
+  Wikipedia gives 66,994 specifically (Selena Live! The Last
+  Concert article). Pick one and use it consistently.
+- Forward-reference links to Modules 4 and 6 in the framing
+  reading: still broken anchor tags at lines 189 and 201.
+  Decision deferred until those modules exist.
 
 **Modules 4 and 5.** None yet drafted. Each will follow
 the `module1/` pattern: an `index.html` landing page, the
@@ -1451,6 +1424,29 @@ reason. They are documented in more detail in the README's
   on the first column, caps it at `max-width: 14rem`. The
   syllabus schedule table stays on the bare `.schedule` class
   with its original `nowrap` first-column behavior.
+- Listening-guide family-tree diagrams: established as a
+  per-track convention across the Module 3 anchor-tracks set,
+  with one inline SVG diagram per track sitting at the pivot
+  point between the four-h3 Context section and the four-prompt
+  "Things to listen for" section. Visual conventions: viewBox
+  720 wide, height set to fit (340-440 depending on stream
+  count), Courier Prime font throughout, the cool blue-grey
+  palette of the site's typewriter aesthetic (#1f2933 text,
+  #5b6770 muted, #36546f accent stroke and connector lines,
+  #e6e9ee fill, #d4dae2 emphasis fill, #f4f1ea cream inverse
+  text on the dark accent endpoint), 1.5px stroke for box
+  borders, 1.2px for connector lines, time axis at the bottom
+  with date anchors below, dashed lines for "feedback influence"
+  or displacement, solid lines for direct descent. The
+  highlighted track endpoint uses dark accent (#36546f) fill
+  with cream text. Each diagram has a detailed figcaption that
+  flags the simplifications the diagram makes. The diagrams
+  share visual language across the set so that students reading
+  through the module accumulate a continuous mental map.
+  Modules 4, 5, and 6 should follow the same convention if the
+  per-track family-tree pattern continues to make sense; the
+  CSS support is already in place at `figure svg.diagram` in
+  `assets/style.css` line 305.
 - Visual identity: cool slate type, cool blue links, warm
   cream background, warm rust glossings (#7a4a3a). Locked.
 
