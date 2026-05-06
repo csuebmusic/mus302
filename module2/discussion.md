@@ -1,44 +1,45 @@
-# Module 2 Discussion: Two Tracks in Conversation
+# Module 2 Discussion: Pick a Reflective Question
 
-This is the discussion thread for Module 2. The frame is different from Module 1. Where Module 1 asked you to pick one track and write about your strongest reaction, Module 2 asks you to put two tracks in conversation with each other and say what the juxtaposition reveals. The chronological arrangement of the five anchor tracks is built to make those conversations easy to hear.
+This is the discussion thread for Module 2. The work happens in two stages: an initial post in which you pick one of the five reflective questions at the end of the Module 2 listening guides and respond to it, and two responses to classmates' posts that Canvas will assign you automatically after the initial-post deadline.
 
-## The prompt
+## How it works
 
-Pick two of the five Module 2 anchor tracks (Bessie Smith with Louis Armstrong, Sister Rosetta Tharpe, James Brown, Grandmaster Flash and the Furious Five, Beyoncé) and put them in conversation. The conversation can take any of these shapes, or another shape you propose:
+Each of the five Module 2 listening guides ends with a reflective question. The questions are:
 
-A thread that runs from the earlier track to the later one. Something the earlier recording sets up (a vocal approach, a textural choice, a relationship between voice and instrument, a way of doing political work) that the later recording inherits, transforms, or argues with. The framing reading made this kind of argument repeatedly: from spirituals to recorded blues to gospel to soul to funk to hip hop to contemporary R&B, with each generation carrying something forward and changing it.
+- **Bessie Smith with Louis Armstrong, "St. Louis Blues" (1925)**: T-Bone Walker said "you can't dress up the blues" and that "St. Louis Blues" is not really blues. What do you hear in Smith's performance that complicates Walker's claim, and what is at stake in defining what counts as the blues?
+- **Sister Rosetta Tharpe, "Strange Things Happening Every Day" (1944)**: Pick one moment in the recording and argue what that moment is doing politically as well as musically. Who was the moment for, who might it have unsettled in 1944 and after, and does its political work depend on the lyrics or on the sound of Tharpe doing what she is doing?
+- **James Brown, "Say It Loud — I'm Black and I'm Proud" (1968)**: Pick a moment in the call-and-response between Brown and the children's chorus. What is that moment doing politically, and how do you hold its political force alongside the fact that Brown performed the song five months later at Richard Nixon's inauguration?
+- **Grandmaster Flash and the Furious Five, "The Message" (1982)**: Pick a moment and argue which mode of political work it is doing (content, form, or presence). Then take a position on where the song's politics is most powerful.
+- **Beyoncé, "Formation" (2016)**: Pick a moment, name the mode of political work it does, and take a position on whether the song's political force depends on how we resolve the appropriation questions raised by the Mya estate lawsuit and the Black New Orleanian critics.
 
-A productive contrast. Two tracks that, listened to side by side, make each other audible in a way neither does alone. Tharpe's electric guitar against Smith's cornet, Brown's gravelly preaching against Beyoncé's deliberate vocal fry, "The Message" stripping out almost everything against Bessie Smith's recording having almost nothing to strip.
-
-A shared thing they each do differently. The framing reading named three modes of political work: content (what a song says), form (how a song is built), and presence (who is in the room and what they sound like). Several of these tracks do political work in more than one mode, but they distribute the work differently. You could pick two and argue about how each one weights those three modes, and what that difference does.
-
-Whatever shape your conversation takes, it has to rest on specific moments in both recordings. Not "Brown's track is more political than Smith's" but something more like: the moment in "Say It Loud" when Brown lets the children's chorus carry the line on their own, before he comes back in over the top, is doing something that Tharpe's guitar break in the middle of "Strange Things Happening Every Day" also does, in a different register: a voice trained in church is telling you, in an idiom that only that training could produce, exactly what the song is for.
+Pick one. Read the listening guide for the track if you have not already, then write your post in response to that track's reflective question. The full questions live in the listening guides themselves, with more context than the summaries above.
 
 ## What a strong post looks like
 
 A strong post does four things:
 
-- It picks two specific tracks. It names a specific moment in each. Timestamps are great. So is a precise description of what is happening in the moment.
-- It makes a claim about what the conversation between those two moments reveals. The claim should be something a different listener could disagree with.
-- It uses the vocabulary the readings have given you. Timbre, texture, form, gesture; content, form, presence as the three modes of political work; the lineage of genres in the framing reading's diagram. You do not have to use all of these. You should use the ones that fit your argument.
-- It is yours. It does not summarize the listening guides. It tells me what you heard in those two tracks and what you think the juxtaposition does.
+- It picks one specific track and engages with that track's reflective question directly. Quoting back part of the question is fine; your job is to answer it.
+- It rests on at least one specific moment in the recording. Timestamps are great. So is a precise description of what is happening in the moment.
+- It uses the vocabulary the readings have given you. Timbre, texture, form, gesture; content, form, presence as the three modes of political work; the lineage diagram in the framing reading. You do not have to use all of these. You should use the ones that fit your argument.
+- It makes a claim someone could disagree with. The reflective questions are designed to invite a position, not a summary.
 
 Two to four paragraphs is the right length. Longer is fine if you have more to say. Shorter is fine if you say it well.
 
 ## Responding to classmates
 
-After your initial post, respond to at least two classmates' posts. Try to respond to people who picked different pairs of tracks than you did, so the thread covers more of the module rather than ten posts on the same two songs. Good responses do one or more of these things:
+After the initial-post deadline, Canvas will assign you two classmates' posts to respond to. You will not pick them yourself; Canvas's peer-review tool handles assignment automatically. This means you will likely be reading posts on tracks you did not pick, which is part of the design: the thread spreads coverage across all five tracks rather than concentrating on the most popular questions.
 
-- Add to the conversation a classmate set up by pointing at a third track that fits the same argument, or at a moment in one of their two tracks they did not address.
-- Disagree thoughtfully. If you heard the same juxtaposition differently, say so. "I heard that moment doing something else, here is what" is welcome.
-- Ask a question that pushes the argument further. Not "great post!" but "do you think Mel's final verse on 'The Message' is doing the same expanding-tension thing Beyoncé does with the late-arriving brass stab, or a different thing?"
+Good responses do one or more of these things:
 
-The thread will grow into a map of the module's connections. Treat it that way.
+- Engage with the specific moment your classmate pointed to. If you heard it differently, say so. "I heard that moment doing something else, here is what" is welcome.
+- Add to the argument by pointing at a moment in the same track that fits or complicates what your classmate said.
+- Connect the post to a moment in another module track or in Module 1. Cross-track connections are part of the work.
+- Ask a question that pushes the argument further. Not "great post!" but something more like: "you said the children's chorus on 'Say It Loud' is doing the political work; do you think Brown's vocal on the verse is doing different work, or the same work in a different register?"
 
 ## Logistics
 
 - Initial post: due by Sunday, July 19 (the combined Modules 2 through 5 deadline)
-- Two responses: also due by Sunday, July 19
+- Two assigned responses: also due by Sunday, July 19
 - Length: two to four paragraphs for the initial post, a paragraph or two for each response
 - AI use: allowed with disclosure, per the generative AI policy in the syllabus. If you used AI for this post, end your post with a one-sentence acknowledgment ("I used [tool] to [purpose].")
 
@@ -46,30 +47,34 @@ The thread will grow into a map of the module's connections. Treat it that way.
 
 This discussion supports SLO 2 (communicating critical thoughts and judgments about the creative work of different artists), SLO 3 (cultural connections), and SLO 5 (identifying and discussing forms and influences within and across traditions). It also supports the GE-UD-3 outcome on applying the methodologies of the arts and humanities, and the Diversity Overlay outcome on describing the histories and views of cultural groups.
 
+## Internal note (instructor only, do not paste below)
+
+This discussion uses the new "pick a reflective question" pattern that replaces the previous "two tracks in conversation" frame. The change moves the close-listening work into the listening guides themselves and lets Canvas's peer-review tool spread coverage across all five tracks. Same pattern applies in Modules 3, 4, and 5.
+
+Setup in Canvas: post the discussion as usual, set initial-post deadline to Sunday, July 19, then enable the discussion's peer-review feature to assign two responses per student automatically after the initial-post deadline. Verify before the deadline that peer-review is set to "automatic" rather than "manual" so the assignments fire on the deadline.
+
 ---
 
 # PASTE INTO CANVAS BELOW THIS LINE
 
-This is the discussion thread for Module 2. The frame is different from Module 1. Where Module 1 asked you to pick one track and write about your strongest reaction, Module 2 asks you to put two tracks in conversation with each other and say what the juxtaposition reveals. The chronological arrangement of the five anchor tracks is built to make those conversations easy to hear.
+This is the discussion thread for Module 2. The work happens in two stages: an initial post in which you pick one of the five reflective questions at the end of the Module 2 listening guides and respond to it, and two responses to classmates' posts that Canvas will assign you automatically after the initial-post deadline.
 
-The prompt.
+How it works.
 
-Pick two of the five Module 2 anchor tracks (Bessie Smith with Louis Armstrong, Sister Rosetta Tharpe, James Brown, Grandmaster Flash and the Furious Five, Beyoncé) and put them in conversation. The conversation can take any of these shapes, or another shape you propose. First, a thread that runs from the earlier track to the later one: something the earlier recording sets up (a vocal approach, a textural choice, a relationship between voice and instrument, a way of doing political work) that the later recording inherits, transforms, or argues with. The framing reading made this kind of argument repeatedly: from spirituals to recorded blues to gospel to soul to funk to hip hop to contemporary R&B, with each generation carrying something forward and changing it. Second, a productive contrast: two tracks that, listened to side by side, make each other audible in a way neither does alone. Tharpe's electric guitar against Smith's cornet, Brown's gravelly preaching against Beyoncé's deliberate vocal fry, "The Message" stripping out almost everything against Bessie Smith's recording having almost nothing to strip. Third, a shared thing they each do differently. The framing reading named three modes of political work: content (what a song says), form (how a song is built), and presence (who is in the room and what they sound like). Several of these tracks do political work in more than one mode, but they distribute the work differently. You could pick two and argue about how each one weights those three modes, and what that difference does.
+Each of the five Module 2 listening guides ends with a reflective question. The questions ask, in short: what does Bessie Smith's performance of "St. Louis Blues" do that complicates T-Bone Walker's claim that the song is not really blues, and what is at stake in defining what counts as the blues; what is one moment of Sister Rosetta Tharpe's "Strange Things Happening Every Day" doing politically as well as musically, who was it for, and who might it have unsettled; what is one moment in the call-and-response between James Brown and the children's chorus on "Say It Loud" doing politically, and how do you hold its political force alongside Brown performing the song five months later at Richard Nixon's inauguration; which mode of political work (content, form, or presence) is one moment in "The Message" doing, and where is the song's politics most powerful; and what mode of political work does one moment in "Formation" do, with a position on whether the song's political force depends on how we resolve the appropriation questions raised by the Mya estate and Black New Orleanian critics. The full questions live in the listening guides themselves, with more context than the summaries above.
 
-Whatever shape your conversation takes, it has to rest on specific moments in both recordings. Not "Brown's track is more political than Smith's" but something more like: the moment in "Say It Loud" when Brown lets the children's chorus carry the line on their own, before he comes back in over the top, is doing something that Tharpe's guitar break in the middle of "Strange Things Happening Every Day" also does, in a different register: a voice trained in church is telling you, in an idiom that only that training could produce, exactly what the song is for.
+Pick one of these reflective questions. Read the listening guide for the track if you have not already, then write your post in response to that track's reflective question.
 
 What a strong post looks like.
 
-A strong post does four things. First, it picks two specific tracks and names a specific moment in each (timestamps are great, and so is a precise description of what is happening in the moment). Second, it makes a claim about what the conversation between those two moments reveals; the claim should be something a different listener could disagree with. Third, it uses the vocabulary the readings have given you (timbre, texture, form, gesture; content, form, presence; the lineage diagram in the framing reading); you do not have to use all of these, but you should use the ones that fit your argument. Fourth, it is yours: it does not summarize the listening guides, it tells me what you heard in those two tracks and what you think the juxtaposition does.
+A strong post does four things. First, it picks one specific track and engages with that track's reflective question directly; quoting back part of the question is fine, but your job is to answer it. Second, it rests on at least one specific moment in the recording (timestamps are great, and so is a precise description of what is happening in the moment). Third, it uses the vocabulary the readings have given you (timbre, texture, form, gesture; content, form, presence; the lineage diagram in the framing reading); use the ones that fit your argument. Fourth, it makes a claim someone could disagree with. The reflective questions are designed to invite a position, not a summary.
 
 Two to four paragraphs is the right length. Longer is fine if you have more to say. Shorter is fine if you say it well.
 
 Responding to classmates.
 
-After your initial post, respond to at least two classmates' posts. Try to respond to people who picked different pairs of tracks than you did, so the thread covers more of the module rather than ten posts on the same two songs. Good responses add to the conversation a classmate set up by pointing at a third track that fits the same argument or at a moment in one of their two tracks they did not address; or they disagree thoughtfully (if you heard the same juxtaposition differently, say so, since "I heard that moment doing something else, here is what" is welcome); or they ask a question that pushes the argument further (not "great post!" but "do you think Mel's final verse on 'The Message' is doing the same expanding-tension thing Beyoncé does with the late-arriving brass stab, or a different thing?").
-
-The thread will grow into a map of the module's connections. Treat it that way.
+After the initial-post deadline, Canvas will assign you two classmates' posts to respond to. You will not pick them yourself; Canvas's peer-review tool handles assignment automatically. This means you will likely be reading posts on tracks you did not pick, which is part of the design: the thread spreads coverage across all five tracks rather than concentrating on the most popular questions. Good responses engage with the specific moment your classmate pointed to (if you heard it differently, say so); or add to the argument by pointing at another moment in the same track that fits or complicates what your classmate said; or connect the post to a moment in another module track or in Module 1; or ask a question that pushes the argument further (not "great post!" but something more like: "you said the children's chorus on 'Say It Loud' is doing the political work; do you think Brown's vocal on the verse is doing different work, or the same work in a different register?").
 
 Logistics.
 
-Initial post and two responses due by Sunday, July 19 (the combined Modules 2 through 5 deadline). Length: two to four paragraphs for the initial post, a paragraph or two for each response. AI use is allowed with disclosure, per the generative AI policy in the syllabus. If you used AI for this post, end your post with a one-sentence acknowledgment, for example: "I used Claude to help me find a clearer way to describe the brass stab at 0:55."
+Initial post and two assigned responses are both due by Sunday, July 19 (the combined Modules 2 through 5 deadline). Length: two to four paragraphs for the initial post, a paragraph or two for each response. AI use is allowed with disclosure, per the generative AI policy in the syllabus. If you used AI for this post, end your post with a one-sentence acknowledgment, for example: "I used Claude to help me find a clearer way to describe the children's chorus on 'Say It Loud.'"

@@ -5,12 +5,13 @@ session that ships meaningful work. The README has the durable
 conventions and locked decisions; this file has what is done, what
 is next, and what is open.
 
-Last updated: end of a Module 3 polish session. Three commits since the
-last STATUS update: README and STATUS trim, Track 5 deep-dive cleanup
-(em-dash and redundancy pass), and a Module 3 fresh-eyes pass across
-the framing reading and Tracks 1, 2, and 4. The Module 3 anchor-tracks
-set is now polished. What remains for the module is the landing page,
-discussion, and quiz.
+Last updated: end of a Module 3 wrap-up session. The landing page
+(`module3/index.html`) shipped, and the discussion (`module3/
+discussion.md`) shipped in a new "pick a reflective question"
+pattern. Module 2's discussion (`module2/discussion.md`) was revised
+to the same new pattern. The pattern is now the locked Modules 2-5
+discussion shape; see "Locked decisions" below. Module 3 quiz
+(`module3/quiz.md`) is the only remaining wrap-up item.
 
 Glossary count: 428. Working tree clean.
 
@@ -34,12 +35,14 @@ chronological anchor-track listening guides (Bessie Smith with
 Armstrong 1925, Tharpe 1944, Brown 1968, Grandmaster Flash and the
 Furious Five 1982, Beyoncé 2016), discussion, and quiz.
 
-**Module 3: Latin diasporic traditions.** Anchor-tracks set complete.
-Framing reading (`roots-and-routes.html`, "Many Roots, Shared Routes,"
-with Pearson migration map and labels table), five chronological
-anchor-track listening guides each with an inline family-tree SVG
-diagram at the Context-to-listening-prompts pivot (Puente 1962,
-Bataan 1967, Santana 1970, Selena 1994, Tego Calderón 2002).
+**Module 3: Latin diasporic traditions.** Mostly built; only the
+checkpoint quiz still pending. Landing page, framing reading
+(`roots-and-routes.html`, "Many Roots, Shared Routes," with Pearson
+migration map and labels table), five chronological anchor-track
+listening guides each with an inline family-tree SVG diagram at the
+Context-to-listening-prompts pivot (Puente 1962, Bataan 1967, Santana
+1970, Selena 1994, Tego Calderón 2002), and the discussion. Quiz
+(`module3/quiz.md`) is the next step.
 
 **Final project module.** Fully built. Landing page, five Canvas
 markdown sources for the five graded checkpoints (proposal, annotated
@@ -47,12 +50,10 @@ bibliography, draft, peer review, final).
 
 ## What is pending
 
-**Module 3 wrap-up.**
-1. `module3/index.html` landing page, mirroring the Module 1 and
-   Module 2 pattern. Track 5's nav footer points to it and currently
-   404s; this is the natural next step.
-2. `module3/discussion.md`.
-3. `module3/quiz.md`.
+**Module 3 wrap-up.** Only `module3/quiz.md` remains. Pattern follows
+Module 2 quiz (`module2/quiz.md`): 12 questions, framing-reading
+coverage plus per-track factual recall and methodology-vocabulary
+application, structured-for-reading half plus Canvas paste block.
 
 **Module 3 small cleanup pass** (could go in one polish commit before
 or after the wrap-up):
@@ -75,8 +76,9 @@ rights below):
 
 **Modules 4 and 5.** None drafted. Each will follow the `module1/`
 pattern: an `index.html` landing page, listening guides for the
-module's anchor tracks, optional framing reading, `discussion.md`,
-and `quiz.md`.
+module's anchor tracks, optional framing reading, `discussion.md`
+in the new "pick a reflective question" pattern (see Locked
+decisions below), and `quiz.md`.
 - Module 4: Asian American traditions. Filipino American R&B and
   jazz, Asian American jazz movement, Filipino DJs and turntablism,
   Asian American hip hop, indie, electronic, K-pop crossover.
@@ -187,6 +189,30 @@ by a one-off Python scan rather than the audit script. Same fix
 direction. Most hits from the Python scan are false positives
 (proper nouns sharing words with technical terms, song titles,
 compound-vs-bare distinctions); eyeball before fixing.
+
+## Recently locked decisions
+
+These decisions were made during the build and should propagate to
+new modules. Migrate to the README's "Decisions worth remembering"
+section the next time README is touched.
+
+**Modules 2-5 discussion pattern.** Pick one of the listening guides'
+reflective questions and respond to it. After the initial-post
+deadline, Canvas's peer-review tool automatically assigns each
+student two classmates' posts to respond to. Two assigned responses,
+not student-chosen. The pattern moves the close-listening work into
+the listening guides themselves (where the reflective questions
+already exist as standalone prompts), reduces the per-discussion
+writing-and-feedback load for a sixty-student section, and lets
+Canvas spread coverage across all five tracks rather than letting
+the most popular two or three tracks attract all the responses.
+Module 1's discussion is a separate pattern (open thread, "pick one
+track and write about your strongest reaction") and stays on its
+existing shape because Module 1 anchors students to the methodology
+and is the only module with a fixed sequential position. The
+Modules 2-5 pattern requires Canvas's peer-review feature on the
+discussion to be set to "automatic" rather than "manual" so
+assignments fire on the deadline.
 
 ## Decisions still open
 
