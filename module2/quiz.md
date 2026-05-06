@@ -2,7 +2,7 @@
 
 A short quiz covering the framing reading and the five anchor tracks of Module 2. Twelve questions, multiple choice, low-stakes. Students may retake the quiz as many times as they want; highest score counts.
 
-The structured version below is for reading. The "PASTE INTO CANVAS" block further down has each question in plain text, ready to paste one at a time when building the Canvas quiz. The answer key is at the very bottom for instructor reference and should not be pasted into Canvas.
+The structured version below is for reading. The "PASTE INTO CANVAS" block further down has each question in plain text, ready to paste one at a time when building the Canvas quiz.
 
 ## Quiz introduction (paste into the Canvas quiz description box)
 
@@ -136,7 +136,7 @@ d. The drums drop out of the mix entirely.
 
 # PASTE INTO CANVAS BELOW THIS LINE
 
-Each question is below in plain text, ready to copy one at a time. Question stem, then four answer choices, each on its own line, unlabeled (so you can paste each one straight into Canvas's answer fields without having to delete the letter prefix). The correct answer for each is in the answer key at the very bottom of this file (do not paste the answer key into Canvas).
+Each question is below in plain text, ready to copy one at a time. Question stem, then four answer choices, each on its own line, unlabeled (so you can paste each one straight into Canvas's answer fields without having to delete the letter prefix).
 
 QUESTION 1
 
@@ -282,19 +282,3 @@ The Messy Mya sample plays for the first time.
 
 The drums drop out of the mix entirely.
 
----
-
-# Answer key (instructor reference; do not paste into Canvas)
-
-- **Q1: a.** From the "What 'foundational' means" section of the framing reading. The other options are explicitly things the reading argues against (b: other traditions are not derived from Black music, they have their own roots and routes), or false (c, d).
-- **Q2: a.** From the framing reading's introductory paragraph and from Gilroy's *The Black Atlantic* (1993), credited in the Sources section. Roots are where music came from; routes are where it traveled.
-- **Q3: a.** From the "Music as social commentary and political address" section of the framing reading. The three modes (content, form, presence) recur as the analytic vocabulary in the reflective questions of Brown, "The Message," and Beyoncé.
-- **Q4: a.** From the "From sacred to secular, and back" section. The reading argues that Black church music has been a place of musical training and that the recurring traffic between sacred and secular is one of the most consistent stories in the tradition; (b), (c), and (d) all contradict that argument.
-- **Q5: a.** From the Track 1 listening guide's "The recording" section. Smith voice, Armstrong cornet, Longshaw harmonium. (b) names the wrong instruments and the wrong pianist; (c) and (d) are factually wrong.
-- **Q6: a.** From the Track 1 listening guide's "The song before the singer" section, which quotes Handy's autobiography directly: "the tango was in vogue. I tricked the dancers by arranging a tango introduction, breaking abruptly into a low-down blues."
-- **Q7: a.** From the Track 2 listening guide's first context section. The other options are factually false: she was not excommunicated, she did not renounce gospel, she did not change denominations.
-- **Q8: a.** From the Track 2 listening guide's reception section. The chart was the Billboard "race records" chart in April 1945; the industry renamed it "rhythm and blues" in 1949 (a fact also covered in the framing reading's "Routes" section).
-- **Q9: a.** From the Track 3 listening guide's recording paragraph, with Charles Bobbitt's quote about driving the school bus into Watts and Compton.
-- **Q10: a.** From the Track 3 listening guide's third "Things to listen for" prompt. Single-vamp form, looped for three minutes, with the variation happening in Brown's vocals on top. The listening guide explicitly contrasts this with verse-chorus form.
-- **Q11: a.** From the Track 4 listening guide's third "Things to listen for" prompt. The verse-length progression 8/11/13/16/28 is in the listening guide and is sourced from the Library of Congress's National Recording Registry essay on the song.
-- **Q12: a.** From the Track 5 listening guide's fourth "Things to listen for" prompt, which names the brass stab entering at 0:55 as the moment that pulls the song out of trap and into New Orleans second-line territory.

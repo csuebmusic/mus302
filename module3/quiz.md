@@ -2,7 +2,7 @@
 
 A short quiz covering the framing reading and the five anchor tracks of Module 3. Twelve questions, multiple choice, low-stakes. Students may retake the quiz as many times as they want; highest score counts.
 
-The structured version below is for reading. The "PASTE INTO CANVAS" block further down has each question in plain text, ready to paste one at a time when building the Canvas quiz. The answer key is at the very bottom for instructor reference and should not be pasted into Canvas.
+The structured version below is for reading. The "PASTE INTO CANVAS" block further down has each question in plain text, ready to paste one at a time when building the Canvas quiz.
 
 ## Quiz introduction (paste into the Canvas quiz description box)
 
@@ -136,7 +136,7 @@ d. An American hip hop pattern from the early 1980s.
 
 # PASTE INTO CANVAS BELOW THIS LINE
 
-Each question is below in plain text, ready to copy one at a time. Question stem, then four answer choices, each on its own line, unlabeled (so you can paste each one straight into Canvas's answer fields without having to delete the letter prefix). The correct answer for each is in the answer key at the very bottom of this file (do not paste the answer key into Canvas).
+Each question is below in plain text, ready to copy one at a time. Question stem, then four answer choices, each on its own line, unlabeled (so you can paste each one straight into Canvas's answer fields without having to delete the letter prefix).
 
 QUESTION 1
 
@@ -282,19 +282,3 @@ A Cuban son rhythm that crossed to Puerto Rico in the 1970s.
 
 An American hip hop pattern from the early 1980s.
 
----
-
-# Answer key (instructor reference; do not paste into Canvas)
-
-- **Q1: a.** From the "What 'Latin diasporic' means here" section of the framing reading: "the communities it covers do not share a single national origin, a single migration history, a single relationship to the United States, or a single musical tradition." The other options misframe what the reading actually says.
-- **Q2: a.** From the framing reading's introductory paragraphs. The Module 3 modification of Gilroy's "roots and routes" is that the roots are plural (Afro-Cuban, Afro-Puerto Rican, mestizo Mexican, and the others named in the substrate section) while the routes are shared (the same New York neighborhoods, the same Bay Area scenes, the same Texas-Mexico borderland, the same Miami diaspora).
-- **Q3: a.** From the "What 'Latin diasporic' means here" section. The "diasporic relationship runs in reverse" framing is the reading's specific argument about Mexican-American musical communities in the Southwest. The reading also notes the multiple twentieth-century migration waves (Mexican Revolution refugees, the Bracero Program, postwar working families) that sit on top of the older population.
-- **Q4: a.** From the substrate section's Mexican paragraph: "the accordion-and-bajo sexto ensemble that is the signature sound of conjunto came out of the meeting of Mexican folk song with the polkas and waltzes of late-nineteenth-century German and Czech immigrants who settled in central Texas and northern Mexico." The Track 4 listening guide reinforces this in its "What Tejano cumbia was" section.
-- **Q5: a.** From the Track 1 listening guide's personnel paragraph: "Johnny Pacheco on flute (Pacheco was a Dominican flutist who would three years later co-found Fania Records and rename the New York Cuban-based dance idiom 'salsa')." The framing reading's labels-table also documents Pacheco as Fania's co-founder.
-- **Q6: a.** From the Track 1 listening guide's fourth "Things to listen for" prompt. The piano hits fall at positions 1, 3, 6, 8, 12, 14 of sixteen eighth notes, a 2-3, 2-4, 2-3 pattern that is symmetrical but does not align evenly with the four-beat grid. The mismatch is the song's central pleasure.
-- **Q7: a.** From the Track 2 listening guide's first context section. The other options are factually false.
-- **Q8: a.** From the Track 2 listening guide's third "Things to listen for" prompt. The pop-soul / boogaloo-break alternation is the song's central formal idea, distinct from the single-vamp form of Track 1's "Oye Como Va."
-- **Q9: a.** From the Track 3 listening guide's third "Things to listen for" prompt. The vamp form is what makes the cross-tradition transmission possible: each band can put its own voices in the hot seat without changing the underlying skeleton.
-- **Q10: a.** From the Track 4 listening guide's "What Tejano cumbia was" context section. The fusion of conjunto and orquesta tejana with the Colombian cumbia rhythm and contemporary pop production is the genre's defining 1990s form.
-- **Q11: a.** From the Track 4 listening guide's fourth "Things to listen for" prompt. The argument is that the non-linguistic title is doing two specific kinds of work at once: borrowing from the American pop tradition of nonsense-syllable hooks, and grounding the song in the heartbeat as a universal physical fact.
-- **Q12: a.** From the Track 5 listening guide's last paragraph of the recording section, and reinforced in the family-tree diagram's figcaption. The dembow's origin in Bobby "Digital" Dixon's riddim for Shabba Ranks's "Dem Bow" (1990) is the foundational fact for the genre's rhythmic identity.
