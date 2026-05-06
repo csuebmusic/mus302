@@ -65,7 +65,7 @@ Live pages on the site:
 
 - Module 1: https://csuebmusic.github.io/mus302/module1/
 - Module 2: https://csuebmusic.github.io/mus302/module2/
-- Module 3: https://csuebmusic.github.io/mus302/module3/ (landing page pending)
+- Module 3: https://csuebmusic.github.io/mus302/module3/
 - Final project: https://csuebmusic.github.io/mus302/final-project/
 - Syllabus: https://csuebmusic.github.io/mus302/syllabus.html
 
