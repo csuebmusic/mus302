@@ -34,7 +34,11 @@ misses (`waltz`, `Loíza` placement, `rhythm-section`,
    saxophone from a tenor voice, or a stage `MC` (master of
    ceremonies) from a hip hop MC, or a song-title `Santana` cross-link
    from the band-name first mention. Each surfaces as a warning that
-   is actually a wrong-sense match.
+   is actually a wrong-sense match. Related: the audit's quote-stripping
+   for song-and-album titles can leave possessive forms stranded
+   (Module 4 framing reading flags `Beyoncé` because the prose says
+   `Beyoncé's "Formation."` and the title strips out, leaving the
+   possessive next to the following sentence).
 4. **Compound-already-buttoned upstream.** When a longer compound key
    like `latin-trap` is buttoned at first mention, the audit also
    flags the bare `trap` later in the prose. Buttoning the bare term

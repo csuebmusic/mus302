@@ -2323,6 +2323,176 @@ var GLOSSARY = {
   "nwa": {
     label: "N.W.A.",
     definition: "Niggaz Wit Attitudes, a Compton, California hip hop group active 1986-1991, consisting at its commercial peak of Eazy-E, Dr. Dre, Ice Cube, MC Ren, and DJ Yella. Their 1988 album Straight Outta Compton is the foundational document of West Coast \u201cgangsta rap,\u201d a hip hop register centered on first-person accounts of Black urban life, police violence, and the political economy of the post-Reagan inner city. N.W.A.\u2019s confrontational style and their refusal to sanitize the political conditions they were rapping about influenced essentially every subsequent generation of hip hop, including the Spanish-language Caribbean rappers (Tego Calder\u00f3n among them) who absorbed the group as teenagers in the early 1990s."
+  },
+
+  /* ============================
+     Module 4 framing reading: identity and panethnicity
+     ============================ */
+
+  "panethnic": {
+    label: "Panethnic",
+    definition: "Describing an identity category that gathers multiple distinct ethnic groups under a single political label, usually for purposes of coalition-building, civil rights advocacy, or government data collection. \u201cAsian American,\u201d \u201cLatino,\u201d and \u201cAAPI\u201d are panethnic categories. The category bundles people whose ancestral languages, religions, and national histories may have nothing in common, on the grounds that their experience of US racial categorization makes them politically allied. Panethnic identities are usually invented for a specific historical purpose; \u201cAsian American\u201d was coined in 1968."
+  },
+
+  "indigenous": {
+    label: "Indigenous",
+    definition: "Describing the original inhabitants of a place, particularly when those inhabitants have been colonized or displaced by later arrivals. Indigenous peoples in the Americas, Pacific, and elsewhere often distinguish themselves from immigrant or settler populations because their relationship to the land predates the political states that now claim those lands. In the US context, Indigenous includes Native American nations, Native Hawaiians, and Native peoples of the US Pacific territories."
+  },
+
+  "pacific-islander": {
+    label: "Pacific Islander",
+    definition: "An umbrella term for the Indigenous peoples of Polynesia (Hawaii, Samoa, Tonga, Tahiti, others), Micronesia (Guam, the Marshall Islands, Federated States of Micronesia, others), and Melanesia (Fiji, Papua New Guinea, the Solomon Islands, others). The US federal government groups Pacific Islanders with Asian Americans for census and administrative purposes (the AAPI category), but many Pacific Islander organizers contest that grouping because Pacific Islander histories are histories of Indigenous peoples whose lands were colonized by the United States, rather than histories of immigration."
+  },
+
+  "south-asian": {
+    label: "South Asian",
+    definition: "An umbrella term for people whose ancestry traces to the South Asian subcontinent (India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, the Maldives) and the South Asian diaspora. South Asian Americans are the second-largest Asian American group in the US after Chinese Americans, with the population growing rapidly after the 1965 Hart-Celler Act\u2019s employment-based admissions opened the country to South Asian medical, engineering, and academic professionals."
+  },
+
+  "nisei": {
+    label: "Nisei",
+    definition: "The second generation of Japanese Americans: the US-born children of the Issei. Most Nisei were born between roughly 1910 and 1940, and most were US citizens by birth. The Nisei were the generation incarcerated as children and young adults during World War II, and later the generation that led the postwar fight for redress and reparations."
+  },
+
+  "issei": {
+    label: "Issei",
+    definition: "The first generation of Japanese immigrants to the United States: the people born in Japan who arrived in the late nineteenth and early twentieth centuries before the 1924 Immigration Act ended Japanese immigration. The Issei could not become US citizens (the law barred Asian-born immigrants from naturalization until 1952), and most were elderly by the time of World War II."
+  },
+
+  "sansei": {
+    label: "Sansei",
+    definition: "The third generation of Japanese Americans: the US-born grandchildren of the Issei and children of the Nisei. Most Sansei were born after World War II, and the Sansei generation came of age during the civil rights and Asian American movements of the 1960s and 1970s. Many of the founding figures of the Asian American Movement and the Asian American Jazz movement (including Mark Izu and Nobuko Miyamoto) were Sansei."
+  },
+
+  /* ============================
+     Module 4 framing reading: immigration law and political history
+     ============================ */
+
+  "exclusion-laws": {
+    label: "Asian exclusion laws",
+    definition: "The series of US laws, beginning with the 1882 Chinese Exclusion Act and culminating in the 1924 Immigration Act, that restricted or prohibited immigration from Asian countries and barred Asian-born immigrants already in the United States from becoming citizens. The exclusion regime was largely undone by the 1952 McCarran-Walter Act (which removed racial bars on naturalization) and the 1965 Hart-Celler Act (which removed national-origin quotas). The eight decades of legal exclusion fundamentally shaped the small, heavily restricted Asian American population that existed before 1965."
+  },
+
+  "chinese-exclusion-act": {
+    label: "Chinese Exclusion Act (1882)",
+    definition: "The first US law to restrict immigration based explicitly on ethnicity, signed by President Chester Arthur on May 6, 1882. The act barred most Chinese laborers from entering the United States and made existing Chinese residents ineligible for naturalization. It was extended in 1892 and made permanent in 1902, and was not formally repealed until the 1943 Magnuson Act. The Chinese Exclusion Act is the foundational moment of the US legal regime that treated Asian immigration as a problem to be managed by exclusion."
+  },
+
+  "immigration-act-1924": {
+    label: "Immigration Act of 1924",
+    definition: "The US law (also called the Johnson-Reed Act and sometimes the Asian Exclusion Act) that established a national-origin quota system and effectively closed off most non-European immigration to the United States. For Asian immigration specifically, the law expanded earlier exclusion measures into a near-total ban on entry from Asia (with the Philippines, then a US colony, partially exempted). The 1924 Act\u2019s framework remained in place until the 1965 Hart-Celler Act."
+  },
+
+  "tydings-mcduffie-act": {
+    label: "Tydings-McDuffie Act (1934)",
+    definition: "The US law that granted eventual independence to the Philippines (then a US colony) and reclassified Filipinos in the United States from US nationals to aliens. The act reduced Filipino immigration to a quota of 50 people per year, effectively ending the open Filipino migration that had been the major exception to the 1924 Immigration Act\u2019s Asian restrictions. The act also paved the way for some Filipino agricultural laborers in the US to be deported."
+  },
+
+  "hart-celler-act": {
+    label: "Hart-Celler Act (1965)",
+    definition: "The Immigration and Nationality Act of 1965, signed by President Lyndon Johnson on October 3, 1965, at a ceremony at the foot of the Statue of Liberty. The law removed the national-origin quotas that had been in place since 1924 and replaced them with a preference system favoring family reunification (75 percent of admissions), employment-based admission (20 percent), and refugee status (5 percent). The act fundamentally transformed the demographic composition of the United States; the rapid growth and diversification of the Asian American population since the 1960s is largely a consequence of Hart-Celler."
+  },
+
+  "japanese-american-internment": {
+    label: "Japanese American incarceration",
+    definition: "The forced removal and confinement of approximately 120,000 people of Japanese descent (most of them US citizens) from the West Coast of the United States during World War II, authorized by Executive Order 9066 in February 1942 and carried out at ten War Relocation Authority camps in the interior West and Arkansas. The incarceration was acknowledged as unjust by the 1988 Civil Liberties Act, which provided a formal apology and $20,000 in reparations to surviving incarcerees. The course uses the word \u201cinternment\u201d as the term most students will recognize, while flagging that many community organizations now prefer \u201cincarceration\u201d as more accurate (\u201cinternment\u201d in international law usually applies to enemy nationals during wartime, not US citizens)."
+  },
+
+  "civil-liberties-act-1988": {
+    label: "Civil Liberties Act of 1988",
+    definition: "The federal law signed by President Ronald Reagan on August 10, 1988, that granted a formal presidential apology and $20,000 in reparations to each surviving Japanese American who had been incarcerated under Executive Order 9066 during World War II. The act was the result of more than a decade of community organizing led by the Japanese American Citizens League, the National Coalition for Redress and Reparations, and the National Council for Japanese American Redress, and was based on the 1983 federal report Personal Justice Denied, which named \u201crace prejudice, war hysteria, and a failure of political leadership\u201d as the causes of the incarceration."
+  },
+
+  "third-world-liberation-front": {
+    label: "Third World Liberation Front",
+    definition: "A coalition of student organizations representing Black, Asian American, Latino, and Native American students that led major strikes at San Francisco State College (November 6, 1968 to March 20, 1969) and UC Berkeley (January 22 to March 7, 1969) demanding ethnic studies programs, increased admission of students of color, and curricular changes. The SF State strike was the longest student strike in US history at the time. Both strikes succeeded in establishing ethnic studies programs at their universities; SF State\u2019s College of Ethnic Studies is the first in the United States."
+  },
+
+  /* ============================
+     Module 4 framing reading: institutions and places
+     ============================ */
+
+  "i-hotel": {
+    label: "International Hotel (I-Hotel)",
+    definition: "A single-room-occupancy residential hotel at 848 Kearny Street in San Francisco that served as the last block of Manilatown, the city\u2019s historic Filipino American neighborhood. After a nine-year tenant-led campaign against eviction by Financial District redevelopment, the elderly Filipino and Chinese tenants were forcibly removed in a pre-dawn police raid on August 4, 1977, in which roughly 300 sheriff\u2019s deputies and police officers broke through a 3,000-person human barricade. The eviction was the largest civil-disobedience event in Asian American history to that date and a defining moment of the Asian American Movement in the Bay Area. After decades of advocacy, a new affordable senior-housing building opened on the site in 2005."
+  },
+
+  "manong": {
+    label: "Manong",
+    definition: "Tagalog and Ilocano for \u201colder brother,\u201d used as a respectful term of address in Filipino communities and, in Filipino American history, specifically to refer to the generation of Filipino men (often single, often agricultural or service workers) who immigrated to the United States in the 1920s and 1930s before the Tydings-McDuffie Act closed Filipino immigration. Many Manong-generation immigrants spent decades in the US without being permitted to bring families over and ended their lives in residential hotels like the I-Hotel."
+  },
+
+  "kearny-street-workshop": {
+    label: "Kearny Street Workshop",
+    definition: "The oldest multidisciplinary Asian Pacific American arts organization in the United States, founded in 1972 in the I-Hotel basement on Kearny Street in San Francisco\u2019s Manilatown by Jim Dong, Lora Jo Foo, and Michael Chin. After the 1977 I-Hotel eviction, KSW relocated to North Beach and later to South of Market. KSW founded the Asian American Jazz Festival in 1981 (under organizers George Leong and Paul Yamazaki) and has continued to incubate Asian American artists across visual art, performance, literature, and music for more than fifty years."
+  },
+
+  "soma-pilipinas": {
+    label: "SOMA Pilipinas",
+    definition: "San Francisco\u2019s Filipino Cultural Heritage District, formally established by the city\u2019s Board of Supervisors on April 22, 2016 and recognized by the State of California as one of the state\u2019s Cultural Districts in 2017. The district covers 1.5 square miles of South of Market and is home to Filipino American institutions including Bindlestiff Studio, Arkipelago Books, and the Mint Mall. The designation acknowledges more than a century of Filipino presence in San Francisco and serves as a working response to gentrification-driven displacement of the Filipino community."
+  },
+
+  /* ============================
+     Module 4 framing reading: people
+     ============================ */
+
+  "mark-izu": {
+    label: "Mark Izu (1954-2025)",
+    definition: "Sansei (third-generation) Japanese American jazz double-bass player and composer, born in Vallejo, California. A central figure in the Asian American Jazz movement from the late 1970s onward, Izu studied gagaku (Japanese imperial court music) for twenty-six years with master Togi Suenobu and frequently combined gagaku and other Asian musical traditions with post-bop jazz in his compositions. He served as artistic director of the Asian American Jazz Festival from the mid-1980s through 2000."
+  },
+
+  "jon-jang": {
+    label: "Jon Jang (b. 1954)",
+    definition: "Chinese American pianist and composer, central to the Asian American Jazz movement from the late 1970s onward. Jang has explicitly drawn on Black mentors and traditions (Max Roach, Amiri Baraka, Duke Ellington, the Black-radical-tradition jazz suite) while bringing Chinese folk and classical materials into his work. With saxophonist Francis Wong, Jang co-founded Asian Improv Records in 1987 to document and circulate Asian American Jazz movement recordings. His 1984 album Are You Chinese or Charlie Chan? was composed in direct response to the 1982 murder of Vincent Chin."
+  },
+
+  "fred-ho": {
+    label: "Fred Ho (1957-2014)",
+    definition: "Chinese American baritone saxophonist, composer, and political organizer (born Fred Wei-Han Houn). One of the central figures of the Asian American Jazz movement and an outspoken Marxist organizer, Ho led the Afro Asian Music Ensemble and the Monkey Orchestra and composed large-scale works combining jazz, Chinese opera, and political theater. His writings on Asian American radical music are collected in Wicked Theory, Naked Practice (University of Minnesota Press, 2009)."
+  },
+
+  "mitski": {
+    label: "Mitski Miyawaki (b. 1990)",
+    definition: "Japanese American singer-songwriter who records under just her first name. Born in Mie Prefecture, Japan, to a Japanese mother and an American State Department father, she grew up between Japan, China, Malaysia, the Czech Republic, the Democratic Republic of the Congo, Turkey, and several US locations. She studied studio composition at the SUNY Purchase Conservatory of Music and graduated in 2013. Her 2016 album Puberty 2 (especially its lead single \u201cYour Best American Girl\u201d) was the breakthrough that made her one of the most recognized Asian American musicians working in indie rock."
+  },
+
+  "dj-qbert": {
+    label: "DJ Q-Bert",
+    definition: "Richard Quitevis, Filipino American turntablist from Daly City, California, widely regarded as one of the greatest turntablists in the history of the form. With Mix Master Mike and DJ Apollo, he co-founded the Invisibl Skratch Piklz in 1989. Q-Bert\u2019s 1998 album Wave Twisters (with an animated film of the same name) is among the most ambitious recorded turntablism documents ever made; his instructional videos shaped a generation of DJs."
+  },
+
+  "charlie-chan": {
+    label: "Charlie Chan",
+    definition: "A fictional Chinese American detective created by the writer Earl Derr Biggers in a 1925 novel and featured in more than forty Hollywood films from the late 1920s through the 1940s. Chan was almost always played by white actors in yellowface; the character\u2019s exaggerated pidgin speech, fortune-cookie aphorisms, and deferential manner made Chan a paradigmatic example of the white American cinematic imagination of Chinese American masculinity. Jon Jang\u2019s 1984 album Are You Chinese or Charlie Chan? names the choice the Vincent Chin murder had made unavoidable for Chinese Americans: claiming themselves on their own terms or remaining trapped inside the white imagination of who they are."
+  },
+
+  /* ============================
+     Module 4 framing reading: musical practices
+     ============================ */
+
+  "yellowface": {
+    label: "Yellowface",
+    definition: "The theatrical and cinematic practice of non-Asian (typically white) performers wearing makeup and adopting accents and mannerisms to portray Asian characters. Yellowface was standard in Hollywood from the silent era through the 1960s and persisted in occasional high-profile cases (Mickey Rooney in Breakfast at Tiffany\u2019s in 1961, John Wayne as Genghis Khan in 1956, the Charlie Chan film series). The practice has been widely criticized as dehumanizing and as foreclosing professional opportunities for Asian American actors; by the 1970s and 1980s it had largely (though not entirely) ended in mainstream American film."
+  },
+
+  "minneapolis-sound": {
+    label: "Minneapolis sound",
+    definition: "A funk and R&B subgenre that emerged in Minneapolis in the late 1970s and dominated American pop and R&B charts in the 1980s, characterized by prominent synthesizers, drum machines (especially the LinnDrum), tightly arranged vocal harmonies, and a clean, slick production aesthetic. The style was forged largely by Prince and his collaborators (the Time, the Revolution, Sheila E.) and by the producers Jimmy Jam and Terry Lewis. The Jets\u2019 1986 hit \u201cCrush on You\u201d is a Minneapolis-sound production by Don Powell and David Z (David Rivkin), the latter of whom engineered Prince\u2019s Purple Rain."
+  },
+
+  "taiko": {
+    label: "Taiko",
+    definition: "Japanese drum or, more specifically, the tradition of large-ensemble drumming on Japanese drums (kumi-daiko) that developed in mid-twentieth-century Japan. Taiko was brought to the United States by Seiichi Tanaka, who founded the San Francisco Taiko Dojo in 1968. Taiko became central to the Asian American Movement\u2019s cultural expression and to the Asian American Jazz movement\u2019s instrumental palette."
+  },
+
+  "scratching": {
+    label: "Scratching",
+    definition: "A turntablist technique in which a DJ moves a record back and forth under the needle by hand to produce a percussive, rhythmically articulated sound; the crossfader on the mixer is used to chop the resulting sound into patterns. Invented by the Bronx DJ Grand Wizzard Theodore in the mid-1970s and developed extensively by Grandmaster Flash and others, scratching is the core technique that turns the turntable into an instrument. The Bay Area Filipino American scene of the 1980s and 1990s, particularly the Invisibl Skratch Piklz, extended scratching into a virtuoso practice with its own vocabulary of named scratches (the chirp, the flare, the crab, the orbit) and its own pedagogy."
+  },
+
+  "break-beat": {
+    label: "Break beat",
+    definition: "The percussion-only section of a funk, soul, or rock record (typically a few bars long, often a drum solo or a heavily rhythmic instrumental passage) that hip hop DJs in 1970s New York identified as the most danceable part of a song. By cuing the same break on two copies of a record on two turntables and switching between them, a DJ could extend the break indefinitely. The break-beat technique, developed in the South Bronx by DJ Kool Herc and others, is the foundational DJ practice from which hip hop and turntablism grew."
   }
 
 };
