@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /*
- * scripts/check-glossings.js
+ * under-the-hood/scripts/check-glossings.js
  *
  * Audit gloss-button coverage on student-facing HTML pages against the
  * shared glossary in assets/glossary-data.js. Flags three kinds of issues:
@@ -15,12 +15,12 @@
  *      but aren't buttoned anywhere on the page. Warning.
  *
  * Usage:
- *   node scripts/check-glossings.js                     # check all pages
- *   node scripts/check-glossings.js module2/foo.html    # check one page
- *   node scripts/check-glossings.js module2/            # check all pages in dir
+ *   node under-the-hood/scripts/check-glossings.js                     # check all pages
+ *   node under-the-hood/scripts/check-glossings.js module2/foo.html    # check one page
+ *   node under-the-hood/scripts/check-glossings.js module2/            # check all pages in dir
  *
  * Run before committing any change that touches a glossable HTML page or
- * the glossary file. Convention documented in README.md.
+ * the glossary file. Convention documented in under-the-hood/conventions.md.
  */
 
 'use strict';
@@ -28,7 +28,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const REPO_ROOT = path.resolve(__dirname, '..');
+const REPO_ROOT = path.resolve(__dirname, '..', '..');
 const GLOSSARY_PATH = path.join(REPO_ROOT, 'assets', 'glossary-data.js');
 
 // Words that match a glossary label as plain English in normal prose, where a
