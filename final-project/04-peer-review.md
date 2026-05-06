@@ -6,7 +6,7 @@ Full project information is at https://csuebmusic.github.io/mus302/final-project
 
 ## How to set this up in Canvas
 
-Canvas's built-in peer review tool can do automated random assignment of two reviewers per submission. Set the peer review to release after the draft deadline closes (July 12 plus a few days for me to do my own draft feedback first; mid-July works). Each student should be assigned to review two drafts and should submit each review by the July 26 deadline.
+Canvas's built-in peer review tool can do automated random assignment of two reviewers per submission. Set the peer review to release immediately after the draft deadline closes (Sun, July 19) so students have the full week before the July 26 peer-review deadline to read and respond. Each student should be assigned to review two drafts and should submit each review by the July 26 deadline.
 
 If Canvas's peer review tool is not flexible enough to host the structured form below, set this up as a regular assignment with the form questions in the description and have students submit their two reviews as a single document or as two separate posts. Either works.
 
@@ -75,7 +75,7 @@ A note on receiving peer review
 
 You will get two peer reviews of your own draft. Read both of them carefully, even if your first reaction is defensive. Reviewers see things authors cannot see, because authors are too close to the work. Sometimes the reviewer is wrong, and that is fine; their feedback is suggestion, not requirement. But if both reviewers flag the same issue, take that seriously.
 
-Use the peer feedback alongside the feedback I gave on your draft. Between the three sets of comments, you will have a clear picture of what to focus on in the final revision.
+Use the peer feedback alongside any draft feedback I have been able to give you. Draft feedback for sixty students takes time; some of you will see my comments before peer review closes, others will see them in the final stretch before the final submission. Either way, between my feedback and your peer feedback, you will have a clear picture of what to focus on in the final revision.
 
 AI use
 

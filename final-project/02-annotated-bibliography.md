@@ -56,7 +56,7 @@ Twenty-five points total. Ten for source quality (relevance, variety, credibilit
 
 What happens after you submit
 
-I will return feedback within one week. The feedback may confirm your sources are strong, suggest gaps to fill, or flag sources that turn out to be unreliable. Read the feedback before starting on the draft (due July 12).
+I will return feedback within one week. The feedback may confirm your sources are strong, suggest gaps to fill, or flag sources that turn out to be unreliable. Read the feedback before starting on the draft (due July 19).
 
 A few common mistakes to avoid
 

@@ -1,6 +1,6 @@
 # Full Draft (Checkpoint 3 of 5)
 
-The third graded checkpoint. Due Sunday, July 12 at 11:59 PM Pacific. The largest of the checkpoints in volume of student work, and the one that lets the peer-review and revision cycle do its job.
+The third graded checkpoint. Due Sunday, July 19 at 11:59 PM Pacific. The largest of the checkpoints in volume of student work, and the one that lets the peer-review and revision cycle do its job.
 
 Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 
@@ -34,7 +34,7 @@ If a student submits a draft that is significantly under the slide minimum or si
 
 # PASTE INTO CANVAS BELOW THIS LINE
 
-The third checkpoint for your final project, and the largest piece of work before the final submission. Due Sunday, July 12 at 11:59 PM Pacific. Full project information is at https://csuebmusic.github.io/mus302/final-project/.
+The third checkpoint for your final project, and the largest piece of work before the final submission. Due Sunday, July 19 at 11:59 PM Pacific. Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 
 What to submit
 

@@ -1,6 +1,6 @@
 # Project Proposal (Checkpoint 1 of 5)
 
-The first of five graded checkpoints for the final project. Due Sunday, June 14 at 11:59 PM Pacific. Worth a small portion of the project grade; the goal of this checkpoint is to commit to a topic and let me flag any concerns early enough to course-correct.
+The first of five graded checkpoints for the final project. Due Sunday, June 21 at 11:59 PM Pacific. Worth a small portion of the project grade; the goal of this checkpoint is to commit to a topic and let me flag any concerns early enough to course-correct.
 
 Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 

@@ -5,12 +5,20 @@ session that ships meaningful work. The README has the durable
 conventions and locked decisions; this file has what is done, what
 is next, and what is open.
 
-Last updated: end of the Module 3 wrap-up. The quiz
-(`module3/quiz.md`) shipped, completing Module 3 except for
-launch-pending items (image rights and labels-table fact
-verification). The module is otherwise fully built: framing
-reading, five anchor-track listening guides with family-tree
-diagrams, landing page, discussion in the new pattern, and quiz.
+Last updated: end of a schedule restructure. Major change: Modules
+2-5 deadline moved from July 19 to July 12 (one week earlier) so
+Module 6 has real room (July 12-26) to run parallel to the project
+draft-and-peer-review arc. Project proposal moved from June 14 to
+June 21 (one week later, breathing room after Module 1 closes).
+Project full draft moved from July 12 to July 19 (one week later, no
+longer stacks with Modules 2-5 deadline). Discussion peer-response
+deadline now matches the module deadline (Sun July 12), with initial
+posts due Sun July 5. Module 6 deadline (July 26), peer-review
+deadline (July 26), and final submission (July 31) unchanged. The
+new schedule lives in syllabus.md and syllabus.html; date references
+across final-project/, README.md, module1/index.html,
+module1/cultural-roots.html, module2/index.html, module3/index.html,
+module2/discussion.md, module3/discussion.md all updated to match.
 
 Glossary count: 428. Working tree clean.
 
@@ -231,5 +239,9 @@ contain it.
 
 Canvas peer review for the final project draft uses Canvas's
 built-in peer review tool with random assignment. Late draft
-submissions (after July 12) need to be manually assigned by the
-instructor; budget time on July 13-14 for cleanup.
+submissions (after July 19) need to be manually assigned by the
+instructor; budget time on July 20-21 for cleanup. Note also that
+under the current schedule, peer-review opens immediately after
+the draft deadline (no buffer for instructor draft feedback before
+peer review begins), so instructor draft feedback runs in parallel
+with the peer-review window.

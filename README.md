@@ -89,7 +89,7 @@ present as a slide deck (18 to 20 slides, including title slide and
 sources slide, with up to three slides carrying embedded audio or
 video media) plus recorded video commentary. The project is
 scaffolded into five graded checkpoints across the term: proposal
-(June 14), annotated bibliography (June 28), full draft (July 12),
+(June 21), annotated bibliography (June 28), full draft (July 19),
 peer review (July 26), final submission (July 31). Materials live
 in `final-project/`.
 

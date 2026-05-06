@@ -106,9 +106,9 @@ In place of a final exam, you will research a genre and a single artist or group
 
 The project is scaffolded across the term so you receive feedback at each stage:
 
-- **Proposal** (Sunday, June 14): a short proposal naming the genre, artist, and reasons for personal significance, with two or three preliminary sources.
+- **Proposal** (Sunday, June 21): a short proposal naming the genre, artist, and reasons for personal significance, with two or three preliminary sources.
 - **Annotated bibliography** (Sunday, June 28): five to seven sources with a sentence or two on each describing how it will support the project.
-- **Full draft** (Sunday, July 12): a complete draft of the deck and a rough video commentary.
+- **Full draft** (Sunday, July 19): a complete draft of the deck and a rough video commentary.
 - **Peer review** (Sunday, July 26): structured feedback on two classmates' drafts.
 - **Final submission** (Friday, July 31): revised deck and final video commentary.
 
@@ -176,9 +176,10 @@ This course uses module windows rather than weekly deadlines. The dates below ar
 | Date | Deadline |
 |---|---|
 | Sun, June 7 | Module 1 (Orientation and Methodology) complete |
-| Sun, June 14 | Project proposal due |
+| Sun, June 21 | Project proposal due |
 | Sun, June 28 | Annotated bibliography due |
-| Sun, July 12 | Project full draft due |
-| Sun, July 19 | Modules 2 through 5 (the four traditions modules) all complete |
+| Sun, July 5 | Module 2-5 discussion initial posts due |
+| Sun, July 12 | Modules 2 through 5 (the four traditions modules) all complete; discussion peer responses due |
+| Sun, July 19 | Project full draft due |
 | Sun, July 26 | Module 6 complete; peer review of two classmates' drafts complete |
 | Fri, July 31 | Final project (deck and video commentary) due |
