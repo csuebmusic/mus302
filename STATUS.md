@@ -5,9 +5,12 @@ session that ships meaningful work. The README has the durable
 conventions and locked decisions; this file has what is done, what
 is next, and what is open.
 
-Last updated: end of Module 3 anchor-tracks build. All five Module 3
-listening guides shipped with their family-tree diagrams. STATUS and
-README trimmed in the same session.
+Last updated: end of a Module 3 polish session. Three commits since the
+last STATUS update: README and STATUS trim, Track 5 deep-dive cleanup
+(em-dash and redundancy pass), and a Module 3 fresh-eyes pass across
+the framing reading and Tracks 1, 2, and 4. The Module 3 anchor-tracks
+set is now polished. What remains for the module is the landing page,
+discussion, and quiz.
 
 Glossary count: 428. Working tree clean.
 
@@ -56,11 +59,7 @@ or after the wrap-up):
 - Cross-page glossings still to retrofit: `chord-progression` on
   `module2/roots-and-routes.html` line 38, `module2/track1-bessie-
   smith.html` line 80, `module2/track3-brown.html` lines 66 and 72;
-  `onomatopoeia` on `module1/track2-cruz.html`; `corpus-christi` on
-  `module3/roots-and-routes.html` line 28.
-- Astrodome attendance figure standardization. Framing reading says
-  "60,000," Track 4 says "more than 60,000." Wikipedia gives 66,994
-  specifically. Pick one and use it consistently.
+  `onomatopoeia` on `module1/track2-cruz.html`.
 - Forward-reference links to Modules 4 and 6 in the Module 3 framing
   reading: broken anchor tags at lines 189 and 201. Decision deferred
   until those modules exist.
@@ -121,17 +120,47 @@ course goes live.
    session and John Dyer 1992 *Mas Magazine* session, both better
    attributed. Consider swap before launch.
 
-**Glossary intentional skips** (audit warnings to live with).
-1. `house-band`, `w-c-handy`, `decca`, `muddy-waters` in Module 2's
-   labels-list table cells. Multi-word gloss buttons render awkwardly
-   inside narrow monospace cells. All four terms are glossed in
-   regular prose elsewhere on the site.
-2. Equivalent labels-table skips on the Module 3 framing reading
-   (logged at audit time). Same pattern.
-3. `dominant` on Module 2 Track 4 (an English adjective in the
-   reflective question, not the music-theory V chord).
-4. Module 3 Track 2 (Bataan) listening-guide skips: four documented
-   intentional skips. Same pattern as the labels-table cells.
+**Glossary intentional skips** (audit warnings to live with). The
+audit reports 29 warnings on Module 3 after the fresh-eyes pass; all
+fall into the categories below. Audit reports a handful more on Module
+2; same categories. The fresh-eyes pass cleared five real misses
+(`waltz`, `Loíza` placement, `rhythm-section`, `corpus-christi`,
+`horn`); the rest are documented skips.
+
+1. **Labels-table cells.** Module 2's record-labels table has four
+   skipped cells (`house-band`, `w-c-handy`, `decca`, `muddy-waters`);
+   Module 3's framing-reading labels table has roughly thirteen
+   (`Tex-Mex`, `charanga`, `Joe Cuba`, `Dancehall`, `EMI Latin`,
+   `Tico Records`, `Fania Records`, `decca`, `Jerry Masucci`,
+   `Q-Productions`, `Johnny Pacheco`, `Fania All-Stars`,
+   `abraham-quintanilla`). Multi-word gloss buttons render awkwardly
+   inside narrow monospace cells. Each term is glossed in regular
+   prose elsewhere on the site.
+2. **Common English words colliding with technical glossary keys.**
+   The audit flags every prose use of `rhythm`, `beat`, `jazz`, `soul`,
+   `dominant`, etc., as a possible missed gloss for the corresponding
+   technical entry. Most are bare English words in non-technical
+   senses (e.g., `dominant musical infrastructure` is the adjective,
+   not the V chord). All documented per page.
+3. **Wrong-sense matches.** The audit cannot distinguish a `tenor`
+   saxophone from a tenor voice, or a stage `MC` (master of
+   ceremonies) from a hip hop MC, or a song-title `Santana` cross-link
+   from the band-name first mention. Each surfaces as a warning that
+   is actually a wrong-sense match.
+4. **Compound-already-buttoned upstream.** When a longer compound key
+   like `latin-trap` is buttoned at first mention, the audit also
+   flags the bare `trap` later in the prose. Buttoning the bare term
+   on top of the compound is redundant; the compound carries the
+   gloss.
+5. **YouTube card metadata and song-title cross-links.** Track 1 and
+   Track 2 video-card labels (`Tito Puente`, `Joe Bataan`) and Track
+   4's song-title cross-link (`Santana's "Oye Como Va"` linking to
+   the Santana track) surface as audit warnings. Per house style,
+   nav-style metadata, song titles, and cross-link anchors are not
+   glossed.
+6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
+   documented intentional skips on Track 2 itself (already noted in
+   the previous STATUS), same patterns as 2 and 3.
 
 **Audit script future improvements.** Three blind spots accumulated
 across the build, none blocking, all worth folding in eventually:
