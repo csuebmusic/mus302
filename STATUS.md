@@ -99,8 +99,7 @@ and-bibliography, draft, peer review, final).
   reading: broken anchor tags at lines 189 and 201. Decision deferred
   until those modules exist.
 
-**Module 3 facts to verify before launch** (in addition to image
-rights below):
+**Module 3 facts to verify before launch:**
 - Discos Falcon founding date claimed as 1947.
 - Tico Records claimed dates 1948-1974.
 - EMI Latin geography claimed as "Los Angeles / Miami." Corporate
@@ -126,35 +125,26 @@ in the framing reading), queer liberation (disco era, AIDS crisis,
 contemporary artists), and contemporary cross-tradition work
 (Kendrick Lamar's "Alright," Bad Bunny's "El Apagón").
 
-**Image rights to verify before launch.** Same defensible-educational-
-use category as the existing KQED/Getty editorial photos already in
-the course; tracked here so they get cleared or swapped before the
-course goes live.
-1. Module 2 Great Migration map (`assets/images/great-migration-
-   map.jpg`). Map by Blair Tinker for the Pathstone Antiracist
-   Curriculum Project, sourced from Clarissa Uprooted (Teen
-   Empowerment, Rochester NY). The ARCP / RIT / U Rochester
-   ecosystem describes materials as freely available for educator
-   use; source site has a generic All Rights Reserved notice.
-   Contact info@arcjustice.org or
-   ClarissaUprooted@teenempowerment.org for explicit permission, or
-   swap for a public-domain alternative.
-2. Module 3 Pearson migration map (`assets/images/latin-american-
-   migration-map.jpg`). © 2005 Pearson Prentice Hall. Defensible
-   educational use with attribution in the figcaption. Contact
-   Pearson education permissions, or swap for a public-domain or
-   Creative-Commons alternative (Migration Policy Institute, US
-   Census, Pew Research Center, or hand-drawn equivalent).
-3. Hero photos across Modules 1-3. Editorial-use copyrighted photos
-   from KQED, Getty, Grosso! Recordings, Salsoul / Bataan Music,
-   Tucker Ransom estate, NPR/Coburn Dukehart, and similar. All
-   carry attribution captions and are flagged for verification or
-   swap before launch.
-4. Module 3 Track 4 Selena hero photo specifically: current image is
-   widely circulated but unattributed via iHeart / Rovi metadata.
-   Stronger candidates exist: Al Rendon 1992 *Entre A Mi Mundo*
-   session and John Dyer 1992 *Mas Magazine* session, both better
-   attributed. Consider swap before launch.
+**Images: educational fair use claimed.** All images in the course
+ship under educational fair use with full attribution in figcaptions.
+This includes the Module 2 Great Migration map (Blair Tinker for the
+Pathstone Antiracist Curriculum Project), the Module 3 Pearson
+migration map (© 2005 Pearson Prentice Hall), and the hero photos
+across Modules 1-3 (KQED, Getty, Grosso! Recordings,
+Salsoul / Bataan Music, Tucker Ransom estate, NPR / Coburn Dukehart,
+and similar editorial-use sources). The substantive teaching figures
+(the two migration maps) and the decorative hero photos sit under
+the same framework: single-image non-commercial classroom use, full
+attribution, no displacement of the original market. If a rights
+holder requests removal, swap to a public-domain or Creative-Commons
+alternative; the maps in particular have ready substitutes from the
+Migration Policy Institute, US Census, and Pew Research Center.
+
+**Track 4 Selena hero: curation question, not a rights question.**
+The current image is widely circulated but unattributed via
+iHeart / Rovi metadata. Two stronger-attributed candidates exist:
+Al Rendon's 1992 *Entre A Mi Mundo* session and John Dyer's 1992
+*Mas Magazine* session. Worth a swap when convenient; not blocking.
 
 **Glossary intentional skips** (audit warnings to live with). The
 audit reports 29 warnings on Module 3 after the fresh-eyes pass; all
