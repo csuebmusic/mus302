@@ -1,6 +1,6 @@
-# Peer Review (Checkpoint 4 of 5)
+# Peer Review (Checkpoint 3 of 4)
 
-The fourth graded checkpoint. Due Sunday, July 26 at 11:59 PM Pacific. Each student gives structured feedback on two classmates' drafts. The peer review process serves two outcomes at once: the reviewers practice critical reading of project-style work, and the authors get useful feedback to use in the final revision.
+The third graded checkpoint. Due Sunday, July 26 at 11:59 PM Pacific. Each student gives structured feedback on two classmates' drafts. The peer review process serves two outcomes at once: the reviewers practice critical reading of project-style work, and the authors get useful feedback to use in the final revision.
 
 Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 
@@ -33,7 +33,7 @@ Each review answers the same six questions about the draft they are reading. The
 
 # PASTE INTO CANVAS BELOW THIS LINE
 
-The fourth checkpoint for your final project. Due Sunday, July 26 at 11:59 PM Pacific. Full project information is at https://csuebmusic.github.io/mus302/final-project/.
+The third checkpoint for your final project. Due Sunday, July 26 at 11:59 PM Pacific. Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 
 What to submit
 

@@ -5,20 +5,57 @@ session that ships meaningful work. The README has the durable
 conventions and locked decisions; this file has what is done, what
 is next, and what is open.
 
-Last updated: end of a schedule restructure. Major change: Modules
-2-5 deadline moved from July 19 to July 12 (one week earlier) so
-Module 6 has real room (July 12-26) to run parallel to the project
-draft-and-peer-review arc. Project proposal moved from June 14 to
-June 21 (one week later, breathing room after Module 1 closes).
-Project full draft moved from July 12 to July 19 (one week later, no
-longer stacks with Modules 2-5 deadline). Discussion peer-response
-deadline now matches the module deadline (Sun July 12), with initial
-posts due Sun July 5. Module 6 deadline (July 26), peer-review
-deadline (July 26), and final submission (July 31) unchanged. The
-new schedule lives in syllabus.md and syllabus.html; date references
-across final-project/, README.md, module1/index.html,
-module1/cultural-roots.html, module2/index.html, module3/index.html,
-module2/discussion.md, module3/discussion.md all updated to match.
+Last updated: end of a second schedule restructure plus a project-
+checkpoint consolidation. Two substantive changes in this session.
+
+First, the Modules 2-5 deadline structure. The previous "all four
+due on the same Sunday" shape did not work for Canvas's peer-review
+tool (peer-review fires after the initial-post deadline, so all
+four modules' peer reviews would have stacked on a single weekend).
+The new shape is one module per week, in strict sequence: Module 2
+due Sun June 14, Module 3 due Sun June 21, Module 4 due Sun July 5,
+Module 5 due Sun July 12. Each module's discussion initial post is
+due on the module deadline; each module's peer responses are due
+the following Sunday. Module 3's peer responses are an exception
+(due Sun July 5, two weeks after the initial post) because the
+project proposal-and-bibliography is due Sun June 28 in the gap
+and Inés did not want students juggling peer review and a project
+checkpoint on the same weekend.
+
+Second, the project checkpoint structure. The previous five-
+checkpoint structure (proposal, annotated bibliography, draft, peer
+review, final) collapsed the proposal and annotated bibliography
+into a single "Proposal and Preliminary Bibliography" checkpoint
+due Sun June 28. The combined checkpoint is 35 points (20 proposal,
+15 bibliography); the bibliography portion is lighter than the old
+standalone (3-4 sources with one-sentence descriptions, rather than
+5-7 sources with fuller annotations). The annotation work that
+used to live in the bibliography moves into the draft itself, where
+students discuss sources in context as part of the deck. Total
+project raw points 215 → 205. Project file numbering re-sequenced:
+01-proposal-and-bibliography.md, 02-draft.md, 03-peer-review.md,
+04-final.md.
+
+Architectural change: Modules 2-5 are now strictly sequential, not
+"in any order." This propagates to the syllabus, the README's
+locked decisions, the Module 1 framing reading's "What this means
+for the rest of the course" section, and Module 1's landing page.
+
+The new schedule:
+  Sun May 31:  (week 1, no deadline)
+  Sun June 7:  Module 1 complete (quiz + discussion initial post)
+  Sun June 14: Module 2 (quiz + initial post); Module 1 peer responses
+  Sun June 21: Module 3 (quiz + initial post); Module 2 peer responses
+  Sun June 28: Project proposal and preliminary bibliography
+  Sun July 5:  Module 4 (quiz + initial post); Module 3 peer responses
+  Sun July 12: Module 5 (quiz + initial post); Module 4 peer responses
+  Sun July 19: Project full draft; Module 5 peer responses
+  Sun July 26: Module 6 quiz; project peer review
+  Fri July 31: Final submission
+
+Module 6 has a quiz only, no discussion. The synthesis work that a
+discussion would normally carry is folded into the project's final
+revision arc.
 
 Glossary count: 428. Working tree clean.
 
@@ -198,6 +235,13 @@ These decisions were made during the build and should propagate to
 new modules. Migrate to the README's "Decisions worth remembering"
 section the next time README is touched.
 
+**Modules 2-5 are strictly sequential.** Module 2 first, then 3,
+then 4, then 5, one per week. Each module has its own deadline and
+its own discussion (initial post on the module deadline, peer
+responses one week later via Canvas's automatic peer-review tool).
+Module 6 follows Module 5. The earlier "in any order" framing is
+retired and removed from syllabus, README, and Module 1 framing.
+
 **Modules 2-5 discussion pattern.** Pick one of the listening guides'
 reflective questions and respond to it. After the initial-post
 deadline, Canvas's peer-review tool automatically assigns each
@@ -211,10 +255,26 @@ the most popular two or three tracks attract all the responses.
 Module 1's discussion is a separate pattern (open thread, "pick one
 track and write about your strongest reaction") and stays on its
 existing shape because Module 1 anchors students to the methodology
-and is the only module with a fixed sequential position. The
-Modules 2-5 pattern requires Canvas's peer-review feature on the
-discussion to be set to "automatic" rather than "manual" so
+and the open-thread pattern is appropriate for that orientation.
+The Modules 2-5 pattern requires Canvas's peer-review feature on
+the discussion to be set to "automatic" rather than "manual" so
 assignments fire on the deadline.
+
+**Project: four checkpoints, not five.** Proposal and preliminary
+bibliography are combined into a single checkpoint due Sun June 28.
+Combined point value 35 (20 proposal, 15 bibliography). The
+bibliography portion is lighter than the old standalone (3-4
+sources with one-sentence descriptions, rather than 5-7 sources
+with fuller annotations); the annotation work moves into the draft
+itself, where students discuss sources in context as part of the
+deck. Total project raw points 215 → 205. File numbering re-
+sequenced.
+
+**Module 6 has a quiz, not a discussion.** The synthesis work a
+discussion would normally do is folded into the project's final
+revision arc, which is itself a synthesis exercise. Module 6's
+quiz still covers Indigenous popular music, queer liberation, and
+the contemporary cross-tradition material.
 
 ## Decisions still open
 

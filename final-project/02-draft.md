@@ -1,6 +1,6 @@
-# Full Draft (Checkpoint 3 of 5)
+# Full Draft (Checkpoint 2 of 4)
 
-The third graded checkpoint. Due Sunday, July 19 at 11:59 PM Pacific. The largest of the checkpoints in volume of student work, and the one that lets the peer-review and revision cycle do its job.
+The second graded checkpoint. Due Sunday, July 19 at 11:59 PM Pacific. The largest of the checkpoints in volume of student work, and the one that lets the peer-review and revision cycle do its job.
 
 Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 
@@ -16,7 +16,7 @@ Fifteen points for argument. The deck and video make a defensible claim about wh
 
 Ten points for analysis quality. Specific moments in specific recordings are pointed at and described. The frames from the methodology reading (timbre, texture, form, gesture) are used where they help. Wikipedia-summary writing is the failure mode; specific, source-grounded analysis is the target.
 
-Five points for source integration. Sources from the annotated bibliography appear in the deck and video, named in the prose where appropriate. Five or more sources should be visible in the project itself, not just listed at the end.
+Five points for source integration. Sources from your preliminary bibliography appear in the deck and video, alongside the additional sources you have located in your fuller research between the proposal-and-bibliography checkpoint and the draft. Five or more sources should be visible in the project itself, named in the prose where appropriate, not just listed at the end.
 
 Five points for technical execution at draft stage. The deck opens. The video plays. Audio is audible. Embedded media works. Captions are not required at draft stage.
 
@@ -34,7 +34,7 @@ If a student submits a draft that is significantly under the slide minimum or si
 
 # PASTE INTO CANVAS BELOW THIS LINE
 
-The third checkpoint for your final project, and the largest piece of work before the final submission. Due Sunday, July 19 at 11:59 PM Pacific. Full project information is at https://csuebmusic.github.io/mus302/final-project/.
+The second checkpoint for your final project, and the largest piece of work before the final submission. Due Sunday, July 19 at 11:59 PM Pacific. Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 
 What to submit
 
@@ -62,7 +62,7 @@ Fifteen for argument. You have a defensible claim about why this artist matters.
 
 Ten for analysis quality. You point at specific moments in specific recordings and describe what is happening. You use the methodology reading's frames (timbre, texture, form, gesture) where they help. The failure mode here is Wikipedia-summary writing; the target is specific, source-grounded analysis.
 
-Five for source integration. Sources from your annotated bibliography appear in the deck and video, named in the prose where appropriate. Five or more sources should be visible in the project itself, not just listed at the end.
+Five for source integration. Sources from your preliminary bibliography appear in the deck and video, alongside additional sources you have located in your fuller research between the proposal-and-bibliography checkpoint and the draft. Five or more sources should be visible in the project itself, named in the prose where appropriate, not just listed at the end.
 
 Five for technical execution. The deck opens. The video plays. Audio is audible. Embedded media works.
 

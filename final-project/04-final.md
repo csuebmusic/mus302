@@ -1,6 +1,6 @@
-# Final Submission (Checkpoint 5 of 5)
+# Final Submission (Checkpoint 4 of 4)
 
-The final graded checkpoint. Due Friday, July 31 at 11:59 PM Pacific (the last day of the term). Worth the largest share of the project grade. This is what the previous four checkpoints have been building toward.
+The final graded checkpoint. Due Friday, July 31 at 11:59 PM Pacific (the last day of the term). Worth the largest share of the project grade. This is what the previous three checkpoints have been building toward.
 
 Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 
@@ -30,7 +30,7 @@ Outcomes: Course SLO 5. GE-UD-3 outcome 2. Diversity overlay outcome 1.
 
 ### Source integration (15 points)
 
-Five or more sources from the annotated bibliography are visible in the deck and video, named in the prose where appropriate. Sources include a mix of types (scholarship, journalism, primary documents). Sources are cited in a consistent style on the sources slide. The level of source integration matches what the Module 1 listening guides modeled.
+Five or more sources are visible in the deck and video, named in the prose where appropriate. Sources include a mix of types (scholarship, journalism, primary documents). Sources are cited in a consistent style on the sources slide. The level of source integration matches what the Module 1 listening guides modeled.
 
 Outcomes: Course SLO 6. GE-UD-3 outcome 1.
 

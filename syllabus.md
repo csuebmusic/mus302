@@ -44,11 +44,11 @@ This course is organized into six Canvas modules and a parallel research project
 
 Module 1 (Orientation and Methodology) must be completed first. It introduces how to listen, what counts as evidence in writing about music, and the cultural roots framing that holds the course together.
 
-Modules 2 through 5 cover the four cultural traditions. Once you finish Module 1, all four become available at the same time. You may complete them in any order that interests you. All four must be complete by the end of the window listed in the schedule below.
+Modules 2 through 5 cover the four cultural traditions. They run in sequence after Module 1, one module per week, in this order: Module 2 (African American foundational traditions), Module 3 (Latin diasporic traditions), Module 4 (Asian American traditions), Module 5 (European American immigrant and working-class traditions). Each module has its own deadline. The schedule below lists each module's window.
 
-Module 6 (Cross-Cutting Threads and Synthesis) becomes available after Modules 2 through 5 are complete. It draws connections across the traditions you have studied and turns to Indigenous popular music and queer liberation as threads that run through and beyond the previous modules.
+Module 6 (Cross-Cutting Threads and Synthesis) follows Module 5. It draws connections across the traditions you have studied and turns to Indigenous popular music and queer liberation as threads that run through and beyond the previous modules.
 
-Each module includes assigned listening, short readings or videos, a discussion contribution, and a low-stakes checkpoint quiz that focuses on factual recall (artists, dates, key works, key contexts). Modules are self-contained, which means you can work through them at your own pace within the windows set in the schedule.
+Each module includes assigned listening, short readings or videos, a discussion contribution, and a low-stakes checkpoint quiz that focuses on factual recall (artists, dates, key works, key contexts). The discussion contribution has two parts: an initial post by the module deadline, and two peer responses one week later that Canvas assigns automatically.
 
 ### How the research project works
 
@@ -106,8 +106,7 @@ In place of a final exam, you will research a genre and a single artist or group
 
 The project is scaffolded across the term so you receive feedback at each stage:
 
-- **Proposal** (Sunday, June 21): a short proposal naming the genre, artist, and reasons for personal significance, with two or three preliminary sources.
-- **Annotated bibliography** (Sunday, June 28): five to seven sources with a sentence or two on each describing how it will support the project.
+- **Proposal and preliminary bibliography** (Sunday, June 28): a short proposal naming the genre, artist, and reasons for personal significance, with a paragraph framing your argument, plus a preliminary bibliography of three to four sources.
 - **Full draft** (Sunday, July 19): a complete draft of the deck and a rough video commentary.
 - **Peer review** (Sunday, July 26): structured feedback on two classmates' drafts.
 - **Final submission** (Friday, July 31): revised deck and final video commentary.
@@ -175,11 +174,12 @@ This course uses module windows rather than weekly deadlines. The dates below ar
 
 | Date | Deadline |
 |---|---|
-| Sun, June 7 | Module 1 (Orientation and Methodology) complete |
-| Sun, June 21 | Project proposal due |
-| Sun, June 28 | Annotated bibliography due |
-| Sun, July 5 | Module 2-5 discussion initial posts due |
-| Sun, July 12 | Modules 2 through 5 (the four traditions modules) all complete; discussion peer responses due |
-| Sun, July 19 | Project full draft due |
-| Sun, July 26 | Module 6 complete; peer review of two classmates' drafts complete |
+| Sun, June 7 | Module 1 (Orientation and Methodology) complete; Module 1 quiz and discussion initial post due |
+| Sun, June 14 | Module 2 quiz and discussion initial post due; Module 1 discussion peer responses due |
+| Sun, June 21 | Module 3 quiz and discussion initial post due; Module 2 discussion peer responses due |
+| Sun, June 28 | Project proposal and preliminary bibliography due |
+| Sun, July 5 | Module 4 quiz and discussion initial post due; Module 3 discussion peer responses due |
+| Sun, July 12 | Module 5 quiz and discussion initial post due; Module 4 discussion peer responses due |
+| Sun, July 19 | Project full draft due; Module 5 discussion peer responses due |
+| Sun, July 26 | Module 6 quiz due; project peer review due |
 | Fri, July 31 | Final project (deck and video commentary) due |
