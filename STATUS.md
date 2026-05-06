@@ -5,13 +5,12 @@ session that ships meaningful work. The README has the durable
 conventions and locked decisions; this file has what is done, what
 is next, and what is open.
 
-Last updated: end of a Module 3 wrap-up session. The landing page
-(`module3/index.html`) shipped, and the discussion (`module3/
-discussion.md`) shipped in a new "pick a reflective question"
-pattern. Module 2's discussion (`module2/discussion.md`) was revised
-to the same new pattern. The pattern is now the locked Modules 2-5
-discussion shape; see "Locked decisions" below. Module 3 quiz
-(`module3/quiz.md`) is the only remaining wrap-up item.
+Last updated: end of the Module 3 wrap-up. The quiz
+(`module3/quiz.md`) shipped, completing Module 3 except for
+launch-pending items (image rights and labels-table fact
+verification). The module is otherwise fully built: framing
+reading, five anchor-track listening guides with family-tree
+diagrams, landing page, discussion in the new pattern, and quiz.
 
 Glossary count: 428. Working tree clean.
 
@@ -35,14 +34,14 @@ chronological anchor-track listening guides (Bessie Smith with
 Armstrong 1925, Tharpe 1944, Brown 1968, Grandmaster Flash and the
 Furious Five 1982, Beyoncé 2016), discussion, and quiz.
 
-**Module 3: Latin diasporic traditions.** Mostly built; only the
-checkpoint quiz still pending. Landing page, framing reading
-(`roots-and-routes.html`, "Many Roots, Shared Routes," with Pearson
-migration map and labels table), five chronological anchor-track
-listening guides each with an inline family-tree SVG diagram at the
-Context-to-listening-prompts pivot (Puente 1962, Bataan 1967, Santana
-1970, Selena 1994, Tego Calderón 2002), and the discussion. Quiz
-(`module3/quiz.md`) is the next step.
+**Module 3: Latin diasporic traditions.** Fully built. Landing page,
+framing reading (`roots-and-routes.html`, "Many Roots, Shared
+Routes," with Pearson migration map and labels table), five
+chronological anchor-track listening guides each with an inline
+family-tree SVG diagram at the Context-to-listening-prompts pivot
+(Puente 1962, Bataan 1967, Santana 1970, Selena 1994, Tego Calderón
+2002), discussion (in the new "pick a reflective question" pattern),
+and quiz.
 
 **Final project module.** Fully built. Landing page, five Canvas
 markdown sources for the five graded checkpoints (proposal, annotated
@@ -50,13 +49,8 @@ bibliography, draft, peer review, final).
 
 ## What is pending
 
-**Module 3 wrap-up.** Only `module3/quiz.md` remains. Pattern follows
-Module 2 quiz (`module2/quiz.md`): 12 questions, framing-reading
-coverage plus per-track factual recall and methodology-vocabulary
-application, structured-for-reading half plus Canvas paste block.
-
-**Module 3 small cleanup pass** (could go in one polish commit before
-or after the wrap-up):
+**Module 3 small cleanup pass** (could go in one polish commit at
+some point):
 - Cross-page glossings still to retrofit: `chord-progression` on
   `module2/roots-and-routes.html` line 38, `module2/track1-bessie-
   smith.html` line 80, `module2/track3-brown.html` lines 66 and 72;
