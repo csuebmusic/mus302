@@ -21,7 +21,11 @@ through soul to "Cold Sweat" to "Say It Loud" for Track 3, with a
 forward arrow to hip hop; three streams converging in "The Message"
 with a forward arrow to conscious hip hop for Track 4; four streams
 converging in the Lemonade visual album then "Formation" for
-Track 5.
+Track 5. A small follow-up commit fixed a label overflow on the
+Track 3 (Brown) Brown's-soul-work box (label was wider than its
+160px box; fix was to split across two lines and grow the box
+height from 46 to 56). A proactive width-overflow scan across all
+five diagrams confirmed no other overflows.
 
 Modules 1, 2, 3, and the final-project module are fully built and
 shipped. Modules 4, 5, 6 are still to draft.
