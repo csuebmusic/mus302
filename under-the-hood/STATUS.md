@@ -6,11 +6,22 @@ locked design decisions live in `conventions.md`; audit-script
 behavior and intentional-skip categories live in `audit-notes.md`.
 This file has what is done, what is next, and what is open.
 
-Last updated: end of a session that restructured the under-the-hood
-folder. Editorial conventions, locked design decisions, audit-script
-notes, and glossary intentional-skip categories all moved out of
-README and STATUS into dedicated documents. The README is now a
-short public-facing overview.
+Last updated: end of a session that retrofitted family-tree SVG
+diagrams onto each of the five Module 2 anchor-track listening
+guides, bringing parity with Module 3 (where every track has one).
+Each diagram sits at the Context-to-listening-prompts pivot, follows
+the family-tree convention from `conventions.md` (viewBox 720 wide,
+Courier Prime, the cool blue-grey palette, dark accent endpoint with
+cream text, time axis at bottom, simplifications flagged in the
+figcaption), and shows the specific genealogy each track sits at the
+endpoint of: three streams converging in Handy's "St. Louis Blues"
+for Track 1; three streams converging in Tharpe's 1944 recording
+with a forward arrow to rock and roll for Track 2; gospel and R&amp;B
+through soul to "Cold Sweat" to "Say It Loud" for Track 3, with a
+forward arrow to hip hop; three streams converging in "The Message"
+with a forward arrow to conscious hip hop for Track 4; four streams
+converging in the Lemonade visual album then "Formation" for
+Track 5.
 
 Modules 1, 2, 3, and the final-project module are fully built and
 shipped. Modules 4, 5, 6 are still to draft.
@@ -44,10 +55,12 @@ guides (Cooke, Cruz, DeSanto, Williams), discussion and quiz.
 
 **Module 2: African American foundational traditions.** Fully built.
 Landing page, framing reading (`roots-and-routes.html`, with Great
-Migration map, labels reference table, lineage SVG diagram), five
-chronological anchor-track listening guides (Bessie Smith with
-Armstrong 1925, Tharpe 1944, Brown 1968, Grandmaster Flash and the
-Furious Five 1982, Beyoncé 2016), discussion, and quiz.
+Migration map, labels reference table, course-spanning lineage SVG
+diagram), five chronological anchor-track listening guides each
+with an inline family-tree SVG diagram at the Context-to-listening-
+prompts pivot (Bessie Smith with Armstrong 1925, Tharpe 1944, Brown
+1968, Grandmaster Flash and the Furious Five 1982, Beyoncé 2016),
+discussion, and quiz.
 
 **Module 3: Latin diasporic traditions.** Fully built. Landing page,
 framing reading (`roots-and-routes.html`, "Many Roots, Shared
