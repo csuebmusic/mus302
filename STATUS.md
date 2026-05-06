@@ -88,18 +88,13 @@ family-tree SVG diagram at the Context-to-listening-prompts pivot
 2002), discussion (in the new "pick a reflective question" pattern),
 and quiz.
 
-**Final project module.** Fully built. Landing page, five Canvas
-markdown sources for the five graded checkpoints (proposal, annotated
-bibliography, draft, peer review, final).
+**Final project module.** Fully built. Landing page, four Canvas
+markdown sources for the four graded checkpoints (combined proposal-
+and-bibliography, draft, peer review, final).
 
 ## What is pending
 
-**Module 3 small cleanup pass** (could go in one polish commit at
-some point):
-- Cross-page glossings still to retrofit: `chord-progression` on
-  `module2/roots-and-routes.html` line 38, `module2/track1-bessie-
-  smith.html` line 80, `module2/track3-brown.html` lines 66 and 72;
-  `onomatopoeia` on `module1/track2-cruz.html`.
+**Module 3 small cleanup pass** (deferred items):
 - Forward-reference links to Modules 4 and 6 in the Module 3 framing
   reading: broken anchor tags at lines 189 and 201. Decision deferred
   until those modules exist.
