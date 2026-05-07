@@ -2451,6 +2451,11 @@ var GLOSSARY = {
     definition: "Chinese American baritone saxophonist, composer, and political organizer (born Fred Wei-Han Houn). One of the central figures of the Asian American Jazz movement and an outspoken Marxist organizer, Ho led the Afro Asian Music Ensemble and the Monkey Orchestra and composed large-scale works combining jazz, Chinese opera, and political theater. His writings on Asian American radical music are collected in Wicked Theory, Naked Practice (University of Minnesota Press, 2009)."
   },
 
+  "asian-improv-arts": {
+    label: "Asian Improv aRts",
+    definition: "San Francisco-based Asian American arts organization founded in 1987 by pianist Jon Jang and saxophonist Francis Wong. AIR runs Asian Improv Records (the recording arm) and a presenting program that has documented and toured musicians of the Asian American Jazz movement, including Jang, Wong, Glenn Horiuchi, Mark Izu, Anthony Brown, and others. AIR has been the primary institutional home of Asian American Jazz as a recorded and touring tradition since the late 1980s."
+  },
+
   "mitski": {
     label: "Mitski Miyawaki (b. 1990)",
     definition: "Japanese American singer-songwriter who records under just her first name. Born in Mie Prefecture, Japan, to a Japanese mother and an American State Department father, she grew up between Japan, China, Malaysia, the Czech Republic, the Democratic Republic of the Congo, Turkey, and several US locations. She studied studio composition at the SUNY Purchase Conservatory of Music and graduated in 2013. Her 2016 album Puberty 2 (especially its lead single \u201cYour Best American Girl\u201d) was the breakthrough that made her one of the most recognized Asian American musicians working in indie rock."

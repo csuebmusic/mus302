@@ -11,7 +11,9 @@ For session-by-session work in progress, see `STATUS.md`.
 
 The audit reports 29 warnings on Module 3 after the fresh-eyes pass;
 all fall into the categories below. Audit reports a handful more on
-Module 2; same categories. The fresh-eyes pass cleared five real
+Module 2; same categories. Module 4's framing reading after the
+restructuring pass reports two; both are documented under categories
+2 and 3 below. The fresh-eyes pass cleared five real
 misses (`waltz`, `Loíza` placement, `rhythm-section`,
 `corpus-christi`, `horn`); the rest are documented skips.
 
@@ -29,16 +31,18 @@ misses (`waltz`, `Loíza` placement, `rhythm-section`,
    `dominant`, etc., as a possible missed gloss for the corresponding
    technical entry. Most are bare English words in non-technical
    senses (e.g., `dominant musical infrastructure` is the adjective,
-   not the V chord). All documented per page.
+   not the V chord; Module 4 framing reading carries one such hit on
+   `dominant` in "the dominant non-white labor force"). All documented
+   per page.
 3. **Wrong-sense matches.** The audit cannot distinguish a `tenor`
    saxophone from a tenor voice, or a stage `MC` (master of
    ceremonies) from a hip hop MC, or a song-title `Santana` cross-link
    from the band-name first mention. Each surfaces as a warning that
-   is actually a wrong-sense match. Related: the audit's quote-stripping
-   for song-and-album titles can leave possessive forms stranded
-   (Module 4 framing reading flags `Beyoncé` because the prose says
-   `Beyoncé's "Formation."` and the title strips out, leaving the
-   possessive next to the following sentence).
+   is actually a wrong-sense match. Module 4 framing reading carries
+   one such hit on `american-national` matched inside the proper noun
+   "Filipino American National Historical Society." Related: the
+   audit's quote-stripping for song-and-album titles can leave
+   possessive forms stranded next to following prose.
 4. **Compound-already-buttoned upstream.** When a longer compound key
    like `latin-trap` is buttoned at first mention, the audit also
    flags the bare `trap` later in the prose. Buttoning the bare term
