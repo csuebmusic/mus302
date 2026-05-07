@@ -306,11 +306,6 @@ var GLOSSARY = {
     definition: "A pan-Latin popular music genre that emerged in 1960s and 1970s New York from the blending of Cuban son, guaracha, and mambo with Puerto Rican styles, jazz harmony, and the urban experience of Caribbean migrants. Often associated with Fania Records. The name \u201csalsa\u201d (literally \u201csauce\u201d) was a marketing term that stuck."
   },
 
-  "clave": {
-    label: "Clave",
-    definition: "A two-bar rhythmic pattern that organizes most Afro-Cuban and salsa music. Two basic forms exist: 3-2 clave (three accents in the first bar, two in the second) and 2-3 clave (the reverse). Once you hear the clave, you hear it everywhere in Latin music. The pattern is often played on two wooden sticks called \u201cclaves.\u201d"
-  },
-
   "montuno": {
     label: "Montuno",
     definition: "Two related meanings in Cuban and salsa music. (1) The improvisational call-and-response section of a son or salsa performance, where the lead singer trades phrases with the chorus. (2) A syncopated repeating piano figure that anchors the harmonic and rhythmic feel of the band. Both are essential."
@@ -1247,11 +1242,6 @@ var GLOSSARY = {
     definition: "American singer-songwriter and producer, originally part of the hip hop collective Odd Future, whose albums Channel Orange (2012) and Blonde (2016) have been widely influential in contemporary R&B and pop. In 2012, Ocean publicly disclosed that his first love had been a man, a moment widely seen as a watershed for openness about queer identity in hip hop and R&B."
   },
 
-  "mitski": {
-    label: "Mitski (b. 1990)",
-    definition: "American singer-songwriter, born in Japan to a Japanese mother and an American father, whose work in indie rock and art-pop became widely influential in the late 2010s and 2020s. Albums including Puberty 2 (2016), Be the Cowboy (2018), and The Land Is Inhospitable and So Are We (2023) have shaped contemporary indie rock. Mitski has expressed ambivalence about labels like \u201cAsian American\u201d and describes herself as \u201chalf Japanese, half American but not fully either.\u201d"
-  },
-
   "h-e-r": {
     label: "H.E.R. (b. 1997)",
     definition: "Stage name of Gabriella Sarmiento Wilson, an American R&B singer-songwriter and multi-instrumentalist of Filipino and African American heritage, raised in Vallejo, California. She has won five Grammy Awards and an Academy Award (for \u201cFight for You,\u201d from the 2021 film Judas and the Black Messiah). Her 2020 song \u201cI Can\u2019t Breathe\u201d was a direct response to police violence against Black Americans and won the Grammy for Song of the Year."
@@ -1423,6 +1413,11 @@ var GLOSSARY = {
   "vaudeville": {
     label: "Vaudeville",
     definition: "A form of variety theater that dominated American popular entertainment from roughly the 1880s through the 1920s, made up of short, varied acts (singers, comedians, dancers, novelty performers) presented one after another on a single bill. Vaudeville was strictly segregated: white vaudeville played mostly white theaters and produced stars like Eddie Cantor and Sophie Tucker; Black vaudeville played mostly Black-owned theaters on circuits like the Theater Owners\u2019 Booking Association (TOBA) and produced stars like Bessie Smith, Ma Rainey, and Ethel Waters. Many of the conventions of later live popular music (the headliner, the warm-up act, the touring revue) come from vaudeville."
+  },
+
+  "foxtrot": {
+    label: "Foxtrot",
+    definition: "A smooth ballroom dance in 4/4 time that emerged in 1914 and dominated American social dancing from the late 1910s through the 1940s. The dance is named for the vaudeville performer Harry Fox, who introduced a trotting step to ragtime music at the New York Theatre in 1914; Vernon and Irene Castle, the most famous white American ballroom dancers of the period, smoothed it into the gliding form that became the standard. By the 1920s the foxtrot was the default tempo for popular dance recordings: many records of the era, even ones that we would now classify as jazz or as the precursors of swing, were sold under the label \u201cfoxtrot\u201d to tell social dancers what to do with them."
   },
 
   "toba": {
@@ -2446,6 +2441,66 @@ var GLOSSARY = {
     definition: "Sansei (third-generation) Japanese American jazz double-bass player and composer, born in Vallejo, California. A central figure in the Asian American Jazz movement from the late 1970s onward, Izu studied gagaku (Japanese imperial court music) for twenty-six years with master Togi Suenobu and frequently combined gagaku and other Asian musical traditions with post-bop jazz in his compositions. He served as artistic director of the Asian American Jazz Festival from the mid-1980s through 2000."
   },
 
+  "yuji-ichioka": {
+    label: "Yuji Ichioka (1936-2002)",
+    definition: "Japanese American historian, civil rights activist, and pioneering scholar of Asian American Studies. Born in San Francisco, Ichioka was incarcerated as a child at the Topaz internment camp in Utah during World War II. While a graduate student in Japanese history at UC Berkeley in the late 1960s, Ichioka and his partner Emma Gee called the May 1968 meeting at their apartment at 2005 Hearst Avenue that founded the Asian American Political Alliance (AAPA), the first known organization to use the phrase \u201cAsian American.\u201d In 1969 Ichioka taught the first Asian American Studies course in the United States at UCLA and helped establish the UCLA Asian American Studies Center, where he served as a research associate and adjunct professor of history until his death. His major scholarly work, The Issei: The World of the First Generation Japanese Immigrants, 1885-1924 (Free Press, 1988), won the 1989 US History Book Award of the Association for Asian American Studies."
+  },
+
+  "emma-gee": {
+    label: "Emma Gee (1939-2023)",
+    definition: "Chinese American activist, scholar, and writer who, with her partner Yuji Ichioka, co-coined the term \u201cAsian American\u201d and co-founded the Asian American Political Alliance (AAPA) at UC Berkeley in May 1968. Gee was instrumental in expanding AAPA beyond the Bay Area, building chapters at SF State, Mills, UC Santa Cruz, UC Davis, USC, Columbia, and Dartmouth, and in ensuring women activists like Vicci Wong and Penny Nakatsu held leadership roles in the organization. She later taught some of the first Asian American Studies courses at UC Berkeley and UCLA, including the first-ever course focused on Asian American women. The 2005 Hearst Avenue residence in Berkeley where Gee and Ichioka founded AAPA was designated a Berkeley city historical landmark in 2018."
+  },
+
+  "richard-aoki": {
+    label: "Richard Aoki (1938-2009)",
+    definition: "Japanese American activist, educator, and the most prominent non-Black member of the Black Panther Party, in which he held the formal leadership rank of Field Marshal. Born in San Leandro, Aoki was incarcerated as a young child at the Topaz internment camp in Utah from 1942 to 1945. After eight years of military service, he attended Merritt College in Oakland, where he became close friends with Huey Newton and Bobby Seale; according to Bobby Seale\u2019s memoir, Aoki provided the early Black Panther Party with some of its first firearms. In 1968 he was a co-founder of the Asian American Political Alliance and a leader in the Third World Liberation Front strikes that established the first Ethnic Studies programs at SF State and UC Berkeley. A 2012 FBI Freedom of Information Act disclosure that Aoki had been a paid informant for the bureau over a 15-year period has been the subject of significant ongoing debate among historians of the Asian American and Black Power movements; Diane Fujino\u2019s 2012 biography Samurai Among Panthers is the standard scholarly treatment."
+  },
+
+  "yuri-kochiyama": {
+    label: "Yuri Kochiyama (1921-2014)",
+    definition: "Japanese American civil rights and human rights activist, born Mary Yuriko Nakahara in San Pedro, California. Kochiyama and her family were incarcerated for two years at the Jerome War Relocation Center in Arkansas during World War II; the experience, and the death of her father shortly after his FBI detention, shaped her lifelong activism. After moving to Harlem in 1960 with her husband Bill Kochiyama (a 442nd Infantry Regiment veteran), she became closely involved in Black liberation organizing, and in October 1963 met Malcolm X at a CORE protest. They corresponded and collaborated until Malcolm\u2019s assassination at the Audubon Ballroom on February 21, 1965, where Kochiyama was present and was photographed cradling his head. Through the 1970s and 1980s she was an active member of Asian Americans for Action (the East Coast equivalent of AAPA), the Republic of New Afrika, and the Puerto Rican independence movement, and she was a major organizer in the redress campaign that led to the 1988 Civil Liberties Act. She received an honorary doctorate from CSU East Bay in 2010."
+  },
+
+  "chris-iijima": {
+    label: "Chris Iijima (1948-2005)",
+    definition: "Sansei (third-generation) Japanese American folksinger, lawyer, and legal scholar, born in New York City to activist parents Takeru (a 442nd Infantry veteran) and Kazu Iijima (one of the founders of Asian Americans for Action, the East Coast Asian American activist organization). Iijima graduated from Columbia University in 1969, where he was active in the 1968 anti-war protests, and met Nobuko Miyamoto at the 1970 Japanese American Citizens League convention in Chicago. With Miyamoto and (from 1970) Charlie Chin, he toured Asian American Movement events as the trio Yellow Pearl and recorded the 1973 album A Grain of Sand: Music for the Struggle by Asians in America for Paredon Records, the first album of Asian American music. Iijima later earned a JD from New York Law School in 1988 and taught at NYU Law, Western New England Law, and ultimately the William S. Richardson School of Law at the University of Hawai\u02bbi at M\u0101noa, where he wrote influential legal scholarship on race and identity until his death from amyloidosis in 2005."
+  },
+
+  "nobuko-miyamoto": {
+    label: "Nobuko Miyamoto (b. 1939)",
+    definition: "Sansei Japanese American songwriter, dancer, theater artist, and activist, born in Los Angeles. Her family was incarcerated at the Santa Anita detention center during World War II; her father then volunteered to harvest sugar beets and the family was transferred to Montana, then Idaho, then Utah for the duration of the war. Miyamoto trained as a ballet and modern dancer and performed in the films The King and I (1956) and West Side Story (1961, as Francisca, credited under the stage name \u201cJoanne Miya\u201d), and on Broadway in Flower Drum Song (1958). After leaving Hollywood for activist work in New York in the late 1960s, including documentary filmmaking on the Black Panthers, she met Chris Iijima at the 1970 Japanese American Citizens League convention; their trio with Charlie Chin recorded A Grain of Sand in 1973. Miyamoto founded the Los Angeles-based arts organization Great Leap in 1978, where she still serves as artistic director. Her memoir Not Yo' Butterfly: My Long Song of Relocation, Race, Love, and Revolution (UC Press, 2021) and the accompanying double album 120,000 Stories (Smithsonian Folkways, 2021) document her career."
+  },
+
+  "charlie-chin": {
+    label: "William \u201cCharlie\u201d Chin (b. 1944)",
+    definition: "Chinese American singer-songwriter, multi-instrumentalist, and writer, born in New York City and raised in Queens. Chin\u2019s father was from Toisan, China; his mother was of mixed Chinese, Carib, and Venezuelan ancestry, born in New York and raised in Trinidad. Inspired by Pete Seeger, Chin took up the banjo and grew up playing the cuatro, autoharp, and guitar in the early-1960s Greenwich Village folk scene. He toured nationally in the late 1960s with the rock band Cat Mother and the All Night Newsboys before returning to New York. In 1970 he joined Chris Iijima and Nobuko Miyamoto onstage at a Pace College Asian American conference, and the three recorded A Grain of Sand together in 1973. Chin has continued to perform and write as a children\u2019s book author, cultural historian, and storyteller about Chinese American history, including the building of the Transcontinental Railroad."
+  },
+
+  "vincent-chin": {
+    label: "Vincent Chin (1955-1982)",
+    definition: "Chinese American draftsman whose murder in Detroit on June 19, 1982 became a turning point in pan-Asian American civil rights organizing. Born in China\u2019s Guangdong province and adopted by Chinese American parents in Detroit, Chin was 27 years old and out for his bachelor party at a Highland Park club when he was confronted by Chrysler foreman Ronald Ebens and Ebens\u2019s laid-off stepson Michael Nitz; according to witness testimony, Ebens shouted that the decline of the American auto industry was the fault of Asian people like Chin. Ebens and Nitz beat Chin to death with a baseball bat in a McDonald\u2019s parking lot, and Chin died four days later. The judge\u2019s sentence of three years probation and a $3,780 fine, with no jail time, prompted Asian Americans across the country to organize the American Citizens for Justice (founded 1983, with journalist Helen Zia and lawyer Liza Chan among its leaders) and to demand a federal civil rights trial. Both federal trials ultimately ended in acquittal of the killers, but the case became a foundational moment in pan-Asian American mobilization and is commemorated in Christine Choy and Renee Tajima-P\u00e9\u00f1a\u2019s Oscar-nominated 1987 documentary Who Killed Vincent Chin?"
+  },
+
+  "francis-wong": {
+    label: "Francis Wong (b. 1957)",
+    definition: "Chinese American jazz saxophonist, flutist, erhu player, composer, and community organizer, born in San Francisco to a Shanghai father and a Cantonese mother. Wong has worked extensively with Black avant-garde jazz musicians including Cecil Taylor, Max Roach, Joseph Jarman, John Tchicai, and James Newton, and his work is often described as a fusion of free jazz and Asian musical traditions. With pianist Jon Jang, Wong co-founded Asian Improv aRts in 1987; the organization has been the central institutional home of the Asian American Jazz movement since the late 1980s. Since 2017 he has been a Lecturer in Asian American Studies at San Francisco State University."
+  },
+
+  "the-jets": {
+    label: "The Jets",
+    definition: "Tongan American family band of the eight oldest Wolfgramm siblings (LeRoy, Eddie, Eugene, Haini, Rudy, Kathi, Elizabeth, and Moana), the children of Maikeli and Vak\u00e9 Wolfgramm, who immigrated to Robbinsdale, a Minneapolis suburb, from the Kingdom of Tonga. (The full Wolfgramm family included seventeen children.) The siblings began performing as a family band in 1977 under the name Quasar; renamed The Jets and signed by MCA Records in 1985, they had five top-10 hits on the Billboard Hot 100 between 1985 and 1990, including the 1986 single \u201cCrush on You\u201d (#3 pop, #4 R&B), with thirteen-year-old Elizabeth Wolfgramm on lead vocal. Their early records were produced inside the Minneapolis sound infrastructure (engineer David Z, also known as David Rivkin, who worked with Prince) and the band continues to perform with a mix of original members and next-generation Wolfgramms."
+  },
+
+  "pat-suzuki": {
+    label: "Pat Suzuki (b. 1930)",
+    definition: "Nisei (second-generation) Japanese American singer and actress, born Chiyoko Suzuki in Cressey, California. Suzuki and her family were incarcerated at the Merced Assembly Center and the Granada (Amache) War Relocation Center in Colorado during World War II. After studying at San Jose State, she joined a touring production of The Teahouse of the August Moon and ended up performing nightly at Seattle\u2019s Colony Club for two years from 1955; Bing Crosby heard her there in 1957 and helped secure her a recording contract with RCA Victor. Her 1958 self-titled album was followed by a starring run as Linda Low in the original 1958 Broadway production of Rodgers and Hammerstein\u2019s Flower Drum Song; her recording of \u201cI Enjoy Being a Girl\u201d from that show became the standard version. Her 1959 album Broadway \u201959 was nominated for a Best Female Pop Vocal Performance Grammy in 1960. Two decades before the term \u201cAsian American\u201d existed, Suzuki was the most successful Asian American musician working in mainstream American entertainment."
+  },
+
+  "vijay-iyer": {
+    label: "Vijay Iyer (b. 1971)",
+    definition: "Indian American jazz pianist, composer, bandleader, and scholar, born in Albany, New York to parents who immigrated to the United States from South India in the wake of the 1965 Hart-Celler Act. Iyer earned a BS from Yale (1992) and a PhD in the cognitive science of music from UC Berkeley (1998), and he released his first album Memorophilia (1995) on Asian Improv Records, the label arm of the Asian American Jazz movement\u2019s Asian Improv aRts. He has collaborated extensively with the alto saxophonist Rudresh Mahanthappa and with major figures in the Black avant-garde jazz tradition. Iyer received a MacArthur Fellowship in 2013 and since 2014 has been the Franklin D. and Florence Rosenblatt Professor of the Arts at Harvard University, with a joint appointment in the Department of African and African American Studies."
+  },
+
   "jon-jang": {
     label: "Jon Jang (b. 1954)",
     definition: "Chinese American pianist and composer, central to the Asian American Jazz movement from the late 1970s onward. Jang has explicitly drawn on Black mentors and traditions (Max Roach, Amiri Baraka, Duke Ellington, the Black-radical-tradition jazz suite) while bringing Chinese folk and classical materials into his work. With saxophonist Francis Wong, Jang co-founded Asian Improv Records in 1987 to document and circulate Asian American Jazz movement recordings. His 1984 album Are You Chinese or Charlie Chan? was composed in direct response to the 1982 murder of Vincent Chin."
@@ -2463,7 +2518,7 @@ var GLOSSARY = {
 
   "mitski": {
     label: "Mitski Miyawaki (b. 1990)",
-    definition: "Japanese American singer-songwriter who records under just her first name. Born in Mie Prefecture, Japan, to a Japanese mother and an American State Department father, she grew up between Japan, China, Malaysia, the Czech Republic, the Democratic Republic of the Congo, Turkey, and several US locations. She studied studio composition at the SUNY Purchase Conservatory of Music and graduated in 2013. Her 2016 album Puberty 2 (especially its lead single \u201cYour Best American Girl\u201d) was the breakthrough that made her one of the most recognized Asian American musicians working in indie rock."
+    definition: "Japanese American singer-songwriter who records under just her first name. Born in Mie Prefecture, Japan, to a Japanese mother and an American State Department father, she grew up between Japan, China, Malaysia, the Czech Republic, the Democratic Republic of the Congo, Turkey, and several US locations, and graduated from the SUNY Purchase Conservatory of Music in 2013 with a studio composition degree. Her 2016 album Puberty 2 (especially its lead single \u201cYour Best American Girl\u201d) was the breakthrough that made her one of the most recognized Asian American musicians working in indie rock; subsequent albums Be the Cowboy (2018) and The Land Is Inhospitable and So Are We (2023) have continued that trajectory. Mitski has expressed ambivalence about labels like \u201cAsian American\u201d and has described herself as \u201chalf Japanese, half American but not fully either.\u201d"
   },
 
   "dj-qbert": {
