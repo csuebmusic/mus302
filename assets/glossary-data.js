@@ -1208,6 +1208,36 @@ var GLOSSARY = {
     definition: "Beyonc\u00e9\u2019s 2024 country album, which engages directly with the systematic erasure of Black contributions from country music. The album includes collaborations with Black country artists across generations (Linda Martell, Willie Jones, Tanner Adell, Brittney Spencer, Tiera Kennedy, Reyna Roberts) alongside Willie Nelson and Dolly Parton, and was both a commercial success and a public reckoning with country music\u2019s racial history."
   },
 
+  "pure-hell": {
+    label: "Pure Hell",
+    definition: "An African American punk rock band formed in West Philadelphia in 1974 by Kenny \u201cStinker\u201d Gordon, Kerry \u201cLenny Steel\u201d Boles, Preston \u201cChip Wreck\u201d Morris III, and Michael \u201cSpider\u201d Sanders. The band moved to New York in 1975, lived at the Chelsea Hotel, befriended the New York Dolls and Sid Vicious, and recorded an album called Noise Addiction in 1978. Their manager Curtis Knight, formerly the bandleader of Jimi Hendrix\u2019s pre-fame group the Squires, withheld the master tapes after a falling-out, and the album sat unreleased for twenty-eight years before finally appearing in 2005. Pure Hell is one of the bands often cited, alongside Detroit\u2019s Death, as having played punk before there was a name for it."
+  },
+
+  "death-band": {
+    label: "Death (Detroit band)",
+    definition: "An African American proto-punk band formed in Detroit in 1971 by the three Hackney brothers, Bobby (bass and vocals), David (guitar), and Dannis (drums). Sons of a Baptist preacher, the brothers recorded seven songs at Detroit\u2019s United Sound Studios in 1975 with funding from Columbia Records, but Columbia withdrew its support when the brothers refused label president Clive Davis\u2019s demand that they change their name. They self-released a single on their own Tryangle label in 1976 and broke up in 1977. The 1975 recordings sat in an attic for more than three decades; Drag City finally released them as ...For The Whole World To See in 2009, and the 2012 documentary A Band Called Death brought the brothers\u2019 story to a wide audience."
+  },
+
+  "japanese-breakfast": {
+    label: "Japanese Breakfast",
+    definition: "Indie rock band led by Korean American singer-songwriter and guitarist Michelle Zauner (born 1989 in Seoul, raised in Eugene, Oregon). Zauner began releasing music as Japanese Breakfast in 2013; the project has produced four studio albums (Psychopomp 2016, Soft Sounds from Another Planet 2017, Jubilee 2021, For Melancholy Brunettes (& sad women) 2025) and a Grammy nomination for Best Alternative Music Album in 2022. Zauner\u2019s 2021 memoir Crying in H Mart, about her relationship with her Korean mother and her mother\u2019s death from cancer, spent more than a year on The New York Times bestseller list."
+  },
+
+  "the-drifters": {
+    label: "The Drifters",
+    definition: "American R&B vocal group formed in 1953 in New York at the request of Atlantic Records\u2019 Ahmet Ertegun, originally to back lead singer Clyde McPhatter. The Drifters had two distinct lineups across their first decade: McPhatter\u2019s original group (1953\u20131958) and a second group built around Ben E. King beginning in 1959. The Brill Building songwriting teams of Carole King and Gerry Goffin, and Doc Pomus and Mort Shuman, wrote many of the second group\u2019s hits, including \u201cSave the Last Dance for Me\u201d (1960), \u201cUp on the Roof\u201d (1962), \u201cOn Broadway\u201d (1963), and \u201cUnder the Boardwalk\u201d (1964). The Drifters were inducted into the Rock and Roll Hall of Fame in 1988."
+  },
+
+  "the-ronettes": {
+    label: "The Ronettes",
+    definition: "American girl group formed in New York in 1959 by sisters Ronnie Bennett (later Ronnie Spector) and Estelle Bennett with their cousin Nedra Talley. Signed to Phil Spector\u2019s Philles label in 1963, the group recorded a string of hits produced in Spector\u2019s Wall of Sound style, most famously \u201cBe My Baby\u201d (1963), one of the defining records of the girl-group era. The Ronettes broke up in 1967; Ronnie went on to a long solo career, and the group was inducted into the Rock and Roll Hall of Fame in 2007."
+  },
+
+  "the-band": {
+    label: "The Band",
+    definition: "Canadian-American rock group active from the mid-1960s through 1976. The original lineup was Robbie Robertson (guitar), Rick Danko (bass), Richard Manuel (piano), Garth Hudson (organ), and Levon Helm (drums); the four Canadians and one Arkansan had previously worked as the Hawks, the backing band for rockabilly singer Ronnie Hawkins, and toured with Bob Dylan in 1965 and 1966. Their 1968 debut Music From Big Pink and 1969 self-titled album were widely influential in the development of what came to be called Americana. The group\u2019s 1976 farewell concert in San Francisco was filmed by Martin Scorsese as The Last Waltz (1978). The Band was inducted into the Rock and Roll Hall of Fame in 1994."
+  },
+
   /* ============================
      Framing reading: artists
      ============================ */
@@ -1250,6 +1280,56 @@ var GLOSSARY = {
   "selena": {
     label: "Selena Quintanilla (1971\u20131995)",
     definition: "Mexican American singer who became the most popular Tejano artist of the early 1990s and a major crossover figure in Latin music. Born and raised in Texas, she fronted Selena y Los Dinos and built an audience that crossed Tejano, regional Mexican, and English-language pop. She was murdered by the president of her fan club in 1995, just before the release of her first English-language album. Her cultural footprint has only grown in the decades since."
+  },
+
+  "sam-cooke": {
+    label: "Sam Cooke (1931\u20131964)",
+    definition: "African American singer, songwriter, and entrepreneur, often called the King of Soul. Cooke rose to prominence in the early 1950s as lead singer of the gospel quartet the Soul Stirrers; he crossed over to secular pop in 1957 with \u201cYou Send Me,\u201d and over the next seven years recorded a series of hits that helped invent soul music. He founded his own record label, SAR Records, and his own publishing company, an unusual move for a Black artist of the period. Cooke was shot and killed at a Los Angeles motel in December 1964 under disputed circumstances at age thirty-three. His \u201cA Change Is Gonna Come,\u201d written in response to specific incidents of anti-Black racism and released posthumously, became a civil rights anthem and is the anchor track for Module 1\u2019s first listening guide."
+  },
+
+  "celia-cruz": {
+    label: "Celia Cruz (1925\u20132003)",
+    definition: "Cuban-born singer who became the most prominent female vocalist of twentieth-century Latin music. Cruz rose to fame in the 1950s with the Cuban big band Sonora Matancera; she left Cuba in 1960 after the revolution and never returned. Settling in the United States, she joined Tito Puente, Johnny Pacheco, and the Fania All-Stars and became the central female voice of the salsa era of the 1960s and 1970s. Her 1974 recording of \u201cQuimbara\u201d with the Fania All-Stars is the anchor track for Module 1\u2019s second listening guide. Cruz won multiple Grammy and Latin Grammy awards and recorded with artists from Willie Col\u00f3n to Wyclef Jean across her seven-decade career."
+  },
+
+  "sugar-pie-desanto": {
+    label: "Sugar Pie DeSanto (1935\u20132024)",
+    definition: "American R&B singer, songwriter, and dancer, born Umpeylia Marsema Balinton in Brooklyn to a Filipino seaman father and an African American concert-pianist mother. DeSanto grew up in San Francisco\u2019s Fillmore District, where she was childhood friends with Etta James. Discovered in 1955 by Johnny Otis at a San Francisco talent show, she toured with the Johnny Otis Revue and then the James Brown Revue (1959\u20131960), and signed with Chess Records in Chicago in 1962, where she recorded \u201cSlip-in Mules,\u201d \u201cI Don\u2019t Wanna Fuss,\u201d and the Etta James duets \u201cDo I Make Myself Clear\u201d and \u201cIn the Basement.\u201d DeSanto\u2019s mixed Filipino and African American identity, her West Coast and Midwestern recording histories, and her position as a woman in mid-century R&B all sit at intersections this course returns to. \u201cI Don\u2019t Wanna Fuss\u201d is the anchor track for Module 1\u2019s third listening guide."
+  },
+
+  "hank-williams": {
+    label: "Hank Williams (1923\u20131953)",
+    definition: "American country singer, songwriter, and guitarist, born Hiram King Williams in Mount Olive, Alabama. Williams had a brief and concentrated commercial career (barely six years) but recorded a body of songs (\u201cI\u2019m So Lonesome I Could Cry,\u201d \u201cYour Cheatin\u2019 Heart,\u201d \u201cHey, Good Lookin\u2019\u201d) that became foundational to the country tradition and influential well beyond it. His musical inheritance came partly from the Anglo-Celtic ballad tradition his family carried forward and partly from his apprenticeship with the African American street musician Rufus \u201cTee Tot\u201d Payne in Greenville and Georgiana, Alabama. Williams\u2019s substance use and chronic spinal pain caught up with him; he died in the back of a Cadillac on New Year\u2019s Day 1953 at age twenty-nine. \u201cI\u2019m So Lonesome I Could Cry\u201d is the anchor track for Module 1\u2019s fourth listening guide."
+  },
+
+  "james-brown": {
+    label: "James Brown (1933\u20132006)",
+    definition: "African American singer, songwriter, bandleader, and dancer, often called the Godfather of Soul. Brown\u2019s career spans the late 1950s through the 2000s and is usually treated as the central thread that connects mid-century R&B to soul to funk to hip hop. He pioneered the rhythmic shift to the downbeat (\u201cthe One\u201d) that became the foundation of funk; he led one of the most disciplined and influential touring bands in American popular music; and his April 1968 concert in Boston, broadcast live the night after Martin Luther King Jr.\u2019s assassination, is widely credited with helping the city avoid the wave of urban uprisings that hit dozens of other American cities. Brown\u2019s 1968 \u201cSay It Loud \u2014 I\u2019m Black and I\u2019m Proud\u201d is the anchor track for Module 2\u2019s third listening guide."
+  },
+
+  "anthony-brown": {
+    label: "Anthony Brown (born 1953)",
+    definition: "American jazz percussionist, composer, ethnomusicologist, and bandleader. Brown founded the Asian American Orchestra in 1997 as a touring component of a federally funded multimedia project on Japanese American internment; the ensemble\u2019s recording of Duke Ellington\u2019s Far East Suite was nominated for a Grammy in 2000. Brown holds a PhD in ethnomusicology from UC Berkeley and served as founding director of the Smithsonian Institution\u2019s Jazz Oral History Program from 1992 to 2012. The Asian American Orchestra continues the formal-innovation thread of the Asian American Jazz movement that ran through Jon Jang and Fred Ho\u2019s earlier work."
+  },
+
+  "yaeji": {
+    label: "Yaeji (born 1993)",
+    definition: "Stage name of Kathy Yaeji Lee, a Korean American singer, DJ, and producer based in Brooklyn. Born in Flushing, Queens, Yaeji moved with her family to Atlanta and then to Seoul before returning to the United States for college at Carnegie Mellon, where she began DJing. Her music blends house and hip hop with quiet, often whispered vocals in Korean and English; her 2017 single \u201cRaingurl\u201d brought her international attention, and her debut album With a Hammer was released in 2023."
+  },
+
+  "robbie-robertson": {
+    label: "Robbie Robertson (1943\u20132023)",
+    definition: "Canadian guitarist, songwriter, and composer of Mohawk and Cayuga heritage on his mother\u2019s side. Born Jaime Royal Robertson in Toronto, Robertson grew up visiting his mother\u2019s family at the Six Nations of the Grand River reserve in Ontario, where he absorbed the music-making practices that would shape his later writing. He was the principal songwriter and lead guitarist of The Band from the mid-1960s until 1976, wrote \u201cThe Weight,\u201d \u201cThe Night They Drove Old Dixie Down,\u201d and many of the group\u2019s other defining songs, and engaged with his Indigenous heritage publicly in his solo career and in projects like the 1994 album Music for the Native Americans."
+  },
+
+  "janelle-monae": {
+    label: "Janelle Mon\u00e1e (born 1985)",
+    definition: "American singer, songwriter, and actor. Born Janelle Mon\u00e1e Robinson in Kansas City, Kansas, Mon\u00e1e broke through with the EP Metropolis: Suite I (The Chase) (2007) and the album The ArchAndroid (2010), both built around her android alter ego Cindi Mayweather and a science-fiction concept frame indebted to Octavia Butler and Sun Ra. Mon\u00e1e came out publicly as queer and pansexual in 2018 around the release of Dirty Computer, and as nonbinary in 2022; her music draws on funk, R&B, and Afrofuturism to do explicit political and identity work. Mon\u00e1e has also acted in Moonlight (2016), Hidden Figures (2016), and Glass Onion (2022)."
+  },
+
+  "lil-nas-x": {
+    label: "Lil Nas X (born 1999)",
+    definition: "American rapper, singer, and songwriter, born Montero Lamar Hill in the Atlanta area. His 2018 country-rap single \u201cOld Town Road\u201d went viral on TikTok and spent a record nineteen weeks at number one on the Billboard Hot 100 in 2019. He came out as gay on Twitter that summer, becoming the first artist to do so while holding a number-one record. His follow-up work, particularly the 2021 single \u201cMontero (Call Me By Your Name)\u201d and its provocative music video, has been openly and explicitly queer; he is among the first major Black queer male artists to celebrate his sexuality so directly in the country and hip hop genres."
   },
 
   /* ============================

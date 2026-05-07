@@ -47,6 +47,11 @@ const SKIPLIST = new Set([
   'exile',         // common noun used non-musically
   'orchestration', // figurative use
   'improvisation', // figurative use
+  // The two below collide with very common lowercase nouns ("the band"
+  // as in the ensemble in a song, "death" as in the event). When writing
+  // pages that genuinely refer to these groups, audit them by hand.
+  'the-band',
+  'death-band',
 ]);
 
 // ---------------------------------------------------------------------------
@@ -85,6 +90,11 @@ function extractProse(html) {
   // Strip figure captions: the rule is no glossings inside captions, since
   // captions accompany visual figures and link/button styling clutters them.
   prose = prose.replace(/<figcaption[^>]*>[\s\S]*?<\/figcaption>/gi, '');
+  // Strip the YouTube play-card region. This is metadata (artist + song
+  // title + duration) inside an <a class="video-link">. Artist names that
+  // appear here also appear in the page's flowing prose, where the gloss
+  // (if appropriate) belongs.
+  prose = prose.replace(/<a [^>]*class=["'][^"']*video-link[^"']*["'][\s\S]*?<\/a>/gi, ' ');
   // Strip navigation footers: link text, not prose.
   prose = prose.replace(/<nav[\s\S]*?<\/nav>/gi, '');
   // Strip italicized text: in this codebase <em> is used for titles of
