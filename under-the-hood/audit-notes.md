@@ -28,12 +28,13 @@ misses (`waltz`, `Loíza` placement, `rhythm-section`,
    prose elsewhere on the site.
 2. **Common English words colliding with technical glossary keys.**
    The audit flags every prose use of `rhythm`, `beat`, `jazz`, `soul`,
-   `dominant`, etc., as a possible missed gloss for the corresponding
-   technical entry. Most are bare English words in non-technical
-   senses (e.g., `dominant musical infrastructure` is the adjective,
-   not the V chord; Module 4 framing reading carries one such hit on
-   `dominant` in "the dominant non-white labor force"). All documented
-   per page.
+   `pop`, `dominant`, etc., as a possible missed gloss for the
+   corresponding technical entry. Most are bare English words in non-
+   technical senses (e.g., `dominant musical infrastructure` is the
+   adjective, not the V chord; "pop charts," "pop release," and
+   "pop-radio listener" are casual adjectival uses, not the genre
+   noun; Module 4 framing reading carries one such hit on `dominant`
+   in "the dominant non-white labor force"). All documented per page.
 3. **Wrong-sense matches.** The audit cannot distinguish a `tenor`
    saxophone from a tenor voice, or a stage `MC` (master of
    ceremonies) from a hip hop MC, or a song-title `Santana` cross-link

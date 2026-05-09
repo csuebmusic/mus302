@@ -54,6 +54,11 @@ var GLOSSARY = {
     definition: "A category of Black American popular music that emerged in the 1940s. The label has shifted over time. In the 1940s and 50s it described a wide range of Black popular music. From the 1960s onward it became more closely associated with smoother, vocal-driven styles. Today \u201cR&B\u201d typically means contemporary Black pop with a focus on singing."
   },
 
+  "pop": {
+    label: "Pop",
+    definition: "Short for \u201cpopular music,\u201d but in genre-classification usage \u201cpop\u201d names a specific commercial style: short, hook-driven, melody-forward songs in standard verse-chorus form, designed for radio rotation and built around a lead vocal. Pop draws on whatever the dominant production aesthetic of the moment is (the Brill Building style of the early 1960s, the Motown sound of the mid-1960s, the disco production of the late 1970s, the Minneapolis sound of the mid-1980s, the contemporary streaming-era pop of the 2020s) and tends to soften the musical edges of the genres it borrows from. \u201cFunk and pop,\u201d as a phrase, names a hybrid: the rhythmic vocabulary of funk (a Black American dance music built on tight rhythmic patterns and prominent bass) blended with the formal and melodic conventions of commercial pop."
+  },
+
   "soul-stirrers": {
     label: "The Soul Stirrers",
     definition: "One of the most important African American gospel groups of the postwar era, founded in Texas in 1926. Known for innovations like adding a second lead singer and pushing gospel toward greater emotional intensity. Sam Cooke was their lead singer from 1950 to 1957."
