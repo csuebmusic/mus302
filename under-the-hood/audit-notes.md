@@ -49,7 +49,11 @@ misses (`waltz`, `Loíza` placement, `rhythm-section`,
    from the band-name first mention. Each surfaces as a warning that
    is actually a wrong-sense match. Module 4 framing reading carries
    one such hit on `american-national` matched inside the proper noun
-   "Filipino American National Historical Society." Related: the
+   "Filipino American National Historical Society." Module 4 Track 5
+   (Mitski) carries one such hit on `pop` matched inside the record-
+   label name "Sub Pop" (the indie label, not the genre); the page
+   also has the standard reading-tips verb-sense hit on `pop`. The
+   genre noun `pop` is not used in the prose. Related: the
    audit's quote-stripping for song-and-album titles can leave
    possessive forms stranded next to following prose.
 4. **Compound-already-buttoned upstream.** When a longer compound key

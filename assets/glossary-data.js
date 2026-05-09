@@ -59,6 +59,11 @@ var GLOSSARY = {
     definition: "Short for \u201cpopular music,\u201d but in genre-classification usage \u201cpop\u201d names a specific commercial style: short, hook-driven, melody-forward songs in standard verse-chorus form, designed for radio rotation and built around a lead vocal. Pop draws on whatever the dominant production aesthetic of the moment is (the Brill Building style of the early 1960s, the Motown sound of the mid-1960s, the disco production of the late 1970s, the Minneapolis sound of the mid-1980s, the contemporary streaming-era pop of the 2020s) and tends to soften the musical edges of the genres it borrows from. \u201cFunk and pop,\u201d as a phrase, names a hybrid: the rhythmic vocabulary of funk (a Black American dance music built on tight rhythmic patterns and prominent bass) blended with the formal and melodic conventions of commercial pop."
   },
 
+  "indie-rock": {
+    label: "Indie rock",
+    definition: "Both a genre and an institutional space. As a genre, indie rock is a loose late-twentieth- and early-twenty-first-century descendant of the 1980s American college-rock and post-punk scenes (R.E.M., the Replacements, Sonic Youth, Pixies, Pavement) that inherited those scenes' guitar-based instrumentation, rough recording aesthetic, and ambivalence about commercial success. As an institutional space, indie rock is the cluster of independent record labels (Sub Pop, Matador, Merge, 4AD, Touch and Go, and in the 2010s the Secretly Group umbrella that covers Dead Oceans, Jagjaguwar, and Secretly Canadian), independent-music magazines and websites (early Pitchfork, Stereogum, Brooklyn Vegan), college and community radio stations, and small-to-mid-sized rock venues that constitute a parallel music industry alongside the major-label pop industry. The genre and the space are entangled: a record made for indie rock distribution will tend to use the genre's sonic vocabulary, and a record using the genre's sonic vocabulary will tend to be received as belonging to the space. Through its first three decades the indie rock space was overwhelmingly white and overwhelmingly male; the late 2010s saw a substantial rebalancing of who got to be at the center of the picture, and Mitski's career is one of the data points scholars and critics use when arguing that point."
+  },
+
   "soul-stirrers": {
     label: "The Soul Stirrers",
     definition: "One of the most important African American gospel groups of the postwar era, founded in Texas in 1926. Known for innovations like adding a second lead singer and pushing gospel toward greater emotional intensity. Sam Cooke was their lead singer from 1950 to 1957."
@@ -868,6 +873,11 @@ var GLOSSARY = {
   "verse-chorus": {
     label: "Verse-chorus form",
     definition: "A common popular song structure in which alternating verses (with new lyrics each time) and a chorus (with the same lyrics each time) build the shape of the song. The chorus is usually the most memorable part and the part listeners will sing along to. Most pop, rock, R&B, and country songs use some version of verse-chorus form."
+  },
+
+  "pre-chorus": {
+    label: "Pre-chorus",
+    definition: "A short transitional section in a verse-chorus song, sitting between a verse and the chorus that follows it. The pre-chorus is often where the song's harmonic motion accelerates and the dynamic level begins to rise; it functions as a ramp into the chorus and gives the chorus's arrival more impact when it lands. The pre-chorus typically uses the same lyrics each time it returns (like a chorus, unlike a verse), but is shorter than the chorus and rarely carries the song's title or main hook. In Mitski's \u201cYour Best American Girl,\u201d the pre-chorus (\u201cyou're the sun, you've never seen the night\u201d) is the lyrically densest passage and the place the song's metaphor work happens; it is also where the synthesizer pads and the drums enter for the first time, building the dynamic ramp into the distorted chorus."
   },
 
   "arpeggio": {
@@ -2844,6 +2854,25 @@ var GLOSSARY = {
   "dj-apollo": {
     label: "DJ Apollo",
     definition: "Apollo Novicio, Filipino American turntablist born in the Philippines and raised in San Francisco's Mission District before his family moved to Daly City. Co-founder of Invisibl Skratch Piklz with Q-Bert and Mix Master Mike in 1989, and a member of the Rocksteady DJs lineup that took the 1992 DMC World team title. Apollo left ISP in 1993 (Shortkut joined the crew in his place) and went on to a long career as the touring DJ for jazz saxophonist Branford Marsalis's Buckshot LeFonque, the Oakland hip hop collective Souls of Mischief, the trumpeter Russell Gunn, and the Bay Area soul singer Goapele. Together with Shortkut and Vinroc, he is one of the three Triple Threat DJs. He appears in interviews in Gabe Meline's 2024 KQED long-form history of the Filipino mobile DJ scene, where he is one of the central voices on the late 1970s through early 1990s Daly City garage-party scene that produced the crew."
+  },
+
+  /* ============================
+     Module 4 Track 5: Mitski, "Your Best American Girl"
+     ============================ */
+
+  "dead-oceans": {
+    label: "Dead Oceans",
+    definition: "An independent record label based in Bloomington, Indiana, founded in 2007 as part of the Secretly Group family (which also includes Jagjaguwar and Secretly Canadian). Dead Oceans signed Mitski in late 2015 and released Puberty 2 in 2016, Be the Cowboy in 2018, Laurel Hell in 2022, and The Land Is Inhospitable and So Are We in 2023. The label\u2019s broader roster includes Phoebe Bridgers, Khruangbin, Bright Eyes, Slowdive, and Japanese Breakfast, among others; in the second half of the 2010s and the early 2020s, Dead Oceans was one of the central institutional homes for the indie rock space\u2019s expanding roster of women and Asian American artists."
+  },
+
+  "patrick-hyland": {
+    label: "Patrick Hyland",
+    definition: "American producer, engineer, and songwriter; Mitski\u2019s long-term studio collaborator. Hyland produced Mitski\u2019s Bury Me at Makeout Creek (2014), Puberty 2 (2016), Be the Cowboy (2018), and Laurel Hell (2022); on Puberty 2, Mitski has said in interviews, the two of them played \u201cevery instrument\u201d on the record, which they recorded in two weeks at Acme Studios in Westchester County, New York. Hyland\u2019s broader credits include work with the Antlers and Sad13 (Speedy Ortiz\u2019s Sadie Dupuis)."
+  },
+
+  "zia-anger": {
+    label: "Zia Anger",
+    definition: "American filmmaker and music-video director, born 1985, based in upstate New York. Anger directed Mitski\u2019s music video for \u201cYour Best American Girl,\u201d which premiered on April 13, 2016 and became one of the most-discussed indie rock music videos of the decade. Her broader video work includes pieces for Jenny Hval, Angel Olsen, Maggie Rogers, and Helado Negro; her feature film My First Film (2024) is a fictionalized account of her own first attempted feature, framed around the labor and economic conditions of independent filmmaking. In her 2026 Marie Claire 10-year retrospective on the \u201cYour Best American Girl\u201d video, Anger discussed the production: a single-day shoot in a Brooklyn warehouse in February 2016, with cinematographer Ashley Connor, and the moment the entire crew applauded after Mitski\u2019s take of the chorus shred."
   }
 
 };
