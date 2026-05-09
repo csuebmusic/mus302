@@ -2682,6 +2682,60 @@ var GLOSSARY = {
   "bongos": {
     label: "Bongos",
     definition: "A pair of small open-bottom drums of different sizes joined together, played with the hands while held between the knees. Bongos came out of late-19th-century Cuba (probably eastern Cuba, in the early son ensembles) and became, with the conga drum, one of the standard percussion instruments of Latin and Latin-influenced popular music. Less massive and lower-volume than congas, bongos are often used for quieter song accompaniments and for rhythmic figures that need a higher and crisper sound than congas can provide."
+  },
+
+  /* ============================
+     Module 4 Track 2: Are You Chinese or Charlie Chan?
+     ============================ */
+
+  "free-jazz": {
+    label: "Free jazz",
+    definition: "An umbrella term for the experimental jazz tradition that emerged in the late 1950s and early 1960s and that abandoned, in varying degrees, the harmonic, rhythmic, and formal conventions of the bebop and post-bop traditions that preceded it. Ornette Coleman\u2019s 1961 double-quartet album Free Jazz lent the movement its name; central figures include Coleman, Cecil Taylor, John Coltrane (in his late period), Albert Ayler, Pharoah Sanders, Sun Ra, Archie Shepp, and the collective associations AACM (Chicago) and BAG (St. Louis). Many free jazz musicians preferred terms like \u201cthe new thing,\u201d \u201cavant-garde jazz,\u201d or \u201ccreative music\u201d; the Art Ensemble of Chicago in particular rejected the word \u201cjazz\u201d altogether. Politically, free jazz was widely associated with Black nationalism and the Black Power movement of the late 1960s and provided the central musical model for the Asian American Jazz movement of the 1980s."
+  },
+
+  "john-coltrane-late-period": {
+    label: "John Coltrane, late period",
+    definition: "The final phase of Coltrane\u2019s career, roughly from late 1964 (the recording of A Love Supreme) through his death in July 1967, in which he abandoned the modal and chord-based playing of his earlier work in favor of free, often atonal improvisation organized around short motivic cells, extreme shifts in register (including the altissimo screams that became one of his signatures), and dense ensemble textures. Key recordings include A Love Supreme (1965), Ascension (1965), Meditations (1966), Interstellar Space (1967), and Expression (1967). The late Coltrane recordings became the central touchstone for the next generation of Black avant-garde jazz musicians and, through them, for the Asian American Jazz musicians of the 1980s. Mark Izu, Francis Wong, and Glenn Horiuchi all cited the late Coltrane records (especially Ascension) as the music that drew them into jazz."
+  },
+
+  "aacm": {
+    label: "AACM",
+    definition: "The Association for the Advancement of Creative Musicians, a Black musicians\u2019 collective founded in Chicago in 1965 by the pianist Muhal Richard Abrams and others. The AACM has been the central institutional home of Black experimental music in Chicago for the last sixty years; its early members included the Art Ensemble of Chicago, Anthony Braxton, Henry Threadgill, Wadada Leo Smith, and Roscoe Mitchell. The AACM model (a member-run, mutual-aid musicians\u2019 organization that produced its own concerts and developed its own audiences outside the commercial-jazz pipeline) directly inspired the BAG collective in St. Louis and, in turn, Asian Improv aRts. The AACM\u2019s preferred term for what it does is \u201ccreative music\u201d rather than \u201cjazz.\u201d George Lewis\u2019s A Power Stronger Than Itself (University of Chicago Press, 2008) is the standard scholarly history."
+  },
+
+  "bag-black-artists-group": {
+    label: "BAG (Black Artists\u2019 Group)",
+    definition: "The Black Artists\u2019 Group, a Black multidisciplinary arts collective founded in St. Louis in 1968, modeled on Chicago\u2019s AACM. BAG combined music, theater, dance, poetry, and visual arts in a single mutual-aid organization. Core BAG musicians included the Bowie brothers (trumpeter Lester, of the Art Ensemble of Chicago, and saxophonist Joseph), the saxophonist Oliver Lake, and the trumpeter Floyd LeFlore. Several BAG musicians, including the trumpeter George Sams, moved to the Bay Area in the 1970s and 1980s and became key collaborators with the Asian American Jazz musicians; Sams co-founded RPM Records, the label that issued Jon Jang\u2019s 1984 Are You Chinese or Charlie Chan?, with the Japanese American bassist Mark Izu and the Chicago AACM saxophonist Lewis Jordan."
+  },
+
+  "rpm-records-jang": {
+    label: "RPM Records",
+    definition: "An independent Bay Area record label co-founded in the early 1980s by the United Front collective (the Japanese American bassist Mark Izu, the African American trumpeter and BAG St. Louis member George Sams, the African American saxophonist and AACM Chicago member Lewis Jordan, and the Japanese-African-American percussionist Anthony Brown). RPM Records released several of the foundational Asian American Jazz movement recordings, including Jon Jang\u2019s self-titled debut Jang (1982, RPM4) and Are You Chinese or Charlie Chan? (1984, RPM5). RPM was no longer functioning by 1987, when Jang and Francis Wong founded Asian Improv Records as the Asian American Jazz movement\u2019s ongoing institutional home. Not to be confused with the British rock label of the same name."
+  },
+
+  "asian-improv-records": {
+    label: "Asian Improv Records",
+    definition: "An independent record label founded in San Francisco in 1987 by the pianist Jon Jang and the saxophonist Francis Wong as the recording arm of Asian Improv aRts. Asian Improv Records has been the primary institutional home of the Asian American Jazz movement on record since the late 1980s, releasing albums by Jang, Glenn Horiuchi, Mark Izu, Francis Wong, Anthony Brown, Vijay Iyer (whose first album Memorophilia was a 1995 AIR release), Jason Kao Hwang, Tatsu Aoki, Hafez Modirzadeh, and many others. The label was explicitly modeled on the AACM and BAG cooperative-production traditions; Jang and Wong have said that founding it was a refusal of the choice between commercial self-censorship and remaining unrecorded."
+  },
+
+  "wendell-logan": {
+    label: "Wendell Logan (1940-2010)",
+    definition: "African American composer, saxophonist, and educator, founding chair of the Department of Africana Studies (originally the Afro-American Music Department) at the Oberlin Conservatory of Music. Logan held the Conservatory\u2019s African American music chair from the late 1960s until his death in 2010, building the department into one of the central institutional homes for the academic study of jazz and Black music in the United States. Among his composition students were the pianist Jon Jang (B.Mus. 1978), who has described Logan as \u201ca mentor and a father figure,\u201d and Jang has explicitly credited Logan with the political and artistic framework he brought to the Asian American Jazz movement of the 1980s."
+  },
+
+  "sheng": {
+    label: "Sheng",
+    definition: "A Chinese free-reed mouth organ consisting of vertical bamboo pipes set into a small wind chamber that the player blows into. The sheng can produce complex, sustained chords as well as single melodic lines, and it has a distinctive shimmering, slightly metallic sound that can sit alongside Western wind instruments without being overpowered. The instrument has a continuous documented history in China of more than 2,000 years and is the ancestor of the Japanese sh\u014d (used in gagaku court music) and, more distantly, of the Western harmonica and accordion. The double-bass player Mark Izu plays sheng on Jon Jang\u2019s 1984 album Are You Chinese or Charlie Chan?; bringing the sheng into a jazz ensemble is one of the Asian American Jazz movement\u2019s signature moves."
+  },
+
+  "redress-movement": {
+    label: "Japanese American redress and reparations movement",
+    definition: "The political campaign organized in the 1970s and 1980s to win an official US government apology and individual financial reparations for Japanese Americans who had been imprisoned in concentration camps during World War II. The Japanese American Citizens League formed its National Committee for Redress in 1978; the Commission on Wartime Relocation and Internment of Civilians (CWRIC) held public hearings across the country in 1981; the Civil Liberties Act of 1988, signed by President Ronald Reagan, granted a formal apology and $20,000 to each of the approximately 82,000 surviving incarcerees. The redress and reparations movement was the political backdrop against which much of the Asian American Jazz movement\u2019s most explicitly political work, including Jon Jang\u2019s Reparations Now! Concerto for Jazz Ensemble and Taiko (1987-88) and Glenn Horiuchi\u2019s Manzanar Voices (1989), was composed."
+  },
+
+  "aave": {
+    label: "Black vernacular speech (AAVE)",
+    definition: "African American Vernacular English, a variety of English with distinctive grammar, pronunciation, and vocabulary that developed in African American communities in the United States, primarily in the 19th and 20th centuries, and has been the topic of an extensive linguistic literature since the 1960s. AAVE has its own consistent grammatical rules (the habitual \u201cbe,\u201d the absence of the copula in present tense, double negation, distinctive verb-tense markers) and a rich vocabulary that has continually entered mainstream American English through Black music, film, and literature. The use of AAVE by non-Black speakers, especially in commercial music, has been the topic of long-running debate about cultural appropriation; the use of AAVE within the Asian American Jazz movement (notably by Woody Ichiyasu and Bob Matsueda in the spoken interlude on Jon Jang\u2019s 1984 \u201cAre You Chinese or Charlie Chan?\u201d) has been read by the musicologist Loren Kajikawa as one of the moves that built and at the same time interrogated the movement\u2019s solidarity with Black liberation politics."
   }
 
 };
