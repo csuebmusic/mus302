@@ -35,15 +35,18 @@ pending source/photographer credit.
 identification of the scan's source. Defensible as record-cover
 educational use either way.
 
-**Module 4 Track 4 hero photo provenance and YouTube link.** Image
-is in (`assets/images/invisibl-skratch-piklz.jpg`, the contemporary
+**Module 4 Track 4 hero photo provenance.** Image is in
+(`assets/images/invisibl-skratch-piklz.jpg`, the contemporary
 Q-Bert / Shortkut / D-Styles trio in a recent studio session);
 figcaption carries a verification flag pending identification of
-photographer and source. The YouTube link in the video card
-(`youtu.be/vbAtEzIEGWM`) was provided by Inés but not verified by
-Claude during the build; the link card uses a generic
-"live trio routine" descriptor that should be replaced with the
-specific performance title once the link is confirmed.
+photographer and source. The video card link is now the
+authoritative Asphodel 12-inch unedited recording
+(`youtu.be/tjJ4-GIWBDk`, the actual 1996/1997 studio recording the
+listening guide is built around). The figcaption still navigates
+the era mismatch (contemporary photo, mid-1990s audio) by framing
+the photo as illustrative of "the standard ISP performance setup
+and the technical premise of nearly all their recorded and live
+work," which holds across both eras.
 
 **Module 3 forward-reference links.** Anchor tags at
 `module3/roots-and-routes.html` lines 189 (Module 6) and 201
