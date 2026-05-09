@@ -2638,6 +2638,50 @@ var GLOSSARY = {
   "break-beat": {
     label: "Break beat",
     definition: "The percussion-only section of a funk, soul, or rock record (typically a few bars long, often a drum solo or a heavily rhythmic instrumental passage) that hip hop DJs in 1970s New York identified as the most danceable part of a song. By cuing the same break on two copies of a record on two turntables and switching between them, a DJ could extend the break indefinitely. The break-beat technique, developed in the South Bronx by DJ Kool Herc and others, is the foundational DJ practice from which hip hop and turntablism grew."
+  },
+
+  /* ============================
+     Module 4 Track 1: A Grain of Sand, "We Are the Children"
+     ============================ */
+
+  "paredon-records": {
+    label: "Paredon Records",
+    definition: "An independent political-music label founded in Brooklyn in 1969 by the blues singer Barbara Dane and the writer/editor Irwin Silber. Paredon released fifty albums over fifteen years documenting protest, liberation, and revolutionary movements around the world: the label's first four 1970 issues were a Latin American protest-song compilation (Canci\u00f3n Protesta), an Angolan independence-movement record, an album of Vietnam-era anti-war GI songs (FTA!), and a recorded speech by Black Panther Party co-founder Huey Newton. Subsequent releases included recordings from Cuba, Chile, Vietnam, Ireland, Palestine, Puerto Rico, and elsewhere. Paredon released A Grain of Sand in 1973. In 1991 Dane and Silber donated the entire Paredon catalog to the Smithsonian Folkways collection, where it remains in print and freely streamable today."
+  },
+
+  "barbara-dane": {
+    label: "Barbara Dane (1927-2024)",
+    definition: "American blues, jazz, and folk singer, recording engineer, and lifelong political organizer. Dane sang professionally from her teens, recorded for Capitol and Folkways in the late 1950s and early 1960s, and was offered (and declined) major-label deals from labels including Frank Sinatra's Reprise. Her refusal to compromise her political views damaged her commercial career; in 1969 she co-founded Paredon Records with her husband Irwin Silber to document protest movements globally. Dane produced all fifty Paredon releases including A Grain of Sand, recruiting musicians, designers, and translators. She continued to perform and record into her nineties; her 2018 memoir is titled This Bell Still Rings: My Life of Defiance and Song."
+  },
+
+  "a-grain-of-sand-album": {
+    label: "A Grain of Sand (album)",
+    definition: "A Grain of Sand: Music for the Struggle by Asians in America (Paredon Records, 1973), the first studio album of Asian American music. Twelve songs by the trio of Chris Iijima, Joanne Nobuko Miyamoto, and William \"Charlie\" Chin (sometimes credited as the band Yellow Pearl), with backing musicians on bongos, electric bass, and (on some tracks) Charlie Chin\u2019s di zi (Chinese transverse flute). The album was recorded over two and a half days at A-1 Sound Studios in New York, produced by Barbara Dane and engineered by Jonathan Thayer; Charlie Chin compared the four-track recording process to a more polished commercial production as the difference between \u201ca folding chair and a Maserati.\u201d The album cover artwork is by Arlan Huang and Karl Matsuda for Basement Workshop. Reissued on CD in 1998 by Bindu Records and 2004 by Smithsonian Folkways, where it remains in print."
+  },
+
+  "folk-revival": {
+    label: "Folk revival",
+    definition: "The American folk music revival, a movement spanning roughly the late 1940s through the late 1960s in which a generation of mostly young, mostly urban musicians (Pete Seeger, Joan Baez, Bob Dylan, Phil Ochs, Odetta, Buffy Sainte-Marie, the Kingston Trio, Peter Paul and Mary, and others) revisited Anglo-American, African American, and immigrant folk traditions and used them as a vehicle for left political expression. The folk revival was the musical home of much civil rights and anti-Vietnam War organizing through the 1960s. Its instrumental conventions (acoustic guitar, banjo, harmonica, simple chord progressions, foregrounded lyrics) and its political earnestness directly shaped the protest-song traditions that the Asian American Movement musicians of the early 1970s, the Chicano movement musicians, and the women\u2019s music movement musicians inherited and adapted."
+  },
+
+  "fingerpicking": {
+    label: "Fingerpicking",
+    definition: "A guitar technique in which the player plucks the strings with the fingers (or fingertips and thumb) rather than striking them with a flat pick. Fingerpicking allows a player to articulate independent bass and melody lines on the same instrument, often with a steady alternating thumb pattern carrying the bass while the fingers handle melodic figures on the higher strings. Common in country blues, folk, classical guitar, and the singer-songwriter tradition, fingerpicking gives the guitar a more intimate and conversational sound than strumming."
+  },
+
+  "texture": {
+    label: "Texture",
+    definition: "How many musical voices or layers are present in a passage and how they relate to each other. A solo unaccompanied voice is the thinnest texture; a full orchestra plus chorus is among the thickest. Texture also describes the relationships among the layers: who is leading, who is supporting, who is in dialogue with whom, who is providing the rhythmic engine. Listening for texture means counting the parts and asking what each one is doing. Two acoustic guitars and three voices is a thinner texture than a salsa orchestra with brass section and full percussion battery; both can be appropriate to what the song is trying to do."
+  },
+
+  "bass-guitar": {
+    label: "Bass guitar",
+    definition: "An electric stringed instrument tuned an octave below a standard guitar, played either with the fingers or a pick. The bass guitar took over from the upright string bass in popular music starting in the 1950s; by the 1960s it was the standard low-end instrument in rock, soul, R&B, and most American popular music. Its primary role is to outline the chord changes and lock in with the drums to form the rhythm section."
+  },
+
+  "bongos": {
+    label: "Bongos",
+    definition: "A pair of small open-bottom drums of different sizes joined together, played with the hands while held between the knees. Bongos came out of late-19th-century Cuba (probably eastern Cuba, in the early son ensembles) and became, with the conga drum, one of the standard percussion instruments of Latin and Latin-influenced popular music. Less massive and lower-volume than congas, bongos are often used for quieter song accompaniments and for rhythmic figures that need a higher and crisper sound than congas can provide."
   }
 
 };
