@@ -148,14 +148,17 @@ warm rust glossings. The warm rust on glossings differentiates them
 from links so students do not click expecting to leave the page,
 and gives the typewriter pages a hand-annotated quality. Locked.
 
-**Course header.** Three-line block at the top of every student-facing
-page, in this order: dept-id ("CSU East Bay · Music Department"),
-course-id ("MUS 302 · What to Listen for in Music"), and module-id
-(the page's specific context, e.g. "Module 4: Asian American
-Traditions · Listening Guide · Track 2 of 5" on a track page, or
-"Summer 2026 · Inés Thiebaut" on a landing page). The dept-id renders
-slightly softer than the other two; otherwise the three lines share
-weight. New pages must include all three.
+**Course header.** Two-paragraph block at the top of every student-facing
+page. The first paragraph (`p.course-id`) carries two lines joined by a
+`<br>`: "CSU East Bay · Music Department" then "MUS 302 · What to Listen
+for in Music". Both lines render at body size in the body's typewriter
+font. The second paragraph (`p.module-id`) carries the page's specific
+context (e.g. "Module 4: Asian American Traditions · Listening Guide ·
+Track 2 of 5" on a track page, or "Summer 2026 · Inés Thiebaut" on a
+landing page) and renders at 1.4em, the same size as `h1.track-title`
+and its `.track-number` span, so the module-id and the page title share
+a typographic weight at the top of the page. New pages must include both
+paragraphs.
 
 **Site footer.** Edge-to-edge dark band at the bottom of every page,
 two lines: "CSU East Bay · Music Department" then "Inés Thiebaut ·

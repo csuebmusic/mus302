@@ -51,20 +51,16 @@ main {
   margin-bottom: 2.5rem;
 }
 
-.course-header .dept-id {
-  color: var(--color-text-soft);
-  margin: 0 0 0.4rem;
-  font-size: 0.9em;
-}
-
 .course-header .course-id {
   color: var(--color-text);
-  margin: 0 0 0.4rem;
+  margin: 0 0 0.6rem;
 }
 
 .course-header .module-id {
   color: var(--color-text);
   margin: 0;
+  font-size: 1.4em;
+  line-height: 1.35;
 }
 
 /* Reading tips orientation box - shown on pages with glossary terms */
@@ -527,6 +523,10 @@ figure svg.diagram {
   }
 
   h1.track-title {
+    font-size: 1.25em;
+  }
+
+  .course-header .module-id {
     font-size: 1.25em;
   }
 }
