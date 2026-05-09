@@ -2787,6 +2787,26 @@ var GLOSSARY = {
     definition: "The most ear-catching, memorable element of a song: the part listeners can hum after one or two listens, the part radio programmers and A&R executives use to assess whether a song will land with audiences. Hooks can be vocal (the title-line refrain in a chorus), instrumental (a guitar riff, a synth figure, a horn line), or rhythmic (a distinctive beat). Many pop songs have multiple hooks layered together: a vocal hook in the chorus and an instrumental hook in the introduction or under the chorus. In commercial pop, the hook is often the part of the song writers and producers spend the most time on, because the hook is what gets the song stuck in a listener\u2019s head and brings them back to it."
   },
 
+  "new-edition": {
+    label: "New Edition",
+    definition: "An African American R&B vocal group from the Orchard Park Projects in the Roxbury neighborhood of Boston, Massachusetts, formed in 1978 as childhood friends Bobby Brown, Michael Bivins, and Ricky Bell were still in elementary school. The lineup that became famous added Ronnie DeVoe and Ralph Tresvant. New Edition broke with their 1983 debut single \u201cCandy Girl\u201d on the independent Streetwise Records (the group\u2019s pitch was, in their manager\u2019s phrasing, \u201ca new edition of the Jackson Five\u201d), then signed with MCA Records in 1984 after a bidding war. Their MCA-era hits \u201cCool It Now,\u201d \u201cMr. Telephone Man,\u201d and \u201cCount Me Out\u201d were among the central youth-oriented R&B records of the mid-1980s. New Edition was the highest-profile teen R&B act on MCA when The Jets signed in 1984; the two acts shared the label\u2019s teen-and-young-adult R&B audience."
+  },
+
+  "ready-for-the-world": {
+    label: "Ready for the World",
+    definition: "An African American R&B and funk band from Flint, Michigan, formed in 1982 by vocalist Melvin Riley, guitarist Gordon Strozier, keyboardist Gregory Potts, percussionist Willie Triplett, bassist John Eaton, and drummer Gerald Valentine. The band released the slow-jam ballad \u201cTonight\u201d on their own Blue Lake label in 1983, attracted Detroit DJ The Electrifying Mojo\u2019s on-air championship, and signed with MCA Records, who reissued \u201cTonight\u201d in 1984 (#6 R&B). Their 1985 self-titled MCA debut produced the breakout single \u201cOh Sheila\u201d (#1 Hot 100, #1 R&B, #1 Dance), a Prince-and-Minneapolis-sound-influenced uptempo track from a band that was, like The Jets, an MCA act working inside the dominant 1985-86 funk-pop production aesthetic without coming directly out of the Minneapolis studio infrastructure."
+  },
+
+  "the-jacksons": {
+    label: "The Jacksons (the Jackson family band)",
+    definition: "American R&B and pop family group from Gary, Indiana, made up of nine children of Joseph and Katherine Jackson. The original five-member lineup, the Jackson 5 (Jackie, Tito, Jermaine, Marlon, and Michael), signed with Motown in 1968, and produced four consecutive #1 Hot 100 hits in 1970 (\u201cI Want You Back,\u201d \u201cABC,\u201d \u201cThe Love You Save,\u201d \u201cI\u2019ll Be There\u201d) with Michael Jackson, then 11 to 12 years old, on lead vocals. The group left Motown in 1976, renamed itself The Jacksons (Jermaine remained at Motown; Randy Jackson joined), and signed with Epic. Michael Jackson\u2019s solo career, launched in parallel with the family band\u2019s continued work in the late 1970s and 1980s, made him one of the most commercially successful recording artists in history. The Jackson 5 / Jacksons template (a sibling group with a child lead, signed to a major label, marketed as a family act) was the explicit reference point for The Jets and for many other family bands that followed."
+  },
+
+  "the-osmonds": {
+    label: "The Osmonds",
+    definition: "American pop and rock family group from Ogden, Utah, made up of nine children of George and Olive Osmond. The Osmonds were Latter-day Saints (LDS / Mormons), like the Wolfgramm family of The Jets, and built their early career through Mormon-community performance circuits in the 1960s. The group broke into mainstream pop in 1971 with \u201cOne Bad Apple\u201d (#1 Hot 100), an explicit Jackson 5 sound-alike that played up the family-pop-group format the Jacksons had established. The youngest brother Donny Osmond and sister Marie Osmond had parallel solo and duo careers through the 1970s and 1980s. The Osmonds were one of the two family-band reference points (alongside the Jacksons) that Mike and Vak\u00e9 Wolfgramm have said inspired them to start their own family band in the mid-1970s."
+  },
+
   /* ============================
      Module 4 Track 4: Invisibl Skratch Piklz, Da Klamz Uv Deth
      ============================ */
