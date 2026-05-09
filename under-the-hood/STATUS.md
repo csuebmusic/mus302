@@ -12,12 +12,12 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 - Module 1 (Orientation and Methodology): full build
 - Module 2 (African American foundational traditions): full build
 - Module 3 (Latin diasporic traditions): full build
-- Module 4 (Asian American traditions): framing reading; Tracks 1-5
+- Module 4 (Asian American traditions): framing reading; Tracks 1-5; index.html
 - Final project module: full build
 
 ## Next (in order)
 
-- Module 4 index.html, discussion.md, quiz.md
+- Module 4 discussion.md, quiz.md
 - Module 5: anchor track lineup, then build
 - Module 6: anchor tracks beyond Lamar / Bad Bunny, then build
 
