@@ -2834,6 +2834,16 @@ var GLOSSARY = {
   "grandmixer-dxt": {
     label: "Grandmixer DXT (formerly Grandmixer D.ST)",
     definition: "Derek Showard, African American turntablist from the Edenwald Projects in the Bronx. Originally went by Grandmixer D.ST (a reference to Manhattan\u2019s Delancey Street), and changed the spelling to DXT in 1988 after his brother\u2019s death. He performed with Afrika Bambaataa at the early-1980s Roxy nights, appeared in the 1983 film Wild Style, and was on the first hip hop tour to Europe. His most-cited credit is the turntable scratching on Herbie Hancock\u2019s 1983 single \u201cRockit,\u201d the centerpiece of Hancock\u2019s Future Shock album, produced with Bill Laswell. \u201cRockit\u201d won a Grammy for best R&B instrumental performance, the music video saturated MTV in late 1983 and 1984, and DXT and Hancock performed the piece together on the 1984 Grammy Awards telecast. \u201cRockit\u201d was the song through which scratching first entered mainstream pop visibility for many listeners. Q-Bert and Mix Master Mike both later named the Hancock single in interviews and in the documentary Scratch as the recording that first made them want to be turntablists."
+  },
+
+  "mix-master-mike": {
+    label: "Mix Master Mike",
+    definition: "Michael Schwartz (born April 4, 1970), Filipino and Ashkenazi Jewish American turntablist from the Bay Area, co-founder of Invisibl Skratch Piklz with Q-Bert and DJ Apollo in 1989. Mike won the 1992 New Music Seminar / Supermen Inc. DJ Battle for World Supremacy in New York City (the first West Coast DJ to take that title), shared the 1992 DMC World team title with the Rocksteady DJs (Q-Bert and Apollo), and won the 1993 and 1994 DMC World team titles with Q-Bert as the Dream Team. Mike began stepping back from ISP touring in the mid-1990s for solo work, and joined the Beastie Boys in 1997 as their resident DJ; he played on Hello Nasty (1998), To the 5 Boroughs (2004), and Hot Sauce Committee Part Two (2011), and was inducted into the Rock and Roll Hall of Fame with the band in 2012. He has continued working as a solo artist, with the Beastie Boys, and most recently with Cypress Hill."
+  },
+
+  "dj-apollo": {
+    label: "DJ Apollo",
+    definition: "Apollo Novicio, Filipino American turntablist born in the Philippines and raised in San Francisco's Mission District before his family moved to Daly City. Co-founder of Invisibl Skratch Piklz with Q-Bert and Mix Master Mike in 1989, and a member of the Rocksteady DJs lineup that took the 1992 DMC World team title. Apollo left ISP in 1993 (Shortkut joined the crew in his place) and went on to a long career as the touring DJ for jazz saxophonist Branford Marsalis's Buckshot LeFonque, the Oakland hip hop collective Souls of Mischief, the trumpeter Russell Gunn, and the Bay Area soul singer Goapele. Together with Shortkut and Vinroc, he is one of the three Triple Threat DJs. He appears in interviews in Gabe Meline's 2024 KQED long-form history of the Filipino mobile DJ scene, where he is one of the central voices on the late 1970s through early 1990s Daly City garage-party scene that produced the crew."
   }
 
 };
