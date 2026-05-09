@@ -91,8 +91,9 @@ brief descriptive parentheticals. Scholars and journalists named in
 prose ("Mark Burford has argued...", "biographer Peter Guralnick"),
 full bibliographic info in the Sources section. No instructor-facing
 notes (verification flags, pedagogical justifications, things to
-revisit) in the live HTML; those live in commit messages, in
-`STATUS.md`, or in dedicated planning markdown when needed.
+revisit) in the live HTML; those live in commit messages or in
+dedicated planning markdown when needed. Open verify-before-launch
+items belong in `STATUS.md` under Open.
 
 **Internal sourcing (for the assistant).** Every factual claim in
 student-facing course content needs to be grounded in at least one
@@ -116,11 +117,20 @@ rule still applies: every quote needs a real, verifiable source
 attached.
 
 **Photos.** Hero photo per track, left-aligned, with full attribution
-caption. Wikimedia Commons preferred; editorial-use images from
-publishers are defensible for educational use with attribution. The
-images currently shipping in Modules 1-3 ship under educational fair
-use; the framework is documented in `STATUS.md` along with the
-swap-to-public-domain fallback if a rights holder requests removal.
+caption. Wikimedia Commons preferred when available; editorial-use
+images from publishers (KQED, Getty, Grosso! Recordings, Salsoul /
+Bataan Music, Tucker Ransom estate, NPR / Coburn Dukehart, and similar)
+are defensible for educational use with attribution. All images on
+the site ship under educational fair use: single-image non-commercial
+classroom use, full attribution in figcaptions, no displacement of the
+original market. The same framework covers the substantive teaching
+figures (the Module 2 Great Migration map by Blair Tinker for the
+Pathstone Antiracist Curriculum Project; the Module 3 Pearson
+migration map © 2005 Pearson Prentice Hall) and the decorative hero
+photos. If a rights holder requests removal, swap to a public-domain
+or Creative-Commons alternative; the maps in particular have ready
+substitutes from the Migration Policy Institute, US Census, and Pew
+Research Center.
 
 **Visual identity.** Courier Prime served from Google Fonts, with
 Courier and Courier New as fallbacks. Cooler off-white background
@@ -339,3 +349,22 @@ grid section is reference vocabulary, not a fifth analytical frame.
 Three meter diagrams are figs 1-3; the texture and form diagrams
 are figs 4-8. Eight figures total, all using the same courier-
 monospace and palette colors.
+
+## Operational notes
+
+**GitHub PAT.** The personal access token for pushes to the repo
+is stored in the project instructions for this assistant. If the
+PAT is rotated, update the project instructions; the README does
+not contain it.
+
+**Canvas peer review for the project draft.** Uses Canvas's built-in
+peer review tool with random assignment after the draft deadline.
+Late draft submissions need manual assignment by the instructor;
+budget time on the day or two after the draft deadline for cleanup.
+Under the current schedule, peer review opens immediately after the
+draft deadline, so instructor draft feedback runs in parallel with
+the peer-review window rather than preceding it.
+
+**Term and schedule.** Hard-date schedule lives in `syllabus.html`,
+which is the canonical source. STATUS.md does not duplicate it.
+
