@@ -6,78 +6,51 @@ locked design decisions live in `conventions.md`; audit-script
 behavior and intentional-skip categories live in `audit-notes.md`.
 This file has what is done, what is next, and what is open.
 
-Last updated: end of a fresh-eyes pass on all four framing readings
-(Module 1 cultural-roots; Modules 2, 3, 4 roots-and-routes), per-
-reading audit on its own terms, small fixes in place and judgment
-calls memo'd separately. Eleven in-place fixes across five commits.
+Last updated: end of a Module 4 Track 1 build session. Shipped
+`module4/track1-grain-of-sand.html` (153 lines, structurally
+parallel to the Tharpe template), covering the Iijima-Miyamoto-
+Chin trio's "We Are the Children" from <em>A Grain of Sand</em>
+(Paredon Records, 1973). Listening guide includes course header,
+video link card pointing to the Smithsonian Folkways YouTube
+upload, hero photo with figcaption (provenance placeholder noted
+below), four-section Context (three musicians/three biographies/
+one album; the song; the recording at A-1 Sound Studios; reception
+through the 2004 Smithsonian Folkways reissue), inline family-tree
+SVG with three streams (American folk revival, Paredon political-
+music infrastructure, Asian American Movement institutional
+infrastructure) converging in the 1973 recording and pointing
+forward to "Asian American music as a category," four prompts
+(timbre / texture / form / gesture, with form covering the
+expanding-circles verse pattern over a fixed chorus and gesture
+covering the choice to write in plural first person and claim a
+panethnic "we" that had only existed for five years), reflective
+question pointing back to the framing reading's three modes of
+political work, and Sources section.
 
-Module 1 (`9d43474`): six fixes. Capitalized "Module 6" / "Modules 2
-through 5" references for consistency. Replaced "whites-only motel
-in Louisiana" with "denied a room at a Holiday Inn in Shreveport,
-Louisiana, on the false claim that the motel was full" to match
-how the Cooke listening guide tells the story (the Holiday Inn
-was not formally whites-only by sign in October 1963; the desk
-clerk falsely claimed no rooms after a confirmed reservation).
-Pulled Joe Bataan out of the West Coast Filipino American sentence
-and gave him his own East Coast clause. Corrected the Pepper /
-Witchi Tai To attribution: the Billboard charting recording was by
-Everything Is Everything, with Pepper writing and singing lead, not
-a solo Pepper recording; the "only Hot 100 hit built on an authentic
-Native American chant" claim softened to "is widely cited as." Named
-Robbie Robertson's Mohawk and Cayuga heritage in the prose rather
-than only in the gloss popup. Split the queer-liberation paragraph
-so the structural claim ("queer artists in every tradition") sits
-separate from the example list of three contemporary Black queer
-artists who are not actually each "in every tradition." Replaced
-the stacked-negative beat "The point is not confession. The point
-is awareness." with "The work is awareness, not confession" per the
-writing-style guide.
+Eight new glossary entries this session (488 to 496):
+paredon-records, barbara-dane, a-grain-of-sand-album, folk-revival,
+fingerpicking, texture, bass-guitar, bongos. Hero photo
+(`assets/images/yellow-pearl-trio.jpg`, 99KB JPEG converted from
+user-uploaded webp) shows the trio mid-performance; the figcaption
+carries an explicit "[SOURCE TO BE ADDED]" placeholder per
+discussion (see open items below).
 
-Module 2 (`52b1d61`): one fix. Line 30 referenced "Module 1's
-reading on Sugar Pie DeSanto"; the reading mentions DeSanto in
-passing but the substantive treatment is in the Module 1 listening
-guide. Changed to "Module 1's listening guide on Sugar Pie DeSanto"
-to match how line 46 of the same reading already references "the
-Sugar Pie DeSanto track from Module 1."
+Forward-reference link in `module4/roots-and-routes.html` line 172
+(`track1-grain-of-sand.html`) now resolves. Audit clean: 25 files,
+0 errors, 76 warnings (all documented intentional skips).
 
-Module 3 (`b2a03a3`): three fixes, all on the labels table from the
-STATUS verify list. Alegre Records "1955-1969" to "1956-1966";
-Wikipedia, Grokipedia, City Lore, and Cengage agree on 1956 founded
-and 1966 sold to Levy. EMI Latin "Los Angeles / Miami, 1989 onward"
-to "Miami, 1989 onward"; the label was Miami-based 1989-2009 and
-only moved to Los Angeles in 2009 when it was rebranded as Capitol
-Latin, after the Selena/Tejano period the framing reading describes.
-Q-Productions "1986 onward" to "1990 onward"; Wikipedia and
-selenaetc.com say 1990, the Abraham Quintanilla bio says late 1993,
-nothing supports 1986 (which appears to confuse Q-Productions
-founding with Selena's first significant Tejano Music Awards
-appearance). Discos Falcon (the fourth STATUS verify item) left at
-1947; UCLA Frontera scholarly sources are split between 1947 and
-1948.
-
-Module 4 (`2ffaf05`): one fix. Katy de la Cruz described as "a
-Filipina American" in the Forbidden City paragraph; she was Filipina,
-born in Bustos, Bulacan in 1907, based primarily in the Philippines
-across an eight-decade career, with US tours that included a Forbidden
-City residency in the late 1940s and early 1950s. Changed to "the
-Filipina jazz singer Katy de la Cruz, billed as the Queen of Filipino
-Jazz, who held a Forbidden City residency in the late 1940s and early
-1950s during her US tours." Larry Ching, the other Forbidden City
-performer named in the same sentence, correctly remains "the Chinese
-American singer" (born in Kauai 1921 to a Chinese father and a
-Hawaiian mother).
-
-The fresh-eyes pass also confirmed without intervention: Wexler 1949
-R&B chart name change, Mariel Boatlift 125,000 / April-October 1980,
-Freedom Flights 260,000 / 1965-1973, Mario Bauzá's permanent NYC
-arrival 1930, Tico Records 1948-1974, AAPA founding May 1968 at 2005
-Hearst Avenue Berkeley, Yuji Ichioka's Topaz incarceration as a
-child, the SF State strike November 6 1968 to March 20 1969 (134
-days), Forbidden City founded December 22 1938 by Charlie Low at
-363 Sutter Street, Mitski's biographical details. STATUS-verify
-item count went from four open to one (Discos Falcon, defensible at
-1947 with scholarly ambiguity). Audit clean throughout; no glossary
-changes.
+Prior session (commits `9d43474`, `52b1d61`, `b2a03a3`, `2ffaf05`,
+`33cba6c`): fresh-eyes pass on all four framing readings with
+eleven in-place fixes: six on Module 1 cultural-roots (capitalization
+of Module references, Cooke / Holiday Inn description, Bataan East
+Coast clause split, Pepper / Witchi Tai To attribution, Robertson
+heritage in prose, queer-liberation paragraph split, replaced
+stacked-negative beat); one on Module 2 roots-and-routes (DeSanto
+listening guide vs reading reference); three on Module 3 roots-and-
+routes labels table (Alegre 1956-1966, EMI Latin Miami only,
+Q-Productions 1990 onward); one on Module 4 roots-and-routes (de
+la Cruz nationality). Three of four Module 3 STATUS verify items
+resolved; Discos Falcon left at 1947 with scholarly ambiguity.
 
 Modules 1, 2, 3, and the final-project module are fully built and
 shipped. Module 4 has its framing reading; the listening guides,
@@ -175,13 +148,26 @@ commits to: the Iijima-Miyamoto-Chin trio's <em>A Grain of Sand</em>
 (1973), Jon Jang and the Asian American Jazz movement (1980s), The
 Jets (1986), the Invisibl Skratch Piklz / Filipino American Bay
 Area DJ scene (mid-1990s), and Mitski's "Your Best American Girl"
-(2016). Still to build for Module 4: index.html landing page, five
-listening guides (each with hero photo, four-prompt structure, and
-inline family-tree SVG diagram at the Context-to-listening-prompts
-pivot per Module 2-3 convention), discussion in the new "pick a
-reflective question" pattern, and quiz. The framing reading
-contains one forward-reference link to `track1-grain-of-sand.html`
-that resolves once Track 1 is built.
+(2016). Track 1 built (`module4/track1-grain-of-sand.html`,
+"We Are the Children" album opener-equivalent, 153 lines, follows
+Module 2/3 template, three-streams family-tree SVG with American
+folk revival / Paredon political-music / Asian American Movement
+streams converging in the 1973 Paredon recording). Still to build
+for Module 4: index.html landing page, four remaining listening
+guides (Jang AAJM, The Jets, Invisibl Skratch Piklz, Mitski), each
+with hero photo, four-prompt structure, and inline family-tree SVG
+diagram at the Context-to-listening-prompts pivot per Module 2-3
+convention; discussion in the new "pick a reflective question"
+pattern; and quiz.
+
+**Module 4 Track 1 photo provenance: open.** The hero image at
+`assets/images/yellow-pearl-trio.jpg` is the user-uploaded
+photograph of the trio mid-performance, confirmed for use but
+shipped with the figcaption placeholder "[SOURCE TO BE ADDED]"
+per agreement to use minimal credit when provenance is provided.
+Update the figcaption before launch with whatever source/
+photographer credit is available; the alt text already describes
+the image fully so the placeholder does not block accessibility.
 
 **Module 5: European American immigrant and working-class traditions.**
 None drafted. Will follow the `module1/` pattern: landing page,
