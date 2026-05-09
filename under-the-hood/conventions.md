@@ -23,11 +23,11 @@ page title, video link card, hero photo with caption, then a four-
 sub-section context block (the sub-sections are flexible per artist
 but the count is consistent), then a "Things to listen for" block
 with four prompts (covering some combination of timbre, texture,
-form, gesture), a reflective question, sources, and forward and back
-navigation. The Module 3 anchor tracks added a per-track inline SVG
-family-tree diagram at the pivot point between Context and Things
-to listen for; that convention extends to Modules 4-6 if the
-per-track family-tree pattern continues to make sense.
+form, gesture), a reflective question, sources, and the site footer.
+The Module 3 anchor tracks added a per-track inline SVG family-tree
+diagram at the pivot point between Context and Things to listen for;
+that convention extends to Modules 4-6 if the per-track family-tree
+pattern continues to make sense.
 
 **Family-tree diagrams.** viewBox 720 wide, height fits the diagram
 (340-440 typical), Courier Prime font throughout, the cool blue-grey
@@ -59,8 +59,8 @@ shared file that grows as new pages are added.
 **Where glossings do not go.** Each glossable term is buttoned only
 on the first substantive prose mention in a given page. Subsequent
 mentions stay unbuttoned, even when they recur many times. Glossings
-also stay out of: page headings, figure captions, navigation footer
-text, song titles, album titles, film titles, and book titles
+also stay out of: page headings, figure captions, site footer text,
+song titles, album titles, film titles, and book titles
 (typeset in `<em>` or in quotation marks). Landing pages
 (`module*/index.html`, `syllabus.html`) are navigational summaries
 and carry no glossings; students hit the gloss when they reach the
@@ -148,11 +148,27 @@ warm rust glossings. The warm rust on glossings differentiates them
 from links so students do not click expecting to leave the page,
 and gives the typewriter pages a hand-annotated quality. Locked.
 
-**Footer band.** The dark navigation footer at the bottom of every
-page is edge-to-edge, which means `<nav class="track-nav">` is a
-sibling of `<main>` rather than a child. New pages following the
-listening guide pattern need to keep this structure: close `</main>`
-first, then place the nav with its `.track-nav-inner` wrapper outside.
+**Course header.** Three-line block at the top of every student-facing
+page, in this order: dept-id ("CSU East Bay · Music Department"),
+course-id ("MUS 302 · What to Listen for in Music"), and module-id
+(the page's specific context, e.g. "Module 4: Asian American
+Traditions · Listening Guide · Track 2 of 5" on a track page, or
+"Summer 2026 · Inés Thiebaut" on a landing page). The dept-id renders
+slightly softer than the other two; otherwise the three lines share
+weight. New pages must include all three.
+
+**Site footer.** Edge-to-edge dark band at the bottom of every page,
+two lines: "CSU East Bay · Music Department" then "Inés Thiebaut ·
+ines.thiebaut@csueastbay.edu · Summer 2026". The `<footer
+class="site-footer">` element is a sibling of `<main>` rather than a
+child so it can span the full viewport; the `.site-footer-inner`
+wrapper holds it to column width. New pages following the listening
+guide pattern need to keep this structure: close `</main>` first,
+then place the footer with its `.site-footer-inner` wrapper outside.
+Track-to-track prev/next navigation is intentionally not part of the
+footer; students navigate through Canvas and the module landing
+pages rather than via in-page page-flipping links. Update the term
+line at the start of each new term.
 
 **Labels-table CSS modifier.** The Module 2 and Module 3 record-
 labels reference tables use a `.schedule.labels-table` modifier
