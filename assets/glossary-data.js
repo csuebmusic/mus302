@@ -2741,6 +2741,16 @@ var GLOSSARY = {
   "aave": {
     label: "Black vernacular speech (AAVE)",
     definition: "African American Vernacular English, a variety of English with distinctive grammar, pronunciation, and vocabulary that developed in African American communities in the United States, primarily in the 19th and 20th centuries, and has been the topic of an extensive linguistic literature since the 1960s. AAVE has its own consistent grammatical rules (the habitual \u201cbe,\u201d the absence of the copula in present tense, double negation, distinctive verb-tense markers) and a rich vocabulary that has continually entered mainstream American English through Black music, film, and literature. The use of AAVE by non-Black speakers, especially in commercial music, has been the topic of long-running debate about cultural appropriation; the use of AAVE within the Asian American Jazz movement (notably by Woody Ichiyasu and Bob Matsueda in the spoken interlude on Jon Jang\u2019s 1984 \u201cAre You Chinese or Charlie Chan?\u201d) has been read by the musicologist Loren Kajikawa as one of the moves that built and at the same time interrogated the movement\u2019s solidarity with Black liberation politics."
+  },
+
+  "george-sams": {
+    label: "George Sams",
+    definition: "African American jazz trumpeter, composer, and bandleader, born in Texas. Sams was a member of the St. Louis-based Black Artists\u2019 Group (BAG) collective in the late 1960s and early 1970s, alongside the Bowie brothers Lester and Joseph and the saxophonist Oliver Lake; the BAG cohort moved to Paris in 1972, where Sams was active in the European free-jazz scene. After returning to the United States, Sams settled in the Bay Area and became a key collaborator with the Asian American Jazz movement, co-founding RPM Records with Mark Izu, Anthony Brown, and Lewis Jordan, and playing trumpet on Jon Jang\u2019s 1984 album <em>Are You Chinese or Charlie Chan?</em>"
+  },
+
+  "lewis-jordan": {
+    label: "Lewis Jordan",
+    definition: "African American jazz alto saxophonist and composer, a longtime member of the Chicago-based AACM (Association for the Advancement of Creative Musicians) collective in the 1970s before relocating to the Bay Area. In San Francisco, Jordan worked extensively in cross-racial collaborations and co-founded RPM Records with Mark Izu, Anthony Brown, and George Sams; the label issued the foundational Asian American Jazz movement recordings of the early 1980s, including Jon Jang\u2019s self-titled debut <em>Jang</em> (1982) and <em>Are You Chinese or Charlie Chan?</em> (1984). Jordan brought the AACM\u2019s do-it-yourself, mutual-aid model of musician-run record labels and concert presentation directly into the founding of the Asian American Jazz infrastructure."
   }
 
 };
