@@ -169,17 +169,17 @@ photograph of the trio mid-performance. Provenance updated in
 the figcaption: "Image courtesy of the Asian Americans United
 historical archive."
 
-**Module 4 Track 2 hero photo: open.** The Track 2 listening guide
-(`module4/track2-jang.html`) ships with a `[HERO PHOTO TO BE
-ADDED]` placeholder in both the figure src filename
-(`assets/images/jang-charlie-chan.jpg`, not yet present on disk)
-and the alt text and figcaption, per agreement that user will
-provide the image. Update the img src, alt text, and figcaption
-together when the image is supplied; the placeholder is in line
-32 of the file. The img src points to a filename that does not
-yet exist, so the page renders with a broken-image icon until the
-photo is added; this is intentional and matches the placeholder
-pattern used during Track 1's draft phase.
+**Module 4 Track 2 hero photo: image in, provenance open.** The
+Track 2 listening guide (`module4/track2-jang.html`) now ships
+with a real hero photograph at `assets/images/jang-dor.jpg`
+(167KB JPEG, converted from user-uploaded webp): Jon Jang at a
+San Francisco Day of Remembrance commemoration, with the
+camp-name candles foregrounded and a model Manzanar-style guard
+tower behind him. Alt text and figcaption are in place. The
+figcaption carries a `[PHOTO PROVENANCE TO BE ADDED]` placeholder
+per the same pattern as Track 1's photo before it was resolved;
+update the figcaption when source/photographer credit is
+available.
 
 **Module 5: European American immigrant and working-class traditions.**
 None drafted. Will follow the `module1/` pattern: landing page,
