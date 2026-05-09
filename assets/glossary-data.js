@@ -2684,6 +2684,11 @@ var GLOSSARY = {
     definition: "A pair of small open-bottom drums of different sizes joined together, played with the hands while held between the knees. Bongos came out of late-19th-century Cuba (probably eastern Cuba, in the early son ensembles) and became, with the conga drum, one of the standard percussion instruments of Latin and Latin-influenced popular music. Less massive and lower-volume than congas, bongos are often used for quieter song accompaniments and for rhythmic figures that need a higher and crisper sound than congas can provide."
   },
 
+  "harmonize": {
+    label: "Harmonize",
+    definition: "To sing or play notes that complement and reinforce a primary melody by sounding different pitches at the same time. The simplest case is two voices: one carries the tune while the other sings a parallel pitch above or below, producing a chord on each note of the melody. Vocal harmonization is one of the oldest and most widespread devices in popular music; folk duos and trios, gospel quartets, doo-wop groups, and rock and country bands all build their sound around it. Two voices that harmonize well together (a phenomenon partly about pitch matching, partly about timbre matching, and partly about timing) is a discovery that musicians make once and remember; Chris Iijima and Nobuko Miyamoto made it the first time they sang together at the 1970 Japanese American Citizens League convention."
+  },
+
   /* ============================
      Module 4 Track 2: Are You Chinese or Charlie Chan?
      ============================ */
