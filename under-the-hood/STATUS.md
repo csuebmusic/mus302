@@ -12,7 +12,9 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 - Module 1 (Orientation and Methodology): full build
 - Module 2 (African American foundational traditions): full build
 - Module 3 (Latin diasporic traditions): full build
-- Module 4 (Asian American traditions): framing reading; Tracks 1-5; index.html
+- Module 4 (Asian American traditions): framing reading; Tracks 1-5;
+  index.html; full deep-dive pass (factual corrections, gloss audit,
+  photo-provenance flags removed). Discussion and quiz still to come.
 - Final project module: full build
 
 ## Next (in order)
@@ -22,30 +24,6 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 - Module 6: anchor tracks beyond Lamar / Bad Bunny, then build
 
 ## Open
-
-**Module 4 Track 2 hero photo provenance.** Image is in
-(`assets/images/jang-dor.jpg`, Jang at SF Day of Remembrance);
-figcaption carries `[PHOTO PROVENANCE TO BE ADDED]` placeholder
-pending source/photographer credit.
-
-**Module 4 Track 3 hero image provenance.** Image is in
-(`assets/images/the-jets-crush-on-you.jpg`, the standard MCA 1986
-7-inch sleeve scan); figcaption carries a verification flag pending
-identification of the scan's source. Defensible as record-cover
-educational use either way.
-
-**Module 4 Track 4 hero photo provenance.** Image is in
-(`assets/images/invisibl-skratch-piklz.jpg`, the contemporary
-Q-Bert / Shortkut / D-Styles trio in a recent studio session);
-figcaption carries a verification flag pending identification of
-photographer and source. The video card link is now the
-authoritative Asphodel 12-inch unedited recording
-(`youtu.be/tjJ4-GIWBDk`, the actual 1996/1997 studio recording the
-listening guide is built around). The figcaption still navigates
-the era mismatch (contemporary photo, mid-1990s audio) by framing
-the photo as illustrative of "the standard ISP performance setup
-and the technical premise of nearly all their recorded and live
-work," which holds across both eras.
 
 **Module 3 forward-reference links.** Anchor tags at
 `module3/roots-and-routes.html` lines 189 (Module 6) and 201
@@ -77,3 +55,22 @@ the course. Most natural fits: Module 5 Brill Building section
 and unattributed. Two stronger-attributed candidates exist (Al Rendon
 1992, John Dyer 1992). Curation question, not a rights question;
 swap when convenient.
+
+**Module 4 framing reading length.** ~4,500 words, vs ~3,000-3,500
+for Modules 2 and 3. The "1965 and what changed" section has some
+overlap with "What 'Asian American' means here" that could be
+tightened in a polish pass; not blocking.
+
+**Module 4 Track 5 (Mitski) length.** Three context subsections
+rather than the four-section pattern the rest of Module 4 uses; the
+convention says four is flexible, but this is the only Module 4
+track that breaks the pattern. A natural fourth subsection would
+pick up the post-2016 indie rock landscape and the song's afterlife
+(the Marie Claire 10-year retrospective material is already in the
+sources). Optional polish.
+
+**Module 4 Track 1 (Iijima/Miyamoto/Chin) Will Crittendon source.**
+Sources section cites Wang's interview on the 1972 Crittendon-
+produced 7" single, but the body text does not mention the 1972
+single. Either weave the single into the recording paragraph or
+drop the source from the Sources section.

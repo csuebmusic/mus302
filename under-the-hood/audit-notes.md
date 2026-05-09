@@ -11,11 +11,14 @@ For session-by-session work in progress, see `STATUS.md`.
 
 The audit reports 29 warnings on Module 3 after the fresh-eyes pass;
 all fall into the categories below. Audit reports a handful more on
-Module 2; same categories. Module 4's framing reading after the
-restructuring pass reports two; both are documented under categories
-2 and 3 below. The fresh-eyes pass cleared five real
-misses (`waltz`, `Loíza` placement, `rhythm-section`,
-`corpus-christi`, `horn`); the rest are documented skips.
+Module 2; same categories. Module 4 reports 18 after the fresh-eyes
+pass that closed the framing reading and the per-track listening
+guides; all fall into the categories below. The fresh-eyes pass cleared
+several real misses (`mobile-dj`, `indie-rock`, `paredon-records`,
+`barbara-dane`, `asian-improv-records`, `cotton-club` on the framing
+reading; `rhythm-guitar`, `pre-chorus`, `jazz`, `blues` on Track 3;
+`jazz`, `soul`, `james-brown` on Track 4); the rest are documented
+skips.
 
 1. **Labels-table cells.** Module 2's record-labels table has four
    skipped cells (`house-band`, `w-c-handy`, `decca`, `muddy-waters`);
@@ -32,7 +35,16 @@ misses (`waltz`, `Loíza` placement, `rhythm-section`,
    corresponding technical entry. Most are bare English words in non-
    technical senses (e.g., `dominant musical infrastructure` is the
    adjective, not the V chord; Module 4 framing reading carries one
-   such hit on `dominant` in "the dominant non-white labor force").
+   such hit on `dominant` in "the dominant non-white labor force,"
+   Track 1 carries one on `dominant` in "the dominant mode in commercial
+   folk," Track 3 carries one on `dominant` in "the dominant pop
+   production aesthetic," and Track 4 carries one on `rhythm` in
+   "breakbeat-derived rhythm" used in the everyday sense rather than
+   as the technical glossary entry). Track 1 also carries a wrong-
+   sense hit on `form` as the verb "would form in 1978," and Track 2
+   and the framing reading carry wrong-sense hits on `form` as the
+   four-frame methodology vocabulary noun ("African American form,"
+   "musical form"), which per convention is not glossed.
    For `pop` specifically: every page in Modules 1-4 carries one
    verb-sense hit in the standard reading-tips note ("you can pop
    open by clicking"); these are wrong-sense matches and not
@@ -49,24 +61,43 @@ misses (`waltz`, `Loíza` placement, `rhythm-section`,
    from the band-name first mention. Each surfaces as a warning that
    is actually a wrong-sense match. Module 4 framing reading carries
    one such hit on `american-national` matched inside the proper noun
-   "Filipino American National Historical Society." Module 4 Track 5
-   (Mitski) carries one such hit on `pop` matched inside the record-
-   label name "Sub Pop" (the indie label, not the genre); the page
-   also has the standard reading-tips verb-sense hit on `pop`. The
-   genre noun `pop` is not used in the prose. Related: the
-   audit's quote-stripping for song-and-album titles can leave
-   possessive forms stranded next to following prose.
+   "Filipino American National Historical Society," and one on `aacm`
+   inside the proper noun "Association for the Advancement of
+   Creative Musicians (AACM)" where the prose itself defines the
+   acronym (parallel to the `aapi` skip below). Module 4 Track 4
+   carries one on `horn` matched inside "horn stab" (a sample type
+   in DJ/scratch vocabulary, not the jazz/blues/R&B horn-section
+   sense the gloss describes). Module 4 Track 5 (Mitski) carries one
+   on `pop` matched inside the record-label name "Sub Pop" (the indie
+   label, not the genre); the page also has the standard reading-tips
+   verb-sense hit on `pop`. The genre noun `pop` is not used in the
+   prose. Related: the audit's quote-stripping for song-and-album
+   titles can leave possessive forms stranded next to following prose.
 4. **Compound-already-buttoned upstream.** When a longer compound key
    like `latin-trap` is buttoned at first mention, the audit also
    flags the bare `trap` later in the prose. Buttoning the bare term
    on top of the compound is redundant; the compound carries the
    gloss.
-5. **YouTube card metadata and song-title cross-links.** Track 1 and
-   Track 2 video-card labels (`Tito Puente`, `Joe Bataan`) and Track
-   4's song-title cross-link (`Santana's "Oye Como Va"` linking to
-   the Santana track) surface as audit warnings. Per house style,
-   nav-style metadata, song titles, and cross-link anchors are not
-   glossed.
+5. **YouTube card metadata, song-title cross-links, and inside-link
+   first mentions.** Track 1 and Track 2 video-card labels (`Tito
+   Puente`, `Joe Bataan`) and Track 4's song-title cross-link
+   (`Santana's "Oye Como Va"` linking to the Santana track) surface as
+   audit warnings. Per house style, nav-style metadata, song titles,
+   and cross-link anchors are not glossed. The same applies to
+   person-name and band-name cross-links wrapped inside `<a>` tags to
+   other pages: Module 4 Track 3 carries inside-link first-mention
+   hits on `Nobuko Miyamoto` and `Sugar Pie DeSanto` where the names
+   appear as the linked text of cross-references back to earlier
+   tracks (the names were substantively introduced and glossed on
+   their own pages). Module 4 Track 4 carries similar inside-link
+   hits on `The Jets` and on cross-reference parentheticals
+   ("the layered Minneapolis-sound production on the Jets recording
+   (where the labor is divided across a programming team...)";
+   "Compare this to the salsa orchestra on the Cruz recording...";
+   "moving between blues home base and freely improvised passages")
+   where the cross-reference comparison is the rhetorical mode and
+   the term has been substantively introduced and glossed on the
+   referenced page.
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.
