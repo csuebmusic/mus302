@@ -2756,6 +2756,35 @@ var GLOSSARY = {
   "rahsaan-roland-kirk": {
     label: "Rahsaan Roland Kirk (1935-1977)",
     definition: "African American jazz multi-instrumentalist, composer, and bandleader, born Ronald Theodore Kirk in Columbus, Ohio. Kirk became blind at age two as a result of poor medical treatment, attended the Ohio State School for the Blind, and started playing R&B saxophone professionally at age 15. He is best known as a virtuoso saxophonist who could play two and sometimes three saxophones simultaneously (his standard tenor, plus the manzello and stritch, two modified soprano and alto saxophones), and as an inventive flutist who hummed or sang into the flute while playing it. Kirk was a politically outspoken performer who used his between-song stage banter to address Black history, the civil rights movement, and what he called Black Classical Music (his preferred term for jazz, which insisted on the music\u2019s status as a tradition of intellectual seriousness equivalent to European classical music). His <em>Bright Moments</em> double album, recorded live at the Keystone Korner in San Francisco on June 8 and 9, 1973, captured the period of Kirk\u2019s playing that the 19-year-old Jon Jang witnessed at the same club; Jang has cited that concert as the catalyzing event that made him decide to become a musician. Kirk had a stroke in 1975 that left half his body paralyzed; he learned to play one-handed and continued performing until his death from a second stroke in December 1977, at age 42."
+  },
+
+  /* ============================
+     Module 4 Track 3: The Jets, "Crush On You"
+     ============================ */
+
+  "kingdom-of-tonga": {
+    label: "Kingdom of Tonga",
+    definition: "A Polynesian island nation of roughly 170 islands in the South Pacific, southeast of Fiji and south of Samoa, with a population of about 100,000. Tonga is the only Pacific Island nation never formally colonized; it became a British protectorate in 1900 and gained full independence in 1970, retaining a constitutional monarchy through both. Mormon (LDS) missionaries arrived in 1891, and by the 1970s about nineteen percent of the country\u2019s population had converted to the LDS Church, the highest per-capita Mormon population in the world. The Wolfgramm family, whose eight oldest siblings make up The Jets, are among the Tongan Latter-day Saints who emigrated to the United States in the 1960s and after."
+  },
+
+  "lds-church": {
+    label: "LDS Church (Latter-day Saints, Mormons)",
+    definition: "The Church of Jesus Christ of Latter-day Saints, an American Christian denomination founded in 1830 in upstate New York by Joseph Smith and headquartered in Salt Lake City, Utah, since 1847. Members are commonly called Latter-day Saints or, informally, Mormons. The church has run extensive overseas missionary programs since the nineteenth century; in Tonga, the church established a presence in 1891 and built schools, congregations, and an immigration pipeline that brought tens of thousands of Tongan converts to the United States, primarily to Utah, in the second half of the twentieth century. The Wolfgramm family, who became The Jets, immigrated to the United States from Tonga as Latter-day Saints in 1965."
+  },
+
+  "aapi": {
+    label: "AAPI (Asian American and Pacific Islander)",
+    definition: "An umbrella term combining Asian American and Pacific Islander, used since the 2000 US Census as a federal demographic category and widely adopted in advocacy and academic contexts. The grouping is contested; many Pacific Islander writers argue that Pacific Islander histories (as Indigenous peoples of lands the United States colonized) are categorically different from Asian American immigrant histories, and that the AAPI label flattens that distinction. The framing reading for this module discusses the contested grouping in detail. \u201cAPI\u201d (Asian Pacific Islander) and \u201cAAPI\u201d are used roughly interchangeably; sometimes the slightly older \u201cAPI\u201d is preferred by writers wanting to flag that Pacific Islander histories are not, in their view, properly contained inside the \u201cAsian American\u201d category."
+  },
+
+  "form": {
+    label: "Form",
+    definition: "The large-scale shape of a piece of music: which sections appear in what order, how long they are, and how they relate to each other. Verse-chorus form, AABA form, 12-bar blues, theme and variations, rondo, sonata form, and through-composed are all examples of musical forms. Listening for form means stepping back from any single moment to ask how the parts of the piece fit together as a whole. Most American popular songs are in verse-chorus form; older song traditions (Tin Pan Alley standards, jazz heads) often use AABA; many blues recordings cycle the 12-bar form repeatedly under different verses; long-form jazz pieces, suites, and concept-album tracks often invent their own form for the specific piece."
+  },
+
+  "hook": {
+    label: "Hook",
+    definition: "The most ear-catching, memorable element of a song: the part listeners can hum after one or two listens, the part radio programmers and A&R executives use to assess whether a song will land with audiences. Hooks can be vocal (the title-line refrain in a chorus), instrumental (a guitar riff, a synth figure, a horn line), or rhythmic (a distinctive beat). Many pop songs have multiple hooks layered together: a vocal hook in the chorus and an instrumental hook in the introduction or under the chorus. In commercial pop, the hook is often the part of the song writers and producers spend the most time on, because the hook is what gets the song stuck in a listener\u2019s head and brings them back to it."
   }
 
 };

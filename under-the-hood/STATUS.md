@@ -12,12 +12,11 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 - Module 1 (Orientation and Methodology): full build
 - Module 2 (African American foundational traditions): full build
 - Module 3 (Latin diasporic traditions): full build
-- Module 4 (Asian American traditions): framing reading; Tracks 1-2
+- Module 4 (Asian American traditions): framing reading; Tracks 1-3
 - Final project module: full build
 
 ## Next (in order)
 
-- Module 4 Track 3: The Jets (1986)
 - Module 4 Track 4: Invisibl Skratch Piklz (mid-1990s)
 - Module 4 Track 5: Mitski (2016)
 - Module 4 index.html, discussion.md, quiz.md
@@ -30,6 +29,12 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 (`assets/images/jang-dor.jpg`, Jang at SF Day of Remembrance);
 figcaption carries `[PHOTO PROVENANCE TO BE ADDED]` placeholder
 pending source/photographer credit.
+
+**Module 4 Track 3 hero image provenance.** Image is in
+(`assets/images/the-jets-crush-on-you.jpg`, the standard MCA 1986
+7-inch sleeve scan); figcaption carries a verification flag pending
+identification of the scan's source. Defensible as record-cover
+educational use either way.
 
 **Module 3 forward-reference links.** Anchor tags at
 `module3/roots-and-routes.html` lines 189 (Module 6) and 201
