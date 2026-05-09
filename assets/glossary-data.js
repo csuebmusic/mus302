@@ -93,6 +93,11 @@ var GLOSSARY = {
     definition: "Weekly rankings of popular records published by Billboard magazine since the 1940s. The Hot 100 ranks pop singles overall; the R&B chart ranks Black popular music. Chart positions are based on a mix of sales, radio airplay, and (more recently) streaming data."
   },
 
+  "pitchfork": {
+    label: "Pitchfork",
+    definition: "An online music magazine founded by Ryan Schreiber in Minneapolis in 1995 (originally as Turntable, renamed Pitchfork in 1996), now based in New York. From the late 1990s through the 2010s, Pitchfork was the central critical institution of indie rock and the broader independent-music space, with daily reviews, a 0.0-to-10.0 numerical rating scale (a 7.7 is a positive review; an 8.0 or above is a 'Best New Music' designation that can substantially change an album's commercial trajectory), longer feature pieces, and an annual end-of-year list that helped consolidate critical consensus. A favorable Pitchfork review of a debut or sophomore record by a small-label artist could move that artist from the underground into the wider conversation, and a Best New Music designation could move them onto bigger labels and bigger tours; Mitski's 7.7 review of Bury Me at Makeout Creek in 2014 was the moment that brought her work to Dead Oceans' attention. Cond\u00e9 Nast acquired Pitchfork in 2015 and merged it into GQ in 2024, which reduced the site's editorial staff and the daily review pace; through the listening-guide era this course covers, however, Pitchfork's institutional role in the indie rock space was central."
+  },
+
   "rca-victor": {
     label: "RCA Victor",
     definition: "A major American record label, originally part of the Radio Corporation of America. In the mid-twentieth century, RCA was one of the \u201cbig four\u201d labels alongside Columbia, Decca, and Capitol. Sam Cooke signed with RCA Victor in 1960."
