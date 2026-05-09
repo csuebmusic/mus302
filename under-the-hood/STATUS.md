@@ -12,12 +12,11 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 - Module 1 (Orientation and Methodology): full build
 - Module 2 (African American foundational traditions): full build
 - Module 3 (Latin diasporic traditions): full build
-- Module 4 (Asian American traditions): framing reading; Tracks 1-3
+- Module 4 (Asian American traditions): framing reading; Tracks 1-4
 - Final project module: full build
 
 ## Next (in order)
 
-- Module 4 Track 4: Invisibl Skratch Piklz (mid-1990s)
 - Module 4 Track 5: Mitski (2016)
 - Module 4 index.html, discussion.md, quiz.md
 - Module 5: anchor track lineup, then build
@@ -35,6 +34,16 @@ pending source/photographer credit.
 7-inch sleeve scan); figcaption carries a verification flag pending
 identification of the scan's source. Defensible as record-cover
 educational use either way.
+
+**Module 4 Track 4 hero photo provenance and YouTube link.** Image
+is in (`assets/images/invisibl-skratch-piklz.jpg`, the contemporary
+Q-Bert / Shortkut / D-Styles trio in a recent studio session);
+figcaption carries a verification flag pending identification of
+photographer and source. The YouTube link in the video card
+(`youtu.be/vbAtEzIEGWM`) was provided by Inés but not verified by
+Claude during the build; the link card uses a generic
+"live trio routine" descriptor that should be replaced with the
+specific performance title once the link is confirmed.
 
 **Module 3 forward-reference links.** Anchor tags at
 `module3/roots-and-routes.html` lines 189 (Module 6) and 201

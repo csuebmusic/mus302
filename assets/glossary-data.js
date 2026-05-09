@@ -2785,6 +2785,20 @@ var GLOSSARY = {
   "hook": {
     label: "Hook",
     definition: "The most ear-catching, memorable element of a song: the part listeners can hum after one or two listens, the part radio programmers and A&R executives use to assess whether a song will land with audiences. Hooks can be vocal (the title-line refrain in a chorus), instrumental (a guitar riff, a synth figure, a horn line), or rhythmic (a distinctive beat). Many pop songs have multiple hooks layered together: a vocal hook in the chorus and an instrumental hook in the introduction or under the chorus. In commercial pop, the hook is often the part of the song writers and producers spend the most time on, because the hook is what gets the song stuck in a listener\u2019s head and brings them back to it."
+  },
+
+  /* ============================
+     Module 4 Track 4: Invisibl Skratch Piklz, Da Klamz Uv Deth
+     ============================ */
+
+  "mobile-dj": {
+    label: "Mobile DJ",
+    definition: "A DJ who owns and travels with their own portable sound system and lighting rig, performing at events (weddings, school dances, baptisms, birthday parties, corporate functions) where the venue does not have its own audio infrastructure. The mobile DJ is distinct from the resident club DJ, who works at a fixed venue with fixed equipment, and from the radio DJ, who works for a station. The Bay Area Filipino American mobile DJ scene of the late 1970s through the early 1990s, documented in detail in Oliver Wang\u2019s Legions of Boom (Duke University Press, 2015), was a community institution as much as a music-industry one: Filipino American crews like Ultimate Creations, Spintronix, and Images Inc. provided the audio and visual production for the steady cycle of community events that anchored the Bay Area Filipino American social calendar, and their garage parties and showcase events were the training ground for the generation of scratch DJs who eventually founded Invisibl Skratch Piklz."
+  },
+
+  "dmc": {
+    label: "DMC (Disco Mix Club)",
+    definition: "An international DJ membership organization founded in 1983 in the United Kingdom, originally for club and remix DJs but best known for its annual DMC World DJ Championships, the most prestigious global DJ competition from the late 1980s through the early 2000s. The DMC organizes regional, national, and world finals across solo and team categories. DJ Q-Bert won the 1991 US DMC and placed second at the world finals; Q-Bert, Mix Master Mike, and DJ Apollo competed as the Rocksteady DJs and took the 1992 world team title; Q-Bert and Mike won the next two world team titles (1993 and 1994), at which point the DMC asked the crew to retire from competition because their dominance was discouraging other entrants."
   }
 
 };
