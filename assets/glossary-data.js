@@ -2751,6 +2751,11 @@ var GLOSSARY = {
   "lewis-jordan": {
     label: "Lewis Jordan",
     definition: "African American jazz alto saxophonist and composer, a longtime member of the Chicago-based AACM (Association for the Advancement of Creative Musicians) collective in the 1970s before relocating to the Bay Area. In San Francisco, Jordan worked extensively in cross-racial collaborations and co-founded RPM Records with Mark Izu, Anthony Brown, and George Sams; the label issued the foundational Asian American Jazz movement recordings of the early 1980s, including Jon Jang\u2019s self-titled debut <em>Jang</em> (1982) and <em>Are You Chinese or Charlie Chan?</em> (1984). Jordan brought the AACM\u2019s do-it-yourself, mutual-aid model of musician-run record labels and concert presentation directly into the founding of the Asian American Jazz infrastructure."
+  },
+
+  "rahsaan-roland-kirk": {
+    label: "Rahsaan Roland Kirk (1935-1977)",
+    definition: "African American jazz multi-instrumentalist, composer, and bandleader, born Ronald Theodore Kirk in Columbus, Ohio. Kirk became blind at age two as a result of poor medical treatment, attended the Ohio State School for the Blind, and started playing R&B saxophone professionally at age 15. He is best known as a virtuoso saxophonist who could play two and sometimes three saxophones simultaneously (his standard tenor, plus the manzello and stritch, two modified soprano and alto saxophones), and as an inventive flutist who hummed or sang into the flute while playing it. Kirk was a politically outspoken performer who used his between-song stage banter to address Black history, the civil rights movement, and what he called Black Classical Music (his preferred term for jazz, which insisted on the music\u2019s status as a tradition of intellectual seriousness equivalent to European classical music). His <em>Bright Moments</em> double album, recorded live at the Keystone Korner in San Francisco on June 8 and 9, 1973, captured the period of Kirk\u2019s playing that the 19-year-old Jon Jang witnessed at the same club; Jang has cited that concert as the catalyzing event that made him decide to become a musician. Kirk had a stroke in 1975 that left half his body paralyzed; he learned to play one-handed and continued performing until his death from a second stroke in December 1977, at age 42."
   }
 
 };
