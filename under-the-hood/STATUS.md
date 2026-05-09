@@ -19,7 +19,8 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 
 ## Next (in order)
 
-- Module 5: anchor track lineup, then build
+- Module 5 build: framing reading, five listening guides, index,
+  discussion, quiz. Anchor lineup locked (see Decisions below).
 - Module 6: anchor tracks beyond Lamar / Bad Bunny, then build
 
 ## Open
@@ -34,21 +35,9 @@ Module 4 link in a Module 3 polish pass.
 Collection sources are split between 1947 and 1948. Defensible
 either way.
 
-**Module 5 anchor track lineup.** Not yet committed. Topic
-territory in conventions: country and folk, doo-wop and crooner
-traditions, Brill Building, punk, synthesis figures.
-
 **Module 6 anchor tracks.** Indigenous and queer-liberation
 threads still need their own anchor tracks beyond the named
 Lamar and Bad Bunny tracks.
-
-**Whether Module 5 needs a full framing reading.** Modules 2,
-3, and 4 each have one. Default for Module 5 is shorter framing
-on the landing page unless there's a specific reason to expand.
-
-**Aretha Franklin placement.** Inés wants Aretha somewhere in
-the course. Most natural fits: Module 5 Brill Building section
-(she covered Goffin/King), or as a deep cut in Module 6.
 
 **Track 4 Selena hero photo.** Current image is iHeart/Rovi-sourced
 and unattributed. Two stronger-attributed candidates exist (Al Rendon

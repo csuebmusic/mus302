@@ -248,9 +248,38 @@ Bunny's "El Apagón" as the contemporary continuation. Module 3
 opens with a full framing reading (`module3/roots-and-routes.html`,
 "Many Roots, Shared Routes") parallel to Module 2's.
 
-**Modules 4 and 5 framing reading: open per module.** Default
-assumption is shorter framing on the landing page unless there is
-a reason for a full reading.
+**Module 5 anchor tracks: five, chronological.** Frankie Lymon
+and the Teenagers "Why Do Fools Fall in Love" (1956), Joan Baez
+"Mary Hamilton" (1960), the Drifters "Up on the Roof" (1962),
+Wendy Carlos "Switched-On Bach" excerpt (1968), Bruce Springsteen
+"The River" (1980). Arc: cross-ethnic urban doo-wop → Scots-Irish
+ballad inheritance reactivated through the folk revival → Brill
+Building songwriting tradition → synthesis pioneers as a pivot
+beyond the singer-songwriter assumption → deindustrialization-
+era working-class heartland rock. Country is not anchored in
+Module 5 because Module 1's Hank Williams track already carries
+that thread; the Module 5 framing reading cross-references back
+and the Baez track picks up the Scots-Irish ballad inheritance
+that feeds country and bluegrass. Aretha Franklin was considered
+for the Brill Building anchor (via her recording of Goffin/King's
+"Natural Woman") and ruled out: Module 5 stays inside European
+American immigrant and working-class traditions, the Drifters'
+recording does the songwriter-as-craft work, and Aretha's
+interpretive presence is amply represented elsewhere in the
+course's framing prose. Module 5 opens with a full framing reading
+parallel to Modules 2 and 3.
+
+**Modules 4 and 5 framing reading.** The default for Modules 4
+and 5 was shorter framing on the landing page unless there was
+a specific reason for a full reading. Both ended up with full
+readings (`module4/roots-and-routes.html`, "Many Routes Across
+the Pacific"; `module5/roots-and-routes.html`). Module 5 in
+particular: the "European American" frame is the most internally
+heterogeneous of the four cultural traditions and benefits from
+explicit prose laying out the Scots-Irish/British, Eastern
+European Jewish, Italian/Irish/Polish urban Catholic, and
+German/Eastern European synthesis-pioneer threads the listening
+guides each touch.
 
 **Modules 2-5 are strictly sequential.** Module 2 first, then 3,
 then 4, then 5, one per week. Each module has its own deadline and
