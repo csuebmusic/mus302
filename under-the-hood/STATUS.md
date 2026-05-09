@@ -6,45 +6,53 @@ locked design decisions live in `conventions.md`; audit-script
 behavior and intentional-skip categories live in `audit-notes.md`.
 This file has what is done, what is next, and what is open.
 
-Last updated: end of a session that restructured the Module 4
-framing reading from a track-by-track preview into a proper framing
-reading parallel to Modules 2 and 3. The original draft had eight
-body sections, five of which were essentially track previews
-dressed as framing prose: a Movement-and-Grain-of-Sand section, an
-AAJM-and-Vincent-Chin section, a Jets-and-Minneapolis-sound section,
-a Skratch-Piklz-and-turntablism section, and a Mitski-and-2016
-section. Each ran a track-level close read (recording details,
-biographical zoom-ins, lyric and music-video analysis) that belongs
-in the listening guides, not the framing reading. The restructure
-keeps the three sections doing real framing work (panethnic category
-with the Aoki rejection of "Oriental"; the long pre-history with
-its three threads of Filipino Pacific musicians, Chinese-and-
-Japanese American jazz on the prewar West Coast, and the Japanese
-American camps; 1965 and what changed, with the Hart-Celler timeline
-SVG retained as Figure 1). It replaces the five track-preview
-sections with four new framing-reading sections plus a brief track
-preview list at the end: a Movement-and-its-music section centered
-on the institutional infrastructure (the SF State TWLF strike of
-1968-69, Basement Workshop, Kearny Street Workshop, Asian Improv
-aRts, FANHS, and only the briefest naming of <em>A Grain of Sand</em>
-itself); a dialogue-with-African-American-music section consolidating
-the throughline the original had distributed across track sections,
-parallel to Module 3's section of the same shape; a music-as-
-political-work section parallel to Module 2's (direct address,
-formal innovation, presence); and a "what's coming" track preview
-list parallel to Modules 2 and 3. The "what this module leaves out"
-section was kept and tightened (South Asian American, Southeast
-Asian refugee musics, K-pop and 88rising). Word count went from
-~11,500 to ~6,950, putting it in solid Module 3 parity (~6,000)
-with a small bulge for the panethnic-category-needs-explanation
-work that Modules 2 and 3 don't have to do. One new glossary
-entry (`asian-improv-arts`) was added; first-mention gloss
-buttons retrofitted across the new sections. One unverified
-factual claim in the original draft (a Lumpen-on-Paredon album
-attribution) was replaced with a verified Paredon-Newton-speeches
-attribution. Audit clean: zero errors, two documented skiplist
-warnings (`dominant` as adjective, `american-national` matched
-inside "Filipino American National Historical Society").
+Last updated: end of a Module 1 framing-reading pass that locked
+`cultural-roots.html` after the Module 4 framing-reading work raised
+several items needing retrofit on the older page. Sixteen glossary
+entries were added (count 472 to 488): four groups (Pure Hell and
+Death, the pre-named-genre Black punk bands referenced in the
+punk-roots line, plus Japanese Breakfast, The Drifters, The
+Ronettes, and The Band), and ten individuals (the four Module 1
+anchor-track artists Cooke, Cruz, DeSanto, and Williams, all
+previously unentered; James Brown, central to the mid-century R&B
+to soul to funk to hip hop thread and the Module 2 Track 3 anchor;
+Anthony Brown and Yaeji in the Asian American thread; Robbie
+Robertson in the Indigenous thread; and Janelle Monáe and Lil Nas X
+in the queer-liberation thread). Three small prose revisions to
+`cultural-roots.html`: a transitional sentence before the African
+American h2 framing the four-tradition walkthrough as a thumbnail
+sketch; the Latin diasporic catalog paragraph split at the postwar
+to contemporary boundary, with a "The thread continues across
+regions and into the streaming era" hinge; and the Asian American
+catalog paragraph split at the historical to contemporary boundary,
+with a "The thread continues into the present" hinge. Button audit
+cleanup retrofitted first-mention gloss buttons against the
+expanded glossary across all four Module 1 listening guides
+(`track1-cooke.html`, `track2-cruz.html`, `track3-desanto.html`,
+`track4-williams.html`) and `how-to-listen.html`. One small
+addition to the audit script. Audit clean across the 24-file
+Module 1 set with zero errors. The earlier Module 4 framing
+reading restructure (commits `5637473` through `61b4d00`) brought
+that page from a track-by-track preview into framing-reading
+parity with Modules 2 and 3: three sections of real framing work
+(panethnic category with the Aoki rejection of "Oriental"; the
+long pre-history with its three threads of Filipino Pacific
+musicians, Chinese and Japanese American jazz on the prewar West
+Coast, and the Japanese American camps; 1965 and what changed,
+with the Hart-Celler timeline SVG as Figure 1) plus four new
+framing-reading sections (Movement-and-its-music centered on
+institutional infrastructure (TWLF strike, Basement Workshop, KSW,
+Asian Improv aRts, FANHS); dialogue with African American music
+parallel to Module 3's section of the same shape; music-as-
+political-work parallel to Module 2's; and a brief track-preview
+list parallel to Modules 2 and 3). Word count came down from
+~11,500 to ~6,950. One new glossary entry (`asian-improv-arts`)
+was added during that work and one unverified factual claim
+(Lumpen-on-Paredon attribution) was replaced with a verified
+Paredon-Newton-speeches attribution. Two documented skiplist
+warnings remain on Module 4 (`dominant` as adjective,
+`american-national` matched inside "Filipino American National
+Historical Society").
 
 Modules 1, 2, 3, and the final-project module are fully built and
 shipped. Module 4 has its framing reading; the listening guides,
@@ -63,7 +71,7 @@ The schedule (locked):
   Sun July 26: Module 6 quiz; project peer review
   Fri July 31: Final submission
 
-Glossary count: 459. Working tree clean at commit time.
+Glossary count: 488. Working tree clean at commit time.
 
 ## Term and dates
 
