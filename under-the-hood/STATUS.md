@@ -6,53 +6,78 @@ locked design decisions live in `conventions.md`; audit-script
 behavior and intentional-skip categories live in `audit-notes.md`.
 This file has what is done, what is next, and what is open.
 
-Last updated: end of a Module 1 framing-reading pass that locked
-`cultural-roots.html` after the Module 4 framing-reading work raised
-several items needing retrofit on the older page. Sixteen glossary
-entries were added (count 472 to 488): four groups (Pure Hell and
-Death, the pre-named-genre Black punk bands referenced in the
-punk-roots line, plus Japanese Breakfast, The Drifters, The
-Ronettes, and The Band), and ten individuals (the four Module 1
-anchor-track artists Cooke, Cruz, DeSanto, and Williams, all
-previously unentered; James Brown, central to the mid-century R&B
-to soul to funk to hip hop thread and the Module 2 Track 3 anchor;
-Anthony Brown and Yaeji in the Asian American thread; Robbie
-Robertson in the Indigenous thread; and Janelle Monáe and Lil Nas X
-in the queer-liberation thread). Three small prose revisions to
-`cultural-roots.html`: a transitional sentence before the African
-American h2 framing the four-tradition walkthrough as a thumbnail
-sketch; the Latin diasporic catalog paragraph split at the postwar
-to contemporary boundary, with a "The thread continues across
-regions and into the streaming era" hinge; and the Asian American
-catalog paragraph split at the historical to contemporary boundary,
-with a "The thread continues into the present" hinge. Button audit
-cleanup retrofitted first-mention gloss buttons against the
-expanded glossary across all four Module 1 listening guides
-(`track1-cooke.html`, `track2-cruz.html`, `track3-desanto.html`,
-`track4-williams.html`) and `how-to-listen.html`. One small
-addition to the audit script. Audit clean across the 24-file
-Module 1 set with zero errors. The earlier Module 4 framing
-reading restructure (commits `5637473` through `61b4d00`) brought
-that page from a track-by-track preview into framing-reading
-parity with Modules 2 and 3: three sections of real framing work
-(panethnic category with the Aoki rejection of "Oriental"; the
-long pre-history with its three threads of Filipino Pacific
-musicians, Chinese and Japanese American jazz on the prewar West
-Coast, and the Japanese American camps; 1965 and what changed,
-with the Hart-Celler timeline SVG as Figure 1) plus four new
-framing-reading sections (Movement-and-its-music centered on
-institutional infrastructure (TWLF strike, Basement Workshop, KSW,
-Asian Improv aRts, FANHS); dialogue with African American music
-parallel to Module 3's section of the same shape; music-as-
-political-work parallel to Module 2's; and a brief track-preview
-list parallel to Modules 2 and 3). Word count came down from
-~11,500 to ~6,950. One new glossary entry (`asian-improv-arts`)
-was added during that work and one unverified factual claim
-(Lumpen-on-Paredon attribution) was replaced with a verified
-Paredon-Newton-speeches attribution. Two documented skiplist
-warnings remain on Module 4 (`dominant` as adjective,
-`american-national` matched inside "Filipino American National
-Historical Society").
+Last updated: end of a fresh-eyes pass on all four framing readings
+(Module 1 cultural-roots; Modules 2, 3, 4 roots-and-routes), per-
+reading audit on its own terms, small fixes in place and judgment
+calls memo'd separately. Eleven in-place fixes across five commits.
+
+Module 1 (`9d43474`): six fixes. Capitalized "Module 6" / "Modules 2
+through 5" references for consistency. Replaced "whites-only motel
+in Louisiana" with "denied a room at a Holiday Inn in Shreveport,
+Louisiana, on the false claim that the motel was full" to match
+how the Cooke listening guide tells the story (the Holiday Inn
+was not formally whites-only by sign in October 1963; the desk
+clerk falsely claimed no rooms after a confirmed reservation).
+Pulled Joe Bataan out of the West Coast Filipino American sentence
+and gave him his own East Coast clause. Corrected the Pepper /
+Witchi Tai To attribution: the Billboard charting recording was by
+Everything Is Everything, with Pepper writing and singing lead, not
+a solo Pepper recording; the "only Hot 100 hit built on an authentic
+Native American chant" claim softened to "is widely cited as." Named
+Robbie Robertson's Mohawk and Cayuga heritage in the prose rather
+than only in the gloss popup. Split the queer-liberation paragraph
+so the structural claim ("queer artists in every tradition") sits
+separate from the example list of three contemporary Black queer
+artists who are not actually each "in every tradition." Replaced
+the stacked-negative beat "The point is not confession. The point
+is awareness." with "The work is awareness, not confession" per the
+writing-style guide.
+
+Module 2 (`52b1d61`): one fix. Line 30 referenced "Module 1's
+reading on Sugar Pie DeSanto"; the reading mentions DeSanto in
+passing but the substantive treatment is in the Module 1 listening
+guide. Changed to "Module 1's listening guide on Sugar Pie DeSanto"
+to match how line 46 of the same reading already references "the
+Sugar Pie DeSanto track from Module 1."
+
+Module 3 (`b2a03a3`): three fixes, all on the labels table from the
+STATUS verify list. Alegre Records "1955-1969" to "1956-1966";
+Wikipedia, Grokipedia, City Lore, and Cengage agree on 1956 founded
+and 1966 sold to Levy. EMI Latin "Los Angeles / Miami, 1989 onward"
+to "Miami, 1989 onward"; the label was Miami-based 1989-2009 and
+only moved to Los Angeles in 2009 when it was rebranded as Capitol
+Latin, after the Selena/Tejano period the framing reading describes.
+Q-Productions "1986 onward" to "1990 onward"; Wikipedia and
+selenaetc.com say 1990, the Abraham Quintanilla bio says late 1993,
+nothing supports 1986 (which appears to confuse Q-Productions
+founding with Selena's first significant Tejano Music Awards
+appearance). Discos Falcon (the fourth STATUS verify item) left at
+1947; UCLA Frontera scholarly sources are split between 1947 and
+1948.
+
+Module 4 (`2ffaf05`): one fix. Katy de la Cruz described as "a
+Filipina American" in the Forbidden City paragraph; she was Filipina,
+born in Bustos, Bulacan in 1907, based primarily in the Philippines
+across an eight-decade career, with US tours that included a Forbidden
+City residency in the late 1940s and early 1950s. Changed to "the
+Filipina jazz singer Katy de la Cruz, billed as the Queen of Filipino
+Jazz, who held a Forbidden City residency in the late 1940s and early
+1950s during her US tours." Larry Ching, the other Forbidden City
+performer named in the same sentence, correctly remains "the Chinese
+American singer" (born in Kauai 1921 to a Chinese father and a
+Hawaiian mother).
+
+The fresh-eyes pass also confirmed without intervention: Wexler 1949
+R&B chart name change, Mariel Boatlift 125,000 / April-October 1980,
+Freedom Flights 260,000 / 1965-1973, Mario Bauzá's permanent NYC
+arrival 1930, Tico Records 1948-1974, AAPA founding May 1968 at 2005
+Hearst Avenue Berkeley, Yuji Ichioka's Topaz incarceration as a
+child, the SF State strike November 6 1968 to March 20 1969 (134
+days), Forbidden City founded December 22 1938 by Charlie Low at
+363 Sutter Street, Mitski's biographical details. STATUS-verify
+item count went from four open to one (Discos Falcon, defensible at
+1947 with scholarly ambiguity). Audit clean throughout; no glossary
+changes.
 
 Modules 1, 2, 3, and the final-project module are fully built and
 shipped. Module 4 has its framing reading; the listening guides,
@@ -116,12 +141,23 @@ and-bibliography, draft, peer review, final).
   until those modules exist.
 
 **Module 3 facts to verify before launch:**
-- Discos Falcon founding date claimed as 1947.
-- Tico Records claimed dates 1948-1974.
-- EMI Latin geography claimed as "Los Angeles / Miami." Corporate
-  history is more complicated; verify both city labels are
-  defensible.
-- Q-Productions founding year claimed as 1986.
+- Discos Falcon founding date claimed as 1947. Verified during
+  fresh-eyes pass; UCLA Frontera Collection scholarly sources are
+  split between 1947 (Los Donneños bio, first recordings) and
+  1948 (Los Alegres de Terán bio, label founded). Defensible at
+  1947 with the understanding that 1948 is also supported.
+- ~~Tico Records claimed dates 1948-1974.~~ Verified solid;
+  Tico founded 1948, sold to Fania 1974, Tico-branded reissues
+  continued under Fania through 1981.
+- ~~EMI Latin geography claimed as "Los Angeles / Miami."~~ Fixed
+  to "Miami, 1989 onward" (`b2a03a3`); Los Angeles only enters
+  in 2009 when the brand was rebranded as Capitol Latin.
+- ~~Q-Productions founding year claimed as 1986.~~ Fixed to
+  "1990 onward" (`b2a03a3`); the 1986 was a confusion with
+  Selena's first Tejano Music Awards appearance year.
+- Alegre Records dates corrected from 1955-1969 to 1956-1966 in
+  the same pass (`b2a03a3`); was not on the original verify list
+  but caught while verifying the others.
 
 **Module 4: Asian American traditions.** Framing reading drafted
 (`module4/roots-and-routes.html`, "A Category That Had to Be
