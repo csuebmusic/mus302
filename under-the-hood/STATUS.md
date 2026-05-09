@@ -160,14 +160,11 @@ diagram at the Context-to-listening-prompts pivot per Module 2-3
 convention; discussion in the new "pick a reflective question"
 pattern; and quiz.
 
-**Module 4 Track 1 photo provenance: open.** The hero image at
+**Module 4 Track 1 photo provenance: resolved.** The hero image at
 `assets/images/yellow-pearl-trio.jpg` is the user-uploaded
-photograph of the trio mid-performance, confirmed for use but
-shipped with the figcaption placeholder "[SOURCE TO BE ADDED]"
-per agreement to use minimal credit when provenance is provided.
-Update the figcaption before launch with whatever source/
-photographer credit is available; the alt text already describes
-the image fully so the placeholder does not block accessibility.
+photograph of the trio mid-performance. Provenance updated in
+the figcaption: "Image courtesy of the Asian Americans United
+historical archive."
 
 **Module 5: European American immigrant and working-class traditions.**
 None drafted. Will follow the `module1/` pattern: landing page,
