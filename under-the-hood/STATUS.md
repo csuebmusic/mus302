@@ -6,51 +6,43 @@ locked design decisions live in `conventions.md`; audit-script
 behavior and intentional-skip categories live in `audit-notes.md`.
 This file has what is done, what is next, and what is open.
 
-Last updated: end of a Module 4 Track 1 build session. Shipped
-`module4/track1-grain-of-sand.html` (153 lines, structurally
-parallel to the Tharpe template), covering the Iijima-Miyamoto-
-Chin trio's "We Are the Children" from <em>A Grain of Sand</em>
-(Paredon Records, 1973). Listening guide includes course header,
-video link card pointing to the Smithsonian Folkways YouTube
-upload, hero photo with figcaption (provenance placeholder noted
-below), four-section Context (three musicians/three biographies/
-one album; the song; the recording at A-1 Sound Studios; reception
-through the 2004 Smithsonian Folkways reissue), inline family-tree
-SVG with three streams (American folk revival, Paredon political-
-music infrastructure, Asian American Movement institutional
-infrastructure) converging in the 1973 recording and pointing
-forward to "Asian American music as a category," four prompts
-(timbre / texture / form / gesture, with form covering the
-expanding-circles verse pattern over a fixed chorus and gesture
-covering the choice to write in plural first person and claim a
-panethnic "we" that had only existed for five years), reflective
-question pointing back to the framing reading's three modes of
-political work, and Sources section.
+Last updated: end of a Module 4 Track 2 build session. Shipped
+`module4/track2-jang.html` (150 lines, structurally parallel to
+the Tharpe and Track 1 templates), covering the title track of
+Jon Jang's 1984 RPM Records album <em>Are You Chinese or Charlie
+Chan?</em>. Listening guide includes course header, video link card
+pointing to the full-album YouTube upload (the title track runs
+0:00 to 15:26), hero photo placeholder (deferred per agreement
+that user will provide; see open items below), four-section
+Context (the pianist, conservatory, and mentor at Oberlin under
+Wendell Logan; the Vincent Chin murder and pan-Asian American
+mobilization; the recording at RPM Records with the United Front
+collective and the March 1984 Stanford APSU release; what the
+recording made possible for Asian Improv Records and the wider
+AAJM), inline family-tree SVG with three streams (Black avant-
+garde jazz including late Coltrane / AACM / BAG; Chinese musical
+materials and instruments including the sheng on this recording
+and the Charlie Chan film critique; Vincent Chin justice
+organizing 1982-83) converging in the 1984 RPM5 recording and
+pointing forward to Asian Improv Records and Reparations Now!
+(1987 onward), four prompts (timbre / texture / form / gesture,
+with form anchored on the 12-bar blues home base and gesture
+on the rap section's use of Black vernacular speech by Japanese
+American performers), reflective question, and Sources section.
 
-Eight new glossary entries this session (488 to 496):
-paredon-records, barbara-dane, a-grain-of-sand-album, folk-revival,
-fingerpicking, texture, bass-guitar, bongos. Hero photo
-(`assets/images/yellow-pearl-trio.jpg`, 99KB JPEG converted from
-user-uploaded webp) shows the trio mid-performance; the figcaption
-carries an explicit "[SOURCE TO BE ADDED]" placeholder per
-discussion (see open items below).
+Ten new glossary entries this session (496 to 506): free-jazz,
+john-coltrane-late-period, aacm, bag-black-artists-group,
+rpm-records-jang, asian-improv-records, wendell-logan, sheng,
+redress-movement, aave. The aave entry is glossed because
+Kajikawa's analysis of the rap section explicitly frames it as
+the moment the piece interrogates its own use of Black tradition.
 
-Forward-reference link in `module4/roots-and-routes.html` line 172
-(`track1-grain-of-sand.html`) now resolves. Audit clean: 25 files,
-0 errors, 76 warnings (all documented intentional skips).
-
-Prior session (commits `9d43474`, `52b1d61`, `b2a03a3`, `2ffaf05`,
-`33cba6c`): fresh-eyes pass on all four framing readings with
-eleven in-place fixes: six on Module 1 cultural-roots (capitalization
-of Module references, Cooke / Holiday Inn description, Bataan East
-Coast clause split, Pepper / Witchi Tai To attribution, Robertson
-heritage in prose, queer-liberation paragraph split, replaced
-stacked-negative beat); one on Module 2 roots-and-routes (DeSanto
-listening guide vs reading reference); three on Module 3 roots-and-
-routes labels table (Alegre 1956-1966, EMI Latin Miami only,
-Q-Productions 1990 onward); one on Module 4 roots-and-routes (de
-la Cruz nationality). Three of four Module 3 STATUS verify items
-resolved; Discos Falcon left at 1947 with scholarly ambiguity.
+Forward-reference link in `module4/roots-and-routes.html` line 174
+("The second track of this module is anchored in that movement")
+remains an in-prose reference rather than a hyperlink; can be
+upgraded to a `<a href="track2-jang.html">` link in a Module 4
+polish pass. Audit clean: 26 files, 0 errors, 78 warnings (all
+documented intentional skips).
 
 Modules 1, 2, 3, and the final-project module are fully built and
 shipped. Module 4 has its framing reading; the listening guides,
@@ -148,23 +140,46 @@ commits to: the Iijima-Miyamoto-Chin trio's <em>A Grain of Sand</em>
 (1973), Jon Jang and the Asian American Jazz movement (1980s), The
 Jets (1986), the Invisibl Skratch Piklz / Filipino American Bay
 Area DJ scene (mid-1990s), and Mitski's "Your Best American Girl"
-(2016). Track 1 built (`module4/track1-grain-of-sand.html`,
-"We Are the Children" album opener-equivalent, 153 lines, follows
-Module 2/3 template, three-streams family-tree SVG with American
-folk revival / Paredon political-music / Asian American Movement
-streams converging in the 1973 Paredon recording). Still to build
-for Module 4: index.html landing page, four remaining listening
-guides (Jang AAJM, The Jets, Invisibl Skratch Piklz, Mitski), each
-with hero photo, four-prompt structure, and inline family-tree SVG
-diagram at the Context-to-listening-prompts pivot per Module 2-3
-convention; discussion in the new "pick a reflective question"
-pattern; and quiz.
+(2016).
+
+Tracks 1 and 2 built. Track 1 (`module4/track1-grain-of-sand.html`,
+"We Are the Children" album opener-equivalent, 153 lines) follows
+the Module 2/3 template with a three-streams family-tree SVG
+(American folk revival / Paredon political-music / Asian American
+Movement). Track 2 (`module4/track2-jang.html`, "Are You Chinese
+or Charlie Chan? / East Wind" title track, 150 lines) follows the
+same template with a three-streams family-tree SVG (Black avant-
+garde jazz / Chinese musical materials / Vincent Chin justice
+organizing); anchored in Loren Kajikawa's Jazz/Not Jazz chapter
+as the central scholarly source, including Jang's interview-
+sourced claim that the four percussion punctuations in the
+freely-improvised passage represent the four bat strikes that
+killed Vincent Chin.
+
+Still to build for Module 4: index.html landing page, three
+remaining listening guides (The Jets, Invisibl Skratch Piklz,
+Mitski), each with hero photo, four-prompt structure, and inline
+family-tree SVG diagram at the Context-to-listening-prompts pivot
+per Module 2-3 convention; discussion in the new "pick a
+reflective question" pattern; and quiz.
 
 **Module 4 Track 1 photo provenance: resolved.** The hero image at
 `assets/images/yellow-pearl-trio.jpg` is the user-uploaded
 photograph of the trio mid-performance. Provenance updated in
 the figcaption: "Image courtesy of the Asian Americans United
 historical archive."
+
+**Module 4 Track 2 hero photo: open.** The Track 2 listening guide
+(`module4/track2-jang.html`) ships with a `[HERO PHOTO TO BE
+ADDED]` placeholder in both the figure src filename
+(`assets/images/jang-charlie-chan.jpg`, not yet present on disk)
+and the alt text and figcaption, per agreement that user will
+provide the image. Update the img src, alt text, and figcaption
+together when the image is supplied; the placeholder is in line
+32 of the file. The img src points to a filename that does not
+yet exist, so the page renders with a broken-image icon until the
+photo is added; this is intentional and matches the placeholder
+pattern used during Track 1's draft phase.
 
 **Module 5: European American immigrant and working-class traditions.**
 None drafted. Will follow the `module1/` pattern: landing page,
