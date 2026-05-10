@@ -2884,11 +2884,6 @@ var GLOSSARY = {
     definition: "A late-1970s and 1980s American rock subgenre associated with white working-class subject matter, mid-tempo song forms, and a sound built around guitar, piano, organ, drums, and saxophone. The defining figures are Bruce Springsteen (whose 1980 album The River is one of the genre\u2019s anchor recordings), Bob Seger, John Mellencamp, and Tom Petty. Heartland rock\u2019s lyric content often centers on the lives of small-town and industrial-city characters during the deindustrialization of the late 1970s and 1980s, and the genre is one of the central popular-music documents of that economic moment."
   },
 
-  "leo-frank": {
-    label: "Leo Frank",
-    definition: "Jewish American factory superintendent (1884\u20131915) who was convicted of the 1913 murder of a thirteen-year-old worker, Mary Phagan, at a pencil factory in Atlanta, Georgia, in a trial widely understood to have been driven by anti-Semitism. After Georgia\u2019s governor commuted Frank\u2019s death sentence to life imprisonment, a mob took him from prison and lynched him in 1915. The Frank case is a defining moment in the history of American anti-Semitism and was one of the catalysts for the founding of the Anti-Defamation League and a revival of the Ku Klux Klan."
-  },
-
   "pogrom": {
     label: "Pogrom",
     definition: "An organized, often state-sanctioned massacre or violent attack against an ethnic or religious group; the term is most often associated with the waves of anti-Jewish violence in the Russian Empire and adjacent territories, particularly between 1881 and 1921. The pogroms drove the largest Jewish migration in modern history, with more than two million Jewish refugees arriving in the United States between 1881 and 1924, mostly settling in New York City."
