@@ -108,6 +108,29 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
   (`jazz`, `soul`, `detroit-techno`) on the framing reading,
   introduced when the consolidation removed the Black-music section
   that had been clearing the figure-note mentions.
+  Parallel-structure pass for Modules 2 and 3: added "What this
+  module leaves out" sections to both, modeled on Module 4's
+  existing version, between the political-work paragraph and the
+  "What's coming" section. Module 2's section covers (1) the
+  developed jazz tradition past blues (bebop/hard bop/modal/free
+  jazz/AACM/fusion through Vijay Iyer and contemporary), (2) the
+  Black vocal-group tradition from gospel quartets through doo-wop
+  into 1960s and 1970s soul groups (with cross-reference to Module
+  5's Drifters and Lymon tracks), and (3) the contemporary R&B
+  continuum between James Brown and Beyoncé (Stevie Wonder, Marvin
+  Gaye, Prince, MJ, Whitney, neo-soul, Frank Ocean, Janelle Monáe,
+  H.E.R.). Module 3's section covers (1) Mexican regional music
+  past Tejano (norteño with Los Tigres del Norte, banda sinaloense,
+  corridos tumbados with Cano and Peso Pluma), (2) the Afro-
+  Caribbean US diaspora past Cuba and Puerto Rico (Dominican
+  merengue/bachata/Aventura, Brazilian bossa nova and contemporary
+  funk, Cuban exile Miami), and (3) Latin hip hop and Latin pop
+  crossover between Bataan and Tego (Mellow Man Ace, Cypress Hill,
+  Big Pun, the late-90s Latin pop boom, Latin trap before reggaeton's
+  mainstream moment). Three new glossary entries: norteno,
+  banda-sinaloense, corridos-tumbados. Glossary now 585 entries.
+  Module 4's existing leaves-out section unchanged; it was the
+  template.
 - Final project module: full build
 
 ## Next (in order)
