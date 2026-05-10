@@ -131,6 +131,36 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
   banda-sinaloense, corridos-tumbados. Glossary now 585 entries.
   Module 4's existing leaves-out section unchanged; it was the
   template.
+  Module 5 leaves-out section trimmed and revised: dropped the
+  standard-scholarly-accounts sentences from the Elvis paragraph
+  (Marcus, Guralnick, Bertrand reference list cut for prose
+  reasons), dropped the entire crooner-past-Sinatra-and-Bennett
+  paragraph (Como/Damone/Martin/Darin material), dropped the
+  Columbia-Princeton sentence from the refugee-composers paragraph,
+  and dropped the closing one-path-not-the-path beat. The punk
+  paragraph was rewritten substantively to give the form
+  pedagogical context: what it was (DIY refusal of arena rock,
+  three chords, deliberately unpolished), where it came from
+  (CBGB at 315 Bowery, opened December 1973; Television's April
+  1974 weekly residency; Ramones, Patti Smith Group, Blondie,
+  Talking Heads following 1974-75; parallel London scene 1976-77
+  with the Sex Pistols, Clash, Buzzcocks, the Slits, X-Ray Spex),
+  and how it connects to Threads 2 and 3 of this module (the
+  Italian-and-Jewish-working-class urban neighborhoods the New
+  York scene came out of). A second paragraph now covers 1980s
+  hardcore in three foundational scenes (LA with Black Flag and
+  SST Records; DC with Bad Brains, Minor Threat, and Dischord
+  Records; SF Bay Area with Dead Kennedys and Alternative
+  Tentacles) and Fugazi as the long-arc Dischord example. The
+  riot-grrrl-and-after paragraph drops grunge (which doesn't sit
+  cleanly inside the European-immigrant urban-working-class frame
+  this module is built around) but keeps riot grrrl, names the
+  1990s indie-rock infrastructure substantively (Matador, Sub Pop,
+  Merge, K Records, Touch and Go, with Yo La Tengo, Pavement,
+  Sonic Youth, Pixies, Built to Spill, Liz Phair, Cat Power,
+  Modest Mouse), and keeps the Americana extension that ties
+  back to Module 1 / Track 2. Two new glossary entries: diy,
+  fugazi. Glossary now 588 entries.
 - Final project module: full build
 
 ## Next (in order)
