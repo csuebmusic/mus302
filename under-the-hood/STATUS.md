@@ -12,156 +12,30 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 - Module 1 (Orientation and Methodology): full build
 - Module 2 (African American foundational traditions): full build
 - Module 3 (Latin diasporic traditions): full build
-- Module 4 (Asian American traditions): full build (framing reading,
-  five tracks, index, discussion, quiz; index discussion blurb
-  updated to the pick-a-reflective-question pattern)
-- Module 5 framing reading: full build, with substantial polish
-  pass to sharpen the racial-dynamics framing throughout. Anchor
-  lineup locked, full framing essay with Jacobson three-periods
-  diagram + four thread diagrams (all vertical, label font 16px
-  in SVG, rendered at max-width 440px CSS for ~12px effective
-  text). Glossary now at 582 entries.
-  Whiteness-as-outcome thesis stated up front; WASP/German
-  Protestant/Scandinavian Lutheran bullies named; anti-Black-floor
-  paragraph with Draft Riots and Roediger/Ignatiev citation; Tin
-  Pan Alley split into Jewish-songwriting paragraph plus Black-
-  music-exchange paragraph, with the exchange paragraph sharpened
-  to name appropriation and minstrelsy plainly (Jazz Singer is
-  named as the racist work it is, not "something more
-  uncomfortable"). Two thread diagrams (Ulster Scots and Jewish
-  songwriting) rebuilt with Black-music side-stream architecture:
-  the Ulster Scots diagram shows the banjo's path from West
-  Africa via enslaved musicians via blackface minstrelsy into
-  Appalachia; the Jewish songwriting diagram shows continuous
-  absorption across three institutional eras (ragtime/blues/jazz
-  into Tin Pan Alley, jazz standards into Broadway, R&amp;B/gospel/
-  doo-wop into the Brill Building). Both diagrams carry a new
-  `.figure-note` callout below the figcaption explicitly framing
-  what the side stream depicts. Songbook and Brill Building
-  glossary entries revised to push back on canonical framings,
-  separating writer-canon (overwhelmingly white), performer-canon
-  (heavily Black), and source material (inseparable from African
-  American music), and naming the structural racism in
-  rights/income retention. Six gloss buttons moved from the
-  four-traditions overview paragraph to substantive later mentions.
-  Multiple roll-call paragraphs and biographical parentheticals
-  dropped where the gloss popups carry the same information.
-  Italian-Irish-Polish thread section rebuilt: Springsteen
-  biographical paragraph removed (that material belongs in the
-  listening guide); Italian American crooner tradition expanded
-  from a name-drop into two substantive paragraphs (Crosby
-  template + Italian American adopters with bel canto and
-  canzone napoletana inheritances; crooners' relationship to
-  African American music with Sinatra's 1958 Ebony quote and
-  Bennett at Selma 1965); diagram restructured so crooners and
-  doo-wop are parallel mid-century branches off the urban-enclaves
-  box, both feeding the rock-and-roll merge node, then on to
-  heartland rock. Ten new glossary entries (crooner, bing-crosby,
-  russ-columbo, frank-sinatra, tony-bennett, bel-canto,
-  neapolitan-song, house-i-live-in, selma-march, harry-belafonte).
-  Three new sources (Sinatra Ebony 1958, Bennett autobiography,
-  Kaplan Frank: The Voice, Cinotto Making Italian America).
-  Thread 1 renamed from "Scots-Irish" to "Ulster Scots"
-  throughout (heading, diagram title, figcaption, body prose,
-  cross-references, related-not-anchored country aside, and
-  Sources section descriptive text), to keep the Protestant
-  Ulster population distinct from the Catholic Irish who arrive
-  in Thread 3. The data-term key remains `scots-irish` (internal
-  identifier); the gloss label and definition are rewritten to
-  lead with "Ulster Scots," noting "Scots-Irish" as the dominant
-  American scholarly synonym so students can find their way in
-  the broader literature. The substantive first-mention gloss
-  button moved from the line-22 example to the line-99 substantive
-  introduction, matching the pattern used for `appalachia`.
-  Crooner-adopters list trimmed from seven names (Columbo, Sinatra,
-  Bennett, Como, Damone, Martin, Darin) to three (Columbo, Sinatra,
-  Bennett); the diagram crooner-box label updated to match
-  ((Columbo, Sinatra, Bennett), 1930s-1950s). Added a "Credit where
-  due" callout between the crooners' racial-dynamics paragraph
-  and the doo-wop paragraph, naming Sinatra and Bennett as
-  documented exceptions to the appropriation pattern (Sinatra's
-  1958 Ebony essay on Holiday and his civil-rights record,
-  Bennett's Selma participation), with the qualifier that
-  neither dismantled the structural racism of the music industry.
-  Added a new `.callout` CSS class (sibling to `.figure-note`,
-  same visual treatment, semantically distinct: in-prose callout
-  rather than figure commentary) and `.callout-lead` for the
-  bold opening clause.
-  Tail of the framing reading consolidated: the four closing
-  sections (Where country and folk sit, Where Black music sits,
-  The arc of the anchor tracks, What this module does not cover)
-  collapsed into a single "What this module leaves out" section
-  parallel to Module 4's existing version. The Black-music section
-  was redundant given the racial-dynamics work woven through the
-  rest of the reading (banjo card, Jewish-songwriting figure-note,
-  Credit-where-due callout, prose); the arc-of-the-anchor-tracks
-  section was a recap of material the four threads had just
-  finished doing. The new consolidated section covers seven paths
-  not taken (country, Elvis, the crooner tradition past Sinatra
-  and Bennett, polka, German-Eastern-European art-music refugees,
-  punk, the 1990s indie-rock / grunge / Americana grab-bag) as
-  final-project territory. New glossary entry for `elvis-presley`;
-  the new section also picks up first-substantive-mention glosses
-  for `gospel`, `rnb`, `blues`, `waltz`, `b-side`, and
-  `big-mama-thornton` in the Elvis paragraph. Glossary now 583.
-  Audit-notes documents three new intentional skips
-  (`jazz`, `soul`, `detroit-techno`) on the framing reading,
-  introduced when the consolidation removed the Black-music section
-  that had been clearing the figure-note mentions.
-  Parallel-structure pass for Modules 2 and 3: added "What this
-  module leaves out" sections to both, modeled on Module 4's
-  existing version, between the political-work paragraph and the
-  "What's coming" section. Module 2's section covers (1) the
-  developed jazz tradition past blues (bebop/hard bop/modal/free
-  jazz/AACM/fusion through Vijay Iyer and contemporary), (2) the
-  Black vocal-group tradition from gospel quartets through doo-wop
-  into 1960s and 1970s soul groups (with cross-reference to Module
-  5's Drifters and Lymon tracks), and (3) the contemporary R&B
-  continuum between James Brown and Beyoncé (Stevie Wonder, Marvin
-  Gaye, Prince, MJ, Whitney, neo-soul, Frank Ocean, Janelle Monáe,
-  H.E.R.). Module 3's section covers (1) Mexican regional music
-  past Tejano (norteño with Los Tigres del Norte, banda sinaloense,
-  corridos tumbados with Cano and Peso Pluma), (2) the Afro-
-  Caribbean US diaspora past Cuba and Puerto Rico (Dominican
-  merengue/bachata/Aventura, Brazilian bossa nova and contemporary
-  funk, Cuban exile Miami), and (3) Latin hip hop and Latin pop
-  crossover between Bataan and Tego (Mellow Man Ace, Cypress Hill,
-  Big Pun, the late-90s Latin pop boom, Latin trap before reggaeton's
-  mainstream moment). Three new glossary entries: norteno,
-  banda-sinaloense, corridos-tumbados. Glossary now 585 entries.
-  Module 4's existing leaves-out section unchanged; it was the
-  template.
-  Module 5 leaves-out section trimmed and revised: dropped the
-  standard-scholarly-accounts sentences from the Elvis paragraph
-  (Marcus, Guralnick, Bertrand reference list cut for prose
-  reasons), dropped the entire crooner-past-Sinatra-and-Bennett
-  paragraph (Como/Damone/Martin/Darin material), dropped the
-  Columbia-Princeton sentence from the refugee-composers paragraph,
-  and dropped the closing one-path-not-the-path beat. The punk
-  paragraph was rewritten substantively to give the form
-  pedagogical context: what it was (DIY refusal of arena rock,
-  three chords, deliberately unpolished), where it came from
-  (CBGB at 315 Bowery, opened December 1973; Television's April
-  1974 weekly residency; Ramones, Patti Smith Group, Blondie,
-  Talking Heads following 1974-75; parallel London scene 1976-77
-  with the Sex Pistols, Clash, Buzzcocks, the Slits, X-Ray Spex),
-  and how it connects to Threads 2 and 3 of this module (the
-  Italian-and-Jewish-working-class urban neighborhoods the New
-  York scene came out of). A second paragraph now covers 1980s
-  hardcore in three foundational scenes (LA with Black Flag and
-  SST Records; DC with Bad Brains, Minor Threat, and Dischord
-  Records; SF Bay Area with Dead Kennedys and Alternative
-  Tentacles) and Fugazi as the long-arc Dischord example. The
-  riot-grrrl-and-after paragraph drops grunge (which doesn't sit
-  cleanly inside the European-immigrant urban-working-class frame
-  this module is built around) but keeps riot grrrl, names the
-  1990s indie-rock infrastructure substantively (Matador, Sub Pop,
-  Merge, K Records, Touch and Go, with Yo La Tengo, Pavement,
-  Sonic Youth, Pixies, Built to Spill, Liz Phair, Cat Power,
-  Modest Mouse), and keeps the Americana extension that ties
-  back to Module 1 / Track 2. Two new glossary entries: diy,
-  fugazi. Glossary now 588 entries.
+- Module 4 (Asian American traditions): full build
+- Module 5 (European American immigrant and working-class traditions)
+  framing reading: full build
 - Final project module: full build
+
+All four substantive modules' framing readings now share the same
+shape, set by Module 5 and brought into alignment for Modules 2-4
+this session: each reading is one continuous cultural-historical
+argument that names its anchor tracks inside the substantive prose
+(track title, year, link to listening guide, and "the Nth anchor
+track of this module" framing where it lands in the argument), with
+no separate "What's coming" roster at the end. Each module ends with
+"What this module leaves out," a section of three or four paragraphs
+that names defensible final-project territory the lineup cannot
+reach. Modules with a useful chronological-ordering observation
+(2 and 4 in particular) carry it as a short closing-of-substance
+paragraph between the political-work section and the leaves-out
+section.
+
+Diagram CSS bumped from max-width 440px to 720px so the 720-source
+diagrams in Modules 2, 4, and the listening guides render at native
+size and the 600-source Module 5 diagrams scale up 20% comfortably.
+
+Glossary at 588 entries.
 
 ## Next (in order)
 
