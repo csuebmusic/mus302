@@ -9,22 +9,22 @@
  * mid-paragraph and wants to keep reading; the definition should answer
  * "what is this?" quickly and let them get back to the prose.
  *
- * Plain text only, no HTML. The glossary loader (assets/glossary.js,
- * line 76) injects definitions via .textContent, which treats whatever
- * it gets as literal characters. Anything that looks like HTML in a
- * definition will render as literal characters to the student:
- *   - Do NOT use <em>, </em>, <strong>, or any HTML tags. The popup
- *     will show the literal "<em>" characters. To convey emphasis,
- *     just write the title or term as plain text in mid-sentence;
- *     the surrounding prose should make clear it is a title.
- *   - Do NOT use <a> tags to link to other pages. The popup cannot
- *     render clickable links; the literal "<a href=...>" will show.
- *     If you need to point students to another page, do it in the
- *     listening guide prose, not in the glossary popup.
- *   - Do NOT use HTML entities. Use plain & (not &amp;), plain < and
- *     > (not &lt; / &gt;), and plain straight or curly quotes. If you
- *     write "R&amp;B" the popup will display the literal five
- *     characters "R&amp;B" rather than "R&B."
+ * Inline HTML is permitted in definitions. The glossary loader
+ * (assets/glossary.js) injects definitions via .innerHTML, so a small
+ * set of inline tags renders correctly:
+ *   - <em>...</em> for album, song, book, and film titles, matching
+ *     how titles are styled in the listening-guide prose.
+ *   - <strong>...</strong> for emphasis where it is genuinely needed
+ *     (rare; the convention is to keep definitions plain).
+ *   - <a href="...">...</a> for cross-links to other pages on the
+ *     site, used sparingly.
+ * Do NOT use block-level HTML (no <p>, <ul>, <li>, <div>, <h1>-<h6>,
+ * etc.). Definitions are single short paragraphs, no internal
+ * structure.
+ *
+ * HTML entities: use plain & (not &amp;) in non-tag content. Inside
+ * an <a href="..."> the URL itself follows normal URL escaping; the
+ * surrounding prose stays plain.
  *
  * Character encoding: these strings are JavaScript string literals.
  * For curly quotes and accented characters, use Unicode escapes

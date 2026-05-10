@@ -73,7 +73,10 @@
 
       var text = document.createElement("span");
       text.className = "gloss-text";
-      text.textContent = entry.definition;
+      // Definitions may contain inline HTML (em, strong, a) for titles
+      // and links. The content is locally authored and trusted, so we
+      // render it as HTML rather than escaped text.
+      text.innerHTML = entry.definition;
 
       def.appendChild(label);
       def.appendChild(sep);

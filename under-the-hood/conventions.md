@@ -79,12 +79,14 @@ regular prose elsewhere on the page or in a related listening
 guide. Log the skip in `audit-notes.md` so the audit warning does
 not get re-fixed later.
 
-**Glossary content constraint.** Definitions are plain text only.
-The loader injects strings via `text.textContent`, which means HTML
-tags (`<em>`, `<strong>`), HTML entities (`&amp;`, `&lt;`), and
-inline `<a>` links all render as literal characters in the popup.
-The header comment of `glossary-data.js` documents this and gives
-examples of what fails.
+**Glossary content constraint.** Definitions are short prose paragraphs.
+The loader injects strings via `text.innerHTML`, so inline HTML is
+permitted for `<em>` (album, song, book, and film titles), `<strong>`
+(rare emphasis), and `<a href="...">` cross-links. Block-level HTML
+(no `<p>`, `<ul>`, `<li>`, `<div>`, `<h1>`-`<h6>`) is not permitted;
+definitions are single short paragraphs with no internal structure.
+The header comment of `glossary-data.js` documents the conventions
+in detail.
 
 **Sources sections.** Student-facing bibliographic entries with
 brief descriptive parentheticals. Scholars and journalists named in
