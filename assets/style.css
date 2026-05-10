@@ -220,6 +220,22 @@ figcaption {
   line-height: 1.6;
 }
 
+/* A note sitting below a figcaption, used to flag a piece of cultural
+   or historical context the diagram is making concrete. Visually
+   distinct from the figcaption (warm-brown left border tied to the
+   palette's --color-glossable family) so the reader sees it as the
+   author speaking directly rather than as a description of the
+   figure. */
+.figure-note {
+  margin-top: 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--color-glossable-soft);
+  border-left: 3px solid var(--color-glossable);
+  color: var(--color-text);
+  line-height: 1.6;
+  font-size: 0.95em;
+}
+
 /* Glossable terms */
 .glossable {
   border-bottom: 1px dotted var(--color-glossable);
