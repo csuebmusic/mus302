@@ -38,9 +38,11 @@ skips.
    such hit on `dominant` in "the dominant non-white labor force,"
    Track 1 carries one on `dominant` in "the dominant mode in commercial
    folk," Track 3 carries one on `dominant` in "the dominant pop
-   production aesthetic," and Track 4 carries one on `rhythm` in
+   production aesthetic," Track 4 carries one on `rhythm` in
    "breakbeat-derived rhythm" used in the everyday sense rather than
-   as the technical glossary entry). Track 1 also carries a wrong-
+   as the technical glossary entry, and Module 5 framing reading
+   carries one on `dominant` in "the dominant nineteenth- and early-
+   twentieth-century scientific racism"). Track 1 also carries a wrong-
    sense hit on `form` as the verb "would form in 1978," and Track 2
    and the framing reading carry wrong-sense hits on `form` as the
    four-frame methodology vocabulary noun ("African American form,"
@@ -97,7 +99,12 @@ skips.
    "moving between blues home base and freely improvised passages")
    where the cross-reference comparison is the rhetorical mode and
    the term has been substantively introduced and glossed on the
-   referenced page.
+   referenced page. Module 5 framing reading carries one such hit on
+   `indie-rock` matched inside the not-covered-here list ("the broader
+   1990s indie-rock scene"); the term is mentioned in passing inside
+   a list of final-project possibilities that the framing reading is
+   pointing students past, and the prose reads more naturally without
+   buttoning each item.
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.

@@ -1144,16 +1144,6 @@ var GLOSSARY = {
     definition: "A musical and cultural movement that emerged in the 1970s in the South Bronx of New York, created primarily by Black, Puerto Rican, and Caribbean American young people. Hip hop centers four traditional elements: DJing, MCing (rapping), graffiti, and breakdancing. As a musical form, it is built on rhythm, sampling, and spoken-word vocal performance, and it has become the dominant popular music of the twenty-first century globally."
   },
 
-  "punk": {
-    label: "Punk",
-    definition: "A musical and cultural movement that emerged in the mid-1970s in New York and London, characterized by short, fast, aggressive songs and a do-it-yourself ethos opposed to mainstream commercial music. Often associated with white working-class scenes, punk had Black originators (the band Death formed in Detroit in 1971; Pure Hell in Philadelphia around the same time) whose work was largely written out of the standard punk history."
-  },
-
-  "doo-wop": {
-    label: "Doo-wop",
-    definition: "A vocal harmony style that emerged in African American and Italian American urban neighborhoods in the late 1940s and 1950s, often sung by groups on street corners with no instruments. The name comes from nonsense syllables (\u201cdoo wop, doo wop\u201d) used as backing vocals. Doo-wop was a major source of early rock and roll and shaped the sound of pop singing across the 1950s and 1960s."
-  },
-
   "mambo": {
     label: "Mambo",
     definition: "A Cuban dance music style that developed in the 1940s, combining Cuban son and danz\u00f3n with the harmonic and arranging vocabulary of American big-band jazz. The mambo era of postwar New York, centered on the Palladium Ballroom, brought together Cuban, Puerto Rican, and African American musicians and audiences and laid the groundwork for what would later become salsa."
@@ -2878,6 +2868,70 @@ var GLOSSARY = {
   "zia-anger": {
     label: "Zia Anger",
     definition: "American filmmaker and music-video director, born 1985, based in upstate New York. Anger directed Mitski\u2019s music video for \u201cYour Best American Girl,\u201d which premiered on April 13, 2016 and became one of the most-discussed indie rock music videos of the decade. Her broader video work includes pieces for Jenny Hval, Angel Olsen, Maggie Rogers, and Helado Negro; her feature film My First Film (2024) is a fictionalized account of her own first attempted feature, framed around the labor and economic conditions of independent filmmaking. In her 2026 Marie Claire 10-year retrospective on the \u201cYour Best American Girl\u201d video, Anger discussed the production: a single-day shoot in a Brooklyn warehouse in February 2016, with cinematographer Ashley Connor, and the moment the entire crew applauded after Mitski\u2019s take of the chorus shred."
-  }
+  },
+
+  /* ============================
+     Module 5 framing reading
+     ============================ */
+
+  "rock-and-roll": {
+    label: "Rock and roll",
+    definition: "An American popular music style that took shape in the early to mid-1950s out of African American rhythm and blues, gospel, and blues traditions, with contributions from country and pop. Early rock and roll was the music of teenage audiences crossing racial lines for the first time at large scale; its early stars included Black artists (Chuck Berry, Little Richard, Fats Domino) and white artists who recorded Black-originated material (Elvis Presley, Bill Haley). The hyphenated form \u201crock and roll\u201d typically refers to the 1950s and early 1960s style; \u201crock\u201d without the qualifier usually refers to the broader genre that descended from it through the Beatles, the Rolling Stones, and the long arc of guitar-based popular music since."
+  },
+
+  "heartland-rock": {
+    label: "Heartland rock",
+    definition: "A late-1970s and 1980s American rock subgenre associated with white working-class subject matter, mid-tempo song forms, and a sound built around guitar, piano, organ, drums, and saxophone. The defining figures are Bruce Springsteen (whose 1980 album The River is one of the genre\u2019s anchor recordings), Bob Seger, John Mellencamp, and Tom Petty. Heartland rock\u2019s lyric content often centers on the lives of small-town and industrial-city characters during the deindustrialization of the late 1970s and 1980s, and the genre is one of the central popular-music documents of that economic moment."
+  },
+
+  "leo-frank": {
+    label: "Leo Frank",
+    definition: "Jewish American factory superintendent (1884\u20131915) who was convicted of the 1913 murder of a thirteen-year-old worker, Mary Phagan, at a pencil factory in Atlanta, Georgia, in a trial widely understood to have been driven by anti-Semitism. After Georgia\u2019s governor commuted Frank\u2019s death sentence to life imprisonment, a mob took him from prison and lynched him in 1915. The Frank case is a defining moment in the history of American anti-Semitism and was one of the catalysts for the founding of the Anti-Defamation League and a revival of the Ku Klux Klan."
+  },
+
+  "pogrom": {
+    label: "Pogrom",
+    definition: "An organized, often state-sanctioned massacre or violent attack against an ethnic or religious group; the term is most often associated with the waves of anti-Jewish violence in the Russian Empire and adjacent territories, particularly between 1881 and 1921. The pogroms drove the largest Jewish migration in modern history, with more than two million Jewish refugees arriving in the United States between 1881 and 1924, mostly settling in New York City."
+  },
+
+  "tin-pan-alley": {
+    label: "Tin Pan Alley",
+    definition: "Both a place and an industry. As a place, Tin Pan Alley was the block of West 28th Street between Fifth and Sixth Avenues in Manhattan where most of the major American sheet-music publishing houses concentrated in the 1890s and early 1900s. As an industry, Tin Pan Alley refers to the broader sheet-music-driven popular song business of approximately 1885 to 1930, in which professional songwriters, lyricists, and pluggers produced the popular songs of the era for sale primarily as printed sheet music. Many of the era\u2019s most prominent songwriters were children of Eastern European Jewish immigrants, including Irving Berlin, George and Ira Gershwin, Jerome Kern, and Harold Arlen; the Tin Pan Alley songbook is often called the Great American Songbook."
+  },
+
+  "blackface-minstrelsy": {
+    label: "Blackface minstrelsy",
+    definition: "The most popular form of American entertainment through much of the nineteenth century, in which white (and, later, Black) performers darkened their faces with burnt cork and performed exaggerated, racist caricatures of Black Americans through song, dance, and comic dialogue. Minstrelsy\u2019s legacy in American popular music is substantial and uncomfortable: many of the songwriting and performance conventions of Tin Pan Alley, vaudeville, and early American popular song descended from minstrel forms, and prominent twentieth-century white performers (including the Jewish American singer Al Jolson, in the 1927 film The Jazz Singer) continued to perform in blackface well into the twentieth century. The minstrel tradition is one of the central conduits through which Black musical material reached white audiences in the nineteenth and early twentieth centuries, and an honest history of American popular music has to keep its presence in view."
+  },
+
+  "appalachia": {
+    label: "Appalachia",
+    definition: "A cultural and geographic region of the eastern United States covering parts of the Appalachian mountain range from western New York and Pennsylvania through West Virginia, eastern Kentucky, southwestern Virginia, eastern Tennessee, western North Carolina, and northern Georgia and Alabama. Appalachia developed a distinctive folk culture rooted in Scots-Irish, English, German, and African American traditions, and its music (ballads, fiddle tunes, banjo styles, unaccompanied hymn singing, gospel quartets) was a foundational element of country music, bluegrass, and the broader Americana tradition."
+  },
+
+  "punk": {
+    label: "Punk rock",
+    definition: "A musical and cultural movement that emerged in the mid-1970s in New York and London, characterized by short, fast, aggressive songs, a do-it-yourself ethos, and an oppositional stance toward mainstream commercial music. American punk\u2019s major early figures included the Ramones (Queens, mixed Italian American, Hungarian American, and Jewish American membership), Patti Smith (New Jersey), Television, the Talking Heads, and the Dead Boys, with West Coast scenes following in Los Angeles (X, the Germs, Black Flag) and San Francisco. Although punk is often remembered as overwhelmingly white, the form had Black originators (the band Death formed in Detroit in 1971; Pure Hell in Philadelphia around the same time) whose work was largely written out of the standard punk history."
+  },
+
+  "riot-grrrl": {
+    label: "Riot grrrl",
+    definition: "An American feminist punk movement that emerged in Olympia, Washington and Washington, DC in the early 1990s. The defining bands included Bikini Kill, Bratmobile, Heavens to Betsy, Sleater-Kinney, and Huggy Bear (UK); the scene\u2019s broader institutional life included a network of zines, regional festivals, and women-only sections of shows. Riot grrrl was substantially formed by working-class and lower-middle-class young women in the punk and indie-rock spaces, and its aftermath shaped the next two decades of American indie rock."
+  },
+
+  "grunge": {
+    label: "Grunge",
+    definition: "An American rock subgenre that emerged in Seattle in the late 1980s and crossed over to mainstream popularity in 1991 with Nirvana\u2019s Nevermind. Grunge\u2019s sonic vocabulary combined the heaviness of metal with the song-form discipline and emotional rawness of punk, and its lyric content often centered on alienation, depression, and working-class disaffection. The defining grunge bands (Nirvana, Pearl Jam, Soundgarden, Alice in Chains) were predominantly white and predominantly male, and the genre\u2019s relationship to the Pacific Northwest\u2019s deindustrialization and timber-economy collapse runs in parallel to heartland rock\u2019s relationship to the rust belt."
+  },
+
+  "americana": {
+    label: "Americana",
+    definition: "A late-twentieth- and early-twenty-first-century genre and radio format that mixes country, folk, bluegrass, rock, and roots music. Americana emerged in the 1990s as a category for music that did not fit cleanly into the commercial Nashville country mainstream but drew on the same traditions; major figures include Steve Earle, Lucinda Williams, Gillian Welch, Wilco, the Avett Brothers, and contemporary artists like Brandi Carlile and Tyler Childers. The genre often functions as the present-day inheritor of the 1960s folk revival\u2019s relationship to traditional Anglo-American material."
+  },
+
+  "doo-wop": {
+    label: "Doo-wop",
+    definition: "A vocal-harmony pop style that emerged from African American urban neighborhoods in the late 1940s and 1950s and reached mainstream popularity from approximately 1955 to 1962. Doo-wop groups typically performed without instruments or with minimal accompaniment, building elaborate close-harmony vocal arrangements around a lead singer, with bass, baritone, tenor, and falsetto parts each carrying their own melodic lines. The genre took its name from the nonsense syllables groups used to fill in the harmony parts (\u201cdoo-wop,\u201d \u201csh-boom,\u201d \u201cba-ba-ba\u201d). Although doo-wop began as a Black urban form, by the mid-1950s it had become a widely shared idiom across Black, Puerto Rican, Italian American, and Jewish American urban groups in New York, Philadelphia, and other Northeastern cities."
+  },
 
 };
