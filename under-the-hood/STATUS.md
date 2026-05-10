@@ -87,6 +87,27 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
   same visual treatment, semantically distinct: in-prose callout
   rather than figure commentary) and `.callout-lead` for the
   bold opening clause.
+  Tail of the framing reading consolidated: the four closing
+  sections (Where country and folk sit, Where Black music sits,
+  The arc of the anchor tracks, What this module does not cover)
+  collapsed into a single "What this module leaves out" section
+  parallel to Module 4's existing version. The Black-music section
+  was redundant given the racial-dynamics work woven through the
+  rest of the reading (banjo card, Jewish-songwriting figure-note,
+  Credit-where-due callout, prose); the arc-of-the-anchor-tracks
+  section was a recap of material the four threads had just
+  finished doing. The new consolidated section covers seven paths
+  not taken (country, Elvis, the crooner tradition past Sinatra
+  and Bennett, polka, German-Eastern-European art-music refugees,
+  punk, the 1990s indie-rock / grunge / Americana grab-bag) as
+  final-project territory. New glossary entry for `elvis-presley`;
+  the new section also picks up first-substantive-mention glosses
+  for `gospel`, `rnb`, `blues`, `waltz`, `b-side`, and
+  `big-mama-thornton` in the Elvis paragraph. Glossary now 583.
+  Audit-notes documents three new intentional skips
+  (`jazz`, `soul`, `detroit-techno`) on the framing reading,
+  introduced when the consolidation removed the Black-music section
+  that had been clearing the figure-note mentions.
 - Final project module: full build
 
 ## Next (in order)

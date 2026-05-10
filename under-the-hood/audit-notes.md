@@ -110,7 +110,18 @@ skips.
    1990s indie-rock scene"); the term is mentioned in passing inside
    a list of final-project possibilities that the framing reading is
    pointing students past, and the prose reads more naturally without
-   buttoning each item.
+   buttoning each item. Module 5 framing reading also carries hits on
+   `jazz`, `soul`, and `detroit-techno` matched inside the
+   `.figure-note` callouts under the Scots-Irish and Jewish-songwriting
+   diagrams; these are commentary on the diagram patterns rather than
+   substantive body-prose introductions of the terms (which all live
+   on Module 2's framing reading), and per house style figure-note
+   commentary is not buttoned. The hits exist because earlier drafts
+   of Module 5 had a "Where Black music sits in this story" section
+   that buttoned these terms substantively in body prose; that section
+   was consolidated into the closing "What this module leaves out"
+   section in May 2026, and the figure-note mentions are now uncleared
+   by any body-prose button.
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.
