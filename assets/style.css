@@ -304,12 +304,12 @@ figcaption {
 }
 
 /* Inline diagrams (SVG figures). The viewBox is 600 wide with 16px
-   labels inside; capping the rendered width at 380px makes the SVG
-   render at scale 0.63, giving roughly 10px effective label text on
-   screen, matching the size of the previous horizontal diagrams. */
+   labels inside; capping the rendered width at 440px makes the SVG
+   render at scale 0.73, giving roughly 12px effective label text on
+   screen. */
 figure svg.diagram {
   display: block;
-  max-width: 380px;
+  max-width: 440px;
   width: 100%;
   height: auto;
   margin: 0 auto;
