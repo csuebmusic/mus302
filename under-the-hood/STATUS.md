@@ -15,16 +15,37 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 - Module 4 (Asian American traditions): full build (framing reading,
   five tracks, index, discussion, quiz; index discussion blurb
   updated to the pick-a-reflective-question pattern)
-- Module 5 framing reading: full build. Anchor lineup locked, full
-  framing essay (~4,500 words) with Jacobson three-periods diagram
-  + four thread diagrams (all vertical, label font 16px in SVG,
-  rendered at max-width 440px CSS for ~12px effective text), 19
-  glossary entries added in the most recent pass (total 567).
+- Module 5 framing reading: full build, with substantial polish
+  pass to sharpen the racial-dynamics framing throughout. Anchor
+  lineup locked, full framing essay with Jacobson three-periods
+  diagram + four thread diagrams (all vertical, label font 16px
+  in SVG, rendered at max-width 440px CSS for ~12px effective
+  text). Glossary now at 571 entries.
   Whiteness-as-outcome thesis stated up front; WASP/German
   Protestant/Scandinavian Lutheran bullies named; anti-Black-floor
   paragraph with Draft Riots and Roediger/Ignatiev citation; Tin
   Pan Alley split into Jewish-songwriting paragraph plus Black-
-  music-exchange paragraph.
+  music-exchange paragraph, with the exchange paragraph sharpened
+  to name appropriation and minstrelsy plainly (Jazz Singer is
+  named as the racist work it is, not "something more
+  uncomfortable"). Two thread diagrams (Scots-Irish and Jewish
+  songwriting) rebuilt with Black-music side-stream architecture:
+  the Scots-Irish diagram shows the banjo's path from West
+  Africa via enslaved musicians via blackface minstrelsy into
+  Appalachia; the Jewish songwriting diagram shows continuous
+  absorption across three institutional eras (ragtime/blues/jazz
+  into Tin Pan Alley, jazz standards into Broadway, R&amp;B/gospel/
+  doo-wop into the Brill Building). Both diagrams carry a new
+  `.figure-note` callout below the figcaption explicitly framing
+  what the side stream depicts. Songbook and Brill Building
+  glossary entries revised to push back on canonical framings,
+  separating writer-canon (overwhelmingly white), performer-canon
+  (heavily Black), and source material (inseparable from African
+  American music), and naming the structural racism in
+  rights/income retention. Six gloss buttons moved from the
+  four-traditions overview paragraph to substantive later mentions.
+  Multiple roll-call paragraphs and biographical parentheticals
+  dropped where the gloss popups carry the same information.
 - Final project module: full build
 
 ## Next (in order)
@@ -76,3 +97,10 @@ Sources section cites Wang's interview on the 1972 Crittendon-
 produced 7" single, but the body text does not mention the 1972
 single. Either weave the single into the recording paragraph or
 drop the source from the Sources section.
+
+**Tin Pan Alley glossary entry.** The Songbook and Brill Building
+entries were revised this session to name the writer-canon /
+performer-canon / source-material racial dynamics explicitly. The
+tin-pan-alley entry uses the older "exchange" framing and does not
+yet acknowledge the same dynamics in parallel. Worth bringing it
+up to the same standard in a future polish pass.
