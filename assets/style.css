@@ -303,29 +303,12 @@ figcaption {
   color: var(--color-text);
 }
 
-/* Inline diagrams (SVG figures). Hero photos and small decorative
-   figures use the default styling. Wide diagrams (the timeline / family-
-   tree SVGs in framing readings) use figure.wide-figure to break out
-   of the 820px prose column up to 1100px on wide screens, scaling down
-   responsively on narrower screens. */
+/* Inline diagrams (SVG figures) */
 figure svg.diagram {
   display: block;
-  width: 100%;
+  max-width: 100%;
   height: auto;
   margin: 0 auto;
-}
-
-figure.wide-figure {
-  margin: 1.5rem auto;
-  max-width: 100%;
-}
-
-@media (min-width: 900px) {
-  figure.wide-figure {
-    width: min(1100px, 100vw - 2rem);
-    margin-left: 50%;
-    transform: translateX(-50%);
-  }
 }
 
 /* Module contents list (used on module landing pages) */
