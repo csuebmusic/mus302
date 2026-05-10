@@ -15,12 +15,26 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 - Module 4 (Asian American traditions): full build (framing reading,
   five tracks, index, discussion, quiz; index discussion blurb
   updated to the pick-a-reflective-question pattern)
+- Module 5 framing reading: full build. Anchor lineup locked, full
+  framing essay (~4,500 words) with Jacobson three-periods diagram
+  + four thread diagrams (all vertical, label font 16px in SVG,
+  rendered at max-width 440px CSS for ~12px effective text), 19
+  glossary entries added in the most recent pass (total 567).
+  Whiteness-as-outcome thesis stated up front; WASP/German
+  Protestant/Scandinavian Lutheran bullies named; anti-Black-floor
+  paragraph with Draft Riots and Roediger/Ignatiev citation; Tin
+  Pan Alley split into Jewish-songwriting paragraph plus Black-
+  music-exchange paragraph.
 - Final project module: full build
 
 ## Next (in order)
 
-- Module 5 build: framing reading, five listening guides, index,
-  discussion, quiz. Anchor lineup locked (see Decisions below).
+- Module 5 listening guides (5 tracks: Lymon, Baez, Drifters,
+  Carlos, Springsteen). Track 1 (Lymon) is fully verified and
+  ready to draft when Ines greenlights. Track 4 (Carlos) needs
+  special handling for the YouTube card pattern given Carlos's
+  stated wishes about her catalog.
+- Module 5 index, discussion, quiz
 - Module 6: anchor tracks beyond Lamar / Bad Bunny, then build
 
 ## Open
