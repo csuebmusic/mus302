@@ -221,10 +221,16 @@ principle is cultural roots.
 
 **Module 1 anchor tracks: only four.** Earlier planning included
 Kendrick Lamar's "Alright" and Bad Bunny's "El Apagón" as Module 1
-anchor tracks (six total). Those two were moved to Module 6
-(synthesis), where they fit the contemporary cross-tradition framing
-better. Module 1 has four anchor tracks: Cooke, Cruz, DeSanto,
-Williams.
+anchor tracks (six total). Those two were removed when the Module 1
+lineup tightened around the four-tradition cross-cultural contrast.
+Lamar's "Alright" is now substantively treated in Module 2's "what
+this module leaves out" section as the BLM-era conscious-hip-hop
+endpoint of the lineage Track 4 (Grandmaster Flash) introduces; Bad
+Bunny's "El Apagón" is substantively treated in Module 3's "what
+this module leaves out" section as the contemporary peak of the
+reggaeton-into-Latin-trap tradition Track 5 (Tego) introduces. Both
+are explicitly named as defensible final-project subjects. Module 1
+has four anchor tracks: Cooke, Cruz, DeSanto, Williams.
 
 **Module 2 anchor tracks: five, chronological.** Bessie Smith with
 Armstrong "St. Louis Blues" 1925, Sister Rosetta Tharpe "Strange
@@ -243,10 +249,12 @@ Module 3 because Module 1's Cruz/Fania track already carries it;
 the Module 3 framing reading cross-references back. Reggaeton is
 anchored on Tego (the artistic-political anchor) rather than Daddy
 Yankee's "Gasolina" 2004 (the commercial-breakthrough track), which
-the framing reading carries as context. Module 6 picks up Bad
-Bunny's "El Apagón" as the contemporary continuation. Module 3
-opens with a full framing reading (`module3/roots-and-routes.html`,
-"Many Roots, Shared Routes") parallel to Module 2's.
+the framing reading carries as context. Bad Bunny's "El Apagón" and
+the broader 2010s-2020s Latin trap moment are treated in the "what
+this module leaves out" section as the contemporary continuation
+and named as final-project territory. Module 3 opens with a full
+framing reading (`module3/roots-and-routes.html`, "Many Roots,
+Shared Routes") parallel to Module 2's.
 
 **Module 5 anchor tracks: five, chronological.** Frankie Lymon
 and the Teenagers "Why Do Fools Fall in Love" (1956), Joan Baez
@@ -285,7 +293,6 @@ guides each touch.
 then 4, then 5, one per week. Each module has its own deadline and
 its own discussion (initial post on the module deadline, peer
 responses one week later via Canvas's automatic peer-review tool).
-Module 6 follows Module 5.
 
 **Modules 2-5 discussion pattern.** Pick one of the listening guides'
 reflective questions and respond to it. After the initial-post
@@ -305,12 +312,6 @@ The Modules 2-5 pattern requires Canvas's peer-review feature on
 the discussion to be set to "automatic" rather than "manual" so
 assignments fire on the deadline.
 
-**Module 6 has a quiz, not a discussion.** The synthesis work a
-discussion would normally do is folded into the project's final
-revision arc, which is itself a synthesis exercise. Module 6's
-quiz still covers Indigenous popular music, queer liberation, and
-the contemporary cross-tradition material.
-
 **Indigenous artists in the framing reading.** The Module 1 cultural
 roots reading uses Jim Pepper as the 1960s example of Indigenous
 popular music, alongside Robbie Robertson and the Halluci Nation.
@@ -318,10 +319,11 @@ Pepper replaced an earlier draft that named Buffy Sainte-Marie. The
 substitution reflects the 2023 CBC investigation into Sainte-Marie's
 ancestry claims, which complicated her status as a straightforward
 Indigenous example for an introductory reading. Sainte-Marie may
-still belong in Module 6 as a case study in contested identity in
-the folk revival; she does not belong in the framing reading as
-the lead Indigenous example. Do not "fix" this back based on
-training data.
+still belong in the course as a case study in contested identity in
+the folk revival, in one of Modules 2 through 5's "what this module
+leaves out" sections or as a final-project topic. She does not
+belong in the Module 1 framing reading as the lead Indigenous
+example. Do not "fix" this back based on training data.
 
 **Glossings: aggressive but not exhaustive.** The convention is to
 gloss specialized terms a non-majors student might not know that

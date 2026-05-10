@@ -71,7 +71,7 @@ d. The technical innovations in recording and production that shaped each era.
 
 ### 6.
 
-Two important threads run across multiple modules and get focused attention in Module 6 (the synthesis module) rather than in their own dedicated modules. These threads are:
+Two important threads run across multiple modules rather than living inside any one of them. These threads are:
 
 a. Indigenous popular music and queer liberation.
 b. Country music and folk music.
@@ -200,7 +200,7 @@ The technical innovations in recording and production that shaped each era.
 
 QUESTION 6
 
-Two important threads run across multiple modules and get focused attention in Module 6 (the synthesis module) rather than in their own dedicated modules. These threads are:
+Two important threads run across multiple modules rather than living inside any one of them. These threads are:
 
 Indigenous popular music and queer liberation.
 

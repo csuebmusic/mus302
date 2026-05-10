@@ -40,7 +40,6 @@ mus302/
   module3/                  Latin diasporic traditions
   module4/                  Asian American traditions (not yet drafted)
   module5/                  European American immigrant and working-class (not yet drafted)
-  module6/                  Cross-Cutting Threads / Synthesis (not yet drafted)
 
   final-project/
     index.html                          Final-project landing page (linked from Canvas)
@@ -64,15 +63,16 @@ warrants one, plus `discussion.md` and `quiz.md` Canvas paste sources.
 
 ## Course architecture
 
-Six modules. Module 1 must be completed first (orientation and
+Five modules. Module 1 must be completed first (orientation and
 methodology). Modules 2 through 5 run in strict sequence after
 Module 1, one module per week, in this order: Module 2 (African
 American foundational traditions), Module 3 (Latin diasporic
 traditions), Module 4 (Asian American traditions), Module 5
 (European American immigrant and working-class traditions). Each
-has its own deadline. Module 6 follows Module 5 and synthesizes
-across the four traditions, adding Indigenous popular music and
-queer liberation as cross-cutting threads.
+has its own deadline. Indigenous popular music and queer liberation
+run across these modules rather than living inside any one of them;
+Module 1's framing reading introduces them, and each module's "what
+this module leaves out" section names where they touch the lineup.
 
 A research project runs in parallel with the modules across the term
 and is worth 40 percent of the course grade. Students research a
