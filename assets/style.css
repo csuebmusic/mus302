@@ -339,16 +339,28 @@ figcaption {
   color: var(--color-text);
 }
 
-/* Inline diagrams (SVG figures). The viewBox is 600 wide with 16px
-   labels inside; capping the rendered width at 440px makes the SVG
-   render at scale 0.73, giving roughly 12px effective label text on
-   screen. */
+/* Inline diagrams (SVG figures). Two sizing variants depending on
+   the diagram's aspect ratio:
+
+   - .diagram (default) is for horizontal/landscape diagrams (wider
+     than tall). Caps at 720px so 720-wide source SVGs render at
+     native size and 600-wide source SVGs scale up to fill the column.
+     Used in Modules 2 and 4 framing readings, the listening guides,
+     and Module 1's how-to-listen demonstration figures.
+   - .diagram-tall is for vertical/portrait diagrams (taller than
+     wide). Caps at 440px so the diagram does not dominate the page
+     when it is already long. Used in Module 5's four Thread diagrams
+     and the Jacobson three-periods diagram. */
 figure svg.diagram {
   display: block;
   width: 100%;
   max-width: 720px;
   height: auto;
   margin: 0 auto;
+}
+
+figure svg.diagram.diagram-tall {
+  max-width: 440px;
 }
 
 /* Module contents list (used on module landing pages) */
