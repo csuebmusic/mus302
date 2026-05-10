@@ -20,7 +20,7 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
   lineup locked, full framing essay with Jacobson three-periods
   diagram + four thread diagrams (all vertical, label font 16px
   in SVG, rendered at max-width 440px CSS for ~12px effective
-  text). Glossary now at 571 entries.
+  text). Glossary now at 582 entries.
   Whiteness-as-outcome thesis stated up front; WASP/German
   Protestant/Scandinavian Lutheran bullies named; anti-Black-floor
   paragraph with Draft Riots and Roediger/Ignatiev citation; Tin
@@ -46,6 +46,21 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
   four-traditions overview paragraph to substantive later mentions.
   Multiple roll-call paragraphs and biographical parentheticals
   dropped where the gloss popups carry the same information.
+  Italian-Irish-Polish thread section rebuilt: Springsteen
+  biographical paragraph removed (that material belongs in the
+  listening guide); Italian American crooner tradition expanded
+  from a name-drop into two substantive paragraphs (Crosby
+  template + Italian American adopters with bel canto and
+  canzone napoletana inheritances; crooners' relationship to
+  African American music with Sinatra's 1958 Ebony quote and
+  Bennett at Selma 1965); diagram restructured so crooners and
+  doo-wop are parallel mid-century branches off the urban-enclaves
+  box, both feeding the rock-and-roll merge node, then on to
+  heartland rock. Ten new glossary entries (crooner, bing-crosby,
+  russ-columbo, frank-sinatra, tony-bennett, bel-canto,
+  neapolitan-song, house-i-live-in, selma-march, harry-belafonte).
+  Three new sources (Sinatra Ebony 1958, Bennett autobiography,
+  Kaplan Frank: The Voice, Cinotto Making Italian America).
 - Final project module: full build
 
 ## Next (in order)
