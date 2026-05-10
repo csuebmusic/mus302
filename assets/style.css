@@ -236,6 +236,26 @@ figcaption {
   font-size: 0.95em;
 }
 
+/* An in-prose callout, used between body paragraphs to flag an
+   exception, a counter-example, or a piece of context that lifts
+   out of the surrounding flow. Same visual treatment as
+   .figure-note (warm-brown left border, soft fill); semantically
+   distinct because it stands alone rather than commenting on a
+   figure. The .callout-lead opening clause provides a soft heading. */
+.callout {
+  margin: 1.5rem 0;
+  padding: 0.75rem 1rem;
+  background: var(--color-glossable-soft);
+  border-left: 3px solid var(--color-glossable);
+  color: var(--color-text);
+  line-height: 1.6;
+  font-size: 0.95em;
+}
+
+.callout-lead {
+  font-weight: bold;
+}
+
 /* Glossable terms */
 .glossable {
   border-bottom: 1px dotted var(--color-glossable);

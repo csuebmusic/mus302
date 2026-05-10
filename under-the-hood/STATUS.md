@@ -73,6 +73,20 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
   the broader literature. The substantive first-mention gloss
   button moved from the line-22 example to the line-99 substantive
   introduction, matching the pattern used for `appalachia`.
+  Crooner-adopters list trimmed from seven names (Columbo, Sinatra,
+  Bennett, Como, Damone, Martin, Darin) to three (Columbo, Sinatra,
+  Bennett); the diagram crooner-box label updated to match
+  ((Columbo, Sinatra, Bennett), 1930s-1950s). Added a "Credit where
+  due" callout between the crooners' racial-dynamics paragraph
+  and the doo-wop paragraph, naming Sinatra and Bennett as
+  documented exceptions to the appropriation pattern (Sinatra's
+  1958 Ebony essay on Holiday and his civil-rights record,
+  Bennett's Selma participation), with the qualifier that
+  neither dismantled the structural racism of the music industry.
+  Added a new `.callout` CSS class (sibling to `.figure-note`,
+  same visual treatment, semantically distinct: in-prose callout
+  rather than figure commentary) and `.callout-lead` for the
+  bold opening clause.
 - Final project module: full build
 
 ## Next (in order)
