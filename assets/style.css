@@ -345,8 +345,8 @@ figcaption {
    screen. */
 figure svg.diagram {
   display: block;
-  max-width: 440px;
   width: 100%;
+  max-width: 720px;
   height: auto;
   margin: 0 auto;
 }
