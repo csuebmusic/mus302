@@ -252,14 +252,14 @@ opens with a full framing reading (`module3/roots-and-routes.html`,
 and the Teenagers "Why Do Fools Fall in Love" (1956), Joan Baez
 "Mary Hamilton" (1960), the Drifters "Up on the Roof" (1962),
 Wendy Carlos "Switched-On Bach" excerpt (1968), Bruce Springsteen
-"The River" (1980). Arc: cross-ethnic urban doo-wop → Scots-Irish
+"The River" (1980). Arc: cross-ethnic urban doo-wop → Ulster Scots
 ballad inheritance reactivated through the folk revival → Brill
 Building songwriting tradition → synthesis pioneers as a pivot
 beyond the singer-songwriter assumption → deindustrialization-
 era working-class heartland rock. Country is not anchored in
 Module 5 because Module 1's Hank Williams track already carries
 that thread; the Module 5 framing reading cross-references back
-and the Baez track picks up the Scots-Irish ballad inheritance
+and the Baez track picks up the Ulster Scots ballad inheritance
 that feeds country and bluegrass. Aretha Franklin was considered
 for the Brill Building anchor (via her recording of Goffin/King's
 "Natural Woman") and ruled out: Module 5 stays inside European
@@ -276,7 +276,7 @@ readings (`module4/roots-and-routes.html`, "Many Routes Across
 the Pacific"; `module5/roots-and-routes.html`). Module 5 in
 particular: the "European American" frame is the most internally
 heterogeneous of the four cultural traditions and benefits from
-explicit prose laying out the Scots-Irish/British, Eastern
+explicit prose laying out the Ulster Scots, Eastern
 European Jewish, Italian/Irish/Polish urban Catholic, and
 German/Eastern European synthesis-pioneer threads the listening
 guides each touch.

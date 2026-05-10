@@ -1106,8 +1106,8 @@ var GLOSSARY = {
   },
 
   "scots-irish": {
-    label: "Scots-Irish",
-    definition: "Protestants from the Scottish Lowlands and Northern Ireland who migrated to North America beginning in the eighteenth century and largely settled in the Appalachian Mountains. They brought with them a tradition of unaccompanied ballad singing and fiddle playing that, in dialogue with Black musical practice in the same region, became one of the roots of country music."
+    label: "Ulster Scots",
+    definition: "Protestant settlers from the Scottish Lowlands and the north of Ireland (the Ulster province) who migrated to North America beginning in the early eighteenth century and largely settled in the Appalachian Mountains. They are also called \u201cScots-Irish\u201d (the dominant term in American scholarship) and \u201cScotch-Irish\u201d (an older variant); this course uses \u201cUlster Scots\u201d to keep them distinct from the Catholic Irish who arrived in the great famine-era waves of the 1840s and after, and who appear elsewhere in this module as part of the urban Catholic working-class thread. The Ulster Scots brought a tradition of unaccompanied ballad singing and fiddle playing that, in dialogue with Black musical practice in the same region, became one of the roots of country music."
   },
 
   "aids-crisis": {
@@ -1136,7 +1136,7 @@ var GLOSSARY = {
 
   "country-music": {
     label: "Country music",
-    definition: "An American popular music tradition rooted largely in the Scots-Irish ballad tradition of the Appalachian Mountains, in dialogue with Black musical practice in the same region. Country music took commercial form in the 1920s with figures like the Carter Family and Jimmie Rodgers, was originally marketed as \u201chillbilly\u201d music and rebranded as \u201ccountry and western\u201d in the late 1940s, and became centered on the Nashville recording industry by the 1950s. Hank Williams is widely considered country music\u2019s first superstar. The genre continues to evolve through subgenres including honky-tonk, bluegrass, outlaw country, and contemporary country pop."
+    definition: "An American popular music tradition rooted largely in the Ulster Scots ballad tradition of the Appalachian Mountains, in dialogue with Black musical practice in the same region. Country music took commercial form in the 1920s with figures like the Carter Family and Jimmie Rodgers, was originally marketed as \u201chillbilly\u201d music and rebranded as \u201ccountry and western\u201d in the late 1940s, and became centered on the Nashville recording industry by the 1950s. Hank Williams is widely considered country music\u2019s first superstar. The genre continues to evolve through subgenres including honky-tonk, bluegrass, outlaw country, and contemporary country pop."
   },
 
   "hip-hop": {
@@ -2901,7 +2901,7 @@ var GLOSSARY = {
 
   "appalachia": {
     label: "Appalachia",
-    definition: "A cultural and geographic region of the eastern United States covering parts of the Appalachian mountain range from western New York and Pennsylvania through West Virginia, eastern Kentucky, southwestern Virginia, eastern Tennessee, western North Carolina, and northern Georgia and Alabama. Appalachia developed a distinctive folk culture rooted in Scots-Irish, English, German, and African American traditions, and its music (ballads, fiddle tunes, banjo styles, unaccompanied hymn singing, gospel quartets) was a foundational element of country music, bluegrass, and the broader Americana tradition."
+    definition: "A cultural and geographic region of the eastern United States covering parts of the Appalachian mountain range from western New York and Pennsylvania through West Virginia, eastern Kentucky, southwestern Virginia, eastern Tennessee, western North Carolina, and northern Georgia and Alabama. Appalachia developed a distinctive folk culture rooted in Ulster Scots, English, German, and African American traditions, and its music (ballads, fiddle tunes, banjo styles, unaccompanied hymn singing, gospel quartets) was a foundational element of country music, bluegrass, and the broader Americana tradition."
   },
 
   "punk": {
@@ -3081,7 +3081,7 @@ var GLOSSARY = {
 
   "bluegrass": {
     label: "Bluegrass",
-    definition: "An acoustic American string-band genre that crystallized in late 1945 when Bill Monroe added the banjo player Earl Scruggs to his Blue Grass Boys, joining Lester Flatt on guitar, Chubby Wise on fiddle, and Cedric Rainwater on bass. The genre took its name from the band; \u201cbluegrass\u201d as a label for the style was not in common use until the mid-1950s. The classic five-instrument lineup (mandolin, banjo, fiddle, guitar, upright bass) plays at fast tempos with a strongly syncopated drive, tight close-harmony singing in high \u201chigh-lonesome\u201d tenor, and Scruggs\u2019s three-finger banjo roll, which is unique to the genre. Bluegrass shares the Scots-Irish ballad tradition\u2019s repertoire and the Appalachian string-band sound it inherits, but it adds elements drawn from jazz and especially blues; Monroe consistently credited the African American Kentucky guitarist and fiddler Arnold Shultz (1886-1931) as a foundational influence on his musical thinking, and the genre\u2019s inheritance from Black American music is direct, even though twenty-first-century commercial bluegrass remains one of the whitest spaces in American popular music. Module 5 covers bluegrass through its Scots-Irish ancestor (Joan Baez\u2019s 1960 \u201cMary Hamilton\u201d on Track 2) rather than through commercial bluegrass directly; commercial country and bluegrass are abundant final-project territory."
+    definition: "An acoustic American string-band genre that crystallized in late 1945 when Bill Monroe added the banjo player Earl Scruggs to his Blue Grass Boys, joining Lester Flatt on guitar, Chubby Wise on fiddle, and Cedric Rainwater on bass. The genre took its name from the band; \u201cbluegrass\u201d as a label for the style was not in common use until the mid-1950s. The classic five-instrument lineup (mandolin, banjo, fiddle, guitar, upright bass) plays at fast tempos with a strongly syncopated drive, tight close-harmony singing in high \u201chigh-lonesome\u201d tenor, and Scruggs\u2019s three-finger banjo roll, which is unique to the genre. Bluegrass shares the Ulster Scots ballad tradition\u2019s repertoire and the Appalachian string-band sound it inherits, but it adds elements drawn from jazz and especially blues; Monroe consistently credited the African American Kentucky guitarist and fiddler Arnold Shultz (1886-1931) as a foundational influence on his musical thinking, and the genre\u2019s inheritance from Black American music is direct, even though twenty-first-century commercial bluegrass remains one of the whitest spaces in American popular music. Module 5 covers bluegrass through its Ulster Scots ancestor (Joan Baez\u2019s 1960 \u201cMary Hamilton\u201d on Track 2) rather than through commercial bluegrass directly; commercial country and bluegrass are abundant final-project territory."
   },
 
   "crooner": {

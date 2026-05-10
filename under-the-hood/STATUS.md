@@ -28,9 +28,9 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
   music-exchange paragraph, with the exchange paragraph sharpened
   to name appropriation and minstrelsy plainly (Jazz Singer is
   named as the racist work it is, not "something more
-  uncomfortable"). Two thread diagrams (Scots-Irish and Jewish
+  uncomfortable"). Two thread diagrams (Ulster Scots and Jewish
   songwriting) rebuilt with Black-music side-stream architecture:
-  the Scots-Irish diagram shows the banjo's path from West
+  the Ulster Scots diagram shows the banjo's path from West
   Africa via enslaved musicians via blackface minstrelsy into
   Appalachia; the Jewish songwriting diagram shows continuous
   absorption across three institutional eras (ragtime/blues/jazz
@@ -61,6 +61,18 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
   neapolitan-song, house-i-live-in, selma-march, harry-belafonte).
   Three new sources (Sinatra Ebony 1958, Bennett autobiography,
   Kaplan Frank: The Voice, Cinotto Making Italian America).
+  Thread 1 renamed from "Scots-Irish" to "Ulster Scots"
+  throughout (heading, diagram title, figcaption, body prose,
+  cross-references, related-not-anchored country aside, and
+  Sources section descriptive text), to keep the Protestant
+  Ulster population distinct from the Catholic Irish who arrive
+  in Thread 3. The data-term key remains `scots-irish` (internal
+  identifier); the gloss label and definition are rewritten to
+  lead with "Ulster Scots," noting "Scots-Irish" as the dominant
+  American scholarly synonym so students can find their way in
+  the broader literature. The substantive first-mention gloss
+  button moved from the line-22 example to the line-99 substantive
+  introduction, matching the pattern used for `appalachia`.
 - Final project module: full build
 
 ## Next (in order)
