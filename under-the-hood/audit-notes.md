@@ -125,6 +125,20 @@ skips.
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.
+7. **Module 5 framing reading: country-music re-glossed in the
+   leaves-out section.** The term `country-music` is glossed
+   substantively in Thread 1 of the framing reading (line 99, in
+   the Ulster Scots paragraph) and re-glossed in the closing
+   "What this module leaves out" section (line 501). The audit
+   flags this as a "Double-buttoned" warning and per house style
+   the convention is first-mention only. The leaves-out section
+   is positioned as a self-contained final-project starting point
+   that students may jump straight to without reading the full
+   framing reading top to bottom; re-glossing the foundational
+   genre term there means students don't have to scroll back to
+   find the definition. This is a deliberate exception to the
+   convention. If similar exceptions accumulate across modules the
+   convention should be revisited; for now this is the only one.
 
 ## Audit script future improvements
 
