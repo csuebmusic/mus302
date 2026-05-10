@@ -420,3 +420,12 @@ the peer-review window rather than preceding it.
 **Term and schedule.** Hard-date schedule lives in `syllabus.html`,
 which is the canonical source. STATUS.md does not duplicate it.
 
+**Unicode characters in HTML files.** Type literal Unicode characters
+(curly apostrophes 's', curly quotes "...", em dashes, accented
+letters) directly into HTML body content. JavaScript-style escapes
+like `\u2019` work inside JS string literals (the glossary-data.js
+file uses them by convention) but render as the literal six-character
+sequence inside HTML body content. If a paragraph shows escapes like
+'period\u2019s' in the rendered output, the fix is to replace each
+`\uXXXX` with the actual character.
+

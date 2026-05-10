@@ -1349,7 +1349,7 @@ var GLOSSARY = {
 
   "yaeji": {
     label: "Yaeji (born 1993)",
-    definition: "Stage name of Kathy Yaeji Lee, a Korean American singer, DJ, and producer based in Brooklyn. Born in Flushing, Queens, Yaeji moved with her family to Atlanta and then to Seoul before returning to the United States for college at Carnegie Mellon, where she began DJing. Her music blends house and hip hop with quiet, often whispered vocals in Korean and English; her 2017 single \u201cRaingurl\u201d brought her international attention, and her debut album With a Hammer was released in 2023."
+    definition: "Stage name of Kathy Yaeji Lee, a Korean American singer, DJ, and producer based in Brooklyn. Born in Flushing, Queens, Yaeji moved with her family to Atlanta and then to Seoul before returning to the United States for college at Carnegie Mellon, where she began DJing. Her music blends house and hip hop with quiet, often whispered vocals in Korean and English; her 2017 single \u201cRaingurl\u201d brought her international attention, and her debut album <em>With a Hammer</em> was released in 2023. Yaeji has hosted queer-Asian-centered parties from her late-2010s breakthrough forward and has spoken in interviews about the need for marginalized artists across queer, Black, trans, and Asian communities to support one another in industry spaces that have not made room for them; her work is a central part of contemporary Brooklyn\u2019s queer Asian dance-music scene."
   },
 
   "robbie-robertson": {
@@ -2634,6 +2634,21 @@ var GLOSSARY = {
   "mitski": {
     label: "Mitski Miyawaki (b. 1990)",
     definition: "Japanese American singer-songwriter who records under just her first name. Born in Mie Prefecture, Japan, to a Japanese mother and an American State Department father, she grew up between Japan, China, Malaysia, the Czech Republic, the Democratic Republic of the Congo, Turkey, and several US locations, and graduated from the SUNY Purchase Conservatory of Music in 2013 with a studio composition degree. Her 2016 album Puberty 2 (especially its lead single \u201cYour Best American Girl\u201d) was the breakthrough that made her one of the most recognized Asian American musicians working in indie rock; subsequent albums Be the Cowboy (2018) and The Land Is Inhospitable and So Are We (2023) have continued that trajectory. Mitski has expressed ambivalence about labels like \u201cAsian American\u201d and has described herself as \u201chalf Japanese, half American but not fully either.\u201d"
+  },
+
+  "gay-asian-pacific-alliance": {
+    label: "Gay Asian Pacific Alliance",
+    definition: "San Francisco organization founded in February 1988 (incorporated as a 501(c)(4) social welfare organization), one of the first organizations in the United States specifically serving LGBTQ+ Asian Americans and Pacific Islanders. GAPA emerged from the Asian Gay Men\u2019s Support Group that had been meeting at the Pacific Center for Human Growth in Berkeley, and was founded both as a social-support and community-building organization and as a response to the AIDS crisis in API communities. Its early projects included the GAPA Community HIV Project (1989) and the GAPA Men\u2019s Chorus (1989). GAPA\u2019s AIDS work merged with the Asian AIDS Project (founded 1987) in 1996 to form the Asian Pacific Islander Wellness Center, now the San Francisco Community Health Center (renamed 2018). The organization renamed itself to the GLBTQ+ Asian Pacific Alliance in 2019/2021 to reflect its full LGBTQ+ membership."
+  },
+
+  "gapa-mens-chorus": {
+    label: "GAPA Men\u2019s Chorus",
+    definition: "Queer Asian American male choral ensemble founded in 1989 as a social and musical outlet for members of the Gay Asian Pacific Alliance in San Francisco; debuted on November 3, 1989, at the Metropolitan Community Church in San Francisco. The chorus has been one of the longest-running queer Asian American musical institutions, performing both Western choral repertoire and what the ensemble describes as \u201cthe forgotten songs of home\u201d from across Asia and the Pacific. The chorus has performed in pan-Asian LGBTQ choir festivals in Taipei (2015, the first such festival), Tokyo (2019), and Singapore (2025), as part of the Proud Voices Asia LGBT choir network. San Francisco Mayor Ed Lee proclaimed May 15, 2015, GAPA Men\u2019s Chorus Day in honor of the chorus\u2019s twenty-fifth anniversary."
+  },
+
+  "hayley-kiyoko": {
+    label: "Hayley Kiyoko",
+    definition: "American pop singer-songwriter and actress (born Hayley Kiyoko Alcroft, April 3, 1991, in Los Angeles), the daughter of the Japanese Canadian figure skater and choreographer Sarah Kawahara and the American actor and comedian Jamie Alcroft, and one of the most prominent publicly out Asian American pop stars of the 2010s and 2020s. Kiyoko began as a child actress (Disney Channel\u2019s <em>Lemonade Mouth</em>, 2011; <em>Wizards of Waverly Place</em>) and a member of the girl group the Stunners before moving to a solo recording career. Her 2015 single and self-directed video \u201cGirls Like Girls\u201d became a Tumblr and YouTube hit and was widely understood as her public coming out; the 2018 album <em>Expectations</em> reached the top twenty on the Billboard 200 and built her career on openly queer Asian American pop. Her second album <em>Panorama</em> (2022) extended that trajectory. Kiyoko\u2019s fans have called her \u201cLesbian Jesus,\u201d a moniker she has embraced; she has spoken across her career about the absence of openly queer Asian American pop stars when she was growing up as a driving force behind her own visibility work. She became engaged to Becca Tilley in July 2025."
   },
 
   "dj-qbert": {
