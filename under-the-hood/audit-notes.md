@@ -46,7 +46,9 @@ skips.
    sense hit on `form` as the verb "would form in 1978," and Track 2
    and the framing reading carry wrong-sense hits on `form` as the
    four-frame methodology vocabulary noun ("African American form,"
-   "musical form"), which per convention is not glossed.
+   "musical form"), which per convention is not glossed. Module 5
+   framing reading also carries one on `form` as an everyday English
+   noun in "the integrated [book musical] form."
    For `pop` specifically: every page in Modules 1-4 carries one
    verb-sense hit in the standard reading-tips note ("you can pop
    open by clicking"); these are wrong-sense matches and not

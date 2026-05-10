@@ -2934,4 +2934,44 @@ var GLOSSARY = {
     definition: "A vocal-harmony pop style that emerged from African American urban neighborhoods in the late 1940s and 1950s and reached mainstream popularity from approximately 1955 to 1962. Doo-wop groups typically performed without instruments or with minimal accompaniment, building elaborate close-harmony vocal arrangements around a lead singer, with bass, baritone, tenor, and falsetto parts each carrying their own melodic lines. The genre took its name from the nonsense syllables groups used to fill in the harmony parts (\u201cdoo-wop,\u201d \u201csh-boom,\u201d \u201cba-ba-ba\u201d). Although doo-wop began as a Black urban form, by the mid-1950s it had become a widely shared idiom across Black, Puerto Rican, Italian American, and Jewish American urban groups in New York, Philadelphia, and other Northeastern cities."
   },
 
+  "yiddish-theater": {
+    label: "Yiddish theater",
+    definition: "A Yiddish-language theatrical tradition that emerged in Eastern Europe in the 1870s under Abraham Goldfaden and reached its commercial peak on the Lower East Side and Second Avenue of Manhattan between approximately 1900 and 1930. By 1925 the strip of Second Avenue running south from 14th Street housed more than a dozen Yiddish-language theaters and was known as the \u201cYiddish Broadway,\u201d sustaining hundreds of thousands of theatergoers a year, the first theatrical union in the United States, and a robust ecosystem of cafes, music stores, sheet-music publishers, and Yiddish-language press and radio. The four major Second Avenue composers (Joseph Rumshinsky, Abraham Ellstein, Sholom Secunda, and Alexander Olshanetsky) wrote a substantial original Yiddish-language musical theater repertoire, drawing on cantorial and Jewish folk traditions; Yiddish theater is one of the principal sources for the Tin Pan Alley and Broadway musical theater that followed."
+  },
+
+  "cantorial-music": {
+    label: "Cantorial music",
+    definition: "The sung liturgical music of the synagogue, performed by a hazzan (cantor) leading the congregation in prayer. Cantorial music is largely modal rather than functionally tonal, with elaborate vocal ornamentation and an expressive emotional range that draws on text-setting traditions running back to medieval and ancient Jewish practice. Many of the major figures of Tin Pan Alley and Broadway musical theater either grew up in cantorial households (Irving Berlin\u2019s and Harold Arlen\u2019s fathers were both cantors) or absorbed the tradition through Yiddish theater composers who had cantorial training; the influence on the harmonic and melodic vocabulary of American popular song between the 1910s and 1950s is substantial, though the question of how to weigh it against the parallel influence of African American music is an active scholarly debate."
+  },
+
+  "irving-berlin": {
+    label: "Irving Berlin",
+    definition: "American composer and lyricist (born Israel Beilin, May 11, 1888, in the Russian Empire; died September 22, 1989, New York City). The most prolific and commercially successful Tin Pan Alley songwriter, with an output estimated at more than 1,500 songs and scores for 21 Broadway and 17 Hollywood productions over a six-decade career. Berlin\u2019s family fled anti-Jewish pogroms and arrived on the Lower East Side in 1893, when Berlin was five; his father was a cantor. Berlin began as a singing waiter in the Bowery, became a Tin Pan Alley song plugger, and broke through as a songwriter with \u201cAlexander\u2019s Ragtime Band\u201d in 1911. His best-known songs include \u201cWhite Christmas\u201d (1942), \u201cGod Bless America\u201d (1938), \u201cThere\u2019s No Business Like Show Business\u201d (1946), and \u201cAlexander\u2019s Ragtime Band\u201d; his Broadway scores include Annie Get Your Gun (1946). Berlin never learned to read music in any sustained way and composed at the piano in F-sharp."
+  },
+
+  "george-gershwin": {
+    label: "George Gershwin",
+    definition: "American composer and pianist (born Jacob Gershowitz, September 26, 1898, in Brooklyn; died July 11, 1937, Hollywood) who fused Tin Pan Alley songcraft, Broadway musical theater, jazz, blues, and classical concert music into a body of work that defined a substantial portion of mid-twentieth-century American popular and concert music. Gershwin\u2019s parents were Russian Jewish immigrants from Vilnius and St. Petersburg; the family lived for years at 91 Second Avenue in the heart of the Yiddish Theatre District, and the Gershwin brothers regularly attended Yiddish-language theatrical productions as children. Gershwin began his career as a Tin Pan Alley song plugger at fifteen, broke through with \u201cSwanee\u201d in 1919 (the song made famous by Al Jolson), and over the next eighteen years wrote more than 20 Broadway musicals (most with lyrics by his brother Ira), the orchestral works Rhapsody in Blue (1924) and An American in Paris (1928), the Pulitzer Prize-winning musical Of Thee I Sing (1931), and the opera Porgy and Bess (1935). His death from a brain tumor at age 38 cut short what most contemporaries believed would have been one of the largest single bodies of work in twentieth-century American music."
+  },
+
+  "broadway-musical": {
+    label: "Broadway musical",
+    definition: "A theatrical form combining sung musical numbers, instrumental orchestration, dance, and spoken dialogue, typically performed in commercial New York City theaters in the Times Square area (the strip of Broadway and adjacent streets between roughly 41st and 53rd Streets). The Broadway musical evolved out of nineteenth-century operetta, vaudeville, and variety revue traditions; its modern integrated form (in which songs grow out of character and situation rather than serving as detachable numbers) is generally dated to Jerome Kern and Oscar Hammerstein II\u2019s Show Boat (1927) and consolidated by Rodgers and Hammerstein\u2019s Oklahoma! (1943). Broadway has been throughout its modern history the institutional home for many of the most consequential composers of the Great American Songbook, and remains a major source of American popular music."
+  },
+
+  "richard-rodgers": {
+    label: "Richard Rodgers",
+    definition: "American composer (born June 28, 1902, in Queens; died December 30, 1979, in New York City), the most prolific Broadway composer of the twentieth century, born to a German Jewish American physician father and a Russian Jewish American mother. Rodgers wrote 43 Broadway musicals across two long collaborations: first with lyricist Lorenz Hart from 1919 through Hart\u2019s death in 1943 (Babes in Arms 1937, Pal Joey 1940), then with Oscar Hammerstein II from 1943 to 1959 (Oklahoma! 1943, Carousel 1945, South Pacific 1949, The King and I 1951, The Sound of Music 1959). The Rodgers and Hammerstein partnership defined the postwar Broadway musical and produced a substantial portion of the Great American Songbook."
+  },
+
+  "oscar-hammerstein": {
+    label: "Oscar Hammerstein II",
+    definition: "American librettist and lyricist (born July 12, 1895, in New York City; died August 23, 1960, in Doylestown, Pennsylvania), the central figure in shaping the modern integrated American musical. Hammerstein wrote the book and lyrics for Show Boat (1927, with composer Jerome Kern) and for the long Rodgers and Hammerstein collaboration that ran from Oklahoma! (1943) through The Sound of Music (1959). His grandfather Oscar Hammerstein I was a German-Jewish-immigrant theatrical impresario who built a string of New York theaters in the late nineteenth century; the younger Hammerstein worked at one of his grandfather\u2019s theaters as a young man. Hammerstein later mentored the young Stephen Sondheim, who pushed the form further."
+  },
+
+  "great-american-songbook": {
+    label: "Great American Songbook",
+    definition: "A loose canon of approximately the 300 to 400 best-known popular songs written for Tin Pan Alley, Broadway, and Hollywood between roughly 1920 and 1960, treated by performers and critics as the central American popular-song repertoire of the twentieth century. The canon is dominated by composers including Irving Berlin, George and Ira Gershwin, Jerome Kern, Cole Porter, Harold Arlen, Richard Rodgers (with Hart and Hammerstein), Hoagy Carmichael, and Burton Lane. Jazz singers (Frank Sinatra, Ella Fitzgerald, Sarah Vaughan, Tony Bennett) and jazz instrumentalists from the 1940s forward built much of their careers reinterpreting Songbook material; Ella Fitzgerald\u2019s eight Verve \u201cSong Book\u201d albums (1956\u20131964) are the canonical recorded survey."
+  },
+
 };
