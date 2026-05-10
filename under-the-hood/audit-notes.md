@@ -48,7 +48,11 @@ skips.
    four-frame methodology vocabulary noun ("African American form,"
    "musical form"), which per convention is not glossed. Module 5
    framing reading also carries one on `form` as an everyday English
-   noun in "the integrated [book musical] form."
+   noun in "the integrated [book musical] form" and one on `dynamics`
+   as an everyday English plural noun ("the racialized credit and
+   royalty dynamics") in the figure-note under the Jewish songwriting
+   diagram, neither of which is the technical music-vocabulary sense
+   the glossary entry covers.
    For `pop` specifically: every page in Modules 1-4 carries one
    verb-sense hit in the standard reading-tips note ("you can pop
    open by clicking"); these are wrong-sense matches and not
