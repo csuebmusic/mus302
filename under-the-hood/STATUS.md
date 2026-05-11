@@ -100,10 +100,16 @@ the May 26 term start.
 reading; UCLA Frontera Collection sources are split between 1947
 and 1948. Defensible either way.
 
-**Module 3 Track 4 Selena hero photo.** Current image is
-iHeart/Rovi-sourced and unattributed. Two stronger-attributed
-candidates exist (Al Rendon 1992, John Dyer 1992). Curation
-question, not a rights question; swap when convenient.
+**Module 3 Track 4 Selena hero photo.** Image is now attributed
+in the caption to Al Rendon's 1992 *Entre A Mi Mundo* session
+based on visual evidence (cobalt-blue backdrop, black satin
+top, formal-portrait composition) matching documented Rendon
+session work; the same 1992 portrait series is held by the
+Smithsonian National Portrait Gallery. Before public launch,
+contact Al Rendon via his editorial licensing program at
+alrendon.com to confirm attribution and obtain explicit
+educational-use clearance, then update the caption credit to
+"Photo by Al Rendon."
 
 **Module 3 Héctor Lavoe queerness framing.** The Latin LGBTQ+
 thread describes Lavoe's queerness as an open secret inside the

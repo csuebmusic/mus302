@@ -49,7 +49,7 @@ This discussion supports SLO 2 (communicating critical thoughts and judgments ab
 
 ## Internal note (instructor only, do not paste below)
 
-This discussion uses the same "pick a reflective question" pattern as Module 2's revised discussion. The pattern moves close-listening work into the listening guides and uses Canvas's peer-review tool to spread coverage across all five tracks. Same pattern applies in Modules 4 and 5 when those are built.
+This discussion uses the same "pick a reflective question" pattern as Module 2's revised discussion. The pattern moves close-listening work into the listening guides and uses Canvas's peer-review tool to spread coverage across all five tracks. Same pattern applies in Module 4 (already on it) and will apply in Module 5 when those listening guides are built.
 
 Setup in Canvas: post the discussion as usual, set initial-post deadline to Sunday, June 14 and the peer-response deadline to Sunday, June 21, then enable the discussion's peer-review feature to assign two responses per student automatically after the initial-post deadline. Verify before the deadline that peer-review is set to "automatic" rather than "manual" so the assignments fire on the deadline.
 
