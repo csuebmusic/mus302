@@ -61,7 +61,9 @@ skips.
    everyday English plural noun ("the racialized credit and royalty
    dynamics") in the figure-note under the Jewish songwriting diagram,
    neither of which is the technical music-vocabulary sense the
-   glossary entry covers.
+   glossary entry covers. Module 5 Track 1 (Lymon) carries the same
+   "royalty dynamics" hit on `dynamics` in its production-side
+   extraction paragraph.
    For `pop` specifically: every page in Modules 1-4 carries one
    verb-sense hit in the standard reading-tips note ("you can pop
    open by clicking"); these are wrong-sense matches and not
@@ -98,7 +100,10 @@ skips.
    like `latin-trap` is buttoned at first mention, the audit also
    flags the bare `trap` later in the prose. Buttoning the bare term
    on top of the compound is redundant; the compound carries the
-   gloss.
+   gloss. Module 5 Track 1 (Lymon) carries one such hit on `pop`
+   matched at "the pop chart in 1981" after `pop-chart` is buttoned
+   at first mention upstream ("the Pop Singles chart" in the release-
+   history paragraph).
 5. **YouTube card metadata, song-title cross-links, and inside-link
    first mentions.** Track 1 and Track 2 video-card labels (`Tito
    Puente`, `Joe Bataan`) and Track 4's song-title cross-link
@@ -152,6 +157,24 @@ skips.
    list ("Pete Seeger, the Weavers, Odetta, Harry Belafonte's folk-
    circuit work, the Kingston Trio, Baez, Bob Dylan, Phil Ochs..."),
    same passing-list pattern.
+   Module 5 Track 1 (Lymon) carries four passing-list hits and one
+   inside-link cross-reference hit. The crooner-lineage parenthetical
+   ("Tony Bennett came up in Astoria, Queens; Sinatra in Hoboken;
+   Russ Columbo and a generation of Italian American singers") gives
+   passing-list hits on `tony-bennett` and `russ-columbo`, both
+   substantively introduced on the Module 5 framing reading. The
+   Lymon-influence-list sentence ("Michael Jackson and Billy Joel
+   have named Lymon as an influence") gives a passing-list hit on
+   `michael-jackson` (none of the other names in the same paragraph
+   have glossary entries, and the page's convention is to leave
+   influence-list names unglossed). The Morris-Levy credit-theft
+   parenthetical ("songs actually written by Chuck Berry, Tommy
+   James, and many others") gives a passing-list hit on `chuck-berry`.
+   The Module 3 cross-reference paragraph closer ("The Module 3 Joe
+   Bataan track (link 'Gypsy Woman,' 1967 endlink) carries the same
+   neighborhood-doo-wop inheritance...") gives an inside-link cross-
+   reference hit on `joe-bataan`, where Bataan is substantively
+   introduced and glossed on his own Module 3 listening guide.
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.
