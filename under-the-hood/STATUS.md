@@ -144,3 +144,28 @@ Reread on a polish pass.
 framing-reading discussion of A Grain of Sand mentions
 Crittendon by name; verify the bibliographic source is current
 before launch.
+
+**Module 2 framing reading: M5 Track 3 cross-reference.** Line
+267 of M2's framing reading currently has a verbal reference
+to "Module 5's Track 3" without a hyperlink, since the M5
+listening guides have not been built yet. When M5 Track 3
+(Drifters) ships, restore the `<a href="../module5/track3-drifters.html">`
+wrapping around "Module 5's Track 3" in that sentence.
+
+**Hero photo verification across all modules.** Editorial-use
+copyrighted photos (Getty Images, Michael Ochs Archives, Sugar
+Hill Records, Parkwood Entertainment, etc.) appear on multiple
+listening guide pages across M1, M2, M3, and M4. Per the
+editorial conventions, these are defensible for educational
+use with attribution but flagged for verification before
+launch. The M3 Track 4 Selena photo is its own item above
+(curation rather than rights). For the rest: do a
+verification pass before public launch confirming each photo's
+educational-use fair-use rationale holds, or swap in Wikimedia
+Commons alternatives where available. Tracks with editorial-use
+copyrighted hero photos: M1 Track 1 (Cooke), M1 Track 4
+(Williams, Getty), M2 Track 1 (Bessie Smith, Edward Elcha /
+Michael Ochs / Getty), M2 Track 2 (Tharpe, Getty), M2 Track 3
+(James Brown, Getty), M2 Track 4 (Flash, Sugar Hill cover), M2
+Track 5 (Beyoncé, Parkwood / Pretty Bird), and most M3 and M4
+tracks.

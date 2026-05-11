@@ -100,7 +100,7 @@ d. The classical music chart.
 
 The chorus of voices answering "I'm Black and I'm proud!" on James Brown's 1968 recording of "Say It Loud" was made up of:
 
-a. About thirty children from Watts and Compton, brought to the Vox Studios session in Van Nuys by Brown's manager Charles Bobbitt.
+a. About thirty children from the Watts neighborhood of Los Angeles, brought to the Vox Studios session in Van Nuys by Brown's manager Charles Bobbitt.
 b. A professional gospel choir from a Los Angeles church.
 c. The other members of the James Brown band, recorded together.
 d. A studio choir of session singers contracted for the session.
@@ -238,7 +238,7 @@ QUESTION 9
 
 The chorus of voices answering "I'm Black and I'm proud!" on James Brown's 1968 recording of "Say It Loud" was made up of:
 
-About thirty children from Watts and Compton, brought to the Vox Studios session in Van Nuys by Brown's manager Charles Bobbitt.
+About thirty children from the Watts neighborhood of Los Angeles, brought to the Vox Studios session in Van Nuys by Brown's manager Charles Bobbitt.
 
 A professional gospel choir from a Los Angeles church.
 
