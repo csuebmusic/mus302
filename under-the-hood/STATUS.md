@@ -108,23 +108,6 @@ the May 26 term start.
 
 ## Open
 
-**Tier 2 glossary entries for M2.** Mos Def, Common, KRS-One,
-Killer Mike, Paul Whiteman, Benny Goodman, Fletcher Henderson
-all appear in body prose in M2's conscious-hip-hop lineage list
-and its 1920s-1940s appropriation paragraph, but only in
-passing. Add entries on a polish pass if they come up
-substantively.
-
-**Project proposal feedback turnaround.** The new calendar puts
-the proposal due Sunday, July 12 and the draft due Sunday, July
-19, which gives less than a week between when the instructor
-returns proposal feedback and when students need to start
-drafting. The proposal-and-bibliography markdown was reworded
-to say "as quickly as I can" rather than committing to a
-specific turnaround. Operational: budget for a 3-4 day feedback
-turnaround on the proposal so students have the weekend before
-the draft to incorporate it.
-
 **Module 2 framing reading: M5 Track 3 cross-reference.** Line
 267 of M2's framing reading currently has a verbal reference
 to "Module 5's Track 3" without a hyperlink, since the M5
