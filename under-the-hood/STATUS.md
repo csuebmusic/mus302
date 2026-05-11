@@ -44,6 +44,18 @@ Specific substantive expansions shipped:
   GAPA Men's Chorus, API Wellness Center), and the contemporary
   scene (Hayley Kiyoko, Yaeji, the Mitski case).
 
+Fresh-eyes deep dives completed and committed for M1, M2, M3,
+and M4. The M3 pass (commit 6f820f8) shipped seven fixes including
+the M1 cultural-roots cross-link drop, structural-opener convention
+normalization across Bataan/Selena/Tego, the Bataan-to-DeSanto
+cross-link, the Discos Falcon date set to 1948, the Selena hero
+photo Al Rendon attribution, and the Lavoe queerness framing
+softening. The M4 pass (commit d558b94) shipped five fixes including
+reflective-question h3 heading consistency across all M4 tracks,
+the M4-to-M3 Bataan cross-link, the Piklz source-list typo, the
+Mitski source-list byline correction to Sadie Bell / April 13 2026,
+and the McCarran-Walter figcaption acknowledgment.
+
 The glossary is at 626 entries. The renderer in `assets/glossary.js`
 was updated this restructure to use `innerHTML` rather than
 `textContent` so that inline `<em>` tags for album/song/book/film
@@ -67,7 +79,7 @@ index and discussion files. The `module1/discussion.md`,
 `module4/discussion.md` files all have both the editing-half and
 the Canvas-paste block updated.
 
-The full repo audit is at 165 warnings, zero errors. All warnings
+The full repo audit is at 167 warnings, zero errors. All warnings
 are documented intentional-skip patterns: labels-table cells
 where multi-word buttons render awkwardly in monospace columns;
 passing-list mentions where buttoning would clutter prose;
@@ -96,10 +108,6 @@ the May 26 term start.
 
 ## Open
 
-**Module 3 Discos Falcon date.** Currently 1947 in the framing
-reading; UCLA Frontera Collection sources are split between 1947
-and 1948. Defensible either way.
-
 **Module 3 Track 4 Selena hero photo.** Image is now attributed
 in the caption to Al Rendon's 1992 *Entre A Mi Mundo* session
 based on visual evidence (cobalt-blue backdrop, black satin
@@ -110,14 +118,6 @@ contact Al Rendon via his editorial licensing program at
 alrendon.com to confirm attribution and obtain explicit
 educational-use clearance, then update the caption credit to
 "Photo by Al Rendon."
-
-**Module 3 Héctor Lavoe queerness framing.** The Latin LGBTQ+
-thread describes Lavoe's queerness as an open secret inside the
-scene, drawing on an LGBTQ Nation oral-history source. This is
-the most factually delicate claim in the M3 framing reading and
-is drawn from a popular outlet rather than peer-reviewed
-scholarship. Revisit on a polish pass to see whether better
-sourcing exists or whether the framing should soften.
 
 **Tin Pan Alley glossary entry.** Current entry covers the place
 and industry frame but doesn't pick up the Great American
@@ -140,22 +140,6 @@ to say "as quickly as I can" rather than committing to a
 specific turnaround. Operational: budget for a 3-4 day feedback
 turnaround on the proposal so students have the weekend before
 the draft to incorporate it.
-
-**Module 4 Track 5 (Mitski) length.** RESOLVED. Three context
-subsections (Mitski's path / Indie rock as institutional space /
-The single, music video, reception) rather than the four-section
-modal pattern. On rereading: the three-section structure is
-deliberate and works. Mitski's biography is more compressed
-than the longer careers of the other M4 musicians, and "Indie
-rock as an institutional space" is its own substantial section
-that wouldn't fit inside biography. No change needed for symmetry.
-
-**Module 4 Track 1 Will Crittendon source.** RESOLVED. Verified
-via direct web search: Oliver Wang's Soul Sides article "Iijima
-and Miyamoto: Laying Down the Groundwork" (May 2015) documents
-the Will Crittendon production of the pre-album 1972 7" single
-of "We Are the Children." The bibliographic source in Track 1's
-source list is current and accurate.
 
 **Module 2 framing reading: M5 Track 3 cross-reference.** Line
 267 of M2's framing reading currently has a verbal reference
