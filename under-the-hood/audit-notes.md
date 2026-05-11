@@ -44,15 +44,21 @@ skips.
    carries one on `dominant` in "the dominant nineteenth- and early-
    twentieth-century scientific racism"). Track 1 also carries a wrong-
    sense hit on `form` as the verb "would form in 1978," and Track 2
-   and the framing reading carry wrong-sense hits on `form` as the
-   four-frame methodology vocabulary noun ("African American form,"
-   "musical form"), which per convention is not glossed. Module 5
-   framing reading also carries one on `form` as an everyday English
-   noun in "the integrated [book musical] form" and one on `dynamics`
-   as an everyday English plural noun ("the racialized credit and
-   royalty dynamics") in the figure-note under the Jewish songwriting
-   diagram, neither of which is the technical music-vocabulary sense
-   the glossary entry covers.
+   and the framing reading carry wrong-sense hits on `form` as a
+   passing methodology-vocabulary noun ("African American form,"
+   "musical form") that is not the page's first substantive mention.
+   Under the current convention, the four methodology frames (timbre,
+   texture, form, gesture) are glossed on the first substantive prose
+   mention in every listening guide; subsequent mentions on the same
+   page are not buttoned, and stray noun-sense passing uses in framing
+   readings (where the methodology frames are not the page's organizing
+   vocabulary) stay unbuttoned as documented skips. Module 5 framing
+   reading also carries one on `form` as an everyday English noun in
+   "the integrated [book musical] form" and one on `dynamics` as an
+   everyday English plural noun ("the racialized credit and royalty
+   dynamics") in the figure-note under the Jewish songwriting diagram,
+   neither of which is the technical music-vocabulary sense the
+   glossary entry covers.
    For `pop` specifically: every page in Modules 1-4 carries one
    verb-sense hit in the standard reading-tips note ("you can pop
    open by clicking"); these are wrong-sense matches and not

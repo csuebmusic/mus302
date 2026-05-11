@@ -44,7 +44,12 @@ svg.diagram` in `assets/style.css`.
 
 **Methodology vocabulary.** Timbre, texture, form, and gesture are
 the four frames introduced in the methodology reading and used
-consistently across all subsequent listening guide pages. Music-
+consistently across all subsequent listening guide pages. Each is
+glossed on the first substantive prose mention in every listening
+guide so that students continue internalizing the concepts across
+the term without having to revisit Module 1. The methodology
+reading itself defines the four frames in extended prose and does
+not gloss them (the surrounding prose is the definition). Music-
 theory vocabulary (key, meter, tempo, the I-IV-V progression, the
 12-bar blues, simple verse form, etc.) is introduced as needed and
 glossed inline.
@@ -334,8 +339,11 @@ recur across the course (one shared definition that grows with
 use); and to skip glossing terms the surrounding prose itself
 defines. The framing reading defines migration, displacement, and
 diaspora in extended prose, so those are not glossed. The
-methodology reading defines timbre, texture, form, and gesture
-the same way and they are similarly not glossed.
+methodology reading itself defines timbre, texture, form, and
+gesture in extended prose and likewise does not gloss them on
+that page; in every other listening guide, however, the four
+frames are glossed on first substantive mention so students keep
+encountering the definitions across the term.
 
 **Final project: four checkpoints.** Combined proposal-and-
 preliminary-bibliography, draft, peer review, final. Combined

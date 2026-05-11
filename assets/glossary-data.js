@@ -2719,6 +2719,11 @@ var GLOSSARY = {
     definition: "A guitar technique in which the player plucks the strings with the fingers (or fingertips and thumb) rather than striking them with a flat pick. Fingerpicking allows a player to articulate independent bass and melody lines on the same instrument, often with a steady alternating thumb pattern carrying the bass while the fingers handle melodic figures on the higher strings. Common in country blues, folk, classical guitar, and the singer-songwriter tradition, fingerpicking gives the guitar a more intimate and conversational sound than strumming."
   },
 
+  "timbre": {
+    label: "Timbre",
+    definition: "The quality of a sound that distinguishes one source from another even when the pitch and loudness are the same: what makes a violin sound like a violin and not a flute, what makes one singer's voice recognizable as theirs even on a song you have never heard before, what makes a distorted electric guitar sound different from a clean one. Sometimes called \u201ctone color\u201d or \u201csound\u201d in everyday musician's talk. Listening for timbre means paying attention to the texture, weight, brightness, grain, and character of a sound rather than to its pitch or rhythm. A breathy voice, a nasal voice, a chesty voice, a clean tone, an overdriven tone, a muted brass attack, the rasp of a baritone saxophone, the bell-like ring of a Rhodes electric piano, the buzzing edge of a vintage synthesizer all describe timbre. Timbre is one of the four analytical frames introduced in the Module 1 methodology reading, alongside texture, form, and gesture."
+  },
+
   "texture": {
     label: "Texture",
     definition: "How many musical voices or layers are present in a passage and how they relate to each other. A solo unaccompanied voice is the thinnest texture; a full orchestra plus chorus is among the thickest. Texture also describes the relationships among the layers: who is leading, who is supporting, who is in dialogue with whom, who is providing the rhythmic engine. Listening for texture means counting the parts and asking what each one is doing. Two acoustic guitars and three voices is a thinner texture than a salsa orchestra with brass section and full percussion battery; both can be appropriate to what the song is trying to do."
@@ -2830,6 +2835,11 @@ var GLOSSARY = {
   "form": {
     label: "Form",
     definition: "The large-scale shape of a piece of music: which sections appear in what order, how long they are, and how they relate to each other. Verse-chorus form, AABA form, 12-bar blues, theme and variations, rondo, sonata form, and through-composed are all examples of musical forms. Listening for form means stepping back from any single moment to ask how the parts of the piece fit together as a whole. Most American popular songs are in verse-chorus form; older song traditions (Tin Pan Alley standards, jazz heads) often use AABA; many blues recordings cycle the 12-bar form repeatedly under different verses; long-form jazz pieces, suites, and concept-album tracks often invent their own form for the specific piece."
+  },
+
+  "gesture": {
+    label: "Gesture",
+    definition: "A specific musical move that carries meaning beyond the bare notes: a vocal phrasing decision, a rhythmic emphasis, an unexpected pause, an arrangement choice that signals something about the song's stance or attitude. Where timbre asks what something sounds like, texture asks how many layers there are, and form asks how the parts fit together, gesture asks why this particular move at this particular moment. A blues singer bending a single note longer than expected, a rapper breaking the beat to leave a syllable hanging in silence, a horn section punching in unison on the downbeat, a band suddenly stripping down to one instrument behind a key lyric, a singer addressing the listener in plural \u201cwe\u201d rather than first-person \u201cI\u201d are all gestures. Gesture is one of the four analytical frames introduced in the Module 1 methodology reading, alongside timbre, texture, and form, and it is often where the musical and the cultural meet most directly: a gesture's meaning depends on what tradition the listener and the musician share."
   },
 
   "hook": {
