@@ -296,6 +296,15 @@ European Jewish, Italian/Irish/Polish urban Catholic, and
 German/Eastern European synthesis-pioneer threads the listening
 guides each touch.
 
+**Framing-reading depth parity and queer-thread parallelism.**
+The four major-tradition framing readings sit in roughly the
+7,300-8,000 word range when measured consistently (body prose,
+excluding tables and figures). Each one carries a queer thread
+structurally parallel to the others: queer Black in M2, Latin
+LGBTQ+ in M3, queer Asian American in M4, integrated across the
+four threads in M5. Edits to any one framing reading should keep
+both the depth parity and the queer-thread coverage in view.
+
 **Modules 2-5 are strictly sequential.** Module 2 first, then 3,
 then 4, then 5, one per week. Each module has its own deadline and
 its own discussion (initial post on the module deadline, peer
