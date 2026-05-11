@@ -30,8 +30,8 @@ You will be coming back to this thread across the term. Treat it like a conversa
 
 ## Logistics
 
-- Initial post: due by Sunday, June 7 (the Module 1 deadline)
-- Two responses: due by Sunday, June 14
+- Initial post: due by Sunday, May 31 (the Module 1 deadline)
+- Two responses: due by Sunday, June 7
 - Length: two to four paragraphs for the initial post, a paragraph or two for each response
 - AI use: allowed with disclosure, per the generative AI policy in the syllabus. If you used AI for this post, end your post with a one-sentence acknowledgment ("I used [tool] to [purpose].")
 
@@ -61,4 +61,4 @@ You will be coming back to this thread across the term. Treat it like a conversa
 
 Logistics.
 
-Initial post due by Sunday, June 7 (the Module 1 deadline). Two responses due by Sunday, June 14. Length: two to four paragraphs for the initial post, a paragraph or two for each response. AI use is allowed with disclosure, per the generative AI policy in the syllabus. If you used AI for this post, end your post with a one-sentence acknowledgment, for example: "I used Claude to help refine the wording of my second paragraph."
+Initial post due by Sunday, May 31 (the Module 1 deadline). Two responses due by Sunday, June 7. Length: two to four paragraphs for the initial post, a paragraph or two for each response. AI use is allowed with disclosure, per the generative AI policy in the syllabus. If you used AI for this post, end your post with a one-sentence acknowledgment, for example: "I used Claude to help refine the wording of my second paragraph."

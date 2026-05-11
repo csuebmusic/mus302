@@ -104,7 +104,7 @@ In place of a final exam, you will research a genre and a single artist or group
 
 The project is scaffolded across the term so you receive feedback at each stage:
 
-- **Proposal and preliminary bibliography** (Sunday, June 28): a short proposal naming the genre, artist, and reasons for personal significance, with a paragraph framing your argument, plus a preliminary bibliography of three to four sources.
+- **Proposal and preliminary bibliography** (Sunday, July 12): a short proposal naming the genre, artist, and reasons for personal significance, with a paragraph framing your argument, plus a preliminary bibliography of three to four sources.
 - **Full draft** (Sunday, July 19): a complete draft of the deck and a rough video commentary.
 - **Peer review** (Sunday, July 26): structured feedback on two classmates' drafts.
 - **Final submission** (Friday, July 31): revised deck and final video commentary.
@@ -172,12 +172,13 @@ This course uses module windows rather than weekly deadlines. The dates below ar
 
 | Date | Deadline |
 |---|---|
-| Sun, June 7 | Module 1 (Orientation and Methodology) complete; Module 1 quiz and discussion initial post due |
-| Sun, June 14 | Module 2 quiz and discussion initial post due; Module 1 discussion peer responses due |
-| Sun, June 21 | Module 3 quiz and discussion initial post due; Module 2 discussion peer responses due |
-| Sun, June 28 | Project proposal and preliminary bibliography due |
-| Sun, July 5 | Module 4 quiz and discussion initial post due; Module 3 discussion peer responses due |
-| Sun, July 12 | Module 5 quiz and discussion initial post due; Module 4 discussion peer responses due |
-| Sun, July 19 | Project full draft due; Module 5 discussion peer responses due |
+| Sun, May 31 | Module 1 (Orientation and Methodology) complete; Module 1 quiz and discussion initial post due |
+| Sun, June 7 | Module 2 quiz and discussion initial post due; Module 1 discussion peer responses due |
+| Sun, June 14 | Module 3 quiz and discussion initial post due; Module 2 discussion peer responses due |
+| Sun, June 21 | Module 4 quiz and discussion initial post due; Module 3 discussion peer responses due |
+| Sun, June 28 | Module 5 quiz and discussion initial post due; Module 4 discussion peer responses due |
+| Sun, July 5 | Module 5 discussion peer responses due |
+| Sun, July 12 | Project proposal and preliminary bibliography due |
+| Sun, July 19 | Project full draft due |
 | Sun, July 26 | Project peer review due |
 | Fri, July 31 | Final project (deck and video commentary) due |

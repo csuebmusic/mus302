@@ -1,6 +1,6 @@
 # Project Proposal and Preliminary Bibliography (Checkpoint 1 of 4)
 
-The first of four graded checkpoints for the final project. Due Sunday, June 28 at 11:59 PM Pacific. The goal of this checkpoint is to commit to a topic, locate enough sources to confirm the topic is researchable, and let me flag any concerns early enough to course-correct.
+The first of four graded checkpoints for the final project. Due Sunday, July 12 at 11:59 PM Pacific. The goal of this checkpoint is to commit to a topic, locate enough sources to confirm the topic is researchable, and let me flag any concerns early enough to course-correct.
 
 This checkpoint replaces what used to be two separate checkpoints (a proposal and a fuller annotated bibliography). The annotation work that used to live in the bibliography moves into the draft itself, where students discuss sources in context as part of the deck.
 
@@ -36,7 +36,7 @@ Course SLO 6 (research and present a genre and artist of personal significance).
 
 ## Feedback turnaround
 
-I will return feedback within one week of the deadline. Students should read the feedback before starting work on the draft (due July 19). The most common course corrections at this stage are: a topic that needs to narrow, a topic that needs to broaden, a source list that leans too heavily on one kind of source, and a personal-significance angle that has not yet found its argument.
+I will return feedback as quickly as I can after the deadline so that students have time to incorporate it before the draft deadline. Students should read the feedback before starting work on the draft (due July 19). The most common course corrections at this stage are: a topic that needs to narrow, a topic that needs to broaden, a source list that leans too heavily on one kind of source, and a personal-significance angle that has not yet found its argument.
 
 ## Notes for me
 
@@ -92,7 +92,7 @@ The bibliography is fifteen points: eight for source quality (relevance, mix of 
 
 What happens after you submit
 
-I read every submission and give you written feedback within one week. The feedback might confirm that your topic is on track, or it might suggest a narrower focus, a richer angle, sources to look at, or sources to drop. Read the feedback before starting on the draft (due July 19).
+I read every submission and give you written feedback as quickly as I can. The feedback might confirm that your topic is on track, or it might suggest a narrower focus, a richer angle, sources to look at, or sources to drop. Read the feedback before starting on the draft (due July 19).
 
 If you are stuck choosing a topic, email me before the deadline rather than submitting late. This checkpoint is here to help, not to gatekeep.
 

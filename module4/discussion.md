@@ -38,8 +38,8 @@ Good responses do one or more of these things:
 
 ## Logistics
 
-- Initial post: due by Sunday, July 5 (the Module 4 deadline)
-- Two assigned responses: due by Sunday, July 12
+- Initial post: due by Sunday, June 21 (the Module 4 deadline)
+- Two assigned responses: due by Sunday, June 28
 - Length: two to four paragraphs for the initial post, a paragraph or two for each response
 - AI use: allowed with disclosure, per the generative AI policy in the syllabus. If you used AI for this post, end your post with a one-sentence acknowledgment ("I used [tool] to [purpose].")
 
@@ -51,7 +51,7 @@ This discussion supports SLO 2 (communicating critical thoughts and judgments ab
 
 This discussion follows the same "pick a reflective question" pattern as Modules 2 and 3. The pattern moves close-listening work into the listening guides and uses Canvas's peer-review tool to spread coverage across all five tracks. Same pattern applies in Module 5 when that is built.
 
-Setup in Canvas: post the discussion as usual, set initial-post deadline to Sunday, July 5 and the peer-response deadline to Sunday, July 12, then enable the discussion's peer-review feature to assign two responses per student automatically after the initial-post deadline. Verify before the deadline that peer-review is set to "automatic" rather than "manual" so the assignments fire on the deadline. The week between July 5 and July 12 is also the run-up to the project full draft (due Sunday, July 19), so students will be working on the draft and the peer responses simultaneously; flag this in the weekly announcement.
+Setup in Canvas: post the discussion as usual, set initial-post deadline to Sunday, June 21 and the peer-response deadline to Sunday, June 28, then enable the discussion's peer-review feature to assign two responses per student automatically after the initial-post deadline. Verify before the deadline that peer-review is set to "automatic" rather than "manual" so the assignments fire on the deadline.
 
 ---
 
@@ -77,4 +77,4 @@ After the initial-post deadline, Canvas will assign you two classmates' posts to
 
 Logistics.
 
-Initial post is due by Sunday, July 5 (the Module 4 deadline). Two assigned responses are due by Sunday, July 12. Length: two to four paragraphs for the initial post, a paragraph or two for each response. AI use is allowed with disclosure, per the generative AI policy in the syllabus. If you used AI for this post, end your post with a one-sentence acknowledgment, for example: "I used Claude to help me find a clearer way to describe how the three DJs trade roles in the Piklz routine."
+Initial post is due by Sunday, June 21 (the Module 4 deadline). Two assigned responses are due by Sunday, June 28. Length: two to four paragraphs for the initial post, a paragraph or two for each response. AI use is allowed with disclosure, per the generative AI policy in the syllabus. If you used AI for this post, end your post with a one-sentence acknowledgment, for example: "I used Claude to help me find a clearer way to describe how the three DJs trade roles in the Piklz routine."

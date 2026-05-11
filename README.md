@@ -38,8 +38,8 @@ mus302/
   module1/                  Orientation and Methodology
   module2/                  African American foundational traditions
   module3/                  Latin diasporic traditions
-  module4/                  Asian American traditions (not yet drafted)
-  module5/                  European American immigrant and working-class (not yet drafted)
+  module4/                  Asian American traditions
+  module5/                  European American immigrant and working-class traditions (framing reading only; listening guides, discussion, and quiz still to draft)
 
   final-project/
     index.html                          Final-project landing page (linked from Canvas)
@@ -91,6 +91,7 @@ runs May 26 to July 31.
 - Module 1: https://csuebmusic.github.io/mus302/module1/
 - Module 2: https://csuebmusic.github.io/mus302/module2/
 - Module 3: https://csuebmusic.github.io/mus302/module3/
+- Module 4: https://csuebmusic.github.io/mus302/module4/
 - Final project: https://csuebmusic.github.io/mus302/final-project/
 - Syllabus: https://csuebmusic.github.io/mus302/syllabus.html
 
