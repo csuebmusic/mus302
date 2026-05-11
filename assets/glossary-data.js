@@ -3404,6 +3404,16 @@ var GLOSSARY = {
     definition: "African American doo-wop singer (born June 8, 1940, in New York City; died of complications from heart surgery in 1977 at thirty-six), the bass singer and the organizer of Frankie Lymon and the Teenagers. At six feet four inches tall, Garnes anchored the group physically and vocally; his descending nonsense-syllable bass line (\u201coo-wah, oo-wah, oo-wah, oo-wah\u201d) opens and closes the 1955 recording of \u201cWhy Do Fools Fall in Love\u201d and is one of the most identifiable bass-singer figures of the doo-wop era."
   },
 
+  "dion-and-the-belmonts": {
+    label: "Dion and the Belmonts",
+    definition: "An American doo-wop vocal group from the Belmont Avenue neighborhood of the Bronx, active 1957-1960 and intermittently after. The original lineup was four Italian American teenagers (Dion DiMucci, lead vocals, born 1939; Angelo D\u2019Aleo, first tenor; Fred Milano, second tenor; Carlo Mastrangelo, bass). Often cited as the first Italian American rock-and-roll vocal group to break through nationally in the doo-wop idiom, with \u201cI Wonder Why\u201d (1958), \u201cA Teenager in Love\u201d (1959), and \u201cWhere or When\u201d (1960). The group was named for Belmont Avenue, the main street of their Bronx neighborhood, and was substantively modeled on what its members had heard Frankie Lymon and the Teenagers do on \u201cWhy Do Fools Fall in Love\u201d two years earlier. Dion DiMucci has said in interviews that learning of Lymon\u2019s death in 1968 was the catalyst for getting clean of his own heroin addiction."
+  },
+
+  "frankie-valli": {
+    label: "Frankie Valli",
+    definition: "Italian American singer (born Francesco Castelluccio, May 3, 1937, in Newark, New Jersey), the lead vocalist of the Four Seasons and one of the central figures of the late-1950s and early-1960s Italian American doo-wop and rock-and-roll scene. Valli\u2019s pre-Four-Seasons groups, the Variety Trio (1951), the Variatones (1954), and the Four Lovers (1956-58, with their RCA Victor hit \u201cYou\u2019re the Apple of My Eye\u201d) all worked out of the same Newark, New Jersey, urban Italian American street-corner scene that produced parallel groups across the Northeast. The Four Seasons formed in 1960; their string of Vee-Jay and Philips singles from 1962 forward (\u201cSherry,\u201d \u201cBig Girls Don\u2019t Cry,\u201d \u201cWalk Like a Man,\u201d \u201cRag Doll\u201d) was one of the few white American commercial successes that survived the 1964 British Invasion intact."
+  },
+
   "richard-barrett": {
     label: "Richard Barrett",
     definition: "African American doo-wop singer and record producer (1933-2006), lead singer of the New York vocal group the Valentines and the talent scout and production assistant who first brought the Premiers (later the Teenagers) to George Goldner\u2019s attention in 1955. Barrett went on to discover and produce a substantial roster of Goldner-affiliated vocal groups across the late 1950s, including the Chantels (the first major girl group of the rock-and-roll era), Little Anthony and the Imperials, and the Three Degrees, whom he managed across the 1960s and 1970s."
