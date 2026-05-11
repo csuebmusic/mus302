@@ -27,22 +27,21 @@ excluding tables). M2 at 7,315, M3 at 7,642, M4 at 7,494, M5 at
 structurally: queer Black thread in M2, Latin LGBTQ+ thread in M3,
 queer Asian American thread in M4, integrated coverage in M5.
 
-Specific substantive expansions shipped:
-- M2: African American as a category opening, sustained
-  appropriation argument across the routes section, queer Black
-  thread covering classic blues women, disco-era dance-music
-  infrastructure, the AIDS toll, and contemporary figures.
-- M3: Siembra and the 1970s salsa political moment treated as a
-  substantive paragraph, Latin LGBTQ+ thread covering the
-  cross-cultural dance-music network, the salsa-era closet, the
-  2010 commercial wave (Martin and García), and contemporary
-  figures (Tokischa, Bad Bunny, Arca), plus a reggaetón
-  forward-arc paragraph from Tego through Daddy Yankee to Bad
-  Bunny.
-- M4: queer Asian American thread covering the Movement-era
-  closet, the Bay Area 1980s-1990s institutional buildout (GAPA,
-  GAPA Men's Chorus, API Wellness Center), and the contemporary
-  scene (Hayley Kiyoko, Yaeji, the Mitski case).
+Module 5 Track 1 (Frankie Lymon and the Teenagers, "Why Do Fools
+Fall in Love") shipped in commit 16729c0. The page follows the
+M2-M4 listening-guide template with the standard course header,
+video link, hero photo (a c. 1956 signed promotional photograph
+from a private autograph collection), four-section context block,
+per-track family-tree SVG (three streams converging: Black vocal-
+harmony R&B, upper-Manhattan Latin music, NY indie R&B labels),
+four "things to listen for" prompts, reflective question, and
+sources. The cross-link from the M5 framing reading at the first
+substantive prose mention of the song is in place. Glossary added
+15 net entries (16 new for this page plus an expansion of the
+existing `frankie-lymon` entry, which had been written for the
+M3 Bataan page and is now expanded with full birth-date,
+neighborhood, vocal-influence, and death-date context). Total
+glossary entries now 641.
 
 Fresh-eyes deep dives completed and committed for M1, M2, M3,
 and M4. The M3 pass (commit 6f820f8) shipped seven fixes including
@@ -56,13 +55,13 @@ the M4-to-M3 Bataan cross-link, the Piklz source-list typo, the
 Mitski source-list byline correction to Sadie Bell / April 13 2026,
 and the McCarran-Walter figcaption acknowledgment.
 
-The glossary is at 626 entries. The renderer in `assets/glossary.js`
-was updated this restructure to use `innerHTML` rather than
-`textContent` so that inline `<em>` tags for album/song/book/film
-titles, `<strong>` for emphasis, and inline `<a>` cross-links all
-render correctly in the popup. The file-header comment in
-`glossary-data.js` and the relevant section of `conventions.md`
-both reflect the new convention.
+The glossary renderer in `assets/glossary.js` was updated this
+restructure to use `innerHTML` rather than `textContent` so that
+inline `<em>` tags for album/song/book/film titles, `<strong>` for
+emphasis, and inline `<a>` cross-links all render correctly in the
+popup. The file-header comment in `glossary-data.js` and the
+relevant section of `conventions.md` both reflect the new
+convention.
 
 The calendar shifted back by one week so that all modules close
 before any project deadline begins. Module 1 due Sunday, May 31
@@ -80,27 +79,39 @@ index and discussion files. The `module1/discussion.md`,
 `module4/discussion.md` files all have both the editing-half and
 the Canvas-paste block updated.
 
-The full repo audit is at 167 warnings, zero errors. All warnings
-are documented intentional-skip patterns: labels-table cells
-where multi-word buttons render awkwardly in monospace columns;
-passing-list mentions where buttoning would clutter prose;
-substring false-positives ("Prince" matching "Prince Royce",
-"Form" matching "form" as a chord-progression term); common
-English words colliding with technical glossary keys.
+The full repo audit through Module 4 is at 167 warnings, zero
+errors; all warnings are documented intentional-skip patterns
+(labels-table cells where multi-word buttons render awkwardly in
+monospace columns; passing-list mentions where buttoning would
+clutter prose; substring false-positives like "Prince" matching
+"Prince Royce", "Form" matching "form" as a chord-progression
+term; common English words colliding with technical glossary
+keys). The Module 5 Track 1 page has not been audited yet; a
+full-repo audit run after the remaining M5 builds will be the
+natural next checkpoint.
 
 ## Next (in order)
 
-The next significant chunk of work is Module 5's remaining build.
-The M5 framing reading is in place and at depth; the listening
-guides, the module index page, and the discussion and quiz are
-the natural next step.
+The next significant chunk of work is the rest of Module 5's
+build.
 
-- **Module 5 listening guides.** Five anchor tracks: Frankie
-  Lymon and the Teenagers (Track 1), Joan Baez (Track 2), the
-  Drifters (Track 3), Wendy Carlos (Track 4), Bruce Springsteen
-  (Track 5). Track 1 (Lymon) is the most ready to draft. Track 4
-  (Wendy Carlos) needs special handling for the YouTube card
-  pattern given Carlos's stated wishes about her catalog.
+- **Module 5 Track 2 (Joan Baez).** Likely "Mary Hamilton" from
+  the 1960 *Joan Baez* debut album, per the locked anchor-track
+  list in `conventions.md`. Ulster Scots ballad inheritance
+  reactivated through the folk revival.
+- **Module 5 Track 3 (the Drifters, "Up on the Roof," 1962).**
+  Brill Building songwriting tradition; Carole King and Gerry
+  Goffin as Jewish American songwriters writing for a Black vocal
+  group. When this ships, restore the
+  `<a href="../module5/track3-drifters.html">` wrapping around
+  "Module 5's Track 3" at line 267 of M2's framing reading.
+- **Module 5 Track 4 (Wendy Carlos, *Switched-On Bach* excerpt,
+  1968).** Synthesis pioneers as a pivot beyond the singer-
+  songwriter assumption. Needs special handling for the YouTube
+  card pattern given Carlos's stated wishes about her catalog;
+  the convention for that case is open until we draft this page.
+- **Module 5 Track 5 (Bruce Springsteen, "The River," 1980).**
+  Deindustrialization-era working-class heartland rock.
 - **Module 5 index, discussion, quiz.** Follows the pattern set
   by Modules 1-4.
 
@@ -119,18 +130,25 @@ wrapping around "Module 5's Track 3" in that sentence.
 **Hero photo verification across all modules.** Editorial-use
 copyrighted photos (Getty Images, Michael Ochs Archives, Sugar
 Hill Records, Parkwood Entertainment, etc.) appear on multiple
-listening guide pages across M1, M2, M3, and M4. Per the
-editorial conventions, these are defensible for educational
-use with attribution but flagged for verification before
-launch. Do a verification pass before public launch confirming
-each photo's educational-use fair-use rationale holds, or swap
-in Wikimedia Commons alternatives where available. Tracks with
-editorial-use copyrighted hero photos: M1 Track 1 (Cooke), M1
-Track 4 (Williams, Getty), M2 Track 1 (Bessie Smith, Edward
+listening guide pages across M1, M2, M3, M4, and now M5. Per the
+editorial conventions, these are defensible for educational use
+with attribution but flagged for verification before launch. Do
+a verification pass before public launch confirming each photo's
+educational-use fair-use rationale holds, or swap in Wikimedia
+Commons alternatives where available. Tracks with editorial-use
+copyrighted or unverified-rights hero photos: M1 Track 1 (Cooke),
+M1 Track 4 (Williams, Getty), M2 Track 1 (Bessie Smith, Edward
 Elcha / Michael Ochs / Getty), M2 Track 2 (Tharpe, Getty), M2
 Track 3 (James Brown, Getty), M2 Track 4 (Flash, Sugar Hill
-cover), M2 Track 5 (Beyoncé, Parkwood / Pretty Bird), and most
-M3 and M4 tracks.
+cover), M2 Track 5 (Beyoncé, Parkwood / Pretty Bird), most M3
+and M4 tracks, and M5 Track 1 (signed promotional fan-club
+photograph c. 1956, original photographer unattributed, sourced
+from a private autograph collection). For M5 Track 1 specifically,
+if the rights situation cannot be resolved, a Wikimedia Commons
+alternative (a 1956-era performance still from a syndicated TV
+appearance, the Wikipedia infobox photo, or a public-domain
+Library of Congress / Smithsonian image of doo-wop-era street
+singers) might work.
 
 The M3 Track 4 Selena photo is a special case inside this
 verification pass. The image is now attributed in the caption
