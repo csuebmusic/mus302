@@ -2107,7 +2107,7 @@ var GLOSSARY = {
 
   "frankie-lymon": {
     label: "Frankie Lymon",
-    definition: "African American doo-wop singer (1942-1968) who, with his group the Teenagers, recorded \u201cWhy Do Fools Fall in Love\u201d in 1956 when he was thirteen. The song was a number-one R&B and number-six pop hit and made Lymon the first Black teen idol of the rock-and-roll era. He was a major influence on a generation of young Black, Latino, and white singers in 1950s and early 1960s New York, including Joe Bataan. Lymon\u2019s career collapsed quickly after his voice changed; he died of a heroin overdose at twenty-five."
+    definition: "African American doo-wop singer (born September 30, 1942, in Washington Heights, Manhattan; died February 27, 1968, in Harlem) who, with his group the Teenagers, recorded \u201cWhy Do Fools Fall in Love\u201d in late 1955 when he was thirteen. Released in January 1956, the song reached number one on the R&B chart, number six on the pop chart, and number one in the United Kingdom, and made Lymon the first Black teen idol of the rock-and-roll era. His high, light pre-pubescent tenor was the direct vocal model for Ronnie Spector, Diana Ross, and Michael Jackson, and he was a major influence on a generation of young Black, Latino, and white singers in 1950s and early 1960s New York, including Joe Bataan. Lymon\u2019s career collapsed quickly after his voice changed; he died of a heroin overdose at twenty-five."
   },
 
   "dragons-gang": {
@@ -3362,6 +3362,81 @@ var GLOSSARY = {
   "bb-king": {
     label: "B.B. King",
     definition: "American blues guitarist and singer (born Riley B. King, September 16, 1925, in Itta Bena, Mississippi; died May 14, 2015, in Las Vegas), the most commercially successful blues musician of the second half of the twentieth century and the figure who carried the postwar electric blues from the chitlin circuit to the global concert hall. King\u2019s 1960s and 1970s recordings (\u201cThe Thrill Is Gone,\u201d 1969, his commercial peak) and his hundreds-of-shows-a-year touring schedule (he reportedly averaged 250 to 300 performances annually for decades) built the modern blues-musician\u2019s career as a sustainable form. He named his guitars Lucille across his career, after an incident at a 1949 Arkansas dance hall. The British Invasion guitarists named him as a foundational source: Eric Clapton recorded the 2000 duet album <em>Riding with the King</em> with him; the Rolling Stones toured with him; Keith Richards has spoken consistently about his influence. King was inducted into the Rock and Roll Hall of Fame in 1987, the Blues Hall of Fame in 1980, and the Songwriters Hall of Fame in 1988."
+  },
+
+  "washington-heights": {
+    label: "Washington Heights",
+    definition: "The Manhattan neighborhood at the northern tip of the island, running roughly from West 155th Street up to Dyckman Street, traditionally bounded by the Hudson River on the west and the Harlem River on the east. The neighborhood developed as an Irish, German Jewish, and Greek immigrant residential district in the first half of the twentieth century; through the 1940s and 1950s it became increasingly Black and Puerto Rican as African American residents moved north from Harlem and Puerto Rican migrants arrived from the island. By the 1960s and 1970s, Dominican migrants began arriving in large numbers; today the neighborhood is sometimes informally called \u201cLittle Dominican Republic.\u201d Frankie Lymon and the four other members of the Teenagers all grew up within a few blocks of each other in Washington Heights in the early 1950s."
+  },
+
+  "street-corner-harmony": {
+    label: "Street-corner harmony",
+    definition: "A working-class urban vocal-group practice in which young singers, typically four or five teenagers without instruments, gather on a sidewalk, in an apartment-building hallway, on a stoop, in a school auditorium, or in a tiled subway station to work out close-harmony arrangements of popular songs and originals. The hard surfaces give the unaccompanied voices a small natural reverb. Street-corner harmony was the rehearsal infrastructure of mid-1950s doo-wop, and most of the major doo-wop recordings of the period (the Penguins\u2019 \u201cEarth Angel,\u201d Frankie Lymon\u2019s \u201cWhy Do Fools Fall in Love,\u201d the Five Satins\u2019 \u201cIn the Still of the Night\u201d) came out of groups that had worked their parts out this way before ever entering a studio."
+  },
+
+  "herman-santiago": {
+    label: "Herman Santiago",
+    definition: "Puerto Rican American doo-wop singer (born February 18, 1941, in New York City), the first tenor of Frankie Lymon and the Teenagers. Santiago, along with Jimmy Merchant, wrote the original version of \u201cWhy Do Fools Fall in Love\u201d (initially titled \u201cWhy Do Birds Sing So Gay\u201d) based on a I-vi-IV-V chord pattern he had been working with; he was the group\u2019s lead singer until he was sick on the day of the 1955 audition with George Goldner, at which Frankie Lymon stepped in and Goldner reassigned the lead to Lymon. Santiago and Merchant spent decades attempting to recover their songwriting credit; a 1992 district-court ruling in their favor was overturned on a statute-of-limitations technicality in 1996, and the published credit on the song remains \u201cFrankie Lymon and Morris Levy\u201d to this day."
+  },
+
+  "joe-negroni": {
+    label: "Joe Negroni",
+    definition: "Puerto Rican American doo-wop singer (born September 9, 1940, in New York City; died of a brain hemorrhage in 1978 at thirty-seven), the baritone of Frankie Lymon and the Teenagers. Negroni had been singing with Herman Santiago in a local group called the Ermines before the lineup that became the Premiers (and then the Teenagers) came together in 1954."
+  },
+
+  "jimmy-merchant": {
+    label: "Jimmy Merchant",
+    definition: "African American doo-wop singer (born February 10, 1940, in the South Bronx), the second tenor of Frankie Lymon and the Teenagers. Merchant co-wrote the original version of \u201cWhy Do Fools Fall in Love\u201d with Herman Santiago and spent decades alongside Santiago attempting to recover the songwriting credit George Goldner had displaced; the 1992 district-court ruling that briefly awarded them the credit was overturned in 1996 on a statute-of-limitations technicality."
+  },
+
+  "sherman-garnes": {
+    label: "Sherman Garnes",
+    definition: "African American doo-wop singer (born June 8, 1940, in New York City; died of complications from heart surgery in 1977 at thirty-six), the bass singer and the organizer of Frankie Lymon and the Teenagers. At six feet four inches tall, Garnes anchored the group physically and vocally; his descending nonsense-syllable bass line (\u201coo-wah, oo-wah, oo-wah, oo-wah\u201d) opens and closes the 1955 recording of \u201cWhy Do Fools Fall in Love\u201d and is one of the most identifiable bass-singer figures of the doo-wop era."
+  },
+
+  "richard-barrett": {
+    label: "Richard Barrett",
+    definition: "African American doo-wop singer and record producer (1933-2006), lead singer of the New York vocal group the Valentines and the talent scout and production assistant who first brought the Premiers (later the Teenagers) to George Goldner\u2019s attention in 1955. Barrett went on to discover and produce a substantial roster of Goldner-affiliated vocal groups across the late 1950s, including the Chantels (the first major girl group of the rock-and-roll era), Little Anthony and the Imperials, and the Three Degrees, whom he managed across the 1960s and 1970s."
+  },
+
+  "george-goldner": {
+    label: "George Goldner",
+    definition: "American record producer and independent-label owner (born Jacob Goldman in 1919, Turtle Bay, Manhattan; died 1970) who, between 1948 and the mid-1960s, founded a sequence of New York independent labels (Tico, Rama, Gee, End, Gone, Roulette, Red Bird) that produced many of the foundational mambo, doo-wop, and early rock-and-roll recordings of the period. Goldner discovered or signed Tito Puente, Machito, the Crows, the Cleftones, Frankie Lymon and the Teenagers, the Flamingos, Little Anthony and the Imperials, the Chantels, the Isley Brothers, the Shangri-Las, and many others. He was Jewish American, an inveterate gambler, and reportedly mob-adjacent through his business partnerships with Morris Levy; he repeatedly sold his label interests to Levy to cover gambling debts. His producer\u2019s credit on the songwriting of \u201cWhy Do Fools Fall in Love,\u201d which displaced Herman Santiago and Jimmy Merchant from the credit they had earned, was one of many such credit appropriations across his career."
+  },
+
+  "gee-records": {
+    label: "Gee Records",
+    definition: "Small independent New York R&B record label founded by George Goldner in 1953 or 1954 as a subsidiary of his Rama label and named after the 1953 Crows hit \u201cGee.\u201d The Cleftones and Frankie Lymon and the Teenagers were Gee\u2019s most commercially successful artists in 1956 and 1957. Goldner sold his interest in Gee (along with Rama, Tico, and his share of Roulette Records) to Morris Levy in April 1957 to cover gambling debts; the label became dormant under Levy and was briefly reactivated as a Roulette subsidiary in the early 1960s for Cleftones and Regents singles before being permanently shut down."
+  },
+
+  "bell-sound-studios": {
+    label: "Bell Sound Studios",
+    definition: "Independent New York recording studio founded in 1950 by Allen Weintraub and Dan Cronin, two recent Brooklyn Tech graduates with a $600 initial investment, and one of the central studios of the mid-1950s through mid-1960s New York independent record-label scene. Bell recorded the Crows\u2019 \u201cGee\u201d (1953), Frankie Lymon and the Teenagers\u2019 \u201cWhy Do Fools Fall in Love\u201d (November 1955), Dion and the Belmonts\u2019 \u201cA Teenager in Love\u201d (1959), Little Anthony and the Imperials\u2019 \u201cTears on My Pillow\u201d (1958), the Flamingos\u2019 \u201cI Only Have Eyes for You\u201d (1958), Lloyd Price\u2019s \u201cStagger Lee\u201d (1958), Wilbert Harrison\u2019s \u201cKansas City\u201d (1959), and the Drifters\u2019 \u201cSave the Last Dance for Me\u201d (1959), among many others. The studio was located at several Manhattan addresses across its life (Mott Street, Brooklyn briefly, West 89th Street, and then West 46th Street and 8th Avenue from 1954); it closed in 1976."
+  },
+
+  "jimmy-wright": {
+    label: "Jimmy Wright",
+    definition: "American tenor saxophonist (active 1953-late 1950s) who led the house band for George Goldner\u2019s Rama, Gee, and Roulette labels through the mid 1950s. Wright\u2019s small band (tenor saxophone, piano, electric bass, drums) backed dozens of doo-wop and early rock-and-roll recordings on Goldner\u2019s labels, and Wright\u2019s own jumping tenor saxophone solos were a recognizable feature of the label\u2019s 1955-57 sound. Wright is also credited with giving the Premiers their new name, the Teenagers, in late 1955. His sixteen-bar tenor solo in the middle of \u201cWhy Do Fools Fall in Love\u201d is one of the recording\u2019s structural features."
+  },
+
+  "sax-solo": {
+    label: "Tenor saxophone solo",
+    definition: "A short instrumental passage played by a tenor saxophonist, typically in the middle of a vocal song after the second verse or second chorus. In the late 1940s and early 1950s, the tenor saxophone solo was the center of gravity of jump blues and early rhythm-and-blues records: a recording would build to the saxophonist\u2019s solo as its emotional and rhythmic climax. As doo-wop and early rock and roll took shape in the mid 1950s, the saxophone solo shrank from the recording\u2019s climax to a sixteen-bar interlude that gave the lead singer a chance to rest and the dancers a chance to dance, but the saxophone-solo convention persisted; almost every doo-wop and early rock-and-roll record of the mid 1950s has one."
+  },
+
+  "bass-singer": {
+    label: "Bass singer",
+    definition: "The lowest voice in a vocal group, especially in doo-wop and gospel quartets. The bass singer in a doo-wop group typically performs three structural functions: holding down the lowest pitch of the four-part harmony, singing nonsense-syllable patterns (\u201coo-wah,\u201d \u201cbom-bom,\u201d \u201cbup-bup-bup\u201d) that drive the rhythm in the absence of a string bass on lighter recordings, and occasionally stepping forward for a brief solo passage. Sherman Garnes\u2019s descending bass-singer line opens and closes \u201cWhy Do Fools Fall in Love\u201d; the bass-singer foreground convention is also audible across many other doo-wop recordings of the period."
+  },
+
+  "alan-freed": {
+    label: "Alan Freed",
+    definition: "American disc jockey (born December 21, 1921, Johnstown, Pennsylvania; died 1965) who, more than any other single figure, popularized the term \u201crock and roll\u201d as a name for the African American rhythm-and-blues music he was playing for a teenage audience that was increasingly white. Freed began his \u201cMoondog\u2019s Rock and Roll Party\u201d on Cleveland\u2019s WJW in July 1951 at the suggestion of record-store owner Leo Mintz, who had noticed white teenagers buying Black R&B records, and organized the 1952 \u201cMoondog Coronation Ball\u201d in Cleveland, often described as the first rock concert. Freed moved to New York\u2019s WINS in 1954 and to WABC in 1958; his package tours organized through George Goldner and others brought the Teenagers, the Flamingos, Little Anthony and the Imperials, Chuck Berry, Little Richard, and Bo Diddley to a national stage. His career was destroyed by the 1959-60 \u201cpayola\u201d scandal (record labels paying disc jockeys to play their records, then a widespread industry practice), and he died of cirrhosis in 1965 at age 43."
+  },
+
+  "jump-blues": {
+    label: "Jump blues",
+    definition: "An up-tempo, dance-oriented African American popular music style of the mid 1940s through the early 1950s, built on a small horn-section band (typically two or three saxophones plus trumpet, piano, electric bass, and drums) with a shouted blues vocal out front and an extended tenor-saxophone solo at the recording\u2019s center. Louis Jordan (\u201cChoo Choo Ch\u2019Boogie,\u201d 1946, and \u201cSaturday Night Fish Fry,\u201d 1949) was the central figure; Big Joe Turner, Wynonie Harris, Roy Brown, and Big Jay McNeely also made canonical jump-blues records. Jump blues was the most important commercial bridge between the swing-era big bands and the rhythm and blues of the late 1940s and early 1950s, and the tenor-saxophone solo as a structural feature of mid-1950s doo-wop, rock and roll, and early soul recordings descends directly from the jump-blues tradition."
   },
 
 };
