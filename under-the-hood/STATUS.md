@@ -141,15 +141,21 @@ specific turnaround. Operational: budget for a 3-4 day feedback
 turnaround on the proposal so students have the weekend before
 the draft to incorporate it.
 
-**Module 4 Track 5 (Mitski) length.** Three context subsections
-rather than the four-section pattern the rest of Module 4 uses;
-the convention is flexible but four is the modal pattern.
-Reread on a polish pass.
+**Module 4 Track 5 (Mitski) length.** RESOLVED. Three context
+subsections (Mitski's path / Indie rock as institutional space /
+The single, music video, reception) rather than the four-section
+modal pattern. On rereading: the three-section structure is
+deliberate and works. Mitski's biography is more compressed
+than the longer careers of the other M4 musicians, and "Indie
+rock as an institutional space" is its own substantial section
+that wouldn't fit inside biography. No change needed for symmetry.
 
-**Module 4 Track 1 Will Crittendon source.** Current Track 1
-framing-reading discussion of A Grain of Sand mentions
-Crittendon by name; verify the bibliographic source is current
-before launch.
+**Module 4 Track 1 Will Crittendon source.** RESOLVED. Verified
+via direct web search: Oliver Wang's Soul Sides article "Iijima
+and Miyamoto: Laying Down the Groundwork" (May 2015) documents
+the Will Crittendon production of the pre-album 1972 7" single
+of "We Are the Children." The bibliographic source in Track 1's
+source list is current and accurate.
 
 **Module 2 framing reading: M5 Track 3 cross-reference.** Line
 267 of M2's framing reading currently has a verbal reference
