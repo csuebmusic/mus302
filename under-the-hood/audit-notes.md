@@ -40,9 +40,12 @@ skips.
    folk," Track 3 carries one on `dominant` in "the dominant pop
    production aesthetic," Track 4 carries one on `rhythm` in
    "breakbeat-derived rhythm" used in the everyday sense rather than
-   as the technical glossary entry, and Module 5 framing reading
+   as the technical glossary entry, Module 5 framing reading
    carries one on `dominant` in "the dominant nineteenth- and early-
-   twentieth-century scientific racism"). Track 1 also carries a wrong-
+   twentieth-century scientific racism," and Module 5 Track 2 (Baez)
+   carries one on `dominant` in "the dominant form of the European
+   narrative ballad" and one on `measure` in "in equal measure" as
+   the everyday English noun). Track 1 also carries a wrong-
    sense hit on `form` as the verb "would form in 1978," and Track 2
    and the framing reading carry wrong-sense hits on `form` as a
    passing methodology-vocabulary noun ("African American form,"
@@ -87,6 +90,10 @@ skips.
    verb-sense hit on `pop`. The genre noun `pop` is not used in the
    prose. Related: the audit's quote-stripping for song-and-album
    titles can leave possessive forms stranded next to following prose.
+   Module 5 Track 2 (Baez) carries one such hit on `jazz` matched
+   inside the proper-noun festival name "Newport Jazz Festival"
+   (the festival, not the genre); the genre noun `jazz` is not used
+   substantively in the prose.
 4. **Compound-already-buttoned upstream.** When a longer compound key
    like `latin-trap` is buttoned at first mention, the audit also
    flags the bare `trap` later in the prose. Buttoning the bare term
@@ -128,6 +135,23 @@ skips.
    was consolidated into the closing "What this module leaves out"
    section in May 2026, and the figure-note mentions are now uncleared
    by any body-prose button.
+   Module 5 Track 2 (Baez) carries five passing-list hits inside two
+   rhetorical enumerations: the folk-revival instrumentation list
+   ("acoustic guitar, banjo, fiddle, harmonica") and the gesture-
+   prompt comparison of how other 1960 popular forms handle
+   melodramatic lyric material ("the doo-wop lead's vocal break, the
+   country singer's catch on the high note, the blues singer's bent
+   pitch, the Broadway belt's escalating volume, the gospel singer's
+   call-and-response with a choir"). The terms `banjo`, `fiddle`,
+   `blues`, `gospel`, and `call-and-response` are mentioned in
+   passing as one item each inside a parallel rhetorical sequence;
+   none is substantively introduced. All five are substantively
+   glossed elsewhere on the site (Module 2 framing reading and
+   listening guides primarily). The page also carries one passing
+   hit on `harry-belafonte` matched inside the folk-revival-roster
+   list ("Pete Seeger, the Weavers, Odetta, Harry Belafonte's folk-
+   circuit work, the Kingston Trio, Baez, Bob Dylan, Phil Ochs..."),
+   same passing-list pattern.
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.
