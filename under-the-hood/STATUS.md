@@ -108,22 +108,6 @@ the May 26 term start.
 
 ## Open
 
-**Module 3 Track 4 Selena hero photo.** Image is now attributed
-in the caption to Al Rendon's 1992 *Entre A Mi Mundo* session
-based on visual evidence (cobalt-blue backdrop, black satin
-top, formal-portrait composition) matching documented Rendon
-session work; the same 1992 portrait series is held by the
-Smithsonian National Portrait Gallery. Before public launch,
-contact Al Rendon via his editorial licensing program at
-alrendon.com to confirm attribution and obtain explicit
-educational-use clearance, then update the caption credit to
-"Photo by Al Rendon."
-
-**Tin Pan Alley glossary entry.** Current entry covers the place
-and industry frame but doesn't pick up the Great American
-Songbook racial-dynamics framing that the M2 appropriation
-argument builds on. Polish-pass target.
-
 **Tier 2 glossary entries for M2.** Mos Def, Common, KRS-One,
 Killer Mike, Paul Whiteman, Benny Goodman, Fletcher Henderson
 all appear in body prose in M2's conscious-hip-hop lineage list
@@ -154,14 +138,23 @@ Hill Records, Parkwood Entertainment, etc.) appear on multiple
 listening guide pages across M1, M2, M3, and M4. Per the
 editorial conventions, these are defensible for educational
 use with attribution but flagged for verification before
-launch. The M3 Track 4 Selena photo is its own item above
-(curation rather than rights). For the rest: do a
-verification pass before public launch confirming each photo's
-educational-use fair-use rationale holds, or swap in Wikimedia
-Commons alternatives where available. Tracks with editorial-use
-copyrighted hero photos: M1 Track 1 (Cooke), M1 Track 4
-(Williams, Getty), M2 Track 1 (Bessie Smith, Edward Elcha /
-Michael Ochs / Getty), M2 Track 2 (Tharpe, Getty), M2 Track 3
-(James Brown, Getty), M2 Track 4 (Flash, Sugar Hill cover), M2
-Track 5 (Beyoncé, Parkwood / Pretty Bird), and most M3 and M4
-tracks.
+launch. Do a verification pass before public launch confirming
+each photo's educational-use fair-use rationale holds, or swap
+in Wikimedia Commons alternatives where available. Tracks with
+editorial-use copyrighted hero photos: M1 Track 1 (Cooke), M1
+Track 4 (Williams, Getty), M2 Track 1 (Bessie Smith, Edward
+Elcha / Michael Ochs / Getty), M2 Track 2 (Tharpe, Getty), M2
+Track 3 (James Brown, Getty), M2 Track 4 (Flash, Sugar Hill
+cover), M2 Track 5 (Beyoncé, Parkwood / Pretty Bird), and most
+M3 and M4 tracks.
+
+The M3 Track 4 Selena photo is a special case inside this
+verification pass. The image is now attributed in the caption
+to Al Rendon's 1992 *Entre A Mi Mundo* session based on visual
+evidence (cobalt-blue backdrop, black satin top, formal-portrait
+composition) matching documented Rendon session work; the same
+1992 portrait series is held by the Smithsonian National
+Portrait Gallery. Before public launch, contact Al Rendon via
+his editorial licensing program at alrendon.com to confirm
+attribution and obtain explicit educational-use clearance, then
+update the caption credit to "Photo by Al Rendon."
