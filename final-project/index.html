@@ -112,7 +112,7 @@
     }
 
     h2::before {
-      content: "$ ";
+      content: "● ";
       color: var(--accent);
       font-weight: 400;
     }
@@ -177,7 +177,7 @@
       padding: 1rem 1.25rem;
       background: var(--bg-elevated);
       display: grid;
-      grid-template-columns: auto 1fr auto;
+      grid-template-columns: auto 1fr;
       gap: 1rem;
       align-items: start;
     }
@@ -214,20 +214,6 @@
       color: var(--text-dim);
       line-height: 1.6;
       margin: 0;
-    }
-
-    .pipeline-step .step-status {
-      font-size: 0.75em;
-      padding: 0.15em 0.5em;
-      border-radius: 3px;
-      color: var(--text-dim);
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      font-weight: 500;
-      white-space: nowrap;
-      align-self: start;
     }
 
     /* ===== Tool grid ===== */
@@ -388,7 +374,6 @@
       main { padding: 1.5rem 1rem 4rem; }
       .pipeline-step { grid-template-columns: 1fr; gap: 0.5rem; }
       .pipeline-step .step-num { display: none; }
-      .pipeline-step .step-status { justify-self: start; }
       .tool-grid { grid-template-columns: 1fr; }
     }
   </style>
@@ -473,7 +458,6 @@
         <div class="step-name">Project Proposal &amp; Preliminary Bibliography</div>
         <p class="step-desc">A short proposal naming your genre and artist, explaining their personal significance to you, and framing the argument the project will make, plus a preliminary bibliography of three to four sources with a one-sentence description of each. The goal is to commit to a topic, locate enough sources to confirm the topic is researchable, and let your instructor flag any concerns early.</p>
       </div>
-      <div class="step-status">pending</div>
     </div>
 
     <div class="pipeline-step">
@@ -483,7 +467,6 @@
         <div class="step-name">Full Draft</div>
         <p class="step-desc">A complete first version of the deck and a rough version of the video commentary. The draft has to be substantively complete (all sections present, an argument visible, evidence in place). It does not have to be polished. The point of the draft is to have something real to revise.</p>
       </div>
-      <div class="step-status">pending</div>
     </div>
 
     <div class="pipeline-step">
@@ -493,7 +476,6 @@
         <div class="step-name">Peer Review</div>
         <p class="step-desc">Structured feedback on two of your classmates' drafts, using a peer-review form provided in Canvas. You will also receive two peer reviews of your own draft to use in your final revision.</p>
       </div>
-      <div class="step-status">pending</div>
     </div>
 
     <div class="pipeline-step">
@@ -503,7 +485,6 @@
         <div class="step-name">Final Submission</div>
         <p class="step-desc">Revised slide deck and final video commentary, both submitted to Canvas. This is the last day of the term.</p>
       </div>
-      <div class="step-status">pending</div>
     </div>
 
   </div>
@@ -706,9 +687,111 @@
 
   <h2>Sources</h2>
 
-  <p>You begin with three to four preliminary sources at the proposal-and-bibliography stage, expand your research between that checkpoint and the draft, and integrate at least five sources into the final deck and video. Sources can be books, scholarly articles, journalism, documentaries, podcasts, liner notes, museum and archive websites, or well-cited reference articles (Wikipedia, Britannica, and similar). Sources cannot be AI-generated text or unverifiable internet posts (anonymous blog comments, social-media threads without attribution, fan wikis with no citations). When you use a Wikipedia article, follow at least one of its footnotes to a primary or scholarly source and cite that source too: this is good research practice generally, and it is how the listening guides on this site were built. When in doubt about whether a source counts, email your instructor.</p>
+  <p>This section assumes you have never done research before. If you have, skim what you know and slow down where it gets new. The first deadline page also covers some of this in checkpoint-specific detail; this section is the from-scratch version.</p>
 
-  <p>The Module 1 listening guides model what evidence-based writing about music looks like. Notice how each guide names scholars and journalists in the prose ("Mark Burford has argued...", "biographer Peter Guralnick"), and how the Sources section at the end of each page collects full bibliographic information. Aim for that level of integration: your sources should be visible in the prose and the analysis, not just listed at the end.</p>
+  <h3>What a source is</h3>
+
+  <p>A source is anything you cite as evidence for something you say in your project. If you write "Sam Cooke recorded 'A Change Is Gonna Come' in December 1963," you did not invent that fact; you read it somewhere, and the somewhere is your source. Your own listening and your own analysis are not sources, they are <em>your work</em>. Everything you bring in to back up your work needs to be attributed to where it came from.</p>
+
+  <p>You are aiming for the kind of writing you saw in the four Module 1 listening guides. Look at how each guide names a person and then a claim: "Mark Burford argues that...", "biographer Peter Guralnick describes...", "Sadie Bell, writing in <em>Marie Claire</em>, observes...". That naming is not decoration. Every named person there is a source, and naming them in the prose is the citation made visible. Aim for that level of integration in your own deck and commentary.</p>
+
+  <h3>Types of sources you can use</h3>
+
+  <p>For a music research project, sources come in several flavors. The list below includes a music example for each so you know what you are actually looking for. All of these are legitimate; you do not need one of each.</p>
+
+  <p><strong>Books.</strong> Full-length scholarly or biographical books about an artist, a genre, or a moment. Peter Guralnick's <em>Dream Boogie: The Triumph of Sam Cooke</em> is a book. Books are usually the deepest source you will use, and a chapter is plenty; you do not need to read the whole book.</p>
+
+  <p><strong>Peer-reviewed journal articles.</strong> Articles by scholars published in academic journals, vetted by other scholars before publication. Mark Burford's writing on Sam Cooke and the gospel highway lives in this category. These are often the most rigorous sources and live behind library databases (more on that below).</p>
+
+  <p><strong>In-depth journalism.</strong> Long-form articles in serious publications: <em>The New York Times</em>, <em>The Atlantic</em>, <em>The New Yorker</em>, <em>Pitchfork</em>, <em>Rolling Stone</em>, <em>NPR Music</em>, <em>Marie Claire</em>'s ten-year Mitski retrospective. Not a 300-word listicle; a piece that does actual reporting or makes an argument.</p>
+
+  <p><strong>Documentaries and films.</strong> Documentary films and series count. <em>Summer of Soul</em>, <em>Selena</em> (Gregory Nava 1997), the PBS <em>American Experience</em> episodes on the incarceration of Japanese Americans. Cite the director and year, the same way you would cite a book's author.</p>
+
+  <p><strong>Serious podcasts and radio.</strong> Podcasts that do genuine reporting or analysis, not chat shows. NPR's <em>Throughline</em>, <em>Switched on Pop</em>, the <em>33 1/3</em> podcast. Episodes count as individual sources.</p>
+
+  <p><strong>Liner notes and reissue essays.</strong> The essays inside CD or LP packaging, often written by critics or scholars. <em>The Smithsonian Folkways</em> catalog is built on these. They count.</p>
+
+  <p><strong>Archives, museums, and reference encyclopedias.</strong> Materials and articles on museum or archive websites, written and curated by professionals. The Densho Encyclopedia (densho.org) for Japanese American history, the Smithsonian Folkways magazine, the Rock &amp; Roll Hall of Fame's artist pages, the Grove Music Online entries inside Oxford Music Online. These are reference works with editorial oversight.</p>
+
+  <p><strong>Interviews.</strong> Recorded conversations with the artist, in print, on video, or on radio. The artist's own words about their work count as evidence, with one caveat: artists are not always reliable narrators of their own lives. Cite the interview but do not treat it as the final word.</p>
+
+  <h3>Where to find them</h3>
+
+  <p>You have a real research library and you should use it. Every link below works from off-campus when you sign in with your CSUEB NetID.</p>
+
+  <p><strong>Start at the CSU East Bay Music LibGuide:</strong> <a href="https://library.csueastbay.edu/MUS" target="_blank" rel="noopener">library.csueastbay.edu/MUS</a>. This page is built specifically for music research at our library. It has a sub-page called "How to find Books, Articles, &amp; Scores" and another called "How to cite music." Read both before you start hunting.</p>
+
+  <p>The most useful databases on that page, for this project:</p>
+
+  <p><strong>JSTOR.</strong> Full-text scholarly journals across the humanities, including music journals going back decades. Search "Sam Cooke" or "corridos border" or "punk feminism 1990s" and skim what comes back. This is where peer-reviewed articles live.</p>
+
+  <p><strong>Oxford Music Online.</strong> The portal that includes Grove Music Online, which is the standard scholarly music encyclopedia in English. Long signed articles on artists, genres, and styles, written by music scholars. Treat Grove the way other fields treat <em>Britannica</em>: authoritative and citable.</p>
+
+  <p><strong>Academic Search Complete.</strong> A broader database covering both peer-reviewed journals and general-readership magazines. Useful when JSTOR comes up dry, because it catches journalism and trade publications too.</p>
+
+  <p><strong>Music Online: American Song</strong> and <strong>African American Music Reference.</strong> Subject-specific collections for American vernacular music and African American musical traditions; relevant for several of the genres students choose.</p>
+
+  <p>Beyond CSUEB's library:</p>
+
+  <p><strong>Google Scholar</strong> (scholar.google.com) — searches the open scholarly web. Useful for finding what scholars have written about an artist, even if you cannot read the full article without a library login. If you find an article you want, paste the title into our library search to see if we have access.</p>
+
+  <p><strong>WorldCat</strong> (worldcat.org) — a catalog of what books exist on a topic at libraries worldwide. Great for figuring out what the major books on your artist are, even before you decide where to get them.</p>
+
+  <p><strong>Specific archive sites</strong> when your topic has one — the Densho Encyclopedia for Japanese American history, the Smithsonian Folkways magazine for folk and roots music, the Country Music Hall of Fame, the Bronx Music Heritage Center, and so on. If your artist's community has a dedicated archive, it is often the richest source you will find.</p>
+
+  <div class="callout">
+    <p><strong>Talk to a librarian.</strong> The music librarian at CSU East Bay is Daisy Muralles (<a href="mailto:daisy.muralles@csueastbay.edu">daisy.muralles@csueastbay.edu</a>). Her job is helping students find sources for projects exactly like this one. You can email her, schedule an appointment through the LibGuide, or use the 24/7 chat at <a href="https://library.csueastbay.edu/home" target="_blank" rel="noopener">library.csueastbay.edu</a>. Doing this once, early, will save you hours.</p>
+  </div>
+
+  <h3>How to tell a good source from a weak one</h3>
+
+  <p>Three questions to ask of anything you are thinking of citing.</p>
+
+  <p><strong>Who wrote it and what makes them qualified?</strong> A named author with a track record (a scholar, a working music critic at a real publication, an archivist) is stronger than an anonymous blog post. If you cannot find the author's name, that is a flag.</p>
+
+  <p><strong>Where was it published?</strong> A university press, a peer-reviewed journal, or a major newspaper or magazine has editors and fact-checkers. A random Medium post or content farm does not. The same claim is more trustworthy in <em>The Atlantic</em> than on a SEO-optimized "best songs of all time" list.</p>
+
+  <p><strong>Does it cite its own sources?</strong> Good writing about music points outward: it names the books, articles, and interviews it builds on. Writing that makes claims with no apparent source for them is doing what you are trying to avoid.</p>
+
+  <p><strong>Wikipedia is a starting point, not a destination.</strong> Wikipedia is fine for orientation, for getting the basic timeline of an artist, for figuring out what questions to ask. It is not a source you cite. What you do instead: read the Wikipedia article, then scroll to the footnotes at the bottom, and click through to the books and articles those footnotes point to. <em>Those</em> are your sources. This is how the listening guides on this site were built.</p>
+
+  <h3>What does not count as a source</h3>
+
+  <p>To make this explicit:</p>
+
+  <p><strong>AI-generated text does not count.</strong> Do not cite ChatGPT, Claude, Gemini, or any other generative AI as a source. AI tools synthesize and paraphrase other people's writing without attribution; what you would be citing is a confident-sounding text with no traceable origin. Whatever the AI told you, find a real source that says the same thing and cite that instead.</p>
+
+  <p><strong>Anonymous internet posts do not count.</strong> Comments on Reddit, YouTube, or social media without verifiable authorship. Fan wikis (Fandom.com, etc.) without footnotes. Random results from "[artist] biography" SEO sites.</p>
+
+  <p><strong>The artist's official website is a citable source for facts the artist puts on the record</strong> (discography, tour history, official statements), but treat it like any source written by an interested party: useful, but not neutral.</p>
+
+  <h3>How many you need</h3>
+
+  <p>Three to four sources for the proposal and preliminary bibliography (first checkpoint). At least five sources integrated into the final project. The first-deadline page covers exactly what counts at the proposal stage and what your bibliography should look like; check there for the checkpoint-specific version.</p>
+
+  <p>Five is a minimum, not a target. A strong project usually uses seven to ten. Quality matters more than count: one well-chosen scholarly book chapter you actually read and engage with is worth more than five vague website citations.</p>
+
+  <h3>How to cite them</h3>
+
+  <p>Pick one citation style and use it consistently throughout. MLA, Chicago, and APA are all fine. So is the citation style modeled in the Module 1 listening guides on this site, which is a lightly modified Chicago. Whichever you pick, the same style has to appear on every entry in your sources slide.</p>
+
+  <p>A book citation in Chicago style looks like this:</p>
+
+  <p><code>Guralnick, Peter. <em>Dream Boogie: The Triumph of Sam Cooke</em>. New York: Little, Brown, 2005.</code></p>
+
+  <p>A journal article looks like this:</p>
+
+  <p><code>Burford, Mark. "Sam Cooke as Pop Album Artist: A Reinvention in Three Songs." <em>Journal of the American Musicological Society</em> 65, no. 1 (2012): 113–178.</code></p>
+
+  <p>An online article looks like this:</p>
+
+  <p><code>Bell, Sadie. "Mitski at the End of the World." <em>Marie Claire</em>, April 13, 2026. https://www.marieclaire.com/culture/mitski-laurel-hell-retrospective/.</code></p>
+
+  <p>For citation formatting help, the CSUEB Library's "How to cite music" sub-page (inside the Music LibGuide linked above) walks through citation styles for recordings, scores, and performances, which the standard MLA and Chicago manuals do not always cover well. Citation generators like Zotero or the citation builders inside library databases can produce these for you, but always check the output: they get italicization, dates, and capitalization wrong about a third of the time.</p>
+
+  <p>Finally: <strong>integrate your sources into the prose</strong>, do not just list them at the end. When you make a claim in your video commentary or on a slide, name the person you got it from: "biographer Peter Guralnick describes," "the Densho Encyclopedia notes," "Mark Burford has argued." Visible integration is what separates a research project from a Wikipedia recitation.</p>
+
+  <p>When in doubt about whether something counts as a source or how to handle a particular case, email me before the proposal deadline.</p>
 
   <h2>Outcomes addressed</h2>
 
