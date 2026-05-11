@@ -84,50 +84,66 @@ def process_file(path):
         if f'data-term="{term}"' in html:
             continue
 
-        # Walk paragraphs in order. Prefer paragraphs whose visible text
-        # starts with one of the canonical Things-to-listen-for ordinals
-        # ("First,", "Second,", "Third,", "Fourth,"), since the
-        # convention is for each frame to be introduced in that
-        # structural paragraph. Fall back to the first paragraph that
-        # contains the term if no ordinal paragraph contains it.
+        # Walk paragraphs in three tiers of preference:
+        #
+        # Tier A: ordinal paragraphs ("First, ...", "Second, ...",
+        #   "Third, ...", "Fourth, ...") where the term word appears
+        #   shortly after the ordinal marker (i.e., the paragraph
+        #   introduces this frame as its prompt: "Second, the texture
+        #   ...").
+        # Tier B: ordinal paragraphs that contain the term anywhere.
+        # Tier C: any paragraph that contains the term.
         ordinal_re = re.compile(
-            r'^\s*(First|Second|Third|Fourth)[,\s]',
+            r'^\s*(First|Second|Third|Fourth)\b',
+            re.IGNORECASE,
+        )
+        # "Ordinal, the <term>" within the first ~60 chars of visible text.
+        ordinal_introduces_re = re.compile(
+            r'^\s*(First|Second|Third|Fourth)\b[^.]{0,60}\b'
+            + re.escape(term) + r's?\b',
             re.IGNORECASE,
         )
 
-        # First pass: try ordinal paragraphs.
         placed = False
-        candidate_p_matches = list(P_BLOCK_RE.finditer(html))
+        p_matches = list(P_BLOCK_RE.finditer(html))
 
-        for pm in candidate_p_matches:
-            inner = pm.group(2)
-            # Strip tags to look at visible text only for the ordinal test.
-            visible = re.sub(r'<[^>]+>', '', inner).strip()
-            if not ordinal_re.match(visible):
-                continue
-            new_inner, changed, matched = add_button_in_paragraph(inner, term)
-            if changed:
-                attrs = pm.group(1) or ''
-                new_p = f'<p{attrs}>{new_inner}</p>'
-                html = html[:pm.start()] + new_p + html[pm.end():]
-                placed = True
-                changes.append((term, matched))
-                break
+        def try_paragraphs(predicate):
+            """
+            Walk p_matches in order; for the first paragraph that
+            satisfies `predicate(visible_text)`, attempt to add the
+            button. Return True if button was added.
+            """
+            nonlocal html, placed
+            for pm in p_matches:
+                inner = pm.group(2)
+                visible = re.sub(r'<[^>]+>', '', inner).strip()
+                if not predicate(visible):
+                    continue
+                new_inner, changed, matched = add_button_in_paragraph(
+                    inner, term
+                )
+                if changed:
+                    attrs = pm.group(1) or ''
+                    new_p = f'<p{attrs}>{new_inner}</p>'
+                    html = html[:pm.start()] + new_p + html[pm.end():]
+                    changes.append((term, matched))
+                    placed = True
+                    return True
+            return False
 
-        if placed:
+        # Tier A: ordinal-introduces.
+        if try_paragraphs(lambda v: bool(ordinal_introduces_re.match(v))):
+            # Re-fetch p_matches in case offsets shifted; not needed
+            # because we break on first success and don't re-search
+            # for this term.
             continue
 
-        # Second pass: first plausible paragraph anywhere.
-        for pm in P_BLOCK_RE.finditer(html):
-            inner = pm.group(2)
-            new_inner, changed, matched = add_button_in_paragraph(inner, term)
-            if changed:
-                attrs = pm.group(1) or ''
-                new_p = f'<p{attrs}>{new_inner}</p>'
-                html = html[:pm.start()] + new_p + html[pm.end():]
-                placed = True
-                changes.append((term, matched))
-                break
+        # Tier B: any ordinal paragraph.
+        if try_paragraphs(lambda v: bool(ordinal_re.match(v))):
+            continue
+
+        # Tier C: any paragraph.
+        try_paragraphs(lambda v: True)
 
         # If never placed, silently skip.
 
