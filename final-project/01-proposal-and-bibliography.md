@@ -1,6 +1,6 @@
 # Project Proposal and Preliminary Bibliography (Checkpoint 1 of 4)
 
-The first of four graded checkpoints for the final project. Due Sunday, July 12 at 11:59 PM Pacific. The goal of this checkpoint is to commit to a topic, locate enough sources to confirm the topic is researchable, and let me flag any concerns early enough to course-correct.
+The first of four graded checkpoints for the final project. Due Sunday, July 5 at 11:59 PM Pacific. The goal of this checkpoint is to commit to a topic, locate enough sources to confirm the topic is researchable, and let me flag any concerns early enough to course-correct.
 
 This checkpoint replaces what used to be two separate checkpoints (a proposal and a fuller annotated bibliography). The annotation work that used to live in the bibliography moves into the draft itself, where students discuss sources in context as part of the deck.
 

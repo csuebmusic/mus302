@@ -68,9 +68,10 @@ The calendar shifted back by one week so that all modules close
 before any project deadline begins. Module 1 due Sunday, May 31
 (six-day window from the May 26 term start). Modules 2-5 due
 Sundays June 7, 14, 21, 28; Module 5 peer responses due Sunday,
-July 5. Project proposal due Sunday, July 12, draft due Sunday,
-July 19, peer review due Sunday, July 26, final due Friday,
-July 31. The schedule is reflected consistently in
+July 5, with the project proposal also due that day. July 12 is
+an open work week with no deliverable. Project full draft due
+Sunday, July 19, peer review due Sunday, July 26, final due
+Friday, July 31. The schedule is reflected consistently in
 `syllabus.html`, `syllabus.md`, the four project-checkpoint
 markdown files, the final-project landing page, the module 1
 framing reading, the module 1 index page, and the module 2-4

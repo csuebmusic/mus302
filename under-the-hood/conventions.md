@@ -182,7 +182,7 @@ that drops `white-space: nowrap` on the first column, sets
 line that sits below the label name (`<span class="meta">`). The
 syllabus schedule table stays on the bare `.schedule` class with
 its original `nowrap` first-column behavior, which is right for
-short date strings like "Sun, July 12." Future labels-table-style
+short date strings like "Sun, July 5." Future labels-table-style
 uses should adopt the multi-class pattern (`class="schedule
 labels-table"`) and the `<br><span class="meta">...</span>`
 first-cell structure.
