@@ -28,32 +28,93 @@ structurally: queer Black thread in M2, Latin LGBTQ+ thread in M3,
 queer Asian American thread in M4, integrated coverage in M5.
 
 Module 5 Track 1 (Frankie Lymon and the Teenagers, "Why Do Fools
-Fall in Love") shipped in commit 16729c0. The page follows the
-M2-M4 listening-guide template with the standard course header,
-video link, hero photo (a c. 1956 signed promotional photograph
-from a private autograph collection), four-section context block,
-per-track family-tree SVG (three streams converging: Black vocal-
-harmony R&B, upper-Manhattan Latin music, NY indie R&B labels),
-four "things to listen for" prompts, reflective question, and
-sources. The cross-link from the M5 framing reading at the first
-substantive prose mention of the song is in place. Glossary added
-15 net entries (16 new for this page plus an expansion of the
-existing `frankie-lymon` entry, which had been written for the
-M3 Bataan page and is now expanded with full birth-date,
-neighborhood, vocal-influence, and death-date context). Total
-glossary entries now 641.
+Fall in Love") shipped and went through a deep multi-pass revision
+this session. Page follows the M2-M4 listening-guide template with
+the standard course header, video link, hero photo (a c. 1956
+signed promotional photograph from a private autograph collection),
+four-section context block, per-track family-tree SVG, four
+"things to listen for" prompts, reflective question, and sources.
+Per-track family-tree SVG rewritten to align with the M5 framing
+reading's Thread 3 diagram: three streams now converge on the 1955
+Bell Sound recording (Italian/Irish/Polish urban Catholic
+neighborhood music; Black vocal-harmony R&B; Puerto Rican migration
+into upper Manhattan), with two forward arrows to Italian American
+doo-wop (Dion and the Belmonts) and to heartland rock (Springsteen,
+Track 5 of this module). Context restructured to a four-section
+template: "Five boys, three blocks, one school" / "The audition,
+the song, and the recording" / "Doo-wop as a Module 5 story" /
+"The teen-idol career and the long aftermath." The Module-5-story
+section now leads with the production-side extraction argument
+(Goldner as Jewish-American small-label producer extracting value
+from young Black and Puerto Rican vocal talent), names the
+specific credit-theft history (the $1,000 split among five
+Teenagers for a recording that sold over 3 million copies; the
+1964 sale of rights to Morris Levy; the 1987-1996 lawsuit and
+its statute-of-limitations end), and connects to the Thread 3
+parallel Italian American doo-wop scene (Dion and the Belmonts,
+Frankie Valli's pre-Four-Seasons Newark groups, South Philadelphia
+and Brooklyn clusters) and the cross-ethnic urban audience. The
+gesture prompt names the audible integration both inside the
+recording (the close five-voice harmony) and between the recording
+and the white-ethnic teenage audience, with the 1957 Alan Freed
+*Big Beat* ABC cancellation (Lymon dancing with a white teenage
+girl on TV, show pulled) as the moment the audible gesture turned
+visible. Aftermath section names the influence trail with care
+(Ronnie Spector, Diana Ross, George Clinton, Michael Jackson,
+Billy Joel, Berry Gordy modeling the Jackson 5 on the Teenagers,
+Dion DiMucci on Lymon's 1968 death as the catalyst for his own
+recovery). Cross-links to Module 3 (Bataan on "Gypsy Woman" 1967)
+and to Track 3 (Drifters) embedded in body prose. Glossary added
+17 net entries across the multi-pass session (washington-heights,
+street-corner-harmony, herman-santiago, joe-negroni, jimmy-merchant,
+sherman-garnes, richard-barrett, george-goldner, gee-records,
+bell-sound-studios, jimmy-wright, sax-solo, bass-singer, alan-freed,
+jump-blues, dion-and-the-belmonts, frankie-valli) plus expansion of
+the existing frankie-lymon entry. Total glossary entries now 645.
 
-Fresh-eyes deep dives completed and committed for M1, M2, M3,
-and M4. The M3 pass (commit 6f820f8) shipped seven fixes including
-the M1 cultural-roots cross-link drop, structural-opener convention
-normalization across Bataan/Selena/Tego, the Bataan-to-DeSanto
-cross-link, the Discos Falcon date set to 1948, the Selena hero
-photo Al Rendon attribution, and the Lavoe queerness framing
-softening. The M4 pass (commit d558b94) shipped five fixes including
-reflective-question h3 heading consistency across all M4 tracks,
+Methodology vocabulary convention change applied across all 20
+listening guides this session. Per the revised convention, the
+four methodology frames (timbre, texture, form, gesture) are now
+glossed on first substantive prose mention in every listening
+guide. Previously the methodology reading was treated as the
+standing definition. New convention: the methodology reading
+itself does not gloss them (it is the definition), but every
+listening guide does. Two glossary entries added (timbre, gesture)
+matching the depth and voice of existing texture and form entries.
+A Python script at `under-the-hood/add-methodology-glosses.py`
+ran across all 20 pages with a three-tier preference for placement
+(ordinal paragraphs that introduce the frame, then any ordinal
+paragraph, then any paragraph). 64 buttons added. Per-frame
+coverage: timbre 20/20, texture 20/20, form 20/20, gesture 12/20.
+Eight pages (M1 Track 4 Williams, M2 Tracks 1-2 Bessie Smith and
+Tharpe, all five M3 tracks) do not use the word "gesture" in their
+prose because the fourth prompts there use other framings; these
+remain as future-pass items.
+
+Fresh-eyes deep dives completed and committed for M1, M2, M3, M4,
+and M5 Track 1. The M3 pass (commit 6f820f8) shipped seven fixes
+including the M1 cultural-roots cross-link drop, structural-opener
+convention normalization across Bataan/Selena/Tego, the
+Bataan-to-DeSanto cross-link, the Discos Falcon date set to 1948,
+the Selena hero photo Al Rendon attribution, and the Lavoe
+queerness framing softening. The M4 pass (commit d558b94) shipped
+five fixes including reflective-question h3 heading consistency,
 the M4-to-M3 Bataan cross-link, the Piklz source-list typo, the
-Mitski source-list byline correction to Sadie Bell / April 13 2026,
-and the McCarran-Walter figcaption acknowledgment.
+Mitski source-list byline correction, and the McCarran-Walter
+figcaption acknowledgment. The M5 Track 1 deep pass this session
+shipped across multiple commits (16729c0, a5b0e2b, 89f8e2c,
+4e58df7, fce3de1, 4fe0225, 1f336f4, dafb2a1, 16234bf, c5f51aa,
+aeb6637) covering: initial build; M5-placement fresh-eyes pass
+(SVG rewrite, new context sub-section, fourth-prompt rewrite,
+aftermath touch-up); Goldner as Thread 2 production-side
+connection; production-side extraction argument as the section's
+lead; multiple antipattern sweeps (drops of stage directions and
+self-quotations of the framing reading); and a final factual,
+antipattern, and prose-level pass (mambo group named accurately
+as Howie Lymon's Esquires, Bataan-East-Harlem geography fixed,
+Module 2 / Module 3 attribution clarified, four-semicolon
+influence pile-up restructured, figcaption trimmed from ~330
+words to ~140, Merchant v. Lymon sources entry shortened).
 
 The glossary renderer in `assets/glossary.js` was updated this
 restructure to use `innerHTML` rather than `textContent` so that
@@ -120,10 +181,23 @@ the May 26 term start.
 
 ## Open
 
+**Methodology-vocabulary "gesture" coverage on eight pages.**
+The methodology-vocabulary glossing script left eight listening
+guides without a "gesture" button because those pages do not use
+the word "gesture" in prose: M1 Track 4 (Williams), M2 Track 1
+(Bessie Smith), M2 Track 2 (Tharpe), and all five M3 tracks
+(Puente, Bataan, Lavoe, Selena, Tego Calderón). The fourth prompts
+on those pages use other analytical framings ("steel guitar as
+second voice," "the rhythmic foundation," "the bilingual moment,"
+and so on). A future small pass could weave the word "gesture"
+into the prose on those pages where it would land naturally, then
+re-run the glossing script. Not urgent; the convention is
+satisfied at the glossary-existence and other-page-coverage levels.
+
 **Module 2 framing reading: M5 Track 3 cross-reference.** Line
 267 of M2's framing reading currently has a verbal reference
 to "Module 5's Track 3" without a hyperlink, since the M5
-listening guides have not been built yet. When M5 Track 3
+Track 3 listening guide has not been built yet. When M5 Track 3
 (Drifters) ships, restore the `<a href="../module5/track3-drifters.html">`
 wrapping around "Module 5's Track 3" in that sentence.
 
