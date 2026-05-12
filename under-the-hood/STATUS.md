@@ -12,7 +12,15 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 
 Module 1, Module 2, Module 3, Module 4, and Module 5 Tracks 1-2
 shipped. Five framing readings, all four-tradition modules at
-depth parity. Glossary at 656 entries.
+depth parity. M5 Track 2 (Baez, "Mary Hamilton") shipped with
+deep editorial revision: a three-cohort folk-revival frame
+(first generation / bridge / second, with the 1953 McCarthy-era
+blacklist as the causal hinge), two SVG figures (the three-
+collectors illustration and the three-cohorts diagram), the
+Lomax Digital Archive callout, and a full fresh-eyes pass.
+Glossary at 663 entries. M5 Track 1 (Lymon) and M5 Track 2
+(Baez) both pass the gloss audit at 7 and 10 documented
+intentional skips respectively.
 
 ## Next (in order)
 
@@ -27,8 +35,7 @@ depth parity. Glossary at 656 entries.
   that case is open until we draft the page.
 - **M5 Track 5 (Bruce Springsteen, "The River," 1980).**
 - **M5 index, discussion, quiz.** Pattern set by M1-M4.
-- **Full-repo audit pass** after M5 ships. M5 Track 1 and Track 2
-  have not been audited yet.
+- **Full-repo audit pass** before public launch.
 
 After M5 is fully built, the course is ready for the May 26 term
 start.
@@ -61,3 +68,11 @@ copyright Massar Studios LLC); fair-use defensible but flagged.
 M3 Track 4 Selena photo: contact Al Rendon via alrendon.com to
 confirm attribution and obtain explicit educational-use clearance,
 then update caption credit to "Photo by Al Rendon."
+
+**Wikipedia citations in M5 Track 2 sources.** Two Wikipedia
+entries cited for biographical and album-history facts that are
+also covered by the LOC essay (Massimo 2019) and Baez's
+autobiography (already cited). Wikipedia is acceptable for
+student-facing materials but the standing convention prefers
+scholarly or primary sources where available. Tidy on a future
+sources pass; not blocking for term start.
