@@ -156,7 +156,13 @@ skips.
    hit on `harry-belafonte` matched inside the folk-revival-roster
    list ("Pete Seeger, the Weavers, Odetta, Harry Belafonte's folk-
    circuit work, the Kingston Trio, Baez, Bob Dylan, Phil Ochs..."),
-   same passing-list pattern.
+   same passing-list pattern. Track 2 also carries one passing-list
+   hit on `muddy-waters` matched inside the Lomax Digital Archive
+   callout's roster of Library of Congress recordings ("Lead Belly,
+   Muddy Waters, Jelly Roll Morton, Vera Hall, Texas Gladden,
+   Honeyboy Edwards, and many others"); same passing-list pattern,
+   with Muddy Waters substantively introduced on the Module 2
+   framing reading.
    Module 5 Track 1 (Lymon) carries four passing-list hits and one
    inside-link cross-reference hit. The crooner-lineage parenthetical
    ("Tony Bennett came up in Astoria, Queens; Sinatra in Hoboken;
