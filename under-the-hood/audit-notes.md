@@ -152,11 +152,7 @@ skips.
    passing as one item each inside a parallel rhetorical sequence;
    none is substantively introduced. All five are substantively
    glossed elsewhere on the site (Module 2 framing reading and
-   listening guides primarily). The page also carries one passing
-   hit on `harry-belafonte` matched inside the folk-revival-roster
-   list ("Pete Seeger, the Weavers, Odetta, Harry Belafonte's folk-
-   circuit work, the Kingston Trio, Baez, Bob Dylan, Phil Ochs..."),
-   same passing-list pattern. Track 2 also carries one passing-list
+   listening guides primarily). Track 2 also carries one passing-list
    hit on `muddy-waters` matched inside the Lomax Digital Archive
    callout's roster of Library of Congress recordings ("Lead Belly,
    Muddy Waters, Jelly Roll Morton, Vera Hall, Texas Gladden,
