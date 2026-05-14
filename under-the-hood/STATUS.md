@@ -87,13 +87,6 @@ YouTube card and point students at the East Side Digital reissue
 short note about why. Track is shipped on the current treatment;
 this is a flag for revisit, not a blocker.
 
-**Methodology-vocabulary "gesture" coverage on eight pages.** M1
-Track 4 (Williams), M2 Tracks 1-2 (Smith, Tharpe), and all five
-M3 tracks do not use "gesture" in prose; the methodology-glossing
-script left those pages without a gesture button. A future small
-pass could weave the word in where it lands naturally, then re-run
-the script. Not urgent.
-
 **Hero photo verification before public launch.** Most listening
 guides use editorial-use copyrighted photos (Getty, Michael Ochs,
 Sugar Hill, Parkwood, etc.) under educational fair use with full
