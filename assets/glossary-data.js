@@ -3839,7 +3839,7 @@ var GLOSSARY = {
 
   "benjamin-folkman": {
     label: "Benjamin Folkman",
-    definition: "American musicologist, pianist, and electronic-music collaborator (born 1939), the third member of the core <em>Switched-On Bach</em> production team. Folkman trained as a musicologist and shared Wendy Carlos\u2019s interest in early electronic music; he worked with Carlos at the Columbia-Princeton Electronic Music Center in the early 1960s and assisted on the <em>Switched-On Bach</em> sessions in 1967\u20131968, contributing arrangement work and writing the original LP\u2019s liner notes (a substantial essay on the music and on the Moog synthesis approach that is still widely regarded as one of the better introductions to early synthesizer music). Folkman is credited on the album cover as Carlos\u2019s collaborator on the realizations."
+    definition: "American musicologist, pianist, and electronic-music collaborator (born 1939), the third member of the core <em>Switched-On Bach</em> production team alongside Wendy Carlos (performer and engineer) and Rachel Elkind (producer). Folkman trained as a musicologist and shared Wendy Carlos\u2019s interest in early electronic music; he worked with Carlos at the Columbia-Princeton Electronic Music Center in the early 1960s and assisted on the <em>Switched-On Bach</em> sessions in 1967\u20131968, contributing arrangement work and writing the original LP\u2019s liner notes (a substantial essay on the music and on the Moog synthesis approach that is still widely regarded as one of the better introductions to early synthesizer music). Folkman is credited on the album cover as Carlos\u2019s collaborator on the realizations."
   },
 
   "vladimir-ussachevsky": {
