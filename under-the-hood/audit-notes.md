@@ -63,7 +63,18 @@ skips.
    neither of which is the technical music-vocabulary sense the
    glossary entry covers. Module 5 Track 1 (Lymon) carries the same
    "royalty dynamics" hit on `dynamics` in its production-side
-   extraction paragraph.
+   extraction paragraph. Module 5 Track 3 (Drifters) carries the
+   same "royalty dynamics" hit on `dynamics` in its first context
+   sub-section, plus a "dominant gospel voice of her decade" hit on
+   `dominant` (adjective sense, not the V chord) in the Clara Ward
+   paragraph, a "baion-derived rhythm pattern" hit on `rhythm`
+   (descriptive use of the everyday English noun rather than the
+   technical methodology-frame sense; `baion` is glossed at first
+   mention and the rhythm-pattern noun functions as part of the
+   compound description), and a "first beat of each measure" hit on
+   `beat` (everyday English noun in a descriptive sentence about
+   the baion pattern; `measure` is glossed as the technical bar-of-
+   music sense on the same line).
    For `pop` specifically: every page in Modules 1-4 carries one
    verb-sense hit in the standard reading-tips note ("you can pop
    open by clicking"); these are wrong-sense matches and not
@@ -95,7 +106,12 @@ skips.
    Module 5 Track 2 (Baez) carries one such hit on `jazz` matched
    inside the proper-noun festival name "Newport Jazz Festival"
    (the festival, not the genre); the genre noun `jazz` is not used
-   substantively in the prose.
+   substantively in the prose. Module 5 Track 3 (Drifters) carries
+   one such hit on `rock-and-roll` matched inside "the Rock and
+   Roll Hall of Fame" (the institution, not the genre); the genre
+   noun is not used substantively in the prose, which stays inside
+   the R&B / pop / soul vocabulary the recording's marketing
+   actually used.
 4. **Compound-already-buttoned upstream.** When a longer compound key
    like `latin-trap` is buttoned at first mention, the audit also
    flags the bare `trap` later in the prose. Buttoning the bare term
@@ -181,6 +197,21 @@ skips.
    neighborhood-doo-wop inheritance...") gives an inside-link cross-
    reference hit on `joe-bataan`, where Bataan is substantively
    introduced and glossed on his own Module 3 listening guide.
+   Module 5 Track 3 (Drifters) carries four passing-list and cross-
+   reference skips on the same pattern. The timbre prompt's contrast
+   sentence ("a tenor that sits noticeably lower in his range than
+   the equivalent Frankie Lymon or Ben E. King leads") gives a
+   passing-reference hit on `frankie-lymon`, who is substantively
+   introduced and glossed on Track 1; Ben E. King is already
+   buttoned upstream on Track 3 itself. The timbre prompt also
+   carries an inside-link cross-reference hit on `sam-cooke` matched
+   inside `<a href="../module1/track1-cooke.html">Sam Cooke on
+   Module 1's Track 1</a>`, where Cooke is substantively introduced
+   and glossed on his own page. The gesture prompt's cross-reference
+   to Track 1 ("the four-voice doo-wop harmony of three Black and
+   two Puerto Rican boys from one street in Washington Heights")
+   gives a passing-reference hit on `washington-heights`,
+   substantively introduced and glossed on Track 1.
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.
