@@ -195,6 +195,11 @@ var GLOSSARY = {
     definition: "A vocal technique where a singer produces notes above their normal range using a different mode of vocal cord vibration, creating a lighter, often airy sound. Common in gospel, soul, R&B, and rock. Think of the high notes in a Prince or Marvin Gaye song."
   },
 
+  "high-frequency": {
+    label: "High-frequency",
+    definition: "In acoustics, frequency is the rate at which a sound wave vibrates the air, measured in cycles per second (hertz, abbreviated Hz). Higher frequencies produce higher pitches: a low bass note might vibrate at around 50 Hz, a piano middle C at about 262 Hz, and a high violin note at over 2,000 Hz. When a record arrangement is described as filling the \u201chigh-frequency register,\u201d it means the instruments or voices occupying the top of the audible band, above the rhythm section's bass and drums and above the lead vocal: tenor harmony voices, falsetto, high horns, cymbals, and the upper notes of a violin section."
+  },
+
   "hard-gospel": {
     label: "Hard gospel",
     definition: "A style of postwar African American gospel singing characterized by extreme emotional intensity, vocal grit, shouting, and improvisation. It contrasted with the smoother, more harmony-focused jubilee tradition. Hard gospel directly fed into the development of soul music."
