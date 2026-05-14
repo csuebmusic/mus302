@@ -3698,8 +3698,8 @@ var GLOSSARY = {
   },
 
   "counterpoint": {
-    label: "Counterpoint",
-    definition: "The compositional practice of writing two or more independent melodic lines that move simultaneously and combine into a coherent harmonic and rhythmic whole. Each line has its own melodic shape, its own rhythm, and its own integrity as a musical idea; together the lines fit into a vertical harmonic logic. The texture is sometimes described as horizontal music, because the lines run side by side across time rather than stacking vertically as chords. Counterpoint is the central organizing principle of Renaissance and Baroque music, and Bach\u2019s music in particular is the canonical reference point for tight, multi-line contrapuntal writing. Music students still typically learn the rules of \u201cspecies counterpoint\u201d (a graded set of constraints developed in the eighteenth century for teaching the technique) as a foundational part of their training."
+    label: "Counterpoint (contrapuntal)",
+    definition: "The compositional practice of writing two or more independent melodic lines that move simultaneously and combine into a coherent harmonic and rhythmic whole. Each line has its own melodic shape, its own rhythm, and its own integrity as a musical idea; together the lines fit into a vertical harmonic logic. The texture is sometimes described as horizontal music, because the lines run side by side across time rather than stacking vertically as chords. <em>Contrapuntal</em> is the adjective form: music in which counterpoint is the central organizing principle is called contrapuntal music. Counterpoint is the central organizing principle of Renaissance and Baroque music, and Bach\u2019s music in particular is the canonical reference point for tight, multi-line contrapuntal writing. Music students still typically learn the rules of \u201cspecies counterpoint\u201d (a graded set of constraints developed in the eighteenth century for teaching the technique) as a foundational part of their training."
   },
 
   "ritornello-form": {
