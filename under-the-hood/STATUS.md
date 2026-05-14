@@ -94,11 +94,6 @@ script left those pages without a gesture button. A future small
 pass could weave the word in where it lands naturally, then re-run
 the script. Not urgent.
 
-**Duplicate `appalachia` entry in glossary-data.js.** Two
-`"appalachia"` keys (lines ~809 and ~2952). Second one wins
-silently and is the more complete definition, so behavior is
-correct; tidy on a future glossary pass.
-
 **Hero photo verification before public launch.** Most listening
 guides use editorial-use copyrighted photos (Getty, Michael Ochs,
 Sugar Hill, Parkwood, etc.) under educational fair use with full
@@ -119,26 +114,3 @@ if a clearance request becomes useful. M3 Track 4 Selena photo:
 contact Al Rendon via alrendon.com to confirm attribution and
 obtain explicit educational-use clearance, then update caption
 credit to "Photo by Al Rendon."
-
-**Wikipedia citations in M5 Track 2, Track 3, and Track 4 sources.**
-Two Wikipedia entries cited in Track 2 for biographical and album-
-history facts also covered by the LOC essay (Massimo 2019) and
-Baez's autobiography. M5 Track 3 sources lean on four Wikipedia
-entries (Up on the Roof, the Drifters, Rudy Lewis, There Goes
-My Baby) for chart performance and personnel consolidation, plus
-Rate Your Music and Discogs for the session-musician list. M5
-Track 4 sources cite two Wikipedia entries (Switched-On Bach and
-Brandenburg Concertos) for production-history and Bach-context
-consolidation; primary or scholarly sources (Niebur LOC essay,
-Pinch and Trocco's *Analog Days*, Kheshti's 33 1/3 volume,
-Carlos's own liner essays at wendycarlos.com) also cover the
-same material. Wikipedia is acceptable for student-facing
-materials but the standing convention prefers scholarly or
-primary sources where available. Tidy on a future sources pass;
-not blocking for term start.
-
-**`tin-pan-alley` glossary entry**, if it exists, has not yet
-been revised to match the updated `brill-building`, `aldon-music`,
-and `the-drifters` framing (naming racialized credit and royalty
-dynamics explicitly, not just describing the institutional
-history neutrally). Audit on next glossary pass.
