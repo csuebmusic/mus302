@@ -212,7 +212,7 @@ skips.
    two Puerto Rican boys from one street in Washington Heights")
    gives a passing-reference hit on `washington-heights`,
    substantively introduced and glossed on Track 1.
-   Module 5 Track 4 (Carlos) carries five documented intentional
+   Module 5 Track 4 (Carlos) carries nine documented intentional
    skips. One on `beat` ("three subdivisions per beat") in the
    compound-meter explanation, where `compound-meter` is buttoned
    at first mention and the bare `beat` is being defined inline as
@@ -226,7 +226,21 @@ skips.
    and glossed on Module 1 Track 4. One on `gary-sherman` matched
    in "Garry Sherman's string section" inside the Track 3 cross-
    reference paragraph, substantively introduced and glossed on
-   Track 3.
+   Track 3. The remaining four are from the "Where this track sits
+   in Module 5" sub-section, which by design references the other
+   M5 tracks substantively rather than crossing into them via the
+   methodology-vocabulary cross-callback pattern: one on
+   `the-drifters` ("The Drifters in Track 3 are an African American
+   vocal group..."), one on `folk-revival` ("working a transatlantic
+   folk-revival tradition..."), and one on `brill-building`
+   ("working inside a Brill Building songwriting and producing
+   system..."), all three substantively introduced and glossed on
+   their respective track pages and on the framing reading. And one
+   false-positive hit on `basement-workshop` matched in the bare
+   English phrase "the family basement workshop" in the Moog
+   biographical paragraph, which has nothing to do with the
+   Basement Workshop Asian American organization in NYC the
+   glossary entry covers.
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.
