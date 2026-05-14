@@ -10,57 +10,74 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 
 ## Done
 
-Module 1, Module 2, Module 3, Module 4, and Module 5 Tracks 1-3
+Module 1, Module 2, Module 3, Module 4, and Module 5 Tracks 1-4
 shipped. Five framing readings, all four-tradition modules at
 depth parity.
 
-M5 Track 3 (the Drifters, "Up on the Roof," 1962) is the most
-recent ship. The page now opens with the Treadwell salaried-
-employee story as the structural fact of the recording, walks
-through the Goffin-and-King writing of the song at Aldon Music,
-carries a system-explainer paragraph that names the three-party
-ownership split (Aldon owns the song, Atlantic owns the recording,
-Treadwell owns the singers) and a six-stage pipeline diagram
-showing how the song traveled from the cubicle to Rudy Lewis's
-microphone, introduces Lewis with the Clara Ward Singers gospel
-arc and the disclosure of Lewis's death and the Vera 1996 liner
-notes, narrates the June 28, 1962 session, and carries a four-
-traditions diagram (Figure 2) that names the Black gospel and
-R&B, Brill Building songwriting, Brazilian baião, and European
-chamber-orchestra streams converging on the recording, with the
-diagram organized by relationship type (inherited vs imported).
-The four listen-for prompts then center Rudy Lewis's gospel
-voice carrying the Jewish songwriting team's vision of urban
-escape inside the Atlantic-Brill-Aldon ecosystem. Page passes
-the gloss audit at 8 documented intentional skips. Glossary at
-686 entries; nineteen new entries for Track 3 (the singers Rudy
-Lewis, Charlie Thomas, Tommy Evans, Gene Pearson; the
-institutional figures George Treadwell, Jerry Leiber, Mike
-Stoller, Garry Sherman, Clyde McPhatter, Ben E. King, Sarah
-Vaughan; the session players George Duvivier and Gary Chester;
-the Clara Ward Singers, the Shirelles, Atlantic Records, "There
-Goes My Baby," the baion rhythm, the kettledrum, the string
-section, *West Side Story*, the tenement as urban form, and
-high-frequency as an acoustics concept). M2's Track 3 cross-
-reference is restored at line 267 of the framing reading.
+M5 Track 4 (Wendy Carlos, *Switched-On Bach*, 1968) is the most
+recent ship. The page anchors on the album's closing piece, Bach's
+Brandenburg Concerto No. 3 in G major. The four context sub-
+sections walk through Bach's 1721 manuscript and the unusual
+structure of the third concerto (nine string parts plus continuo,
+ritornello-form outer movements, the two-chord Phrygian-cadence
+Adagio in between); Carlos's training at Brown (1958-62) and at
+Columbia-Princeton under Ussachevsky and Luening (1962-65), the
+1964 AES meeting with Moog, and the 1967 home studio with the
+custom Moog modular synthesizer; the labor-intensive studio
+process behind the recording (the monophonic instrument played one
+note at a time, the home-built eight-track tape machine, the
+continuous oscillator-tuning problem, the more-than-a-thousand-hour
+estimated studio time, the patch-by-patch hand-documented timbral
+design); and the recording's reception (Robert Moog's October 1968
+AES preview of the third movement, the 1969 Billboard charts and
+triple Grammy, the 1986 platinum certification, the 2005 LOC
+National Recording Registry induction, Glenn Gould's High Fidelity
+endorsement of Brandenburg 4, the downstream synthesizer adoption
+across rock, funk, soul, disco, hip-hop, and techno from 1971
+forward).
 
-The `brill-building`, `aldon-music`, and `the-drifters` glossary
-entries were revised mid-session to foreground the publishing-
-and-recording-system mechanics (publisher signs songwriters,
-runs in-house demo studio, employs pluggers to shop demos;
-labels assign songs to their artists, pay mechanical royalties
-back to the publisher, pay singers a wage with no royalty share;
-manager owns the singers' contracts and the group's name as
-trademark). The system framing now reads as a coherent set
-across the three entries.
+Two diagrams. Figure 1 is a seven-stage pipeline showing how a
+single Bach line moved from manuscript to finished sound on the
+album: Bach's score, Moog patch design, tuning check, monophonic
+keyboard performance, eight-track tape recording, layering through
+bouncing across multiple overdub passes, master mix delivered to
+Columbia in October 1968. Figure 2 is a four-traditions diagram
+parallel to Track 3's pattern: late Baroque counterpoint and the
+Columbia-Princeton academic electronic music tradition on the
+inherited side, the American tinkerer-engineer tradition (Cahill,
+Theremin, Cage, Moog) and the multi-track studio recording
+tradition (Les Paul, the Beach Boys, the Beatles) on the
+imported/adapted side.
+
+Hero photo is Leonard M. DeLessio's October 1979 portrait of
+Carlos at the Moog in her New York studio, with the *Switched-On
+Brandenburgs* tape boxes visible on the shelf and the Brandenburg
+3 score on the music stand (Corbis via Getty; the photo was taken
+five months after Carlos's May 1979 *Playboy* interview, during
+the sessions for the 1980 *Switched-On Brandenburgs* album that
+was her first release under her own name rather than Walter
+Carlos). Caption names the photograph's context and credits the
+photographer. Educational fair use; flagged for the launch-photo
+verification pass.
+
+Listen card points at the YouTube full-album upload supplied by
+the user, with a timestamp note for where Brandenburg 3 starts at
+28:42. The on-page treatment per the user's instruction is a
+normal listening guide with no on-page acknowledgment of the
+rights situation; the rights situation itself is recorded in
+this file under Open below for tracking.
+
+Page passes the gloss audit at 5 documented intentional skips
+(`beat`, `dominant` in adjective sense, the `hank-williams` and
+`grand-ole-opry` cross-track callbacks to M1 Track 4, and the
+`gary-sherman` cross-track callback to Track 3). Glossary at 726
+entries; 40 new entries for Track 4 grouped under a new "Module 5
+Track 4: Carlos, Bach, and synthesis" section.
 
 ## Next (in order)
 
-- **M5 Track 4 (Wendy Carlos, *Switched-On Bach* excerpt, 1968).**
-  Synthesis pioneers. Needs special handling for the YouTube card
-  given Carlos's stated wishes about her catalog; convention for
-  that case is open until we draft the page.
-- **M5 Track 5 (Bruce Springsteen, "The River," 1980).**
+- **M5 Track 5 (Bruce Springsteen, "The River," 1980).** The
+  deindustrialization-era working-class heartland-rock anchor.
 - **M5 index, discussion, quiz.** Pattern set by M1-M4.
 - **Full-repo audit pass** before public launch.
 
@@ -68,6 +85,17 @@ After M5 is fully built, the course is ready for the May 26 term
 start.
 
 ## Open
+
+**M5 Track 4 listen card points at an unauthorized YouTube
+upload.** Carlos's catalog is intentionally not on streaming or
+YouTube by her own wishes; the linked upload's own description
+acknowledges this and uploads anyway. The on-page treatment per
+the user is a normal listening guide. A defensible alternative
+treatment, if the position changes before launch, is to drop the
+YouTube card and point students at the East Side Digital reissue
+(ESD 81602) and Carlos's own site at wendycarlos.com, with a
+short note about why. Track is shipped on the current treatment;
+this is a flag for revisit, not a blocker.
 
 **Methodology-vocabulary "gesture" coverage on eight pages.** M1
 Track 4 (Williams), M2 Tracks 1-2 (Smith, Tharpe), and all five
@@ -93,21 +121,31 @@ the 1962 Drifters lineup (Kriegsmann's "K" signature visible at
 lower-right); image circulated via the Drifters' management
 office in 1962 and is widely reproduced in obituary coverage of
 group members. Fair-use defensible but flagged for verification.
-M3 Track 4 Selena photo: contact Al Rendon via alrendon.com to
-confirm attribution and obtain explicit educational-use clearance,
-then update caption credit to "Photo by Al Rendon."
+M5 Track 4 uses Leonard M. DeLessio's October 1979 portrait of
+Carlos at the Moog (Corbis via Getty); editorial-use rationale
+holds for an educational listening guide but flagged for the
+launch verification pass; DeLessio estate contact through Getty
+if a clearance request becomes useful. M3 Track 4 Selena photo:
+contact Al Rendon via alrendon.com to confirm attribution and
+obtain explicit educational-use clearance, then update caption
+credit to "Photo by Al Rendon."
 
-**Wikipedia citations in M5 Track 2 and Track 3 sources.** Two
-Wikipedia entries cited in Track 2 for biographical and album-
+**Wikipedia citations in M5 Track 2, Track 3, and Track 4 sources.**
+Two Wikipedia entries cited in Track 2 for biographical and album-
 history facts also covered by the LOC essay (Massimo 2019) and
 Baez's autobiography. M5 Track 3 sources lean on four Wikipedia
 entries (Up on the Roof, the Drifters, Rudy Lewis, There Goes
 My Baby) for chart performance and personnel consolidation, plus
-Rate Your Music and Discogs for the session-musician list.
-Wikipedia is acceptable for student-facing materials but the
-standing convention prefers scholarly or primary sources where
-available. Tidy on a future sources pass; not blocking for term
-start.
+Rate Your Music and Discogs for the session-musician list. M5
+Track 4 sources cite two Wikipedia entries (Switched-On Bach and
+Brandenburg Concertos) for production-history and Bach-context
+consolidation; primary or scholarly sources (Niebur LOC essay,
+Pinch and Trocco's *Analog Days*, Kheshti's 33 1/3 volume,
+Carlos's own liner essays at wendycarlos.com) also cover the
+same material. Wikipedia is acceptable for student-facing
+materials but the standing convention prefers scholarly or
+primary sources where available. Tidy on a future sources pass;
+not blocking for term start.
 
 **`tin-pan-alley` glossary entry**, if it exists, has not yet
 been revised to match the updated `brill-building`, `aldon-music`,
