@@ -811,11 +811,6 @@ var GLOSSARY = {
     definition: "In 2010, the Pulitzer Board awarded Hank Williams a Special Citation for his \u201ccraftsmanship as a songwriter who expressed universal feelings with poignant simplicity and played a pivotal role in transforming country music into a major musical and cultural force in American life.\u201d One of the very few times the Pulitzer has recognized a country songwriter."
   },
 
-  "appalachia": {
-    label: "Appalachia",
-    definition: "A cultural region of the eastern United States, comprising parts of the Appalachian mountain range from western New York to northern Georgia and Alabama. Appalachia developed a distinctive folk culture rooted in Scotch-Irish, English, and African American traditions, and its music (ballads, fiddle tunes, mountain banjo styles) was a foundational element of country music."
-  },
-
   /* ============================
      Music theory and analysis
      ============================ */
