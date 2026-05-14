@@ -212,6 +212,21 @@ skips.
    two Puerto Rican boys from one street in Washington Heights")
    gives a passing-reference hit on `washington-heights`,
    substantively introduced and glossed on Track 1.
+   Module 5 Track 4 (Carlos) carries five documented intentional
+   skips. One on `beat` ("three subdivisions per beat") in the
+   compound-meter explanation, where `compound-meter` is buttoned
+   at first mention and the bare `beat` is being defined inline as
+   part of the same explanation. One on `dominant` matched in "the
+   dominant institutional voice" (adjective sense, not the V chord).
+   One inside-link cross-reference hit on `hank-williams` matched
+   inside `<a href="../module1/track4-williams.html">Hank Williams
+   on Module 1's Track 4</a>`, where Williams is substantively
+   introduced and glossed on his own page. One on `grand-ole-opry`
+   in the same cross-reference paragraph, substantively introduced
+   and glossed on Module 1 Track 4. One on `gary-sherman` matched
+   in "Garry Sherman's string section" inside the Track 3 cross-
+   reference paragraph, substantively introduced and glossed on
+   Track 3.
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.
