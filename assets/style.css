@@ -363,6 +363,19 @@ figure svg.diagram.diagram-tall {
   max-width: 440px;
 }
 
+/* One-off override for the Module 5 Track 4 'Where Switched-On Bach
+   sits in Module 5' genealogy diagram. Marked .diagram-tall because
+   it is overall taller than wide, but its content (four side-by-side
+   head-row boxes plus several full-width rows below) needs more
+   horizontal room than the .diagram-tall 440px cap allows. The
+   diagram's source viewBox is 760 wide, so capping at 760px lets it
+   render at its native width on desktop and scale down on narrow
+   screens. Do not generalize this rule; it is specific to this one
+   diagram. */
+figure svg.diagram.diagram-tall.diagram-genealogy {
+  max-width: 760px;
+}
+
 /* Module contents list (used on module landing pages) */
 .module-contents {
   list-style: none;
