@@ -16,38 +16,21 @@ depth parity.
 
 M5 Track 4 (Wendy Carlos, *Switched-On Bach*, 1968) is the most
 recent ship. The page anchors on the album's closing piece, Bach's
-Brandenburg Concerto No. 3 in G major. The four context sub-
-sections walk through Bach's 1721 manuscript and the unusual
-structure of the third concerto (nine string parts plus continuo,
-ritornello-form outer movements, the two-chord Phrygian-cadence
-Adagio in between); Carlos's training at Brown (1958-62) and at
-Columbia-Princeton under Ussachevsky and Luening (1962-65), the
-1964 AES meeting with Moog, and the 1967 home studio with the
-custom Moog modular synthesizer; the labor-intensive studio
-process behind the recording (the monophonic instrument played one
-note at a time, the home-built eight-track tape machine, the
-continuous oscillator-tuning problem, the more-than-a-thousand-hour
-estimated studio time, the patch-by-patch hand-documented timbral
-design); and the recording's reception (Robert Moog's October 1968
-AES preview of the third movement, the 1969 Billboard charts and
-triple Grammy, the 1986 platinum certification, the 2005 LOC
-National Recording Registry induction, Glenn Gould's High Fidelity
-endorsement of Brandenburg 4, the downstream synthesizer adoption
-across rock, funk, soul, disco, hip-hop, and techno from 1971
-forward).
-
-Two diagrams. Figure 1 is a seven-stage pipeline showing how a
-single Bach line moved from manuscript to finished sound on the
-album: Bach's score, Moog patch design, tuning check, monophonic
-keyboard performance, eight-track tape recording, layering through
-bouncing across multiple overdub passes, master mix delivered to
-Columbia in October 1968. Figure 2 is a four-traditions diagram
-parallel to Track 3's pattern: late Baroque counterpoint and the
-Columbia-Princeton academic electronic music tradition on the
-inherited side, the American tinkerer-engineer tradition (Cahill,
-Theremin, Cage, Moog) and the multi-track studio recording
-tradition (Les Paul, the Beach Boys, the Beatles) on the
-imported/adapted side.
+Brandenburg Concerto No. 3 in G major. Five context sub-sections:
+the album overview and a zoom into Brandenburg 3; Carlos's training
+and the path to the home studio; the labor-intensive recording
+process; the album's reception and downstream synthesizer adoption;
+and a closing module-connection sub-section that walks through the
+immigration and working-class genealogy of the synth-pioneer
+thread (Ussachevsky, Luening, Babbitt, Moog, Schoenberg's twelve-
+tone technique via Babbitt, and the downstream Black popular music
+adoption from 1971 forward). Three diagrams: Figure 1 a seven-stage
+pipeline of how a single Bach line moved from manuscript to finished
+sound; Figure 2 a four-traditions typology parallel to Track 3's
+pattern; Figure 3 a vertical genealogy diagram for the module-
+connection sub-section, with a one-off `.diagram-genealogy` CSS
+class that overrides the `.diagram-tall` 440px cap with 760px to
+fit the diagram's wider content.
 
 Hero photo is Leonard M. DeLessio's October 1979 portrait of
 Carlos at the Moog in her New York studio, with the *Switched-On
@@ -67,12 +50,19 @@ normal listening guide with no on-page acknowledgment of the
 rights situation; the rights situation itself is recorded in
 this file under Open below for tracking.
 
-Page passes the gloss audit at 5 documented intentional skips
-(`beat`, `dominant` in adjective sense, the `hank-williams` and
-`grand-ole-opry` cross-track callbacks to M1 Track 4, and the
-`gary-sherman` cross-track callback to Track 3). Glossary at 726
-entries; 40 new entries for Track 4 grouped under a new "Module 5
-Track 4: Carlos, Bach, and synthesis" section.
+Page passes the gloss audit at 13 warnings, all documented
+intentional skips (the original Track 4 five — `beat`, `dominant`
+in adjective sense, the `hank-williams` and `grand-ole-opry`
+cross-track callbacks to M1 Track 4, and the `gary-sherman`
+cross-track callback to Track 3 — plus four added when the
+module-connection sub-section landed: `the-drifters`,
+`folk-revival`, and `brill-building` as cross-track callbacks to
+other M5 tracks where they are substantively introduced, and a
+false-positive collision on `basement-workshop` for the bare
+English phrase "family basement workshop" in the Moog biographical
+paragraph).
+
+Glossary at 734 entries.
 
 ## Next (in order)
 
