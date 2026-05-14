@@ -3668,4 +3668,208 @@ var GLOSSARY = {
     definition: "African American girl group formed in 1957 at Passaic High School in Passaic, New Jersey, under the name the Poquellos by four classmates: Shirley Owens (b. June 10, 1941, Passaic; lead vocals), Doris Coley (b. August 2, 1941, Goldsboro, North Carolina; d. February 4, 2000), Addie \u201cMicki\u201d Harris (b. January 22, 1940, Passaic; d. June 10, 1982, Los Angeles, of a heart attack during a performance), and Beverly Lee (b. August 3, 1941, Passaic). The group entered a school talent show on a teacher\u2019s suggestion with an original song, \u201cI Met Him on a Sunday\u201d; a classmate, Mary Jane Greenberg, brought them home to audition for her mother Florence Greenberg, a white Jewish New Jersey housewife who had just started a small label called Tiara Records out of her living room. The Shirelles signed with Tiara in 1958, then followed Greenberg to Scepter Records, the larger label she founded in 1959, which she eventually moved to offices at 1650 Broadway in the same building as Aldon Music. Working with Greenberg and the African American producer-songwriter Luther Dixon, the Shirelles became the first African American girl group to reach number one on the Billboard Hot 100 with the Goffin-and-King song \u201cWill You Love Me Tomorrow\u201d in November 1960; \u201cDedicated to the One I Love\u201d (a cover of the Five Royales), \u201cMama Said,\u201d \u201cBaby It\u2019s You,\u201d \u201cSoldier Boy,\u201d and \u201cFoolish Little Girl\u201d followed across the next three years. Greenberg told the Shirelles that Scepter was holding their royalties in trust funds that they would receive on their twenty-first birthdays; when they reached the age and asked, the trusts did not exist. The group sued Scepter in 1964 for breach of contract, settled out of court in 1965, and were contractually unable to record for any other label during the litigation, which broke their commercial momentum at the exact moment Motown\u2019s Detroit girl groups (the Supremes, the Marvelettes, Martha and the Vandellas) were ascending. The original Shirelles were inducted into the Rock and Roll Hall of Fame in 1996. The trust-fund scam they were subjected to was a common extractive practice in the white-owned independent record industry of the 1950s and early 1960s, and the Shirelles\u2019 story is a touchstone example of how Black girl-group vocal labor on hit records of that period was systematically separated from the royalty income those records generated."
   },
 
+  /* ============================
+     Module 5 Track 4: Carlos, Bach, and synthesis
+     ============================ */
+
+  "johann-sebastian-bach": {
+    label: "Johann Sebastian Bach (1685\u20131750)",
+    definition: "German composer and organist (born March 31, 1685, in Eisenach; died July 28, 1750, in Leipzig), generally regarded as one of the most accomplished composers in the European art-music tradition and the central figure of the late Baroque period. Bach spent his entire career inside the church and court musical establishments of small German cities (Arnstadt, M\u00fchlhausen, Weimar, K\u00f6then, and from 1723 until his death Leipzig, where he served as the cantor at the Thomaskirche and director of music for the city). He wrote across nearly every Baroque genre except opera: more than two hundred surviving sacred cantatas, two passion settings (the <em>St. John Passion</em> and the <em>St. Matthew Passion</em>), the <em>Mass in B minor</em>, the <em>Brandenburg Concertos</em>, the four orchestral suites, an enormous body of solo keyboard music (the two books of <em>The Well-Tempered Clavier</em>, the Goldberg Variations, the Inventions and Sinfonias, the English and French Suites, the Partitas), substantial chamber music, and music for solo organ, violin, and cello. Bach\u2019s compositional thinking is centrally organized around counterpoint (independent melodic lines moving simultaneously). His music was largely forgotten in the decades after his death and rediscovered through the nineteenth century, beginning with Felix Mendelssohn\u2019s 1829 revival of the <em>St. Matthew Passion</em>; the modern Bach-centered concert and recording tradition dates from the late nineteenth century forward."
+  },
+
+  "baroque-music": {
+    label: "Baroque music",
+    definition: "The dominant European art-music style of roughly 1600 to 1750, named retrospectively after the architectural style of the same period. The Baroque tradition produced the first operas, the first independent instrumental ensemble forms (the concerto, the sonata, the suite), and a vocabulary of musical figures and gestures (terraced dynamics, ornamentation, basso continuo accompaniment, ritornello forms) that organized Western art music until the rise of the Classical style around 1750. Major Baroque composers include Claudio Monteverdi, Henry Purcell, Antonio Vivaldi, Domenico Scarlatti, George Frideric Handel, and Johann Sebastian Bach. The period\u2019s instruments are mostly different from modern ones: the harpsichord rather than the piano, gut-strung violins played with shorter bows, Baroque trumpets without valves, and a wide family of recorders, viols, and lutes that fell out of use as the Classical and Romantic periods developed."
+  },
+
+  "brandenburg-concertos": {
+    label: "Brandenburg Concertos",
+    definition: "Six instrumental concertos by Johann Sebastian Bach, BWV 1046\u20131051, dedicated to Margrave Christian Ludwig of Brandenburg-Schwedt in a French-language manuscript sent to Berlin on March 24, 1721. The original title is <em>Six Concerts avec plusieurs instruments</em> (\u201cSix Concertos for Several Instruments\u201d); the music itself was probably composed at various points across Bach\u2019s years in Weimar and K\u00f6then. The Margrave never replied, and the concertos were filed in his court library and rediscovered in the nineteenth century. Each of the six concertos uses a different combination of solo and ensemble instruments, exploring the full range of the Baroque concerto form. Brandenburg Concerto No. 3 in G major, BWV 1048, is scored for three violins, three violas, three cellos, and basso continuo (harpsichord and bass); No. 4 in G major features two recorders and solo violin against a string ensemble; No. 5 in D major features harpsichord, flute, and violin in a quasi-cadenza role and is often described as the first keyboard concerto. The set is now generally regarded as among the most important orchestral works of the Baroque period."
+  },
+
+  "basso-continuo": {
+    label: "Basso continuo",
+    definition: "The standard accompanimental texture of Baroque music, in which a bass line is played by one or more low-pitched melodic instruments (cello, bass, bassoon) while a keyboard player (harpsichord or organ) reads the same bass line and improvises chords above it based on small figured-bass numerals printed under the notes. The combination is often abbreviated as \u201ccontinuo.\u201d The texture is the harmonic and rhythmic foundation of nearly every Baroque ensemble piece; in the Brandenburg Concertos, the continuo group of harpsichord and bass underpins the entire string ensemble. The convention essentially disappeared after 1800 as the Classical and Romantic periods moved toward fully written-out keyboard parts."
+  },
+
+  "harpsichord": {
+    label: "Harpsichord",
+    definition: "A keyboard instrument widely used in European music from roughly the fifteenth century through the late eighteenth century, before being largely displaced by the piano. The harpsichord\u2019s strings are plucked by small quills attached to the underside of each key rather than struck by a hammer (as in the piano), producing a bright, percussive tone with very little dynamic variation: every note sounds at approximately the same volume regardless of how hard the key is pressed. The instrument is the standard keyboard of the Baroque period and is the basso continuo instrument in nearly every Baroque ensemble work, including Bach\u2019s Brandenburg Concertos. The modern harpsichord revival, alongside the broader period-instrument movement of the twentieth century, has restored the instrument to active concert use."
+  },
+
+  "counterpoint": {
+    label: "Counterpoint",
+    definition: "The compositional practice of writing two or more independent melodic lines that move simultaneously and combine into a coherent harmonic and rhythmic whole. Each line has its own melodic shape, its own rhythm, and its own integrity as a musical idea; together the lines fit into a vertical harmonic logic. The texture is sometimes described as horizontal music, because the lines run side by side across time rather than stacking vertically as chords. Counterpoint is the central organizing principle of Renaissance and Baroque music, and Bach\u2019s music in particular is the canonical reference point for tight, multi-line contrapuntal writing. Music students still typically learn the rules of \u201cspecies counterpoint\u201d (a graded set of constraints developed in the eighteenth century for teaching the technique) as a foundational part of their training."
+  },
+
+  "ritornello-form": {
+    label: "Ritornello form",
+    definition: "A structural pattern common in Baroque concerto movements, in which a recurring full-ensemble passage (the <em>ritornello</em>, Italian for \u201clittle return\u201d) alternates with episodes of more soloistic development. The ritornello typically opens the movement, returns several times across its course (often in different keys), and returns once more at the end to close the movement. The episodes between the ritornello statements develop smaller motives drawn from the ritornello or introduce new material, often featuring smaller groups of soloists. The form is the standard architectural shape of the outer movements of Bach\u2019s Brandenburg Concertos and of most concerti by Vivaldi, Handel, and their contemporaries."
+  },
+
+  "concertino": {
+    label: "Concertino",
+    definition: "In a Baroque concerto, the small group of soloistic players who alternate with the full ensemble (the <em>ripieno</em>) across the course of the piece. The concertino-versus-ripieno alternation is the defining textural feature of the concerto grosso form (literally \u201cgrand concerto\u201d), in which a small group of soloists is set against a larger string ensemble. In Brandenburg Concerto No. 3, Bach blurs the convention: the concerto is scored for nine string parts plus basso continuo, with no formally designated soloist group, and the nine players fluidly shift between concertino and ripieno roles across the piece."
+  },
+
+  "ripieno": {
+    label: "Ripieno",
+    definition: "In a Baroque concerto, the full ensemble passages that alternate with the small soloistic group (the <em>concertino</em>) across the course of the piece. The word means \u201cfull\u201d or \u201cfilling\u201d in Italian; the ripieno passages are typically louder, harmonically more direct, and structurally more anchoring than the concertino episodes. In Brandenburg Concerto No. 3, the ripieno-versus-concertino distinction is unusually fluid, with the nine string players shifting between roles rather than being assigned to a fixed concertino group."
+  },
+
+  "phrygian-cadence": {
+    label: "Phrygian (half) cadence",
+    definition: "A specific harmonic gesture in which a piece in a minor key arrives on the dominant chord through a stepwise motion in the bass, producing a particular open-ended sound that does not resolve. The cadence is named after one of the medieval church modes (the Phrygian mode), in which the half-step from the second scale degree down to the first creates the cadence\u2019s characteristic descending bass motion. In Brandenburg Concerto No. 3, Bach wrote only two chords for the entire second movement, a Phrygian half cadence from A minor to B major with a fermata over the second chord, intending the performers to improvise a connective passage in between; modern performances range from a brief pause on the two chords to extended cadenzas of a minute or more."
+  },
+
+  "well-tempered-clavier": {
+    label: "<em>The Well-Tempered Clavier</em>",
+    definition: "Two collections of solo keyboard pieces by Johann Sebastian Bach, each containing twenty-four preludes and fugues, one in each of the twelve major and twelve minor keys. The first book was completed in K\u00f6then in 1722; the second was completed in Leipzig around 1742. The title refers to a system of keyboard tuning (a \u201cwell temperament\u201d) that, unlike the older \u201cmean-tone\u201d system, allowed every key to be played in tune on the same keyboard, so a single instrument could move through all twenty-four keys without retuning. The collection is one of the most influential works in the keyboard literature; it has been a central pedagogical text for keyboard students since the eighteenth century, and pieces from it appear on most professional pianists\u2019 recital programs."
+  },
+
+  "two-part-invention": {
+    label: "Two-Part Invention",
+    definition: "A set of fifteen short two-voice keyboard pieces by Johann Sebastian Bach, BWV 772\u2013786, published in 1723 as part of his <em>Inventions and Sinfonias</em> (the Sinfonias are the parallel three-voice set, BWV 787\u2013801). The Inventions are pedagogical pieces, written by Bach to give his keyboard students \u201ca clear way of playing cleanly in two voices,\u201d and they remain a standard text in keyboard study to this day. Carlos\u2019s Moog realization of the Two-Part Invention in F major, BWV 779, was one of the first pieces she recorded on the new instrument and was the early demo Rachel Elkind heard at home that led to the full <em>Switched-On Bach</em> album."
+  },
+
+  "polyphonic-music": {
+    label: "Polyphony (polyphonic texture)",
+    definition: "A musical texture in which two or more independent melodic lines move simultaneously, each retaining its own identity as a melodic line. The contrast is with monophony (a single melodic line, like an unaccompanied folk song) and with homophony (a single melodic line with chordal accompaniment, like a pop song with a singer over a guitar). Polyphony is the dominant textural mode of Renaissance and Baroque art music, and Bach\u2019s music in particular is built on dense polyphonic counterpoint."
+  },
+
+  "monophonic-synthesizer": {
+    label: "Monophonic synthesizer",
+    definition: "A synthesizer that can play only one note at a time, because pressing a key produces a single control voltage that runs through a single chain of oscillators, filters, and envelope generators. Most early analog synthesizers, including the Moog modular instruments of the 1960s and the Minimoog of 1970, were monophonic. To produce multi-note textures, players had to record one line at a time onto a multi-track tape recorder, which is the central technical fact behind Wendy Carlos\u2019s 1967\u20131968 production of <em>Switched-On Bach</em>: each of Bach\u2019s string parts was recorded as a separate overdub. Polyphonic analog synthesizers (the Yamaha CS-80, the Prophet-5, the Oberheim OB-X) became commercially available from the late 1970s onward."
+  },
+
+  "voltage-controlled-synthesizer": {
+    label: "Voltage-controlled synthesizer",
+    definition: "A synthesizer in which musical parameters (pitch, volume, filter cutoff, envelope timing) are controlled by continuously variable electrical voltages rather than by mechanical or digital signals. Robert Moog and Don Buchla independently developed the first commercially viable voltage-controlled modular synthesizers in the mid-1960s; their key insight was that one voltage standard (one volt per octave, in Moog\u2019s case) could connect the output of one module to the input of any other, making the instruments arbitrarily reconfigurable through patch cords. Voltage control became the foundation of analog synthesis through the 1970s and 1980s, and the concept survives in modern modular synthesizers, in much hybrid analog-and-digital equipment, and in the MIDI standard\u2019s continuous-controller messages."
+  },
+
+  "oscillator": {
+    label: "Oscillator",
+    definition: "An electronic circuit that produces a continuous, regularly repeating waveform at a particular frequency, which the ear interprets as a musical pitch. The oscillator is the basic sound-generating module of an analog synthesizer; everything else (the filter, the amplifier, the envelope generator) shapes the oscillator\u2019s raw output into a musically usable sound. Most analog synthesizer oscillators produce a small set of standard waveforms (sine, sawtooth, square, triangle), each with its own characteristic timbral color. Multiple oscillators are often combined in a single voice to thicken or detune the sound; the Moog modular synthesizers of the late 1960s carried voltage-controlled oscillator (VCO) modules with three or more selectable waveforms each."
+  },
+
+  "oscillator-drift": {
+    label: "Oscillator drift",
+    definition: "The tendency of an analog synthesizer\u2019s oscillators to slowly go out of tune as the instrument\u2019s internal temperature changes during operation. Early analog oscillator circuits were sensitive to small variations in component temperature, supply voltage, and the age of the parts; an oscillator that started a session in tune might be noticeably sharp or flat half an hour later. Wendy Carlos has reported, in interviews and reissue commentary, having to retune the Moog\u2019s oscillators to an equal-tempered reference between most takes during the <em>Switched-On Bach</em> sessions, sometimes with the help of a hammer to seat loose connections. Modern analog synthesizers use temperature-stabilized oscillator circuits that largely eliminate the problem; vintage instruments still drift, and many players consider the drift a desirable part of the analog sound."
+  },
+
+  "filter-electronic": {
+    label: "Filter (synthesizer)",
+    definition: "A module in an analog synthesizer that removes or emphasizes specific frequency ranges of the sound passing through it, shaping the raw oscillator output into a more musically usable timbre. The most common filter type in 1960s and 1970s synthesizers is the low-pass filter, which removes frequencies above an adjustable cutoff point and lets lower frequencies through; the Moog modular synthesizers used a 24-decibel-per-octave low-pass filter (the \u201cMoog ladder filter\u201d) whose particular sound is one of the most recognizable timbres in the history of electronic music. Filters can also be high-pass, band-pass, or band-reject, each shaping the spectrum in a different way. The interaction between an oscillator and a filter is the basic timbral-design unit of subtractive synthesis, the dominant synthesis approach of analog instruments from the 1960s onward."
+  },
+
+  "cutoff-frequency": {
+    label: "Cutoff frequency",
+    definition: "The frequency at which a synthesizer filter begins to attenuate (reduce the volume of) the signal passing through it. In a low-pass filter, frequencies below the cutoff pass through largely unaltered while frequencies above the cutoff are progressively reduced; sweeping the cutoff up or down across a sustained note produces the characteristic \u201cwah\u201d sweep that is one of the most familiar sounds in synthesizer music. The cutoff is voltage-controlled on a Moog synthesizer, meaning it can be modulated dynamically by an envelope generator, by a low-frequency oscillator, or by the keyboard\u2019s pitch."
+  },
+
+  "resonance": {
+    label: "Resonance (synthesizer)",
+    definition: "A control on a synthesizer filter that emphasizes the frequencies right around the filter\u2019s cutoff point, producing a sharper, more nasal, more vocal-sounding quality. At low resonance settings the filter produces a relatively smooth, conventional spectral shape; at higher resonance settings the cutoff frequency is strongly emphasized and can be heard as an audible pitch on its own; at very high resonance settings the filter will self-oscillate, producing a sine-wave tone with no input from the oscillators at all. Resonance is one of the central timbral parameters of analog synthesis."
+  },
+
+  "envelope-generator": {
+    label: "Envelope generator",
+    definition: "A synthesizer module that produces a time-varying control voltage triggered by a keyboard press, used to shape how a sound starts, sustains, and stops. The standard envelope generator (often abbreviated ADSR) controls four stages: attack (how quickly the sound rises to its peak after a key is pressed), decay (how it falls from the peak to a sustained level), sustain (the level held while the key is held down), and release (how the sound dies away after the key is released). Envelope generators are typically routed to the amplifier (controlling the loudness contour) and to the filter cutoff (controlling how the timbre changes over the course of a note); both routings can run simultaneously on the same note. The Moog modular synthesizer carries dedicated envelope-generator modules, one for each parameter being controlled."
+  },
+
+  "waveform": {
+    label: "Waveform",
+    definition: "The shape of an oscillator\u2019s output as a function of time, which the ear interprets as a particular timbral color. The standard analog synthesizer waveforms are sine (a smooth, hollow tone with no harmonics above the fundamental), sawtooth (a buzzy tone rich in all the harmonics, the basis of bright string-like and brass-like sounds), square (a hollow, woody tone with only odd-numbered harmonics, often used for clarinet-like timbres and for chip-tune bass sounds), and triangle (a soft tone between sine and square). Different waveforms can be combined within a single voice to produce more complex timbres. The Moog modular synthesizers of the late 1960s carried selectable waveforms on each voltage-controlled oscillator, with smooth voltage-controlled morphing between adjacent waveforms on later modules."
+  },
+
+  "patch-cord": {
+    label: "Patch (patch cord)",
+    definition: "On a modular synthesizer, the connection between two modules (the output of one module feeding the input of another), made by a physical cable plugged between two jacks on the front panel. The set of connections that produce a particular sound is called a \u201cpatch.\u201d On a Moog modular synthesizer of the late 1960s, building a new sound meant physically running multiple patch cords between oscillator, filter, envelope generator, amplifier, and keyboard-controller modules; the entire signal-routing chain was visible on the front panel as a web of cables. Carlos and Folkman photographed and documented every patch they used for <em>Switched-On Bach</em> so they could reload it for later overdubs, since the synthesizer itself had no memory and no way to recall a previous configuration."
+  },
+
+  "multitrack-recording": {
+    label: "Multi-track recording",
+    definition: "A recording technique in which different musical parts are recorded onto separate parallel tracks of magnetic tape (and later digital storage), then mixed together into a final stereo master. Multi-track recording allows musicians to overdub new parts onto a previously recorded foundation, to record different instruments in different sessions, to record multiple takes of the same part and choose the best, and to assemble complex ensemble textures that no live performance could produce. The technique was developed in the late 1940s and early 1950s, partly by the guitarist and engineer Les Paul on a custom-built eight-track machine; by the mid-1960s, sessions like the Beach Boys\u2019 <em>Pet Sounds</em> (1966) and the Beatles\u2019 <em>Sgt. Pepper</em> (1967) had established multi-track overdubbing as a standard popular-music production approach. Wendy Carlos\u2019s 1967\u20131968 production of <em>Switched-On Bach</em> used the same technique for an unprecedented purpose: a one-musician realization of a nine-part Baroque concerto."
+  },
+
+  "overdub": {
+    label: "Overdub",
+    definition: "A recording term for adding a new musical part onto a previously recorded foundation track, by listening to the existing recording through headphones while performing the new part and recording it onto a separate parallel track. The technique is the basic unit of multi-track studio recording: each overdub adds one more layer to the assembled mix. Wendy Carlos\u2019s <em>Switched-On Bach</em> recordings consist of dozens of monophonic overdubs per piece, each Bach voice played separately on the Moog and layered onto a custom eight-track tape machine in her home studio."
+  },
+
+  "bouncing": {
+    label: "Bouncing tracks",
+    definition: "In multi-track tape recording, the practice of combining several already-recorded tracks down to one or two tracks on the same tape, freeing the original tracks for new overdubs. The technique was a common workaround for the limited number of tracks on early multi-track machines: an engineer might record four parts on an eight-track machine, bounce them down to a single submix track, and then have seven free tracks for additional overdubs. Each bounce loses a small amount of audio quality (a tape generation), so the practice was used judiciously. Carlos used bouncing on the <em>Switched-On Bach</em> sessions to fit Bach\u2019s nine string parts onto her eight-track tape machine."
+  },
+
+  "equal-temperament": {
+    label: "Equal temperament",
+    definition: "The standard modern tuning system for Western music, in which the octave is divided into twelve equal half-step intervals. Equal temperament is a compromise: it makes most intervals slightly out of tune relative to their pure mathematical ratios, but it allows a single instrument to play in every one of the twenty-four major and minor keys without retuning. The system was theorized in the seventeenth century and became the dominant Western keyboard tuning across the eighteenth and nineteenth centuries; nearly every piano, guitar, and synthesizer is tuned this way by default. Other tunings (just intonation, mean-tone temperament, well temperaments, and the alternative microtonal systems Wendy Carlos has explored in her later compositional work) divide the octave differently and produce different sets of in-tune and out-of-tune intervals."
+  },
+
+  "compound-meter": {
+    label: "Compound meter",
+    definition: "A musical meter in which each beat divides naturally into three subdivisions rather than two. The most common compound meters are 6/8 (two beats per measure, each subdividing into three), 9/8 (three beats per measure), and 12/8 (four beats per measure). Compound meters often produce a lilting, dance-like feel: jigs, gigues, sicilianas, and many folk dance forms are in compound meter. The third movement of Bach\u2019s Brandenburg Concerto No. 3 is in 12/8, producing a fast galloping rhythmic feel."
+  },
+
+  "articulation-music": {
+    label: "Articulation",
+    definition: "The way individual notes are attacked, sustained, and released, considered as a parameter of musical expression. Articulation in conventional acoustic playing covers the distinction between legato (smoothly connected notes), staccato (short, detached notes), and a wide range of intermediate possibilities depending on bowing on string instruments, tonguing on wind instruments, or finger and pedal technique on keyboard instruments. On the monophonic Moog synthesizer of the 1960s, articulation was constrained: each note had to end before the next note could begin, which forced a slightly detached feel on every line. Wendy Carlos has said this constraint was one of the more challenging aspects of the <em>Switched-On Bach</em> sessions."
+  },
+
+  "crescendo": {
+    label: "Crescendo",
+    definition: "A gradual increase in volume across a musical passage, from softer to louder. The opposite is a diminuendo or decrescendo (gradual decrease). In conventional acoustic playing, a crescendo is produced by physical effort on the part of the performer (harder bowing, louder breath, harder striking of keys). On the monophonic Moog synthesizer of the 1960s, dynamic control had to be hand-controlled note by note, typically by moving a ribbon controller or a foot pedal that modulated the amplifier\u2019s output level."
+  },
+
+  "stereo-imaging": {
+    label: "Stereo imaging",
+    definition: "The placement of individual instruments and voices across the left-to-right space of a stereo recording. A stereo mix can put a vocal in the center, a guitar on the left, a piano on the right, and so on; the spatial placement is itself a compositional and engineering decision made at the mixdown stage. The technique became common in pop recording in the mid-1960s as stereo gradually replaced mono as the consumer playback standard. On <em>Switched-On Bach</em>, Wendy Carlos used stereo placement to clarify the contrapuntal texture, sometimes giving Bach\u2019s three violin voices, three viola voices, and three cello voices distinct spatial positions across the stereo image."
+  },
+
+  "rachel-elkind": {
+    label: "Rachel Elkind (1939\u20132024)",
+    definition: "American record producer and the central collaborator on Wendy Carlos\u2019s major early albums. Elkind, born in San Francisco and trained as a singer, worked as a producer\u2019s assistant at Columbia Records in the mid-1960s; she met Carlos when both were living in the same Upper West Side apartment building in Manhattan. Elkind heard Carlos\u2019s home Moog experiments, proposed making a full Bach album, and produced <em>Switched-On Bach</em> (1968), <em>The Well-Tempered Synthesizer</em> (1969), the music for Stanley Kubrick\u2019s <em>A Clockwork Orange</em> (1971), and Carlos\u2019s subsequent Columbia albums through the late 1970s. Elkind\u2019s production role on the early records was central: she handled the contractual relationship with Columbia, shaped the overall album sequencing and pacing, and made many of the technical and aesthetic decisions about how the recordings were assembled. Elkind left record production in the early 1980s and moved to France."
+  },
+
+  "benjamin-folkman": {
+    label: "Benjamin Folkman",
+    definition: "American musicologist, pianist, and electronic-music collaborator (born 1939), the third member of the core <em>Switched-On Bach</em> production team. Folkman trained as a musicologist and shared Wendy Carlos\u2019s interest in early electronic music; he worked with Carlos at the Columbia-Princeton Electronic Music Center in the early 1960s and assisted on the <em>Switched-On Bach</em> sessions in 1967\u20131968, contributing arrangement work and writing the original LP\u2019s liner notes (a substantial essay on the music and on the Moog synthesis approach that is still widely regarded as one of the better introductions to early synthesizer music). Folkman is credited on the album cover as Carlos\u2019s collaborator on the realizations."
+  },
+
+  "vladimir-ussachevsky": {
+    label: "Vladimir Ussachevsky (1911\u20131990)",
+    definition: "Russian-born American composer (born November 3, 1911, in Hailar, Manchuria; died January 2, 1990, in New York City), one of the founding figures of American academic electronic music. Ussachevsky emigrated to the United States as a child and studied composition at Pomona College and the Eastman School of Music. From 1947 he taught at Columbia University, where he co-founded the Columbia-Princeton Electronic Music Center in 1958 with Otto Luening (Columbia), Milton Babbitt, and Roger Sessions (Princeton). Ussachevsky\u2019s own compositional work centered on tape music and electronic-acoustic hybrids; his classes at Columbia trained a generation of American electronic-music composers, including Wendy Carlos, who studied with him in the early 1960s as a master\u2019s student."
+  },
+
+  "otto-luening": {
+    label: "Otto Luening (1900\u20131996)",
+    definition: "American composer (born June 15, 1900, in Milwaukee; died September 2, 1996, in New York City), one of the founding figures of American academic electronic music. Luening studied composition in Munich and Z\u00fcrich under Ferruccio Busoni in the 1910s and 1920s before returning to the United States; he taught at Columbia University from 1949 and co-founded the Columbia-Princeton Electronic Music Center with Vladimir Ussachevsky in 1958. Luening\u2019s electronic compositions, beginning with the 1952 tape-music piece <em>Fantasy in Space</em>, were among the first significant American works in the medium. Wendy Carlos studied with both Ussachevsky and Luening as a master\u2019s student at Columbia in the early 1960s."
+  },
+
+  "rca-mark-ii": {
+    label: "RCA Mark II Sound Synthesizer",
+    definition: "A large, room-sized programmable synthesizer built by RCA at its Sarnoff Research Center in Princeton, New Jersey, and installed at the Columbia-Princeton Electronic Music Center in 1957. The Mark II produced sounds by combining tunable oscillators and noise sources under the control of a long roll of punched paper tape; programming a single piece required laboriously punching the tape by hand, with each note specified by its pitch, duration, timbre, and amplitude. The instrument was the institutional center of Columbia-Princeton\u2019s electronic-music work through the late 1950s and 1960s, and Milton Babbitt was its most prominent user. The Mark II\u2019s very different approach to electronic music (programmed rather than played, with no live performance capability) is the institutional aesthetic Wendy Carlos was both trained inside and aesthetically departing from on <em>Switched-On Bach</em>."
+  },
+
+  "serialism": {
+    label: "Serialism",
+    definition: "A compositional approach in twentieth-century European and American art music that organizes a piece around a fixed ordering of its musical elements. The most common form, twelve-tone serialism, originated with the Austrian composer Arnold Schoenberg in the 1920s and built each piece around a particular ordering of the twelve pitches of the chromatic scale; the post-1945 European and American avant-garde extended the principle to rhythm, dynamics, and timbre as well. Serialism was the dominant compositional aesthetic of the postwar American academic music establishment, particularly at universities like Princeton (Milton Babbitt) and Columbia. Wendy Carlos, who studied at Columbia in the early 1960s, has described the institutional serialist aesthetic as deliberately difficult and uninterested in popular reception; her own work, beginning with <em>Switched-On Bach</em>, departed from that institutional stance."
+  },
+
+  "brown-university": {
+    label: "Brown University",
+    definition: "Private research university in Providence, Rhode Island, founded in 1764 as the College in the English Colony of Rhode Island and Providence Plantations and renamed for the merchant Nicholas Brown Jr. in 1804. Brown is one of the original Ivy League institutions and one of the older universities in the United States. Wendy Carlos enrolled at Brown in 1958 on a double major in music and physics, graduating in 1962, before enrolling in the master\u2019s program in music composition at Columbia University."
+  },
+
+  "glenn-gould": {
+    label: "Glenn Gould (1932\u20131982)",
+    definition: "Canadian pianist (born September 25, 1932, in Toronto; died October 4, 1982, in Toronto), one of the most influential Bach interpreters of the twentieth century. Gould\u2019s 1955 recording of Bach\u2019s Goldberg Variations was a major commercial and critical success that helped re-center Bach in postwar piano performance; he re-recorded the work in 1981, and the two recordings together became reference performances for several generations of pianists. Gould retired from concert performance in 1964 to focus entirely on studio recording and broadcast work, a then-radical decision that anticipated later debates about the role of live versus recorded performance in classical music. He reviewed <em>Switched-On Bach</em> for <em>High Fidelity</em> magazine and praised Carlos\u2019s realization of the Fourth Brandenburg Concerto in particularly strong terms."
+  },
+
+  "platinum-certification": {
+    label: "Platinum certification",
+    definition: "A music-industry certification given by the Recording Industry Association of America (RIAA) to records that have sold a particular number of copies in the United States. The current threshold is one million units for a pop album and 500,000 units for a classical album, though the rules and thresholds have changed several times since the certification program began in 1958 (the first gold record was certified in 1958, the first platinum in 1976). <em>Switched-On Bach</em> reached the platinum threshold in 1986, becoming only the second classical recording to do so."
+  },
+
 };
