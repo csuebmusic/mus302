@@ -11,15 +11,17 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 ## Done
 
 Nothing currently sitting here. The repo is content-complete
-through Module 5; remaining work is the pre-launch verification
-items below.
+through Module 5, the glossary coverage is systematic and
+audit-clean (93 remaining warnings, all documented skips in
+`audit-notes.md` items 8 through 12), and remaining work is the
+pre-launch verification items below.
 
 ## Next (in order)
 
 - **Hero photo licensing verification** before public launch (see Open).
-- **Placeholder href check across landing pages** and link check
-  across all listening guides. Quick pass to make sure nothing
-  points at `#` or a broken cross-link before the term starts.
+- **Link check across all listening guides.** Quick pass to make
+  sure nothing points at `#` or a broken cross-link before the
+  term starts.
 
 ## Open
 
