@@ -15,23 +15,24 @@ fresh-eyes pass; all fall into the categories below. Module 4
 reports 17 after the second fresh-eyes pass that closed the
 remaining first-mention misses across the framing reading and the
 per-track listening guides; all fall into the categories below.
-Module 1 reports 11 after its fresh-eyes pass; all fall into the
-categories below. The M1 fresh-eyes pass cleared fifteen real
-misses (`crooner`, `folk-revival`, `rock-and-roll` on the
-cultural-roots reading; `elvis-presley`, `joan-baez`, `pete-seeger`,
-`clyde-mcphatter` on Track 1; `bongos`, `bb-king`, `hector-lavoe`,
-`frank-sinatra` on Track 2; `chuck-berry`, `rock-and-roll`,
-`atlantic-records` on Track 3; `elvis-presley` on Track 4). The M2
-fresh-eyes pass cleared twenty-nine real misses (`form`, `arca`,
-`cornet`, `baptist`, `w-c-handy`, `indigenous`, `rock-and-roll`,
-`sugar-hill-records`, `sam-cooke`, `james-brown`, `sugar-pie-desanto`
-on the framing reading; `elvis-presley`, `sam-cooke` on Track 1;
-`hook`, `chuck-berry`, `rock-and-roll`, `elvis-presley`,
-`little-richard`, `rolling-stones` on Track 2; `james-brown` on
-Track 3; `hook`, `lauryn-hill`, `tupac-shakur`, `kendrick-lamar`,
-`black-lives-matter`, `sam-cooke`, `janelle-monae` on Track 4;
-`hook`, `beyonce` on Track 5). The M3 fresh-eyes pass cleared
-twenty-four real misses (`indigenous`, `washington-heights`,
+Module 5 reports 19 after its fresh-eyes pass; all fall into the
+categories below. Module 1 reports 11 after its fresh-eyes pass;
+all fall into the categories below. The M1 fresh-eyes pass cleared
+fifteen real misses (`crooner`, `folk-revival`, `rock-and-roll` on
+the cultural-roots reading; `elvis-presley`, `joan-baez`,
+`pete-seeger`, `clyde-mcphatter` on Track 1; `bongos`, `bb-king`,
+`hector-lavoe`, `frank-sinatra` on Track 2; `chuck-berry`,
+`rock-and-roll`, `atlantic-records` on Track 3; `elvis-presley` on
+Track 4). The M2 fresh-eyes pass cleared twenty-nine real misses
+(`form`, `arca`, `cornet`, `baptist`, `w-c-handy`, `indigenous`,
+`rock-and-roll`, `sugar-hill-records`, `sam-cooke`, `james-brown`,
+`sugar-pie-desanto` on the framing reading; `elvis-presley`,
+`sam-cooke` on Track 1; `hook`, `chuck-berry`, `rock-and-roll`,
+`elvis-presley`, `little-richard`, `rolling-stones` on Track 2;
+`james-brown` on Track 3; `hook`, `lauryn-hill`, `tupac-shakur`,
+`kendrick-lamar`, `black-lives-matter`, `sam-cooke`, `janelle-monae`
+on Track 4; `hook`, `beyonce` on Track 5). The M3 fresh-eyes pass
+cleared twenty-four real misses (`indigenous`, `washington-heights`,
 `joe-bataan`, `fania-all-stars`, `celia-cruz`, `frank-ocean`,
 `dembow` on the framing reading; `tito-puente`, `eddie-palmieri`,
 `hook`, `bongos`, `rhythm` on Track 1; `vibrato`, `string-section`
@@ -51,7 +52,24 @@ the following real misses. First sweep: `mobile-dj`, `indie-rock`,
 Second sweep: `tenement`, `japanese-breakfast`, `joan-baez`,
 `vincent-chin` on the framing reading; `vibrato`, `carole-king` on
 Track 1; `prince`, `vibrato` on Track 3; `counterpoint` on Track 4;
-`crescendo` on Track 5. The rest are documented skips.
+`crescendo` on Track 5. The M5 fresh-eyes pass cleared forty-five
+real misses plus fixed five double-button errors. Real misses:
+`tenement`, `bruce-springsteen`, `joan-baez`, `child-ballad`,
+`soul`, `stevie-wonder`, `detroit-techno`, `jazz`, `the-shirelles`,
+`dion-and-the-belmonts`, `indie-rock`, `pete-seeger`, `phil-ochs`
+on the framing reading; `chuck-berry`, `tony-bennett`,
+`russ-columbo`, `michael-jackson`, `joe-bataan` on Track 1;
+`fiddle`, `muddy-waters`, `harry-belafonte`, `banjo`, `harmonica`,
+`blues`, `gospel`, `call-and-response` on Track 2; `frankie-lymon`,
+`beat`, `washington-heights` on Track 3; `the-drifters`,
+`brill-building`, `folk-revival`, `beat`, `grand-ole-opry`,
+`gary-sherman` on Track 4; `the-drifters`, `soul`, `brill-building`,
+`tin-pan-alley`, `scots-irish`, `country-music`, `blues`,
+`deford-bailey`, `rufus-payne`, `punk` on Track 5. Double-button
+fixes: `country-music` on the framing reading and `vladimir-
+ussachevsky`, `otto-luening`, `milton-babbitt`, `robert-moog` on
+Track 4 (the second instance of each was unbuttoned per the
+first-mention-only convention). The rest are documented skips.
 
 1. **Labels-table cells.** Module 2's record-labels table has four
    skipped cells (`house-band`, `w-c-handy`, `decca`, `muddy-waters`);
@@ -475,6 +493,55 @@ Track 1; `prince`, `vibrato` on Track 3; `counterpoint` on Track 4;
     (`track5-mitski.html`): one on `pop` matched inside the record-
     label name "Sub Pop" (institutional name, parallel to the M2
     "Rock and Roll Hall of Fame" skips; wrong-sense).
+12. **Module 5 fresh-eyes pass: documented skips.** Nineteen skips
+    across the framing reading and the five listening guides. On
+    the framing reading (`module5/roots-and-routes.html`): one on
+    `form` matched in "a musical form, instrument, or technique"
+    (generic-noun-sense parallel to the M3 framing-reading and M4
+    framing-reading `form` skips); one on `dynamics` matched in
+    "the racialized credit and royalty dynamics that ran through
+    the Tin Pan Alley songbook" (everyday English "forces in play"
+    sense, not the technical music-loudness sense the glossary
+    entry covers; wrong-sense); one on `dominant` matched in "the
+    dominant nineteenth- and early-twentieth-century scientific
+    racism" (adjective sense per item 2). On Track 1
+    (`track1-lymon.html`): one on `pop` matched inside "the pop
+    chart in 1981" (the Billboard Pop chart institutional name,
+    parallel to the M4 Track 5 Sub Pop wrong-sense skip per item
+    11); one on `dynamics` matched in "credit and royalty dynamics"
+    (same wrong-sense pattern as the framing reading). On Track 2
+    (`track2-baez.html`): one on `jazz` matched inside "the Newport
+    Jazz Festival" (institutional name, not the genre; wrong-sense
+    per item 3); one on `measure` matched in "in equal measure"
+    (everyday English idiom, not the technical bar-of-music sense
+    the glossary entry covers; wrong-sense); one on `dominant` in
+    "the dominant form of the European narrative ballad" (adjective
+    sense per item 2). On Track 3 (`track3-drifters.html`): one on
+    `rhythm` matched in "the small handheld baion-derived rhythm
+    pattern" where `baion` is buttoned immediately preceding and
+    the bare `rhythm` is in a descriptive compound (parallel to
+    the M3 Track 3 Santana bare-rhythm-after-rhythm-section
+    blind-spot skip); one on `dynamics` matched in "the racialized
+    credit and royalty dynamics" (same wrong-sense pattern); one on
+    `rock-and-roll` matched inside "the Rock and Roll Hall of Fame
+    includes it on its 500 Songs That Shaped Rock and Roll"
+    (institutional name plus list name, parallel to M2 Hall-of-Fame
+    skips per item 9); one inside-link first-mention hit on
+    `sam-cooke` per item 5; one on `dominant` in "the dominant
+    gospel voice of her decade" (adjective sense per item 2).
+    On Track 4 (`track4-carlos.html`): one on `basement-workshop`
+    matched inside "the family basement workshop" (the family-home-
+    workshop everyday English sense, not the New York Asian
+    American arts organization the glossary entry covers;
+    wrong-sense); one on `dominant` in "the dominant institutional
+    voice" (adjective sense per item 2); one inside-link first-
+    mention hit on `hank-williams` via `<a href="../module1/track4-williams.html">Hank
+    Williams on Module 1's Track 4</a>` per item 5. On Track 5
+    (`track5-springsteen.html`): one on `rhythm` matched in a
+    bare-prose "R&amp;B rhythm section" after `rhythm-section`
+    is compound-buttoned earlier in the same paragraph (item 4);
+    two inside-link first-mention hits on `frankie-lymon` and
+    `sam-cooke` per item 5.
 
 ## Audit script future improvements
 
