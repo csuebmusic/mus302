@@ -39,7 +39,7 @@ mus302/
   module2/                  African American foundational traditions
   module3/                  Latin diasporic traditions
   module4/                  Asian American traditions
-  module5/                  European American immigrant and working-class traditions (framing reading only; listening guides, discussion, and quiz still to draft)
+  module5/                  European American immigrant and working-class traditions
 
   final-project/
     index.html                          Final-project landing page (linked from Canvas)

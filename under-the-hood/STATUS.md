@@ -10,80 +10,64 @@ For audit-script behavior and intentional skips, see `audit-notes.md`.
 
 ## Done
 
-Module 1, Module 2, Module 3, Module 4, and Module 5 (framing
-reading plus all five anchor tracks) shipped. Five framing
-readings, all four-tradition modules at depth parity. Course is
-content-complete on the listening-guide and reading side.
+Modules 1 through 5 shipped to content-complete. Five framing
+readings, four-tradition coverage at depth parity, twenty-four
+anchor tracks across five modules, the methodology reading and
+the four how-to-listen demonstration figures in Module 1, the
+final-project landing page and four checkpoint Markdown sources,
+the syllabus, and a 744-entry glossary supporting all of the
+above. The course is ready for the May 26 term start except for
+the open items below.
 
-M5 Track 5 (Bruce Springsteen, "The River," 1980) is the most
-recent ship and closes the module. The page anchors on the title
-track of Springsteen's October 17, 1980 double LP, recorded with
-the E Street Band at the Power Station on August 26 and 29, 1979.
-Four context sub-sections: the three immigrant-family Freehold
-biography (Dutch surname / colonial New Jersey, mostly-Irish
-father, Italian mother of the Zerilli family from Vico Equense
-via Bay Ridge to Freehold, St. Rose of Lima Catholic school, the
-Sinatra and doo-wop AM radio of the childhood kitchen); the
-Ginny-and-Mickey biographical source of the song (sister Ginny
-Springsteen and her husband Mickey Shave, who married in 1969
-when Ginny was seventeen and have stayed married more than fifty
-years; the song narrates Mickey's late-1970s construction work
-and the loss of that work in the January-through-July 1980
-recession); the August 1979 Power Station sessions, September 21
-1979 MUSE No Nukes first live performance, October 17 1980 album
-release three weeks before the November 4 1980 election; and a
-closing "Where this track sits in Module 5" sub-section that
-walks through the cross-callback structure of the page (M5
-Track 1 Lymon and M5 Track 3 Drifters as the doo-wop and R&B
-radio inheritance, M1 Track 4 Williams as the country songwriting
-inheritance, M5 framing reading's three-line whiteness-as-route
-argument as the cultural-roots inheritance, and the
-late-1970s/1980s deindustrialization frame as the historical
-ground). One diagram: Figure 1, a "five inheritances meeting at
-the Power Station" convergence diagram that brings together the
-Italian American crooner tradition, the doo-wop and R&B radio
-inheritance, the Hank Williams country-songwriting inheritance
-(with the directly-borrowed "down to the river though I know the
-river is dry" lyric from Williams's 1950 "Long Gone Lonesome
-Blues"), the deindustrialization frame, and the Irish-Italian
-Catholic Freehold context, all converging on the August 1979
-recording session and then running forward to the October 1980
-album release.
+Most recent ship is Module 5 module-level materials: the
+landing page (`module5/index.html`), the discussion source
+(`module5/discussion.md`), and the 12-question checkpoint quiz
+source (`module5/quiz.md`). All three follow the templates
+Modules 2 through 4 established: the landing page lists the
+framing reading and five tracks with one-paragraph descriptions
+and a content-warnings section, the discussion uses the "pick a
+reflective question" format with explicit cross-track connection
+cues (Lymon/Springsteen bookend, Drifters/Springsteen on
+Brill Building inheritances, Hank Williams reaching both Baez
+and Springsteen), and the quiz covers four framing-reading
+questions, five per-track recall questions, and three methodology
+and cross-track questions. Initial post and quiz deadline is
+Sunday June 28; peer responses are due Sunday July 5.
 
-Hero photo is Steve Granitz's January 1984 photograph of
-Springsteen mid-performance on the Born in the U.S.A. tour
-rehearsal stage in Los Angeles (WireImage via Getty, editorial
-#75504097). Caption credits the photographer and gives the date
-and context. Educational fair use; flagged for the launch-photo
-verification pass.
+Before the module-level materials, the most recent listening
+guide ship was M5 Track 5 (Bruce Springsteen, "The River,"
+1980), which closes the module as the second of two anchor
+tracks on the urban Catholic working-class thread Frankie Lymon
+opens on Track 1. The track went through a deep-dive editorial
+pass that corrected four facts (Clemons plays tambourine on
+this track, not background vocals; Van Zandt plays guitars
+and harmony vocals; Springsteen played the fourth of the five
+MUSE No Nukes concerts, not the second; "Up on the Roof" was
+first recorded by the Drifters rather than "originally written
+for the Drifters"; the unverified "three Freehold classmates"
+Vietnam-draft claim has been dropped), collapsed two
+redundant paragraphs into one integrated borrowed-narrator
+treatment, sharpened the Reagan campaign characterization,
+trimmed the dense theory vocabulary in the structural
+paragraph, re-scoped the reflective question from three asks
+to two, standardized the percent convention to numeral+symbol
+across the economic sections, dropped a soft "documents the
+moment" closer for a sharper "registered the moment as it was
+happening," moved the five-inheritances figure from the
+.diagram-tall 440px cap to the default .diagram 720px cap so
+it renders at native size on desktop, and dropped the
+four-thread enumeration from the bookend setup.
 
-Listen card points at the YouTube full-album upload supplied by
-the user (the standard 1980 studio recording, 4:59 runtime).
-
-Page passes the gloss audit at 16 warnings, all documented
-intentional skips (five wrong-sense / common-English-word hits
-on `blues`, `rhythm`, `soul`, `punk`, and `synthesizer`; four
-framing-reading cross-callbacks on `scots-irish`, `country-music`,
-`brill-building`, and `washington-heights`; and seven cross-track
-callbacks to figures substantively introduced on their own
-listening guides: `the-drifters`, `frankie-lymon`, `wendy-carlos`,
-`joan-baez`, `sam-cooke`, `rufus-payne`, and `deford-bailey`).
-Full repo audit at 222 warnings across 36 files, 0 errors.
-
-Glossary at 743 entries (added 9 for this track: `bruce-springsteen`,
-`e-street-band`, `the-river-album`, `power-station-studio`,
-`muse-no-nukes`, `early-1980s-recession`, `rust-belt`,
-`johnstown-pennsylvania`, `harmonica`).
+Full-repo audit at 219 warnings across 37 files, 0 errors.
+Glossary at 744 entries.
 
 ## Next (in order)
 
-- **M5 index, discussion, quiz.** Pattern set by M1-M4.
-- **M2 discussion prompt and checkpoint quiz** still pending from
-  earlier in the build.
-- **Full-repo audit pass** before public launch.
-
-After M5 module-level materials (index page, discussion, quiz)
-are built, the course is ready for the May 26 term start.
+- **M2 discussion prompt and checkpoint quiz** still pending
+  from earlier in the build. Pattern set by M3, M4, M5.
+- **Full-repo audit pass** before public launch (hero photo
+  licensing verification, placeholder href check on landing
+  pages, link check across all listening guides).
 
 ## Open
 
@@ -97,6 +81,13 @@ YouTube card and point students at the East Side Digital reissue
 (ESD 81602) and Carlos's own site at wendycarlos.com, with a
 short note about why. Track is shipped on the current treatment;
 this is a flag for revisit, not a blocker.
+
+**M5 deadline collides with project Annotated Bibliography
+checkpoint.** The Module 5 quiz and discussion initial post
+both fall on Sunday June 28, which is also the project's
+Annotated Bibliography checkpoint deadline. That weekend is
+intentionally the heaviest workload of the term, but worth
+noting in case the schedule wants adjustment before launch.
 
 **Hero photo verification before public launch.** Most listening
 guides use editorial-use copyrighted photos (Getty, Michael Ochs,
