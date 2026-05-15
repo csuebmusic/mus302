@@ -10,17 +10,26 @@ For session-by-session work in progress, see `STATUS.md`.
 ## Glossary intentional skips (audit warnings to live with)
 
 The audit reports 29 warnings on Module 3 after the fresh-eyes pass;
-all fall into the categories below. Audit reports a handful more on
-Module 2; same categories. Module 4 reports 18 after the fresh-eyes
-pass that closed the framing reading and the per-track listening
-guides; all fall into the categories below. Module 1 reports 11
-after its fresh-eyes pass; all fall into the categories below. The
-M1 fresh-eyes pass cleared fifteen real misses (`crooner`,
-`folk-revival`, `rock-and-roll` on the cultural-roots reading;
-`elvis-presley`, `joan-baez`, `pete-seeger`, `clyde-mcphatter` on
-Track 1; `bongos`, `bb-king`, `hector-lavoe`, `frank-sinatra` on
-Track 2; `chuck-berry`, `rock-and-roll`, `atlantic-records` on
-Track 3; `elvis-presley` on Track 4). The M4 fresh-eyes pass cleared
+all fall into the categories below. Module 2 reports 12 after its
+fresh-eyes pass; all fall into the categories below. Module 4
+reports 18 after the fresh-eyes pass that closed the framing reading
+and the per-track listening guides; all fall into the categories
+below. Module 1 reports 11 after its fresh-eyes pass; all fall into
+the categories below. The M1 fresh-eyes pass cleared fifteen real
+misses (`crooner`, `folk-revival`, `rock-and-roll` on the
+cultural-roots reading; `elvis-presley`, `joan-baez`, `pete-seeger`,
+`clyde-mcphatter` on Track 1; `bongos`, `bb-king`, `hector-lavoe`,
+`frank-sinatra` on Track 2; `chuck-berry`, `rock-and-roll`,
+`atlantic-records` on Track 3; `elvis-presley` on Track 4). The M2
+fresh-eyes pass cleared twenty-nine real misses (`form`, `arca`,
+`cornet`, `baptist`, `w-c-handy`, `indigenous`, `rock-and-roll`,
+`sugar-hill-records`, `sam-cooke`, `james-brown`, `sugar-pie-desanto`
+on the framing reading; `elvis-presley`, `sam-cooke` on Track 1;
+`hook`, `chuck-berry`, `rock-and-roll`, `elvis-presley`,
+`little-richard`, `rolling-stones` on Track 2; `james-brown` on
+Track 3; `hook`, `lauryn-hill`, `tupac-shakur`, `kendrick-lamar`,
+`black-lives-matter`, `sam-cooke`, `janelle-monae` on Track 4;
+`hook`, `beyonce` on Track 5). The M4 fresh-eyes pass cleared
 several real misses (`mobile-dj`, `indie-rock`, `paredon-records`,
 `barbara-dane`, `asian-improv-records`, `cotton-club` on the framing
 reading; `rhythm-guitar`, `pre-chorus`, `jazz`, `blues` on Track 3;
@@ -322,6 +331,41 @@ skips.
    "the river runs through everything" in the closing paragraph,
    where the glossary entry is the Bruce Springsteen 1980 album
    (wrong-sense match).
+9. **Module 2 fresh-eyes pass: documented skips.** Twelve skips
+   across the framing reading and the five listening guides. On the
+   framing reading (`module2/roots-and-routes.html`): three labels-
+   table cells (`house-band`, `decca`, `counterpoint`) per item 1
+   above; one wrong-sense hit on `dominant` matched in "the dominant
+   template for global popular dance music" (adjective sense, not
+   the V chord). Note `counterpoint` is also wrong-sense in that
+   cell ("in counterpoint to Motown's polished sound" is the
+   everyday English "in contrast with," not the musical
+   contrapuntal-texture sense the glossary entry covers). On Track 1
+   (`track1-bessie-smith.html`): one on `second-line` matched inside
+   the everyday English phrase "the small breath she takes before
+   the second line of each verse" (the line-2-of-a-verse sense, not
+   the New Orleans second-line parade tradition the glossary entry
+   covers); one on `rock-and-roll` matched inside "the Rock and Roll
+   Hall of Fame" (the institution, not the genre) and inside the book
+   title <em>Black Diamond Queens: African American Women and Rock
+   and Roll</em>. On Track 2 (`track2-tharpe.html`): one on `rhythm`
+   matched inside "rhythm section in the modern sense" where
+   `rhythm-section` is the compound key and is buttoned upstream
+   (item 4 above); one on `articulation-music` matched inside "crisp
+   consonant articulation she learned in COGIC services" (the
+   everyday English how-consonants-are-pronounced sense, not the
+   technical music sense of note-attack-and-release the glossary
+   entry covers). On Track 4 (`track4-grandmaster-flash.html`): one
+   on `rock-and-roll` matched inside "the Rock and Roll Hall of Fame
+   inducted Grandmaster Flash" (the institution, not the genre); one
+   on `dominant` matched inside "the dominant culture wished to
+   ignore" (adjective sense, not the V chord); one on `james-brown`
+   matched as an inside-link first-mention via `<a
+   href="track3-brown.html">James Brown</a>` per item 5 above, with
+   subsequent prose mentions following the first-mention-only
+   convention. On Track 5 (`track5-beyonce.html`): one on
+   `james-brown` matched as an inside-link first-mention via `<a
+   href="track3-brown.html">James Brown</a>` per item 5 above.
 
 ## Audit script future improvements
 
