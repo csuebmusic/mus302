@@ -9,7 +9,7 @@ For session-by-session work in progress, see `STATUS.md`.
 
 ## Glossary intentional skips (audit warnings to live with)
 
-The audit reports 29 warnings on Module 3 after the fresh-eyes pass;
+The audit reports 34 warnings on Module 3 after its fresh-eyes pass;
 all fall into the categories below. Module 2 reports 12 after its
 fresh-eyes pass; all fall into the categories below. Module 4
 reports 18 after the fresh-eyes pass that closed the framing reading
@@ -29,10 +29,23 @@ on the framing reading; `elvis-presley`, `sam-cooke` on Track 1;
 `little-richard`, `rolling-stones` on Track 2; `james-brown` on
 Track 3; `hook`, `lauryn-hill`, `tupac-shakur`, `kendrick-lamar`,
 `black-lives-matter`, `sam-cooke`, `janelle-monae` on Track 4;
-`hook`, `beyonce` on Track 5). The M4 fresh-eyes pass cleared
-several real misses (`mobile-dj`, `indie-rock`, `paredon-records`,
-`barbara-dane`, `asian-improv-records`, `cotton-club` on the framing
-reading; `rhythm-guitar`, `pre-chorus`, `jazz`, `blues` on Track 3;
+`hook`, `beyonce` on Track 5). The M3 fresh-eyes pass cleared
+twenty-four real misses (`indigenous`, `washington-heights`,
+`joe-bataan`, `fania-all-stars`, `celia-cruz`, `frank-ocean`,
+`dembow` on the framing reading; `tito-puente`, `eddie-palmieri`,
+`hook`, `bongos`, `rhythm` on Track 1; `vibrato`, `string-section`
+on Track 2; `bb-king`, `rock-and-roll`, `eddie-palmieri`,
+`rhythm-section` on Track 3; `hook`, `rock-and-roll` on Track 4;
+`latin-jazz`, `rhythm`, `latin-soul`, `atlantic-records` on Track 5).
+The `joe-bataan` button on the framing reading is a fix for an
+audit blind spot rather than an audit-flagged miss: the audit's
+once-buttoned-on-page logic was clearing the warning because
+`joe-bataan` appears in a labels-table cell on the framing reading,
+even though the first substantive prose mention was unbuttoned.
+The M4 fresh-eyes pass cleared several real misses (`mobile-dj`,
+`indie-rock`, `paredon-records`, `barbara-dane`,
+`asian-improv-records`, `cotton-club` on the framing reading;
+`rhythm-guitar`, `pre-chorus`, `jazz`, `blues` on Track 3;
 `jazz`, `soul`, `james-brown` on Track 4); the rest are documented
 skips.
 
@@ -366,6 +379,65 @@ skips.
    convention. On Track 5 (`track5-beyonce.html`): one on
    `james-brown` matched as an inside-link first-mention via `<a
    href="track3-brown.html">James Brown</a>` per item 5 above.
+10. **Module 3 fresh-eyes pass: documented skips.** Thirty-four skips
+    across the framing reading and the five listening guides. On the
+    framing reading (`module3/roots-and-routes.html`): sixteen
+    labels-table cells per item 1 (`tex-mex`, `charanga`, `joe-cuba`,
+    `dancehall`, `emi-latin`, `tico-records`, `fania-records`,
+    `decca`, `jerry-masucci`, `q-productions`, `johnny-pacheco`,
+    `george-goldner`, `abraham-quintanilla`, plus a `tijuana`
+    wrong-sense match inside the band name "Los Tucanes de Tijuana"
+    in prose, and a `prince` wrong-sense match inside "Prince Royce"
+    in prose — the glossary entries are the city and the
+    funk/pop star respectively). One compound-already-buttoned hit
+    on `trap` per item 4 (`latin-trap` is buttoned upstream). One
+    on `form` matched as a generic-noun-sense descriptive phrase
+    in "the rumba (a percussion-and-voice form with Yoruba and
+    Bantu roots)," where `form` reads as a near-synonym for "genre"
+    rather than the methodology-frame sense (parallel to the M5
+    framing-reading `form` skip and the M1 cultural-roots
+    `texture` skip). One on `rhythm` matched in "the habanera
+    rhythm that ran through" as a descriptive-noun pattern after
+    `habanera` is buttoned upstream (compound-adjacent descriptive
+    noun, parallel to the M5 Track 3 baion-rhythm skip). One on
+    `santana-the-band` matched as a passing single-name reference
+    in "Santana 1970" inside the five-track chronology summary,
+    where `carlos-santana` is the entry being substantively used
+    on this page and is buttoned at first prose mention; the band
+    per se is substantively introduced and glossed on the Track 3
+    listening guide. One on `dominant` matched in "a country whose
+    dominant musical infrastructure has long assumed English-
+    language commercial product" (adjective sense, not the V
+    chord). One on `the-river-album` matched inside the river-as-
+    metaphor phrase "kept neatly to its own side of the river"
+    (wrong-sense, parallel to the M1 cultural-roots skip).
+    On Track 1 (`track1-puente.html`): one on `tenor` matched in
+    "Al Abreu on tenor; Pete Fanelli on alto" where the glossary
+    entry is tenor *voice* and the prose use is tenor *saxophone*
+    (wrong-sense per item 3); two inside-link first-mention hits
+    on `celia-cruz` and `james-brown` per item 5.
+    On Track 2 (`track2-bataan.html`): one on `mc` matched inside
+    "the MC mistaking the name" (the master-of-ceremonies stage MC,
+    not the hip hop MC the glossary entry covers; wrong-sense per
+    item 3); one compound-already-buttoned hit on `rhythm` inside
+    "the rhythm section (piano, bass, conga, timbales, bell)" where
+    `rhythm-section` is buttoned upstream (item 4); three inside-
+    link first-mention hits on `sam-cooke`, `celia-cruz`, and
+    `sugar-pie-desanto` per item 5.
+    On Track 3 (`track3-santana.html`): one bare-`rhythm` warning
+    that persists after `rhythm-section` was buttoned at first
+    prose mention, because the audit script's once-buttoned-on-page
+    logic doesn't reconcile the bare key with the compound key
+    (documented audit blind spot future-improvement #2).
+    On Track 4 (`track4-selena.html`): one on `rhythm` matched in
+    "the most widely played dance rhythm in Mexican popular music"
+    (descriptive-noun sense rather than the methodology-frame
+    sense); two inside-link first-mention hits on `santana-the-band`
+    and `celia-cruz` per item 5.
+    On Track 5 (`track5-tego.html`): one on `beat` matched inside
+    "a dembow programmed beat" (the modern hip-hop/reggaeton
+    producer's-track sense, not the methodology rhythmic-grid
+    sense the glossary entry covers; wrong-sense).
 
 ## Audit script future improvements
 
