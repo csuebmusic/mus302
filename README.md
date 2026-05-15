@@ -75,7 +75,7 @@ Module 1's framing reading introduces them, and each module's "what
 this module leaves out" section names where they touch the lineup.
 
 A research project runs in parallel with the modules across the term
-and is worth 40 percent of the course grade. Students research a
+and is worth 50 percent of the course grade. Students research a
 genre and a single artist or group of personal significance and
 present as a slide deck (18 to 20 slides, including title slide and
 sources slide, with up to three slides carrying embedded audio or
@@ -88,13 +88,13 @@ runs May 26 to July 31.
 
 ## Live pages
 
+- Syllabus: https://csuebmusic.github.io/mus302/syllabus.html
+- Final project: https://csuebmusic.github.io/mus302/final-project/
 - Module 1: https://csuebmusic.github.io/mus302/module1/
 - Module 2: https://csuebmusic.github.io/mus302/module2/
 - Module 3: https://csuebmusic.github.io/mus302/module3/
 - Module 4: https://csuebmusic.github.io/mus302/module4/
 - Module 5: https://csuebmusic.github.io/mus302/module5/
-- Final project: https://csuebmusic.github.io/mus302/final-project/
-- Syllabus: https://csuebmusic.github.io/mus302/syllabus.html
 
 GitHub Pages rebuilds within a minute or two of a push to `main`.
 
