@@ -13,7 +13,14 @@ The audit reports 29 warnings on Module 3 after the fresh-eyes pass;
 all fall into the categories below. Audit reports a handful more on
 Module 2; same categories. Module 4 reports 18 after the fresh-eyes
 pass that closed the framing reading and the per-track listening
-guides; all fall into the categories below. The fresh-eyes pass cleared
+guides; all fall into the categories below. Module 1 reports 11
+after its fresh-eyes pass; all fall into the categories below. The
+M1 fresh-eyes pass cleared fifteen real misses (`crooner`,
+`folk-revival`, `rock-and-roll` on the cultural-roots reading;
+`elvis-presley`, `joan-baez`, `pete-seeger`, `clyde-mcphatter` on
+Track 1; `bongos`, `bb-king`, `hector-lavoe`, `frank-sinatra` on
+Track 2; `chuck-berry`, `rock-and-roll`, `atlantic-records` on
+Track 3; `elvis-presley` on Track 4). The M4 fresh-eyes pass cleared
 several real misses (`mobile-dj`, `indie-rock`, `paredon-records`,
 `barbara-dane`, `asian-improv-records`, `cotton-club` on the framing
 reading; `rhythm-guitar`, `pre-chorus`, `jazz`, `blues` on Track 3;
@@ -292,6 +299,29 @@ skips.
    find the definition. This is a deliberate exception to the
    convention. If similar exceptions accumulate across modules the
    convention should be revisited; for now this is the only one.
+8. **Module 1 fresh-eyes pass: documented skips.** The methodology
+   reading (`module1/how-to-listen.html`) carries four skips on
+   `timbre`, `texture`, `form`, and `gesture`. The methodology
+   reading defines the four frames in extended prose and does not
+   gloss them on its own page; the surrounding prose is the
+   definition. This is a documented exception per conventions; in
+   every other listening guide the four frames are glossed on first
+   substantive mention. The cultural-roots reading
+   (`module1/cultural-roots.html`) carries four skips. One on `form`
+   matched in the everyday English compound "global art form of
+   turntablism" (the documentary-noun sense, not the methodology
+   frame). One on `texture` in "the dense texture and improvisational
+   energy of the recording," used as a descriptive English noun in a
+   framing reading rather than the methodology-frame sense the
+   listening-guide convention covers; the parallel to the methodology
+   reading's own no-gloss treatment applies here as well. One on
+   `oklahoma` matched inside the state name in "the Dust Bowl
+   movement from Oklahoma to California," where the glossary entry
+   is the 1943 musical <em>Oklahoma!</em> (wrong-sense match). One on
+   `the-river-album` matched inside the river-as-metaphor phrase
+   "the river runs through everything" in the closing paragraph,
+   where the glossary entry is the Bruce Springsteen 1980 album
+   (wrong-sense match).
 
 ## Audit script future improvements
 
