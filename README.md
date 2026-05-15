@@ -92,6 +92,7 @@ runs May 26 to July 31.
 - Module 2: https://csuebmusic.github.io/mus302/module2/
 - Module 3: https://csuebmusic.github.io/mus302/module3/
 - Module 4: https://csuebmusic.github.io/mus302/module4/
+- Module 5: https://csuebmusic.github.io/mus302/module5/
 - Final project: https://csuebmusic.github.io/mus302/final-project/
 - Syllabus: https://csuebmusic.github.io/mus302/syllabus.html
 
