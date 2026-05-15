@@ -12,10 +12,11 @@ For session-by-session work in progress, see `STATUS.md`.
 The audit reports 34 warnings on Module 3 after its fresh-eyes pass;
 all fall into the categories below. Module 2 reports 12 after its
 fresh-eyes pass; all fall into the categories below. Module 4
-reports 18 after the fresh-eyes pass that closed the framing reading
-and the per-track listening guides; all fall into the categories
-below. Module 1 reports 11 after its fresh-eyes pass; all fall into
-the categories below. The M1 fresh-eyes pass cleared fifteen real
+reports 17 after the second fresh-eyes pass that closed the
+remaining first-mention misses across the framing reading and the
+per-track listening guides; all fall into the categories below.
+Module 1 reports 11 after its fresh-eyes pass; all fall into the
+categories below. The M1 fresh-eyes pass cleared fifteen real
 misses (`crooner`, `folk-revival`, `rock-and-roll` on the
 cultural-roots reading; `elvis-presley`, `joan-baez`, `pete-seeger`,
 `clyde-mcphatter` on Track 1; `bongos`, `bb-king`, `hector-lavoe`,
@@ -42,12 +43,15 @@ audit blind spot rather than an audit-flagged miss: the audit's
 once-buttoned-on-page logic was clearing the warning because
 `joe-bataan` appears in a labels-table cell on the framing reading,
 even though the first substantive prose mention was unbuttoned.
-The M4 fresh-eyes pass cleared several real misses (`mobile-dj`,
-`indie-rock`, `paredon-records`, `barbara-dane`,
-`asian-improv-records`, `cotton-club` on the framing reading;
-`rhythm-guitar`, `pre-chorus`, `jazz`, `blues` on Track 3;
-`jazz`, `soul`, `james-brown` on Track 4); the rest are documented
-skips.
+The M4 fresh-eyes pass (combined first and second sweeps) cleared
+the following real misses. First sweep: `mobile-dj`, `indie-rock`,
+`paredon-records`, `barbara-dane`, `asian-improv-records`,
+`cotton-club` on the framing reading; `rhythm-guitar`, `pre-chorus`,
+`jazz`, `blues` on Track 3; `jazz`, `soul`, `james-brown` on Track 4.
+Second sweep: `tenement`, `japanese-breakfast`, `joan-baez`,
+`vincent-chin` on the framing reading; `vibrato`, `carole-king` on
+Track 1; `prince`, `vibrato` on Track 3; `counterpoint` on Track 4;
+`crescendo` on Track 5. The rest are documented skips.
 
 1. **Labels-table cells.** Module 2's record-labels table has four
    skipped cells (`house-band`, `w-c-handy`, `decca`, `muddy-waters`);
@@ -438,6 +442,39 @@ skips.
     "a dembow programmed beat" (the modern hip-hop/reggaeton
     producer's-track sense, not the methodology rhythmic-grid
     sense the glossary entry covers; wrong-sense).
+11. **Module 4 second fresh-eyes pass: documented skips.**
+    Seventeen skips across the framing reading and the five listening
+    guides after the second-sweep cleanup of remaining first-mention
+    misses. On the framing reading (`module4/roots-and-routes.html`):
+    one on `aacm` and one on `american-national` inside acronym-defined-
+    in-prose proper nouns per item 3; one on `dominant` matched in
+    "the dominant non-white labor force in jazz orchestras"
+    (adjective sense per item 2); one on `aapi` inside acronym-defined-
+    in-prose "'Asian or Pacific Islander' (AAPI)" per item 3; one
+    on `form` matched in "a Black-American musical form" as a
+    generic-noun-sense descriptive phrase (parallel to the M3
+    framing-reading `form` skip and the M1 cultural-roots `texture`
+    skip). On Track 1 (`track1-grain-of-sand.html`): one on `dominant`
+    in "the dominant mode in commercial folk" per item 2. On Track 2
+    (`track2-jang.html`): one on `bouncing` matched in "bouncing
+    boogie-woogie piano" and "bouncing groove" (everyday English
+    rhythmic-feel descriptive, not the multi-track tape-bouncing
+    technique the glossary entry covers; wrong-sense). On Track 3
+    (`track3-the-jets.html`): one on `dominant` in "the dominant
+    pop production aesthetic" per item 2; two inside-link first-
+    mention hits on `nobuko-miyamoto` and `sugar-pie-desanto` via
+    cross-reference links per item 5. On Track 4
+    (`track4-invisibl-skratch-piklz.html`): one on `salsa` and one
+    on `blues` matched in cross-reference comparisons to other
+    course tracks per item 5; one on `rhythm` matched inside
+    "breakbeat-derived rhythm" per item 2; one on `the-jets` and
+    one on `minneapolis-sound` as inside-link cross-references per
+    item 5; one on `horn` matched inside "horn stab" (the sample-
+    type DJ vocabulary, not the jazz/blues/R&B horn-section sense
+    the glossary entry covers; wrong-sense per item 3). On Track 5
+    (`track5-mitski.html`): one on `pop` matched inside the record-
+    label name "Sub Pop" (institutional name, parallel to the M2
+    "Rock and Roll Hall of Fame" skips; wrong-sense).
 
 ## Audit script future improvements
 
