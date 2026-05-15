@@ -26,7 +26,6 @@ happens elsewhere.
 ```
 mus302/
   syllabus.html             Live syllabus
-  syllabus.md               Markdown source for Canvas paste
   README.md                 This file
 
   assets/
