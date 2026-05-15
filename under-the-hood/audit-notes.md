@@ -241,45 +241,40 @@ skips.
    biographical paragraph, which has nothing to do with the
    Basement Workshop Asian American organization in NYC the
    glossary entry covers.
-   Module 5 Track 5 (Springsteen) carries fourteen documented
-   intentional skips. Five are wrong-sense or common-English-word
+   Module 5 Track 5 (Springsteen) carries thirteen documented
+   intentional skips. Four are wrong-sense or common-English-word
    hits in non-technical senses: `blues` ("the early blues" as a
    passing genre noun, not the technical glossary entry); `rhythm`
    ("R&B rhythm section" where `rhythm-section` is the compound
    and is buttoned elsewhere on the page); `soul` ("doo-wop and
    soul singers" as a passing genre noun, substantively covered
-   in Module 2); `punk` ("the Ramones (the punk band the framing
-   reading discussed...") as a framing-reading cross-callback in
-   a parenthetical aside; and `synthesizer` matched in the
-   reflective question's passing-list enumeration of the four
-   module threads ("Ulster Scots, Eastern European Jewish,
-   Italian-Irish-Polish urban Catholic, synthesizer pioneers"),
-   which is a passing-list reference rather than a substantive
-   first-mention. Four are framing-reading cross-callbacks where
-   the term is substantively introduced and glossed in the
-   framing reading and is being referenced on this page rather
-   than re-introduced: `scots-irish` ("the Ulster Scots ballad
-   inheritance"), `country-music` (matched inside the
-   "country-blues and country-music position" phrase explaining
-   cross-harp), `tin-pan-alley` ("the same Tin Pan Alley
-   songwriting lineage through Sinatra and Bennett" in the
+   in Module 2); and `punk` ("the Ramones (the punk band the
+   framing reading discussed...") as a framing-reading cross-
+   callback in a parenthetical aside. Four are framing-reading
+   cross-callbacks where the term is substantively introduced
+   and glossed in the framing reading and is being referenced
+   on this page rather than re-introduced: `scots-irish` ("the
+   Ulster Scots ballad inheritance"), `country-music` (matched
+   inside the "country-blues and country-music position" phrase
+   explaining cross-harp), `tin-pan-alley` ("the same Tin Pan
+   Alley songwriting lineage through Sinatra and Bennett" in the
    Module-5 closing section's three-threads-converging paragraph,
    covered in the framing reading and on multiple other listening
    guides), and `brill-building` ("the Brill Building songwriters
    who wrote for the Drifters and the other doo-wop and R&B
-   singers" in the same closing section's paragraph 3, covered
-   substantively on Track 3 and in the framing reading). Five
-   are cross-track callbacks where the named figure or band is
-   substantively introduced and glossed on their own listening
-   guide: `the-drifters` (Track 3),
-   `frankie-lymon` (Track 1), `sam-cooke` (Module 1 Track 1;
-   matched inside a passing comparison rather than an `<a href>`
-   wrap on this page), `rufus-payne` (Module 1 Track 4, where the
-   Hank Williams / Tee Tot Payne apprenticeship is substantively
-   introduced), and `deford-bailey` (a passing-list mention in
-   the African American harmonica-tradition parenthetical,
-   alongside the already-substantively-introduced Sonny Boy
-   Williamson and the un-glossed Sonny Terry).
+   singers" in the same closing section, covered substantively
+   on Track 3 and in the framing reading). Five are cross-track
+   callbacks where the named figure or band is substantively
+   introduced and glossed on their own listening guide:
+   `the-drifters` (Track 3), `frankie-lymon` (Track 1),
+   `sam-cooke` (Module 1 Track 1; matched inside a passing
+   comparison rather than an `<a href>` wrap on this page),
+   `rufus-payne` (Module 1 Track 4, where the Hank Williams /
+   Tee Tot Payne apprenticeship is substantively introduced),
+   and `deford-bailey` (a passing-list mention in the African
+   American harmonica-tradition parenthetical, alongside the
+   already-substantively-introduced Sonny Boy Williamson and
+   the un-glossed Sonny Terry).
 6. **Module 3 Track 2 (Bataan) listening-guide skips.** Four
    documented intentional skips on Track 2 itself, same patterns as
    2 and 3.
