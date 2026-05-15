@@ -68,10 +68,7 @@ Module 1, one module per week, in this order: Module 2 (African
 American foundational traditions), Module 3 (Latin diasporic
 traditions), Module 4 (Asian American traditions), Module 5
 (European American immigrant and working-class traditions). Each
-has its own deadline. Indigenous popular music and queer liberation
-run across these modules rather than living inside any one of them;
-Module 1's framing reading introduces them, and each module's "what
-this module leaves out" section names where they touch the lineup.
+has its own deadline.
 
 A research project runs in parallel with the modules across the term
 and is worth 50 percent of the course grade. Students research a
