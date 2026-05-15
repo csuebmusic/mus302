@@ -241,7 +241,7 @@ skips.
    biographical paragraph, which has nothing to do with the
    Basement Workshop Asian American organization in NYC the
    glossary entry covers.
-   Module 5 Track 5 (Springsteen) carries sixteen documented
+   Module 5 Track 5 (Springsteen) carries fourteen documented
    intentional skips. Five are wrong-sense or common-English-word
    hits in non-technical senses: `blues` ("the early blues" as a
    passing genre noun, not the technical glossary entry); `rhythm`
@@ -268,15 +268,14 @@ skips.
    guides), and `brill-building` ("the Brill Building songwriters
    who wrote for the Drifters and the other doo-wop and R&B
    singers" in the same closing section's paragraph 3, covered
-   substantively on Track 3 and in the framing reading). Seven
+   substantively on Track 3 and in the framing reading). Five
    are cross-track callbacks where the named figure or band is
    substantively introduced and glossed on their own listening
    guide: `the-drifters` (Track 3),
-   `frankie-lymon` (Track 1), `wendy-carlos` (Track 4),
-   `joan-baez` (Track 2), `sam-cooke` (Module 1 Track 1; matched
-   inside a passing comparison rather than an `<a href>` wrap on
-   this page), `rufus-payne` (Module 1 Track 4, where the Hank
-   Williams / Tee Tot Payne apprenticeship is substantively
+   `frankie-lymon` (Track 1), `sam-cooke` (Module 1 Track 1;
+   matched inside a passing comparison rather than an `<a href>`
+   wrap on this page), `rufus-payne` (Module 1 Track 4, where the
+   Hank Williams / Tee Tot Payne apprenticeship is substantively
    introduced), and `deford-bailey` (a passing-list mention in
    the African American harmonica-tradition parenthetical,
    alongside the already-substantively-introduced Sonny Boy
