@@ -241,28 +241,30 @@ skips.
    biographical paragraph, which has nothing to do with the
    Basement Workshop Asian American organization in NYC the
    glossary entry covers.
-   Module 5 Track 5 (Springsteen) carries sixteen documented
-   intentional skips. Five are wrong-sense or common-English-word
-   hits in non-technical senses: `blues` ("the early blues" as a
-   passing genre noun, not the technical glossary entry); `rhythm`
-   ("R&B rhythm section" where `rhythm-section` is the compound
-   and is buttoned elsewhere on the page); `soul` ("doo-wop and
-   soul singers" as a passing genre noun, substantively covered
-   in Module 2); `punk` ("the Ramones (the punk band the framing
-   reading discussed...") as a framing-reading cross-callback in
-   a parenthetical aside; and `synthesizer` matched in the
-   reflective question's passing-list enumeration of the four
-   module threads ("Ulster Scots, Eastern European Jewish,
-   Italian-Irish-Polish urban Catholic, synthesizer pioneers"),
-   which is a passing-list reference rather than a substantive
-   first-mention. Four are framing-reading cross-callbacks where
-   the term is substantively introduced and glossed in the
-   framing reading and is being referenced on this page rather
-   than re-introduced: `scots-irish` ("the Ulster Scots ballad
-   inheritance"), `country-music` (matched inside the
+   Module 5 Track 5 (Springsteen) carries seventeen documented
+   intentional skips. Six are wrong-sense or common-English-word
+   hits in non-technical senses: `pop` ("wrote pop singles for
+   other people's voices" as a passing genre noun in the
+   borrowed-material setup sentence, not the technical glossary
+   entry); `blues` ("the early blues" as a passing genre noun, not
+   the technical glossary entry); `rhythm` ("R&B rhythm section"
+   where `rhythm-section` is the compound and is buttoned elsewhere
+   on the page); `soul` ("doo-wop and soul singers" as a passing
+   genre noun, substantively covered in Module 2); `punk` ("the
+   Ramones (the punk band the framing reading discussed...") as a
+   framing-reading cross-callback in a parenthetical aside; and
+   `synthesizer` matched in the reflective question's passing-list
+   enumeration of the four module threads ("Ulster Scots, Eastern
+   European Jewish, Italian-Irish-Polish urban Catholic, synthesizer
+   pioneers"), which is a passing-list reference rather than a
+   substantive first-mention. Four are framing-reading cross-
+   callbacks where the term is substantively introduced and glossed
+   in the framing reading and is being referenced on this page
+   rather than re-introduced: `scots-irish` ("the Ulster Scots
+   ballad inheritance"), `country-music` (matched inside the
    "country-blues and country-music position" phrase explaining
    cross-harp), `brill-building` ("the Brill Building songwriters
-   Track 3 covered"), and `washington-heights` ("Lymon was a
+   wrote pop singles..."), and `washington-heights` ("Lymon was a
    Black thirteen-year-old in Washington Heights"). Seven are
    cross-track callbacks where the named figure or band is
    substantively introduced and glossed on their own listening
