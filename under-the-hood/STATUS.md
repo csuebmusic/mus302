@@ -63,8 +63,6 @@ Glossary at 744 entries.
 
 ## Next (in order)
 
-- **M2 discussion prompt and checkpoint quiz** still pending
-  from earlier in the build. Pattern set by M3, M4, M5.
 - **Full-repo audit pass** before public launch (hero photo
   licensing verification, placeholder href check on landing
   pages, link check across all listening guides).
@@ -82,12 +80,14 @@ YouTube card and point students at the East Side Digital reissue
 short note about why. Track is shipped on the current treatment;
 this is a flag for revisit, not a blocker.
 
-**M5 deadline collides with project Annotated Bibliography
-checkpoint.** The Module 5 quiz and discussion initial post
-both fall on Sunday June 28, which is also the project's
-Annotated Bibliography checkpoint deadline. That weekend is
-intentionally the heaviest workload of the term, but worth
-noting in case the schedule wants adjustment before launch.
+**July 5 is the heaviest workload Sunday of the term.** That
+weekend carries Module 5 discussion peer responses and the
+project proposal-and-preliminary-bibliography checkpoint at the
+same time. The June 28 weekend (M5 quiz and initial post plus
+M4 peer responses) and the July 19 weekend (project full draft)
+are also heavy but each carries a single primary deliverable.
+The July 5 stack is intentional under the current schedule, but
+worth noting in case schedule adjustments come up before launch.
 
 **Hero photo verification before public launch.** Most listening
 guides use editorial-use copyrighted photos (Getty, Michael Ochs,
