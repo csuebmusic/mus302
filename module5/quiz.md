@@ -109,28 +109,28 @@ d. Made by Robert Moog without Carlos's involvement.
 
 The Track 4 listening guide named the downstream consequence the framing reading also identified: the synthesizer-pioneer thread's most significant impact in popular music came in a specific direction. The listening guide described it as:
 
-a. The downstream adoption of the synthesizer by Black popular music from 1971 forward, naming Stevie Wonder (the run of albums from *Music of My Mind* in 1972 through *Songs in the Key of Life* in 1976), Sly and the Family Stone (*There's a Riot Goin' On*, 1971), Herbie Hancock (the Headhunters' 1973-1976 jazz-funk crossover), Bernie Worrell (Parliament-Funkadelic), and the Detroit techno pioneers (Atkins, May, Saunderson) who built the entire genre on inexpensive Roland and Korg synthesizers in a city whose Black auto-industry workforce was being hollowed out by the same deindustrialization Springsteen would be writing about on Track 5.
-b. The downstream use of the synthesizer exclusively in European art music and academic electronic music institutions.
-c. The complete commercial failure of the synthesizer after 1970.
-d. The replacement of all acoustic instruments by synthesizers in 1970s popular music.
+a. The downstream adoption of the synthesizer by Black popular music from 1971 forward, running through Stevie Wonder, Sly and the Family Stone, Herbie Hancock, and Bernie Worrell into the Detroit techno pioneers (Atkins, May, Saunderson), whose city's hollowed-out Black auto-industry workforce was being shaped by the same deindustrialization Springsteen would be writing about on Track 5.
+b. The downstream extension of the synthesizer through the late-1970s and early-1980s rock and progressive-rock scene (Pink Floyd, Yes, Genesis, Rush), which kept the instrument inside an overwhelmingly white European-American performance tradition and used it primarily as a timbral extension of the rock band.
+c. The downstream institutionalization of the synthesizer inside university electronic music studios (Columbia-Princeton, Mills, CalArts) and the academic avant-garde, where Carlos's commercial breakthrough was treated as a one-off and the instrument's serious work continued to be done by faculty composers writing for academic audiences.
+d. The downstream absorption of the synthesizer into 1970s Hollywood film scoring through composers like Jerry Goldsmith and John Williams, where the Moog and ARP were used mainly as sweetening on otherwise-orchestral scores and did not develop a distinct popular-music identity of their own.
 
 ### 11.
 
 The Track 5 listening guide on Bruce Springsteen's "The River" (1980) described the song's unusual relationship to its source. The narrator of the song is:
 
-a. Springsteen's brother-in-law Mickey Shave, narrating Mickey's own marriage to Springsteen's sister Virginia (Ginny) Springsteen, drawn directly from conversations Springsteen had with Mickey in the late 1970s; the song is unusual inside Springsteen's catalog for the directness of its source, since most of the characters on the surrounding albums are composite figures, and the "I" speaking the lyric is identified as a real person inside Springsteen's own family rather than as Springsteen himself or as a clearly fictional character.
-b. A composite figure drawn from Springsteen's reading of Steinbeck and Flannery O'Connor.
-c. An autobiographical "I" in which the narrator is Springsteen himself.
-d. A fictional Vietnam veteran with no specific real-world model.
+a. Springsteen's brother-in-law Mickey Shave, narrating his own marriage to Springsteen's sister Virginia (Ginny) Springsteen; the song is unusual inside Springsteen's catalog for the directness of its source, since most of the characters on the surrounding albums are composite figures and the "I" speaking the lyric is identified as a real person inside Springsteen's own family.
+b. A composite figure drawn from Springsteen's reading of John Steinbeck and Flannery O'Connor and from his observation of working-class New Jersey life, in the same way most of the narrators on *Darkness on the Edge of Town* (1978) and *The River* (1980) were assembled.
+c. Springsteen himself, speaking in a directly autobiographical first person about his own relationship history and his own work in central New Jersey during the recession of 1980, in the same mode as "Born to Run" or "Thunder Road" before it.
+d. A fictional construction worker named Johnny from the western Pennsylvania steel-and-coal town of Johnstown, who appears in several songs across *The River* and is referenced again on *Born in the U.S.A.*
 
 ### 12.
 
 The Track 5 listening guide described the song's relationship to Module 1's Track 4, "I'm So Lonesome I Could Cry" by Hank Williams. The relationship is:
 
-a. Direct lyrical inheritance: Williams's 1950 single "Long Gone Lonesome Blues" carries the image of going down to a river that is dry, an image Springsteen explicitly borrowed for the chorus of "The River" (and has cited as a source in interviews); the borrowing reaches across two of Module 5's threads at once (the Ulster Scots ballad lineage Williams sits inside, and the urban Catholic working-class lineage Springsteen sits inside), with the country songwriting tradition functioning as the connective tissue between them.
-b. No relationship; the two songs are unconnected.
-c. A direct cover, with Springsteen recording Williams's melody and lyrics unchanged.
-d. A purely visual parallel in the album cover art, with no musical or lyrical connection.
+a. A direct lyrical inheritance from a different Williams record: his 1950 single "Long Gone Lonesome Blues" carries the image of going down to a river that is dry, which Springsteen explicitly borrowed for the chorus of "The River" and has cited as a source; the borrowing reaches across two of Module 5's threads at once, with the country songwriting tradition functioning as the connective tissue.
+b. A shared harmonica vocabulary only: Springsteen plays in the same cross-harp position Williams used on his late-1940s recordings, but there is no lyrical or thematic borrowing between the two songs.
+c. A direct cover, with Springsteen recording Williams's melody and lyrics largely unchanged and crediting Williams as a co-writer on the published songbook of *The River*.
+d. A shared producer: both recordings were overseen by the same Nashville session-and-production team, which gives the two tracks a similar mid-century country sonic profile across the thirty-year gap that separates them.
 
 ---
 
@@ -250,34 +250,34 @@ QUESTION 10
 
 The Track 4 listening guide named the downstream consequence the framing reading also identified: the synthesizer-pioneer thread's most significant impact in popular music came in a specific direction. The listening guide described it as:
 
-The downstream adoption of the synthesizer by Black popular music from 1971 forward, naming Stevie Wonder (the run of albums from *Music of My Mind* in 1972 through *Songs in the Key of Life* in 1976), Sly and the Family Stone (*There's a Riot Goin' On*, 1971), Herbie Hancock (the Headhunters' 1973-1976 jazz-funk crossover), Bernie Worrell (Parliament-Funkadelic), and the Detroit techno pioneers (Atkins, May, Saunderson) who built the entire genre on inexpensive Roland and Korg synthesizers in a city whose Black auto-industry workforce was being hollowed out by the same deindustrialization Springsteen would be writing about on Track 5.
+The downstream adoption of the synthesizer by Black popular music from 1971 forward, running through Stevie Wonder, Sly and the Family Stone, Herbie Hancock, and Bernie Worrell into the Detroit techno pioneers (Atkins, May, Saunderson), whose city's hollowed-out Black auto-industry workforce was being shaped by the same deindustrialization Springsteen would be writing about on Track 5.
 
-The downstream use of the synthesizer exclusively in European art music and academic electronic music institutions.
+The downstream extension of the synthesizer through the late-1970s and early-1980s rock and progressive-rock scene (Pink Floyd, Yes, Genesis, Rush), which kept the instrument inside an overwhelmingly white European-American performance tradition and used it primarily as a timbral extension of the rock band.
 
-The complete commercial failure of the synthesizer after 1970.
+The downstream institutionalization of the synthesizer inside university electronic music studios (Columbia-Princeton, Mills, CalArts) and the academic avant-garde, where Carlos's commercial breakthrough was treated as a one-off and the instrument's serious work continued to be done by faculty composers writing for academic audiences.
 
-The replacement of all acoustic instruments by synthesizers in 1970s popular music.
+The downstream absorption of the synthesizer into 1970s Hollywood film scoring through composers like Jerry Goldsmith and John Williams, where the Moog and ARP were used mainly as sweetening on otherwise-orchestral scores and did not develop a distinct popular-music identity of their own.
 
 QUESTION 11
 
 The Track 5 listening guide on Bruce Springsteen's "The River" (1980) described the song's unusual relationship to its source. The narrator of the song is:
 
-Springsteen's brother-in-law Mickey Shave, narrating Mickey's own marriage to Springsteen's sister Virginia (Ginny) Springsteen, drawn directly from conversations Springsteen had with Mickey in the late 1970s; the song is unusual inside Springsteen's catalog for the directness of its source, since most of the characters on the surrounding albums are composite figures, and the "I" speaking the lyric is identified as a real person inside Springsteen's own family rather than as Springsteen himself or as a clearly fictional character.
+Springsteen's brother-in-law Mickey Shave, narrating his own marriage to Springsteen's sister Virginia (Ginny) Springsteen; the song is unusual inside Springsteen's catalog for the directness of its source, since most of the characters on the surrounding albums are composite figures and the "I" speaking the lyric is identified as a real person inside Springsteen's own family.
 
-A composite figure drawn from Springsteen's reading of Steinbeck and Flannery O'Connor.
+A composite figure drawn from Springsteen's reading of John Steinbeck and Flannery O'Connor and from his observation of working-class New Jersey life, in the same way most of the narrators on *Darkness on the Edge of Town* (1978) and *The River* (1980) were assembled.
 
-An autobiographical "I" in which the narrator is Springsteen himself.
+Springsteen himself, speaking in a directly autobiographical first person about his own relationship history and his own work in central New Jersey during the recession of 1980, in the same mode as "Born to Run" or "Thunder Road" before it.
 
-A fictional Vietnam veteran with no specific real-world model.
+A fictional construction worker named Johnny from the western Pennsylvania steel-and-coal town of Johnstown, who appears in several songs across *The River* and is referenced again on *Born in the U.S.A.*
 
 QUESTION 12
 
 The Track 5 listening guide described the song's relationship to Module 1's Track 4, "I'm So Lonesome I Could Cry" by Hank Williams. The relationship is:
 
-Direct lyrical inheritance: Williams's 1950 single "Long Gone Lonesome Blues" carries the image of going down to a river that is dry, an image Springsteen explicitly borrowed for the chorus of "The River" (and has cited as a source in interviews); the borrowing reaches across two of Module 5's threads at once (the Ulster Scots ballad lineage Williams sits inside, and the urban Catholic working-class lineage Springsteen sits inside), with the country songwriting tradition functioning as the connective tissue between them.
+A direct lyrical inheritance from a different Williams record: his 1950 single "Long Gone Lonesome Blues" carries the image of going down to a river that is dry, which Springsteen explicitly borrowed for the chorus of "The River" and has cited as a source; the borrowing reaches across two of Module 5's threads at once, with the country songwriting tradition functioning as the connective tissue.
 
-No relationship; the two songs are unconnected.
+A shared harmonica vocabulary only: Springsteen plays in the same cross-harp position Williams used on his late-1940s recordings, but there is no lyrical or thematic borrowing between the two songs.
 
-A direct cover, with Springsteen recording Williams's melody and lyrics unchanged.
+A direct cover, with Springsteen recording Williams's melody and lyrics largely unchanged and crediting Williams as a co-writer on the published songbook of *The River*.
 
-A purely visual parallel in the album cover art, with no musical or lyrical connection.
+A shared producer: both recordings were overseen by the same Nashville session-and-production team, which gives the two tracks a similar mid-century country sonic profile across the thirty-year gap that separates them.
