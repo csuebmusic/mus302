@@ -214,6 +214,13 @@ instead. Match the audience: student-facing materials read like a
 person talking to a class, internal planning documents read like
 notes between colleagues.
 
+In feedback on student work, name the strength or point directly
+rather than writing a lead-in sentence that announces an observation
+before making it (for example, "you go past just describing X and
+land on something worth sitting with"). After naming a strength,
+stop; do not add a follow-up sentence restating why it is good, hard,
+or significant.
+
 ## Decisions worth remembering
 
 Choices made across the build that are not obvious from reading
