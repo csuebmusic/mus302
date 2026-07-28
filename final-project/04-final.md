@@ -1,6 +1,6 @@
 # Final Submission (Checkpoint 4 of 4)
 
-The final graded checkpoint. Due Friday, July 31 at 11:59 PM Pacific (the last day of the term). Worth the largest share of the project grade. This is what the previous three checkpoints have been building toward.
+The final graded checkpoint. Due Sunday, August 2 at 11:59 PM Pacific. Worth the largest share of the project grade. This is what the previous three checkpoints have been building toward.
 
 Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 
@@ -66,7 +66,7 @@ Use the rubric explicitly when commenting. A short comment (two or three sentenc
 
 # PASTE INTO CANVAS BELOW THIS LINE
 
-The final submission for the project, due Friday, July 31 at 11:59 PM Pacific. The last day of the term. Full project information is at https://csuebmusic.github.io/mus302/final-project/.
+The final submission for the project, due Sunday, August 2 at 11:59 PM Pacific. Full project information is at https://csuebmusic.github.io/mus302/final-project/.
 
 What to submit
 

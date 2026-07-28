@@ -22,6 +22,24 @@ hero photos with full attribution captions.
 
 Nothing currently sitting here.
 
+## Term state (summer 2026)
+
+Final submission moved from Fri July 31 to **Sun Aug 2, 11:59 PM
+Pacific**, to match what is set in Canvas. Canvas is the operative
+deadline and cannot be changed back. Updated in `syllabus.html`
+(3 places), `final-project/index.html` (timeline step 04),
+`final-project/04-final.md` (2 places), and
+`final-project/03-peer-review.md` (revision-window reference).
+
+The final now falls two days after the last day of instruction,
+which the syllabus still gives as July 31. That is intentional and
+the "last day of the term" phrasing has been removed from the
+project pages so the two no longer contradict each other.
+
+Draft feedback written before this change refers students to
+July 31. Any comment not yet pasted into Canvas needs the date
+corrected; anything already pasted needs an announcement.
+
 ## Open
 
 **M5 Track 4 listen card points at an unauthorized YouTube

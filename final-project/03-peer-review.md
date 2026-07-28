@@ -59,7 +59,7 @@ For each of the two drafts you review, write a response that addresses all six q
 
 5. How was the cultural and historical context? Did the project connect the artist to specific communities, places, and historical conditions? Was there context you wanted more of?
 
-6. One concrete suggestion for the final revision. Pick the single most useful thing the author could do between now and July 31 to make the final stronger. This is the most important question on the form. Your suggestion should be specific enough that the author can act on it.
+6. One concrete suggestion for the final revision. Pick the single most useful thing the author could do between now and August 2 to make the final stronger. This is the most important question on the form. Your suggestion should be specific enough that the author can act on it.
 
 How this is graded
 
